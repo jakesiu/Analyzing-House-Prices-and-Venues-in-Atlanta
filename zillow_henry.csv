@@ -1,0 +1,721 @@
+price,address,bds,ba,sqft,image
+"$214,900","1005 Colvin Dr, Locust Grove, GA 30248",4,2,"2,321",https://photos.zillowstatic.com/p_e/ISzrr7htbo6u440000000000.jpg
+"$269,000","1413 New Holland Cir, Mcdonough, GA 30252",4,3,"2,448",https://photos.zillowstatic.com/p_e/ISnaese2rigc1o1000000000.jpg
+"$278,000","645 Vendella Cir #73, Mcdonough, GA 30253",5,3,"3,242",https://photos.zillowstatic.com/p_e/ISrtzknh3wdpxz0000000000.jpg
+"$226,000","3301 Hancock Point, Mcdonough, GA 30252",4,3,"2,558",https://photos.zillowstatic.com/p_e/IS7m09e9w28tzi1000000000.jpg
+"$161,000","5060 Towne Park Dr, Mcdonough, GA 30252",3,2,"1,395",https://photos.zillowstatic.com/p_e/ISnmnz7h9nzttj1000000000.jpg
+"$165,000","122 Neal Ave, Stockbridge, GA 30281",4,4,"2,136",https://photos.zillowstatic.com/p_e/IS7qv3qooe613t1000000000.jpg
+"$168,000","360 Jasmine Dr #16, Locust Grove, GA 30248",4,2,--,https://photos.zillowstatic.com/p_e/ISny88qx2c7ulm1000000000.jpg
+"$250,000","1108 Watercourse Way, Hampton, GA 30228",4,3,"3,091",https://photos.zillowstatic.com/p_e/ISzbfrjp45c1vv1000000000.jpg
+"$145,000","327 Holly Ln, Stockbridge, GA 30281",3,2,"1,299",https://photos.zillowstatic.com/p_e/ISn6z1tansrouj0000000000.jpg
+"$269,900","471 Best Friends Turn Aly, Mcdonough, GA 30252",4,3,"2,686","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$225,000","2135 Grant Ave, Mcdonough, GA 30252",5,3,"2,384","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$262,000","803 Eggie Ct, Mcdonough, GA 30252",5,3,"3,039","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$354,698","310 Traditions Ln #114, Hampton, GA 30228",5,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$367,000","125 Aubree Way, Mcdonough, GA 30252",5,4,"3,633","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$255,000","113 Micah Dr, Mcdonough, GA 30253",6,3,"3,204","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$248,700","517 Overo Dr, Mcdonough, GA 30253",4,3,"2,097","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$246,315","648 Moorings Ave, Mcdonough, GA 30253",4,3,"2,410",N/A
+"$249,570","644 Moorings Ave #186, Mcdonough, GA 30253",4,3,"2,570","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$242,000","127 Windsong Dr, Stockbridge, GA 30281",4,4,"2,443","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$249,570","644 Moorings Ave, Mcdonough, GA 30253",4,3,"2,570","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$206,000","3307 Baylor Cir, Mcdonough, GA 30253",3,2,"1,689","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$245,000","481 Walnut Creek Dr, Stockbridge, GA 30281",5,3,"2,464","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$205,000","2058 Theberton Trl #235, Locust Grove, GA 30248",3,3,"1,761","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$165,000","681 Locust Rd, Locust Grove, GA 30248",3,2,"1,599","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$205,000","2058 Theberton Trl, Locust Grove, GA 30248",3,3,"1,761","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$185,000","335 Newcastle Vis, Mcdonough, GA 30253",3,2,"1,461","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$298,760","544 Noblewood Dr #109, Mcdonough, GA 30252",5,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$247,315","505 Overo Dr, Mcdonough, GA 30253",4,3,"2,097","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$247,315","505 Overo Dr #173, Mcdonough, GA 30253",4,3,"2,097","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$298,760","544 Noblewood Dr, Mcdonough, GA 30252",5,3,"3,209","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$195,300","405 Harvick Cir, Stockbridge, GA 30281",4,3,"2,694","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$143,000","1586 Flat Rock Rd, Stockbridge, GA 30281",3,2,"1,278","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$225,445","513 Overo Dr, Mcdonough, GA 30253",4,3,"2,097","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$194,000","88 Mays Rd, Stockbridge, GA 30281",3,2,"2,248","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$165,000","226 Daisy Cir, Mcdonough, GA 30252",4,3,"2,610","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$237,500","359 Interlake Pass, Mcdonough, GA 30252",4,4,"2,917","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$286,900","1011 Bench Mark Dr, Mcdonough, GA 30252",4,3,"2,681","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$281,000","140 Clear Springs Dr LOT 13, Jackson, GA 30233",4,4,"2,574","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$163,000","571 Oak Grove Rd, Mcdonough, GA 30253",3,2,"1,450","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$138,000","904 Reda Ct, Mcdonough, GA 30253",4,3,"2,025","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$220,000","310 Royal St, Mcdonough, GA 30253",4,4,"2,620",https://photos.zillowstatic.com/p_e/ISjjimytwqzlc90000000000.jpg
+"$286,900","1011 Bench Mark Dr, Mcdonough, GA 30252",4,3,"2,681",https://photos.zillowstatic.com/p_e/IS7msediwxsjoh0000000000.jpg
+"$143,000","1586 Flat Rock Rd, Stockbridge, GA 30281",3,2,"1,278",https://photos.zillowstatic.com/p_e/IS3jbgj7fquqhg0000000000.jpg
+"$281,000","140 Clear Springs Dr LOT 13, Jackson, GA 30233",4,4,"2,574",https://photos.zillowstatic.com/p_e/IS3z3hvk0oaj0c0000000000.jpg
+"$37,500","0 Rabbit Run, Mcdonough, GA 30252",--,N/A,N/A,https://photos.zillowstatic.com/p_e/ISvw4icaqcebdp0000000000.jpg
+"$220,000","173 Oakwood Trl, Mcdonough, GA 30252",4,2,"1,884",https://photos.zillowstatic.com/p_e/IS3jnl7f9eq3t70000000000.jpg
+"$399,900","140 Arabella Pkwy #128, Locust Grove, GA 30248",4,5,--,https://photos.zillowstatic.com/p_e/ISfo3rqqf11xnm1000000000.jpg
+"$240,000","2332 Braelin Loop, Mcdonough, GA 30253",4,3,"2,910",https://photos.zillowstatic.com/p_e/ISb91g7f1agbjx1000000000.jpg
+"$155,000","460 Old Tree Dr, Jackson, GA 30233",4,2,"1,496",https://photos.zillowstatic.com/p_e/IS1v0ozsr7xc0e1000000000.jpg
+"$208,000","909 Swallowtail Vw, Stockbridge, GA 30281",4,3,"1,986","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$370,000","172 Caraway Rd, Locust Grove, GA 30248",5,4,"3,757","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$268,000","100 Sea Shore Cir, Mcdonough, GA 30252",4,3,"2,210","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$301,815","307 Niles Ct #30, Marietta, GA 30060",3,3,"1,805","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$249,500","1705 Cape Fear Way, Mcdonough, GA 30252",4,3,"3,066",N/A
+"$205,000","301 Horsehill St, Mcdonough, GA 30253",4,3,"2,570","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$395,500","412 Corriander Path, Locust Grove, GA 30248",4,3,"3,020","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$157,850","428 Buckboard Ln, Locust Grove, GA 30248",3,2,"1,528","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$800,000","1435 Pates Creek Rd, Stockbridge, GA 30281",4,5,"6,068","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$229,000","106 Springs Ct, Mcdonough, GA 30252",3,3,"2,749","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$235,000","2038 Reserve Pkwy, Mcdonough, GA 30253",4,3,"2,475","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$329,500","122 Gillson Dr, Mcdonough, GA 30253",4,3,"3,621","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$144,900","210 Melrose Way, Mcdonough, GA 30252",3,2,"1,232","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$250,000","304 Westover Ct, Mcdonough, GA 30253",4,3,"3,024","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$345,640","232 Sapphire St, Mcdonough, GA 30252",--,--,--,N/A
+"$199,900","1005 Miss Amber Way, Locust Grove, GA 30248",4,3,"2,079","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$222,000","411 Mosby Ln, Locust Grove, GA 30248",3,1,"1,689","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$170,000","1597 Queen Elizabeth Dr #13, Locust Grove, GA 30248",4,3,"1,862","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$147,500","236 Lakeview Dr, Locust Grove, GA 30248",3,2,"1,789","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$252,270","9017 Holder Rd LOT 108, Locust Grove, GA 30248",5,3,"2,525",N/A
+"$224,000","1167 Pebble Ridge Dr, Hampton, GA 30228",4,3,"3,210","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$235,000","553 Higgins Rd, Locust Grove, GA 30248",5,2,"2,103","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$394,961","230 Thyme Leaf Way, Locust Grove, GA 30248",5,4,"3,315","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$202,000","161 Parkside Dr, Stockbridge, GA 30281",3,3,"2,081","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$213,000","910 Alexander Hamilton Dr, Mcdonough, GA 30253",3,3,"2,045","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$300,000","6011 Jonathan Ln, Mcdonough, GA 30252",4,3,"2,323","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$441,000","1235 Upchurch Rd, Mcdonough, GA 30252",5,6,"4,472","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$344,900","617 Shearwater Way, Stockbridge, GA 30281",5,4,"4,049","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$344,900","904 Eskew Rd, Mcdonough, GA 30252",4,4,"3,342","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$55,000","704 Old Conyers Rd, Stockbridge, GA 30281",1,1,"1,063","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$304,000","175 Winding Stream Trl, Hampton, GA 30228",4,3,"3,245","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$344,900","617 Shearwater Way, Stockbridge, GA 30281",5,4,"4,049",https://photos.zillowstatic.com/p_e/ISzj55aqu6qz3p1000000000.jpg
+"$330,000","3075 Wood Valley Dr, Mcdonough, GA 30253",3,3,"2,280",https://photos.zillowstatic.com/p_e/IS3voqd0pryb2y1000000000.jpg
+"$145,000","106 Parkview Dr, Stockbridge, GA 30281",3,2,"1,600",https://photos.zillowstatic.com/p_e/ISrh6u9qnhqo7h0000000000.jpg
+"$202,000","161 Parkside Dr, Stockbridge, GA 30281",3,3,"2,081",https://photos.zillowstatic.com/p_e/ISz7wxwbra1g4r0000000000.jpg
+"$300,000","6011 Jonathan Ln, Mcdonough, GA 30252",4,3,"2,323",https://photos.zillowstatic.com/p_e/ISfkczzwhplsv70000000000.jpg
+"$55,000","704 Old Conyers Rd, Stockbridge, GA 30281",1,1,"1,063",https://photos.zillowstatic.com/p_e/ISb9d96363uxw21000000000.jpg
+"$188,000","325 Furrow Creek Ct, Jackson, GA 30233",5,3,"2,073",https://photos.zillowstatic.com/p_e/IS7yha05dmew291000000000.jpg
+"$88,000","170 Sherwood Loop, Mcdonough, GA 30253",3,2,"1,224",https://photos.zillowstatic.com/p_e/ISj36uruxlv18o0000000000.jpg
+"$288,000","121 E Knight Rd, Mcdonough, GA 30252",3,3,"3,120",https://photos.zillowstatic.com/p_e/IS33nmblch7ck01000000000.jpg
+"$394,961","230 Thyme Leaf Way, Locust Grove, GA 30248",5,4,"3,315","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$256,670","338 Lara Ln, Mcdonough, GA",4,3,"2,690","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$304,000","175 Winding Stream Trl, Hampton, GA 30228",4,3,"3,245","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$240,000","250 Winding Stream Trl, Hampton, GA 30228",3,3,"2,600","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$230,399","1205 Grove Pkwy #6, Jonesboro, GA 30236",4,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$246,000","1703 Snapping Shoals Rd, Mcdonough, GA 30252",1,1.5,600,N/A
+"$145,000","106 Parkview Dr #3, Stockbridge, GA 30281",3,2,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$232,500","400 Floyd Rd, Hampton, GA 30228",3,2,"2,074","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$383,890","144 Ruby Ln #138, Mcdonough, GA 30252",5,4,"4,235","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$224,900","996 Coan Dr, Locust Grove, GA 30248",3,2,"1,604","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$77,000","135 Pinehurst Dr, Stockbridge, GA 30281",3,2,"1,408","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$535,000","437 Warren Way #45, Mcdonough, GA 30252",4,5,"4,525","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$271,200","3224 Baylor Cir, Mcdonough, GA 30253",5,5,"2,680","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$354,900","609 Cozy Bay Cir, Stockbridge, GA 30281",5,4,"4,100","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$305,000","210 Timber Ridge Dr, Mcdonough, GA 30252",4,4,"3,848","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$270,500","113 Shoreline Way, Hampton, GA 30228",5,4,"2,612","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$273,000","1991 Snapping Shoals Rd, Mcdonough, GA 30252",3,2,"2,466",N/A
+"$300,000","460 Rabbit Run Rd, Mcdonough, GA 30252",3,2,"2,503","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$168,000","170 Garden Walk, Stockbridge, GA 30281",3,2,"1,267","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$249,900","6027 Jonathan Ln, Mcdonough, GA 30252",4,2,"2,243","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$222,800","560 New Morn Dr, Mcdonough, GA 30253",3,2,"1,914","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$250,000","305 Teakwood Ter, Stockbridge, GA 30281",4,3,"2,659","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$117,635","55 Pinehurst Dr, Stockbridge, GA 30281",3,2,"1,186","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$303,000","155 Westin Park Dr, Locust Grove, GA 30248",5,4,"2,906","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$172,900","220 Grove Rd, Locust Grove, GA 30248",3,2,"1,269","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$249,000","901 Parkside Place Ave, Mcdonough, GA 30253",4,3,"2,633","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$241,000","504 Gigi Ct, Mcdonough, GA 30252",4,3,"2,771","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$185,000","1280 Ohara Dr, Mcdonough, GA 30253",3,2,"1,493","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$160,000","184 Rankin Cir, Mcdonough, GA 30253",3,3,"1,502",N/A
+"$213,000","121 Harper Rd, Mcdonough, GA 30252",4,2,"1,800","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$346,500","4010 Rotterdam Pass, Hampton, GA 30228",5,3,"3,769",N/A
+"$151,500","51 Greenville Ct, Hampton, GA 30228",3,2,"1,185",https://photos.zillowstatic.com/p_e/IS3bhnaz538tao1000000000.jpg
+"$346,500","4010 Rotterdam Pass, Hampton, GA 30228",5,3,"3,769",N/A
+"$162,999","447 Grier Dr, Locust Grove, GA 30248",3,3,"1,964",https://photos.zillowstatic.com/p_e/ISzbvv1nzn0r1h1000000000.jpg
+"$235,000","933 Piedmont Dr, Locust Grove, GA 30248",6,3,"3,000",https://photos.zillowstatic.com/p_e/IS7qv7lr62ygku0000000000.jpg
+"$288,400","112 Lotus Cir, Mcdonough, GA 30252",4,3,"2,759",https://photos.zillowstatic.com/p_e/IS3niw7k6v8zpy0000000000.jpg
+"$176,000","430 Jana Ln, Mcdonough, GA 30252",3,2,"1,548",https://photos.zillowstatic.com/p_e/ISj75olm8o83h21000000000.jpg
+"$595,000","115 Glen Eagle Way, Mcdonough, GA 30253",6,7,"5,459",https://photos.zillowstatic.com/p_e/IS7qvjuqhnw3xx0000000000.jpg
+"$225,000","264 Clarkdell Dr, Stockbridge, GA 30281",3,3,"2,249",https://photos.zillowstatic.com/p_e/ISjjialbsg7gn11000000000.jpg
+"$220,000","148 Tye St, Stockbridge, GA 30281",4,4,"2,055",https://photos.zillowstatic.com/p_e/ISf0t6duscein80000000000.jpg
+"$207,000","146 Stoney Brook Way, Mcdonough, GA 30253",4,3,"1,838","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$342,000","528 Saferon Walk, Mcdonough, GA 30252",5,4,"3,579","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$244,000","3348 Alhambra Cir, Hampton, GA 30228",3,2,"2,434","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$275,000","1508 Lilli Pad Ct, Mcdonough, GA 30252",4,2,"2,772","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$344,764","794 Relic Rdg #116, Hampton, GA 30228",5,4,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$219,550","137 Magnaview Dr #76, Mcdonough, GA 30253",4,3,"2,345","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$320,500","831 Chalet Hls, Mcdonough, GA 30253",4,4,"2,983","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$169,900","113 Carols Ln, Locust Grove, GA 30248",3,2,"1,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$330,000","548 Guinevere Ct, Mcdonough, GA 30252",4,3,"3,076","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$229,990","1164 Hartwell Rd, Locust Grove, GA 30248",--,--,--,N/A
+"$120,000","428 Kendall Ln, Mcdonough, GA 30253",3,3,"1,398","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$115,000","115 Portsmouth Ave, Hampton, GA 30228",2,2,"1,288","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$85,000","121 Edwards Way, Stockbridge, GA 30281",3,2,"1,772",N/A
+"$200,000","210 Pleasant Grove Cir, Mcdonough, GA 30252",4,3,"2,060","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$295,000","141 Thicket Trl, Mcdonough, GA 30252",3,3,"2,201","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$229,990","1164 Hartwell Rd #213, Locust Grove, GA 30248",4,3,"2,253","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$335,000","329 Norway Spruce Ct, Locust Grove, GA 30248",6,5,"3,691","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$73,000","100 Lemon Pl, Mcdonough, GA 30253",3,1,960,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$173,000","540 Carlsbad Cv, Stockbridge, GA 30281",3,3,"1,611","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$215,000","2616 Highway 155 N, Mcdonough, GA 30252",6,2,"3,084","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$227,000","312 Waltrip Ct, Stockbridge, GA 30281",4,3,"2,830","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$295,000","141 Thicket Trl #21, Mcdonough, GA 30252",4,3,"2,201","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$363,500","4017 Andover Cir, Mcdonough, GA 30252",6,4,"3,801","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$195,000","624 Saint Marys Ct, Ellenwood, GA 30294",4,3,"2,799","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$222,650","756 Galveston Way #292, Mcdonough, GA 30253",4,3,"2,345","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$179,000","815 Blueberry Ln, Ellenwood, GA 30294",4,3,"1,929","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$250,115","3110 Highway 20 W, Hampton, GA 30228",3,2,"3,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$427,000","1509 Harlequin Way, Stockbridge, GA 30281",6,5,"6,142","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$183,900","156 White Mountain Pass #27, Mcdonough, GA 30252",3,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$186,000","275 Daileys Plantation Dr, Mcdonough, GA 30253",3,2,"1,773","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$200,000","383 Bandelier Cir, Hampton, GA 30228",4,3,"2,064","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$200,000","383 Bandelier Cir, Hampton, GA 30228",4,3,"2,064",https://photos.zillowstatic.com/p_e/IS37mc6nwiif160000000000.jpg
+"$199,900","306 Trail Spring Ct, Mcdonough, GA 30253",3,2,"1,515",https://photos.zillowstatic.com/p_e/ISr9stxqyl58zo0000000000.jpg
+"$214,900","601 Jeans Cir, Stockbridge, GA 30281",4,3,"3,000",https://photos.zillowstatic.com/p_e/ISvspv51698t361000000000.jpg
+"$339,900","8012 Revere Dr, Mcdonough, GA 30252",4,4,"3,538",https://photos.zillowstatic.com/p_e/ISf0lkuibde3qp0000000000.jpg
+"$279,000","304 San Anselmo St #127, Locust Grove, GA 30248",4,3,--,https://photos.zillowstatic.com/p_e/IS7qf3vvjyu49w0000000000.jpg
+"$163,000","2845 Old Jackson Rd, Locust Grove, GA 30248",3,2,"1,296",https://photos.zillowstatic.com/p_e/ISbtojps5cxmr21000000000.jpg
+"$253,900","175 Al Jennah Blvd, Locust Grove, GA 30248",4,3,"2,353",https://photos.zillowstatic.com/p_e/ISvc1ejf7giilb1000000000.jpg
+"$310,000","95 Gill Ln, Stockbridge, GA 30281",4,3,"3,906",https://photos.zillowstatic.com/p_e/ISjb89n5caj2zo0000000000.jpg
+"$680,000","343 Broadmoor Way, Mcdonough, GA 30253",6,6,"7,100",https://photos.zillowstatic.com/p_e/ISrxmxv7p2umka1000000000.jpg
+"$205,100","1755 Labonte Pkwy #53, Mcdonough, GA 30253",3,3,"2,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$274,000","1305 Pin Oak Ct, Mcdonough, GA 30252",4,3,"2,686","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$65,000","1813 Schofield Dr LOT 0, Hampton, GA 30228",1.13,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$244,560","253 Emporia Loop #469, Mcdonough, GA 30253",5,3,"2,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$220,000","97 Sowell Rd, Mcdonough, GA 30252",4,2,"2,209",N/A
+"$149,000","187 Misty Ridge Trl, Stockbridge, GA 30281",3,2,"1,220","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$269,900","133 Northtowne Cv #9, Stockbridge, GA 30281",4,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$143,500","194 Goldleaf Dr, Hampton, GA 30228",3,3,"1,694","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$238,800","771 Daileys Creek Dr, Mcdonough, GA 30253",4,3,"2,340","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$262,500","507 Morgan Ct, Hampton, GA 30228",4,4,"2,392","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$500,000","1435 Jackson Lake Rd, Jackson, GA 30233",4,3,"3,558","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$65,000","1813 Schofield Dr, Hampton, GA 30228",1.13,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$149,900","107 Jodeco Way, Stockbridge, GA 30281",3,2,"1,280",N/A
+"$184,000","151 Worthy Dr, Mcdonough, GA 30252",4,2,"1,564","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$269,900","133 Northtowne Cv, Stockbridge, GA 30281",4,3,"2,656","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$178,500","621 Jeans Cir, Stockbridge, GA 30281",3,2,"1,600","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$218,080","257 Emporia Loop #468, Mcdonough, GA 30253",3,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$214,000","126 Oakwood Trl, Mcdonough, GA 30252",3,2,"1,984","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$350,000","106 Tara Trce, Mcdonough, GA 30252",3,3,"3,141","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$332,000","316 Sonoma Ln, Mcdonough, GA 30253",5,4,"4,777","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$243,000","3228 Baylor Cir, Mcdonough, GA 30253",3,3,"1,856",N/A
+"$330,000","256 Cardell Dr, Locust Grove, GA 30248",7,4,"4,404","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$231,000","513 Wyncroft Way, Mcdonough, GA 30253",5,3,"2,591","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$227,900","193 Al Jennah Blvd, Mcdonough, GA 30248",3,3,"1,752","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$40,000","1304 Chester Pl #28, Mcdonough, GA 30252",0.75,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$100,000","136 Fairview Dr, Stockbridge, GA 30281",4,3,"2,406","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$210,000","3036 Lincoln Log Way, Mcdonough, GA 30252",4,3,"2,225","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$205,400","1805 Labonte Pkwy #48, Mcdonough, GA 30253",4,3,"1,852","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$237,500","107 Crown Springs Dr, Mcdonough, GA 30252",4,4,"3,353","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$210,000","1800 Chickory Ct, Stockbridge, GA 30281",3,2,"2,014","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$205,400","1805 Labonte Pkwy, Mcdonough, GA 30253",4,3,"1,852","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$390,000","1016 Middlebrook Dr, Mcdonough, GA 30252",4,3,"3,244",https://photos.zillowstatic.com/p_e/ISzj9whhj7e6dv1000000000.jpg
+"$329,900","224 Overland Trl, Mcdonough, GA 30252",5,4,"3,900",https://photos.zillowstatic.com/p_e/ISzj9gtvppewry0000000000.jpg
+"$489,900","1116 Eagles Brooke Dr, Locust Grove, GA 30248",5,6,"4,231",https://photos.zillowstatic.com/p_e/ISr5d3ktb9ev131000000000.jpg
+"$155,000","139 Palmetto St, Locust Grove, GA 30248",3,3,"1,706",https://photos.zillowstatic.com/p_e/ISfwtc7h1gzk3j1000000000.jpg
+"$225,000","128 Country Acres Ct, Mcdonough, GA 30253",3,3,"2,663",https://photos.zillowstatic.com/p_e/ISna62hkrf5r441000000000.jpg
+"$129,000","113 Glynn Addy Dr, Stockbridge, GA 30281",3,2,"1,162",https://photos.zillowstatic.com/p_e/ISfs2pba5yq2jz0000000000.jpg
+"$232,000","271 Grandiflora Dr, Mcdonough, GA 30253",4,3,"2,720",https://photos.zillowstatic.com/p_e/ISf8j8q0pwbfl00000000000.jpg
+"$190,000","1005 Elaine Ct, Mcdonough, GA 30252",3,2,"2,428",https://photos.zillowstatic.com/p_e/IS7il6rsuabu940000000000.jpg
+"$149,900","1755 King Mill Rd, Mcdonough, GA 30252",3,2,"1,444",https://photos.zillowstatic.com/p_e/IS7eavngk5teia0000000000.jpg
+"$176,000","213 Revolutionary Dr, Hampton, GA 30228",3,2,"1,450","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$320,000","232 Cotton Indian Creek Rd, Mcdonough, GA 30252",4,3,"3,756","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$217,000","532 Gristmill Ln, Hampton, GA 30228",4,3,"2,220","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$190,000","190 Dogwood Trail Dr, Stockbridge, GA 30281",3,2,"1,787","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$222,000","605 English Ct, Mcdonough, GA 30252",3,3,"1,869","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$179,900","265 Laney Ct, Mcdonough, GA 30252",3,3,"2,105","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$370,000","127 Jaclaire Ln, Mcdonough, GA 30252",4,4,"4,784","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$172,000","200 Hunt Ridge Dr, Stockbridge, GA 30281",4,3,"2,358","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$183,000","667 Beaver Run Trce, Mcdonough, GA 30253",5,3,"2,652","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$125,900","105 Taylor Knoll Way, Mcdonough, GA 30253",3,2,"1,219","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$42,500","1833 Rocky Creek Rd, Hampton, GA 30228",Studio,--,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$319,000","7044 Blue Sky Dr, Locust Grove, GA 30248",5,4,"3,164","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$455,000","3077 E Lake Rd, Mcdonough, GA 30252",6,4,"3,845","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$280,000","435 Salem Ridge Ct, Mcdonough, GA 30253",3,3,"2,918","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$155,000","951 King Mill Rd, Mcdonough, GA 30252",3,2,"1,191",N/A
+"$209,470","1715 Labonte Pkwy #57, Mcdonough, GA 30253",4,3,"1,976","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$215,000","408 Azure Ct, Stockbridge, GA 30281",4,3,"2,856","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$325,000","567 Flat Rock Rd, Stockbridge, GA 30281",3,3,"2,646","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$150,000","107 H Grier Dr, Mcdonough, GA 30253",4,3,"1,841","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$310,000","538 Oak Trl, Hampton, GA 30228",5,5,"2,472","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$126,000","162 Adrian Dr, Stockbridge, GA 30281",3,2,"1,190","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$166,000","150 Planters Walk, Locust Grove, GA 30248",3,2,"1,520","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$190,000","6030 Winston Trce, Mcdonough, GA 30252",5,3,"2,428","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$218,000","141 Pinnacle Ln, Mcdonough, GA 30253",2,2,"2,253",N/A
+"$159,900","105 Live Oak Dr, Jackson, GA 30233",3,2,"1,500",N/A
+"$50,000","121 Scarbrush Ct #6, Stockbridge, GA 30281",1.01,N/A,N/A,N/A
+"$256,552","484 Emporia Loop #73, Mcdonough, GA 30253",5,4,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$253,800","477 Emporia Loop #44, Mcdonough, GA 30253",5,4,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$50,000","121 Scarbrush Ct, Ellenwood, GA 30281",1.01,N/A,N/A,N/A
+"$549,900","239 Shellbark Dr, Mcdonough, GA 30252",6,6,"6,946","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$254,000","489 Emporia Loop #41, Mcdonough, GA 30253",5,4,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$209,900","136 Lantana Dr, Locust Grove, GA 30248",4,3,"2,246",https://photos.zillowstatic.com/p_e/ISzz1xpf2642yy0000000000.jpg
+"$175,000","318 Davis Rd, Locust Grove, GA 30248",3,2,"1,516",https://photos.zillowstatic.com/p_e/ISf8b2o4jqc6l20000000000.jpg
+"$230,000","611 Howell Dr, Locust Grove, GA 30248",4,3,"2,650",https://photos.zillowstatic.com/p_e/ISzztuujk99kad1000000000.jpg
+"$193,000","610 Tipperary Rd, Hampton, GA 30228",4,3,"2,045",https://photos.zillowstatic.com/p_e/ISr1yovv2tmg270000000000.jpg
+"$110,000","10 James St UNIT 11B, Hampton, GA 30228",1,1,703,N/A
+"$270,000","3601 Jodeco Rd, Jonesboro, GA 30236",3,2,"1,624",https://photos.zillowstatic.com/p_e/ISv82c3dnjfkli1000000000.jpg
+"$232,900","561 Heathmoor Dr, Mcdonough, GA 30252",3,3,"2,476",https://photos.zillowstatic.com/p_e/ISjnhstus4u8xc1000000000.jpg
+"$257,000","115 Emerald Dr, Mcdonough, GA 30253",4,4,"2,268",https://photos.zillowstatic.com/p_e/ISf0tass4mz0ps0000000000.jpg
+"$197,000","417 Legacy Way, Hampton, GA 30228",4,3,"2,814",https://photos.zillowstatic.com/p_e/IS72xcvz21bqzs0000000000.jpg
+"$342,900","117 Lone Oak Dr, Mcdonough, GA 30252",5,4,"3,231","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$300,000","115 Nobility Ln, Mcdonough, GA 30252",4,4,"3,854","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$300,000","101 Riverbend Dr, Mcdonough, GA 30252",3,2,"2,330","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$270,000","232 Sheffield Chase, Mcdonough, GA 30253",5,4,"3,715","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$285,000","8060 Coleson Xing, Locust Grove, GA 30248",--,--,--,N/A
+"$21,000","71 Highpoint Ln, Locust Grove, GA 30248",3,2,920,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$27,000","0 S Singley Dr, Locust Grove, GA 30248",--,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$173,000","351 Clover Brook Dr, Locust Grove, GA 30248",3,2,"1,500","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$327,710","92 Shenandoah Dr, Mcdonough, GA 30252",5,4,"3,166","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$362,015","307 Onyx Dr #132, Mcdonough, GA 30252",5,4,"3,836","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$238,000","284 Deodar Ln, Hampton, GA 30228",4,3,"2,015","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$253,000","497 Emporia Loop #39, Mcdonough, GA 30253",5,4,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$119,800","334 Whitaker Rd, Mcdonough, GA 30252",1,1,"1,184","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$227,000","80 Blue Smoke Trl, Hampton, GA 30228",4,3,"2,604","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$170,000","104 Creek Cove Ln, Ellenwood, GA 30294",3,2,"1,719","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$397,490","153 Delwood Dr #17, Mcdonough, GA 30252",5,4,"3,797","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$252,160","288 Deodar Ln, Hampton, GA 30228",4,3,"2,548","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$165,000","129 Country Meadows Ct, Mcdonough, GA 30252",3,2,"1,502","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$137,000","150 Pleasant Valley Rd, Mcdonough, GA 30253",3,2,"1,100","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$420,000","3006 Brush Arbor Xing, Mcdonough, GA 30252",6,5,"5,001","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$459,900","2601 Lake Erma Dr, Hampton, GA 30228",5,4,"4,295","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$215,000","215 Greenland Dr, Mcdonough, GA 30253",4,3,"2,620","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$174,000","135 Pine Tree Ln, Mcdonough, GA 30252",3,2,"1,548","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$215,000","110 Worthy Dr #39, Mcdonough, GA 30252",4,3,"2,135","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$300,000","242 Thyme Leaf Way, Locust Grove, GA 30248",4,3,"2,514","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$225,000","185 Stratford Cir, Stockbridge, GA 30281",4,3,"2,169","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$320,000","241 Thyme Leaf Way, Locust Grove, GA 30248",4,4,"2,884","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$63,000","220 Millers Mill Rd, Stockbridge, GA 30281",3,2,938,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$382,570","244 Sapphire St, Mcdonough, GA 30252",--,--,--,N/A
+"$215,000","110 Worthy Dr, Mcdonough, GA 30252",4,3,"2,135","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$184,900","419 Jeffery Dr, Locust Grove, GA 30248",4,2,"1,619","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$164,500","6 Jeriana Dr, Hampton, GA 30228",3,2,"1,517",https://photos.zillowstatic.com/p_e/IS7a7ycqrt3cgq1000000000.jpg
+"$300,000","344 Mary Dr, Mcdonough, GA 30252",4,3,"2,717",https://photos.zillowstatic.com/p_e/ISfk49ma0hlbyp1000000000.jpg
+"$248,000","552 Creek Valley Ct, Stockbridge, GA 30281",5,3,"3,061",https://photos.zillowstatic.com/p_e/ISj7lw2mbxj5hh0000000000.jpg
+"$175,500","519 Gallantry Trl, Mcdonough, GA 30252",3,2,"1,400",https://photos.zillowstatic.com/p_e/ISrpw39bo8ucp80000000000.jpg
+"$158,000","314 Wolf Creek Pl, Locust Grove, GA 30248",3,2,"1,426",N/A
+"$28,000","0 Briarwood Rd, Stockbridge, GA 30281",1.43,N/A,N/A,https://photos.zillowstatic.com/p_e/IS3fo7yt9yiy8t1000000000.jpg
+"$200,000","345 N Oakland Cir, Mcdonough, GA 30253",4,2.5,400,N/A
+"$343,990","525 Noblewood Dr #99, Mcdonough, GA 30252",5,4,"3,797",https://photos.zillowstatic.com/p_e/ISbdgqk1b3dbj71000000000.jpg
+"$120,000","103 Samanthas Way, Mcdonough, GA 30253",4,2,"1,370",https://photos.zillowstatic.com/p_e/ISrl9f7macmyw01000000000.jpg
+"$89,500","31 James St, Hampton, GA 30228",4,3,"2,400","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$201,100","130 Magnaview Dr #280, Mcdonough, GA 30253",4,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$120,000","246 Old Atlanta Rd, Stockbridge, GA 30281",3,2,"1,092","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$258,000","273 Monarch Village Way, Stockbridge, GA 30281",4,3,"2,633","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$211,000","235 Bandelier Cir, Hampton, GA 30228",4,3,"2,033","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$379,000","164 Shelton Dr, Mcdonough, GA 30252",6,4,"3,219","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$170,000","329 Clover Brook Dr, Locust Grove, GA 30248",3,2,"1,487","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$165,000","319 Wolf Creek Pl, Locust Grove, GA 30248",3,2,"1,343","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$162,500","1342 E Atlanta Rd, Stockbridge, GA 30281",3,2,"1,927","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$440,000","1050 Crown River Pkwy, Mcdonough, GA 30252",6,5,"4,800","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$225,000","937 Arbor Way, Mcdonough, GA 30253",3,2,"2,158","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$561,000","588 Harris Dr, Locust Grove, GA 30248",4,4,"3,919","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$195,000","1310 Saint Isabella Ct, Locust Grove, GA 30248",5,3,"2,459",N/A
+"$279,000","304 San Anselmo St, Locust Grove, GA 30248",4,3,"2,143","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$162,000","459 Grove Pointe Ct, Locust Grove, GA 30248",3,2,"1,431","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$35,000","1150 S Bethany Rd, Locust Grove, GA 30248",--,--,--,N/A
+"$194,900","1037 Butterfly Cove Way, Locust Grove, GA 30248",3,2,"1,952","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$231,650","314 Oak Ridge Ct, Hampton, GA 30228",4,3,"1,780","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$194,000","162 Irwin Dr, Mcdonough, GA 30252",3,2,"1,694","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$289,000","174 Gabion Loop, Ellenwood, GA 30294",5,4,"4,350","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$256,552","484 Emporia Loop, Mcdonough, GA 30253",5,4,"2,859",N/A
+"$239,900","80 Pates Lake Dr, Hampton, GA 30228",4,3,"2,294","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$19,000","40 Forest Rd, Stockbridge, GA 30281",3,1,840,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$130,000","3687 Chestnut Lake Ct, Jonesboro, GA 30236",3,3,"1,684","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$201,100","130 Magnaview Dr, Mcdonough, GA 30253",4,3,"1,747","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$265,000","62 The Farm Rd, Mcdonough, GA 30252",3,2,"2,079","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$230,000","915 Kelleytown Rd, Mcdonough, GA 30252",24.96,N/A,N/A,N/A
+"$169,000","177 Brookwood Estates Trl, Stockbridge, GA 30281",3,2,"1,663","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$335,000","6015 Jonathan Ln, Mcdonough, GA 30252",5,3,"3,536","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$509,000","211 Glen Abbey Ct, Mcdonough, GA 30253",6,6,"5,500","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$206,175","1795 Labonte Pkwy, Mcdonough, GA 30253",3,3,"1,920","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$170,000","125 Brentwood Way, Stockbridge, GA 30281",3,2,"1,638",https://photos.zillowstatic.com/p_e/IS76s7riznklx61000000000.jpg
+"$405,000","405 Young James Cir, Stockbridge, GA 30281",5,6,"6,306",https://photos.zillowstatic.com/p_e/ISfglj69oeblmo1000000000.jpg
+"$140,000","408 Paxton Ave, Mcdonough, GA 30253",3,2,"1,550",https://photos.zillowstatic.com/p_e/IS7u2s08y7nhb81000000000.jpg
+"$185,000","129 Dodgen Place Dr, Hampton, GA 30228",3,2,"1,792",https://photos.zillowstatic.com/p_e/ISfsazs82iphvn1000000000.jpg
+"$208,900","119 Saint Margrit Cir, Stockbridge, GA 30281",4,3,--,https://photos.zillowstatic.com/p_e/IS7qzyw5ca67pl1000000000.jpg
+"$222,000","43 Deer Run Ln, Mcdonough, GA 30252",3,2,"1,970",https://photos.zillowstatic.com/p_e/ISrldudso9pm1n0000000000.jpg
+"$249,000","576 Babbs Mill Rd, Hampton, GA 30228",4,3,"2,672",https://photos.zillowstatic.com/p_e/ISbh7qtqrp2fi81000000000.jpg
+"$540,000","155 Shellbark Dr, Mcdonough, GA 30252",6,5,"5,897",https://photos.zillowstatic.com/p_e/ISnyktmqbhywr60000000000.jpg
+"$218,400","108 Magnaview Dr #286, Mcdonough, GA 30253",4,3,--,https://photos.zillowstatic.com/p_e/ISv0kkfj0hscrg1000000000.jpg
+"$212,500","1104 Ola Dale Ct, Mcdonough, GA 30252",3,2,"1,830","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$220,000","204 Ermines Way, Mcdonough, GA 30253",4,3,"2,901","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$326,000","1615 Woodridge Bnd, Mcdonough, GA 30252",4,4,"3,393","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$200,000","460 Harvick Cir, Stockbridge, GA 30281",3,2.5,"2,660",N/A
+"$214,300","334 Mallie Dr, Hampton, GA 30228",6,4,"3,536",N/A
+"$218,000","2032 Theberton Trl #243, Locust Grove, GA 30248",3,3,"1,920","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$280,000","2444 Mcintosh Dr, Locust Grove, GA 30248",4,3,"3,308","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$269,000","193 Weymouth Dr, Locust Grove, GA 30248",--,--,--,N/A
+"$208,600","152 Avonwood Cir, Locust Grove, GA 30248",3,2.5,"1,855","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$218,000","2032 Theberton Trl, Locust Grove, GA 30248",3,3,"1,920","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$269,000","193 Weymouth Dr #201, Locust Grove, GA 30248",4,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$220,468","9858 Byrne Dr #85, Jonesboro, GA 30236",4,3,"2,170","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$376,270","802 Relic Rdg #118, Hampton, GA 30228",6,4,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$130,000","549 Lakecourt Dr #69, Mcdonough, GA 30253",3,2,"1,190","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$142,200","10 Brannan St, Mcdonough, GA 30253",4,3,"2,686",N/A
+"$229,499","1032 Ezekiel Way, Locust Grove, GA 30248",4,2,"2,144","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$475,000","1246 Elliott Rd, Mcdonough, GA 30252",3,3,"3,954","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$185,000","205 Edison Dr, Stockbridge, GA 30281",3,3,"1,794","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$332,900","855 Archie Dr, Mcdonough, GA 30252",4,3,"3,021","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$298,700","321 Mary Dr, Mcdonough, GA 30252",5,5,"2,956","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$253,600","396 Emporia Loop, Mcdonough, GA 30253",4,3,"2,802","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$195,000","144 Southern Magnolia Ln, Rex, GA 30273",4,3,"2,388","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$356,435","77 Shenandoah Dr, Mcdonough, GA 30252",--,--,--,N/A
+"$189,000","311 Wyldewood Dr, Mcdonough, GA 30253",3,2,"1,941","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$323,900","865 Archie Dr, Mcdonough, GA 30252",4,3,"2,959","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$295,900","2400 Honey Ct, Mcdonough, GA 30252",3,3,"2,541","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$262,000","1210 Bur Oak Ct, Mcdonough, GA 30252",3,3,"2,415","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$254,415","229 Emporia Loop #475, Mcdonough, GA 30253",4,3,"2,853","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$263,110","448 Emporia Loop #66, Mcdonough, GA 30253",5,4,"3,968","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$228,500","680 Sprayberry Dr, Stockbridge, GA 30281",4,3,"2,013","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$964,250","2725 Steele Rd, Hampton, GA 30228",2,1,"1,782",N/A
+"$140,640","4125 Emmons St, Mcdonough, GA 30253",3,2,"1,731",https://photos.zillowstatic.com/p_e/ISfojrdp7no9830000000000.jpg
+"$130,000","549 Lakecourt Dr, Mcdonough, GA 30253",3,2,"1,190",https://photos.zillowstatic.com/p_e/ISxj9sa5eo9zzq0000000000.jpg
+"$385,000","223 Ben Marttin Trl, Mcdonough, GA 30252",5,3,"3,600",N/A
+"$204,900","121 Brittany Ln, Mcdonough, GA 30252",5,3,"2,318",https://photos.zillowstatic.com/p_e/ISb17zr9vfisan0000000000.jpg
+"$290,000","514 Oak Trl, Hampton, GA 30228",5,4,"3,831",https://photos.zillowstatic.com/p_e/ISrdjh18cirnmt1000000000.jpg
+"$235,000","139 Stratmore Pl, Stockbridge, GA 30281",4,3,"3,448",https://photos.zillowstatic.com/p_e/ISnedaz6ojfqk00000000000.jpg
+"$230,000","500 Gristmill Ln, Hampton, GA 30228",5,3,"2,524",https://photos.zillowstatic.com/p_e/IS37ue9xi6rez70000000000.jpg
+"$292,713","2003 Dickons Garden Ln, Mcdonough, GA 30253",4,3,"3,497",https://photos.zillowstatic.com/p_e/ISvg8i20gttvrq1000000000.jpg
+"$237,000","334 Timeless Walk, Stockbridge, GA 30281",4,3,"2,187",https://photos.zillowstatic.com/p_e/ISrdrrao9u5ra10000000000.jpg
+"$334,900","140 Elite Way, Mcdonough, GA 30252",4,3,"2,921","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$149,900","140 Valley Rd, Stockbridge, GA 30281",3,2,"1,459","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$183,000","401 Kelleytown Woods Pkwy, Mcdonough, GA 30252",3,3,"2,066","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$277,000","430 Mcgarity Dr, Mcdonough, GA 30252",4,3,"2,383","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$178,500","780 New Morn Dr, Hampton, GA 30228",3,2,"2,072","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$217,500","1510 Lincoln Ter, Mcdonough, GA 30252",4,3,"1,825",N/A
+"$209,650","714 Galveston Way, Mcdonough, GA 30253",4,2.5,"2,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$222,650","756 Galveston Way, Mcdonough, GA 30253",4,3,"2,345","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$272,000","1030 Landmark Dr, Mcdonough, GA 30252",3,2,"2,396","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$338,000","801 Etowah Rdg, Stockbridge, GA 30281",6,4,"5,151","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$125,000","6015 Creekerton Blvd, Mcdonough, GA 30252",3,3,"1,323","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$263,110","448 Emporia Loop, Mcdonough, GA 30253",5,4,"2,968","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$292,990","1465 Gallup Dr, Stockbridge, GA 30281",5,3,"2,800","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$105,000","3905 Highway 81 W, Hampton, GA 30228",3,1,"1,294","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$335,970","1472 Harlequin Way #52, Stockbridge, GA 30281",5,5,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$332,900","855 Archie Dr #929, Mcdonough, GA 30252",4,3,"3,021","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$370,000","145 N Mill Pkwy, Stockbridge, GA 30281",6,4,"4,597",N/A
+"$254,415","229 Emporia Loop, Mcdonough, GA 30253",4,3,"2,853","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$50,000","3049 Linecrest Rd, Ellenwood, GA 30294",2,1,984,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$159,900","50 Dogwood Ln, Stockbridge, GA 30281",3,2,"1,992","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$185,000","1500 Tara Pl UNIT 609, Hampton, GA 30228",--,--,"1,248",N/A
+"$211,100","656 Sprayberry Dr, Stockbridge, GA 30281",--,--,--,N/A
+"$272,500","3028 Keeneland Blvd, Mcdonough, GA 30252",3,3,"2,328","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$276,417","2019 Dickons Garden Ln, Mcdonough, GA 30253",--,--,--,N/A
+"$209,650","741 Galveston Way #251, Mcdonough, GA 30253",4,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$107,000","704 Winbrook Dr, Mcdonough, GA 30253",4,3,"2,273","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$182,650","1032 Mcconaughy Ct, Mcdonough, GA",3,3,"1,700","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$365,000","215 Montrose Dr, Mcdonough, GA 30253",4,3,"2,800","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$239,000","677 Emporia Loop, Mcdonough, GA 30253",5,4,"3,668","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$132,000","126 Tillman Ct, Mcdonough, GA 30253",3,2,"1,076","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$323,900","865 Archie Dr #934, Mcdonough, GA 30252",4,3,"2,959","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$323,900","865 Archie Dr, Mcdonough, GA 30252",4,3,"2,959",https://photos.zillowstatic.com/p_e/IS7ui8ccjom5we0000000000.jpg
+"$222,650","756 Galveston Way, Mcdonough, GA 30253",4,3,"2,345",https://photos.zillowstatic.com/p_e/ISjrkdn7ibiao11000000000.jpg
+"$266,820","8032 Coleson Xing, Locust Grove, GA 30248",4,4,"2,812",https://photos.zillowstatic.com/p_e/ISrpo5xcowxped1000000000.jpg
+"$270,000","628 Warwick Dr, Mcdonough, GA 30253",4,3,"3,106",https://photos.zillowstatic.com/p_e/ISfs6816bwvjwc1000000000.jpg
+"$279,994","1382 Lake Dow Rd, Mcdonough, GA 30252",4,2,"1,900",https://photos.zillowstatic.com/p_e/ISj7lgyb42f6xf1000000000.jpg
+"$289,900","412 Oscar Ct, Mcdonough, GA 30252",4,3,"2,652",https://photos.zillowstatic.com/p_e/ISnq2yf7xb3lxi0000000000.jpg
+"$359,900","215 Ben Marttin Trl, Mcdonough, GA 30252",5,3,"3,202",N/A
+"$198,888","304 Nutwood Trce, Locust Grove, GA 30248",3,2.5,"1,892",https://photos.zillowstatic.com/p_e/ISjjunraej7o2h1000000000.jpg
+"$270,099","512 Mullen Ct, Locust Grove, GA",5,3,"3,113",https://photos.zillowstatic.com/p_e/IS7ydzk6yx412l0000000000.jpg
+"$368,952","112 Centerra Springs Dr, Mcdonough, GA 30253",4,2.5,"2,264","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$280,000","1056 Buckhorn Bnd, Locust Grove, GA 30248",4,3,"3,177","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$203,009","137 Avonwood Cir, Locust Grove, GA 30248",3,2.5,"1,892","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$195,785","145 Avonwood Cir, Locust Grove, GA 30248",4,2.5,"1,705","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$250,820","113 Fresh Laurel, Locust Grove, GA 30248",4,3,"2,579","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$270,099","512 Mullen Ct #213, Locust Grove, GA 30248",5,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$170,439","1835 New Orleans Way, Mcdonough, GA 30252",3,3,"1,989","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$600,959","375 Chadwick Cmns, Stockbridge, GA 30281",3,2,"1,460","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$182,500","165 Michael Ln, Mcdonough, GA 30252",3,2,"1,572","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$399,990","100 Barclay Dr, Mcdonough, GA 30252",5,3,"3,394",N/A
+"$384,740","120 Barclay Dr, Mcdonough, GA 30252",5,4,"3,602",N/A
+"$240,975","241 Emporia Loop #472, Mcdonough, GA 30253",4,3,"2,410","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$275,000","100 Country Acres Ct, Mcdonough, GA 30253",4,4,"3,818","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$363,000","380 Young James Cir, Stockbridge, GA 30281",5,4,"4,162","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$288,000","1725 Snapping Shoals Rd, Mcdonough, GA 30252",3,3,"3,222","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$110,000","820 Gardner Rd, Stockbridge, GA 30281",3,3,"1,760","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$233,984","2017 Dickons Garden Ln, Mcdonough, GA 30253",4,3,"2,449","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$240,975","241 Emporia Loop, Mcdonough, GA 30253",4,3,"2,410","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$259,900","268 Scenic Dr, Mcdonough, GA 30252",6,4,"2,492",N/A
+"$279,994","1382 Lake Dow Rd #3, Mcdonough, GA 30252",4,2,"1,900","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$600,959","941 Reda Ct, Mcdonough, GA 30253",4,3.5,"2,328","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$330,000","208 Overland Trl, Mcdonough, GA 30252",3,3,"3,716","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$600,959","150 Triple Crown Ln, Ellenwood, GA 30294",4,2,"1,858","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$182,650","1032 Mcconaughy Ct #16, Mcdonough, GA 30253",3,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$259,900","453 Trousseau Ln, Mcdonough, GA 30252",5,3,"3,659","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$350,000","412 Camberlie Cir, Mcdonough, GA 30252",4,3,"2,983","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$105,000","134 Leguin Ln, Locust Grove, GA 30248",3,2,"1,638",N/A
+"$228,990","2183 Bridgewater Pass LOT 17, Hampton, GA 30228",4,3,--,N/A
+"$120,000","1114 Palisades Dr, Ellenwood, GA 30294",3,2,"1,447","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$221,950","309 Escalade Dr, Stockbridge, GA",4,3,"2,013","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$350,000","412 Camberlie Cir #112, Mcdonough, GA 30252",4,3,"2,983","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$221,950","309 Escalade Dr, Stockbridge, GA",4,3,"2,013",https://photos.zillowstatic.com/p_e/IS7yxyto4d3kfs0000000000.jpg
+"$180,000","1100 Kramden Ct, Mcdonough, GA 30252",3,2,"1,554",https://photos.zillowstatic.com/p_e/ISj3adxqe7507s1000000000.jpg
+"$159,000","419 Chase Marion Way, Mcdonough, GA 30253",3,2,"1,435",https://photos.zillowstatic.com/p_e/ISnqyuyw12a0jh0000000000.jpg
+"$359,000","317 Young James Cir, Stockbridge, GA 30281",5,3,"3,295",https://photos.zillowstatic.com/p_e/ISfwdcku2d0ey10000000000.jpg
+"$446,500","1614 Avery Dr, Locust Grove, GA 30248",6,6,"5,454",https://photos.zillowstatic.com/p_e/ISvww3cq8mnpjf0000000000.jpg
+"$226,030","2038 Theberton Trl, Locust Grove, GA 30248",4,3,"2,361",https://photos.zillowstatic.com/p_e/ISf8j8imoehm7x0000000000.jpg
+"$288,795","8052 Coleson Xing, Locust Grove, GA 30248",5,4,"3,633",https://photos.zillowstatic.com/p_e/ISbx7521ijs3oq1000000000.jpg
+"$224,900","240 Sableshire Way, Locust Grove, GA 30248",4,3,"2,508",https://photos.zillowstatic.com/p_e/ISnud54570fwp30000000000.jpg
+"$142,000","40 Summerfield Ct, Stockbridge, GA 30281",3,2,"1,560",https://photos.zillowstatic.com/p_e/ISjbc8t4kq434f0000000000.jpg
+"$140,000","135 Lake Ter, Mcdonough, GA 30253",3,2,"1,431","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$242,000","107 Hickory Trl, Stockbridge, GA 30281",4,4,"3,228","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$56,500","634 E Mays Rd, Stockbridge, GA 30281",3,2,"1,405","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$345,000","222 Brixton Pl, Mcdonough, GA 30253",5,4,"4,172","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$314,000","1545 Lake Dow Rd, Mcdonough, GA 30252",4,3,"2,877","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$237,055","613 Sturbridge Ct, Mcdonough, GA 30253",4,3,"2,170","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$245,000","107 Willow Trce, Stockbridge, GA 30281",4,3,"3,084","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$211,990","2007 Bridgewater Pass LOT 59, Hampton, GA 30228",4,3,--,N/A
+"$310,000","100 Warbler Way #21, Stockbridge, GA 30253",5,3,"3,016","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$269,900","1209 Aviation Ct, Mcdonough, GA 30252",5,4,"3,096","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$149,900","1431 Keys Ferry Rd, Mcdonough, GA 30252",3,2,"1,152","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$185,000","95 Harris St, Mcdonough, GA 30253",3,3,"1,683","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$171,000","1529 Queen Elizabeth Dr, Locust Grove, GA 30248",4,3,"2,300","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$250,000","426 Waterfront Dr, Mcdonough, GA 30253",4,3,"2,864","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$141,000","804 Bright Morning Way, Stockbridge, GA 30281",3,2,"1,213","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$195,000","712 Fieldstream Way, Stockbridge, GA 30281",4,3,"2,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$249,000","1542 Pressley Ln, Mcdonough, GA 30253",4,3,"2,610","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$310,000","100 Warbler Way, Mcdonough, GA 30253",4,3,"3,016","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$214,900","630 Chase Ridge Dr, Mcdonough, GA 30253",3,2,"1,622","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$167,450","942 Jackson St, Locust Grove, GA 30248",4,1,"1,928","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$193,000","80 Christophers Gallop, Stockbridge, GA 30281",3,2,"1,895","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$245,000","103 Carron Ln, Stockbridge, GA 30281",2,3,"1,905","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$264,000","505 Emporia Loop #37, Mcdonough, GA 30253",5,4,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$299,900","232 Long Needle Dr #25, Mcdonough, GA 30252",4,4,"3,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$243,990","438 Fredrick Dr, Mcdonough, GA 30253",4,3,"2,356","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$400,000","128 Orchard Park Dr, Mcdonough, GA 30253",6,5,"5,644","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$269,900","144 Windward Hls, Mcdonough, GA 30253",4,3,"3,100","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$195,000","139 Cole Walk, Mcdonough, GA 30252",3,2,"1,754","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$188,700","200 White Mountain Pass #38, Mcdonough, GA 30252",3,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$217,000","222 Cameron Rd, Mcdonough, GA 30253",3,3,"2,513","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$465,000","140 Kalsum Trl, Stockbridge, GA 30294",--,--,--,N/A
+"$340,652","302 Traditions Ln #112, Hampton, GA 30228",4,4,--,https://photos.zillowstatic.com/p_e/ISvwg3ls2bqf491000000000.jpg
+"$266,500","235 Brookstone Dr, Mcdonough, GA 30252",3,2,"2,274",https://photos.zillowstatic.com/p_e/ISnu1spntjfnag1000000000.jpg
+"$269,900","144 Windward Hls, Mcdonough, GA 30253",4,3,"3,100",https://photos.zillowstatic.com/p_e/ISvkvi9dhozwdz0000000000.jpg
+"$299,900","232 Long Needle Dr #25, Mcdonough, GA 30252",4,4,"3,200",https://photos.zillowstatic.com/p_e/IS3r90wv5ii7r30000000000.jpg
+"$295,000","83 The Farm Rd, Mcdonough, GA 30252",4,3,"2,834",https://photos.zillowstatic.com/p_e/ISnepbgu6k7un10000000000.jpg
+"$243,990","438 Fredrick Dr #67, Mcdonough, GA 30253",4,3,"2,356",https://photos.zillowstatic.com/p_e/ISbtk47916t0ts1000000000.jpg
+"$235,000","132 Fashion Xing, Mcdonough, GA 30252",4,3,"2,801",N/A
+"$200,000","1048 Maple Leaf Dr, Mcdonough, GA 30253",4,3,"2,380",https://photos.zillowstatic.com/p_e/ISn678rjkjwi0c1000000000.jpg
+"$301,743","336 San Anselmo St, Locust Grove, GA 30248",--,--,--,N/A
+"$195,000","145 Thornehedge Way, Hampton, GA 30228",3,3,"1,784","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$254,900","150 Saint Margrit Cir, Stockbridge, GA 30281",--,--,--,N/A
+"$240,000","136 Fashion Xing, Mcdonough, GA 30252",5,3,"2,717","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$200,000","304 Rogers St, Mcdonough, GA 30253",Studio,--,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$289,900","173 Nobility Ln, Mcdonough, GA 30252",4,3,"2,517","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$295,000","412 Atlas Ct, Locust Grove, GA",5,3,"2,790","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$178,000","339 Higgins Rd, Locust Grove, GA 30248",3,2,"1,563","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$233,000","221 Ashley Trace Dr, Locust Grove, GA 30248",4,3,"3,018","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$210,890","2029 Theberton Trl #215, Locust Grove, GA 30248",3,3,"1,761","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$247,000","708 Gatwick Ct, Locust Grove, GA 30248",4,2,"2,205","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$210,890","2029 Theberton Trl, Locust Grove, GA 30248",3,3,"1,761","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$115,000","150 Ingrams Ln, Locust Grove, GA 30248",3,3,"1,613","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$295,000","412 Atlas Ct #222, Locust Grove, GA 30248",5,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$142,500","114 Ausband Dr #3, Mcdonough, GA 30253",2,2,"1,275","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$218,450","165 Magnaview Dr, Mcdonough, GA 30253",--,--,--,N/A
+"$170,000","500 Wyntuck Dr, Mcdonough, GA 30253",3,2,"1,516","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$372,225","308 Onyx Dr #135, Mcdonough, GA 30252",5,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$204,900","237 Fairbrook Ln, Stockbridge, GA 30281",3,3,"1,998","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$198,790","1037 Keys Ferry Rd, Mcdonough, GA 30252",3,2,"1,916","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$140,000","165 Oakland Blvd, Stockbridge, GA 30281",4,2,"2,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$460,000","360 Masters Club Blvd, Hampton, GA 30228",5,3.5,"4,116",N/A
+"$200,000","304 Rodgers St, Mcdonough, GA 30253",8,4,"2,880",N/A
+"$240,000","660 New Morn Dr, Hampton, GA 30228",3,2,"2,488",N/A
+"$194,990","256 Leland Ln, Mcdonough, GA 30253",4,2.5,"2,058","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$120,000","61 Knight Ln, Mcdonough, GA 30252",5,3,"1,560","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$334,000","357 Sonoma Ln, Mcdonough, GA 30253",5,4,"4,023","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$115,000","314 Goldenrod Dr, Stockbridge, GA 30281",3,3,"1,440","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$183,000","201 Lafayette St, Locust Grove, GA 30248",3,2,"1,620","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$450,000","109 Scarbrush Ct, Ellenwood, GA 30281",--,--,--,N/A
+"$197,025","746 Galveston Way, Mcdonough, GA 30253",3,3,"1,665","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$218,000","758 Galveston Way, Mcdonough, GA 30253",4,3,"1,995","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$460,000","360 Masters Club Blvd, Hampton, GA 30228",5,3.5,"4,116",N/A
+"$218,000","758 Galveston Way #291, Mcdonough, GA 30253",4,3,--,https://photos.zillowstatic.com/p_e/ISbdwms5669b2n1000000000.jpg
+"$197,025","746 Galveston Way, Mcdonough, GA 30253",3,3,"1,665",https://photos.zillowstatic.com/p_e/IS3zve8vwgg0uc0000000000.jpg
+"$189,900","145 Dunwick Ln, Mcdonough, GA 30253",3,2,"2,280",https://photos.zillowstatic.com/p_e/ISnain1sbcf1md0000000000.jpg
+"$218,450","165 Magnaview Dr, Mcdonough, GA 30253",--,--,--,N/A
+"$372,225","308 Onyx Dr, Mcdonough, GA 30252",5,3,--,https://photos.zillowstatic.com/p_e/ISvwwvhplvp5ox1000000000.jpg
+"$334,000","357 Sonoma Ln, Mcdonough, GA 30253",5,4,"4,023",https://photos.zillowstatic.com/p_e/ISfseeze03pt090000000000.jpg
+"$194,990","256 Leland Ln #65, Mcdonough, GA 30253",4,3,"2,058",https://photos.zillowstatic.com/p_e/IS3bdo8nqx39v20000000000.jpg
+"$329,900","221 Dupont Ct, Mcdonough, GA 30252",4,3,"2,850",https://photos.zillowstatic.com/p_e/ISvsl85m2gp70z0000000000.jpg
+"$450,000","109 Scarbrush Ct, Ellenwood, GA 30281",--,--,--,N/A
+"$240,000","660 New Morn Dr, Hampton, GA 30228",3,2,"2,488",N/A
+"$165,000","449 Gresham Dr, Stockbridge, GA 30281",3,3,"1,647","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$225,000","170 Sterling Ave, Mcdonough, GA 30252",5,3,"3,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$279,900","130 Whitaker Dr, Stockbridge, GA 30281",4,4,"4,448","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$205,000","230 Ashley Trace Dr, Locust Grove, GA 30248",3,3,756,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$219,630","2028 Theberton Trl, Locust Grove, GA 30248",4,3,"2,297","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$306,533","8037 Louis Dr, Locust Grove, GA 30248",5,3,"3,216","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$228,899","1180 Grove Pkwy #40, Jonesboro, GA 30236",3,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$325,900","222 Brookstone Dr, Mcdonough, GA 30252",5,4,"3,231","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$321,390","128 Delwood Dr, Mcdonough, GA 30252",--,--,--,N/A
+"$182,400","1030 Mcconaughy Ct, Mcdonough, GA 30253",3,3,"1,700","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$239,291","372 Emporia Loop, Mcdonough, GA 30253",4,3,"2,410","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$216,100","754 Galveston Way, Mcdonough, GA 30253",--,--,--,N/A
+"$260,300","465 Young James Cir, Stockbridge, GA 30281",4,2.5,"2,895","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$257,000","13 Tallulah Ct, Jonesboro, GA 30236",3,3,"2,258","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$334,900","210 Abner Dr, Mcdonough, GA 30252",4,3,"3,140","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$219,035","245 Emporia Loop #471, Mcdonough, GA 30253",4,3,"1,852","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$321,390","128 Delwood Dr #132, Mcdonough, GA 30252",4,4,"3,213","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$219,035","245 Emporia Loop, Mcdonough, GA 30253",4,3,"1,852","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$239,291","372 Emporia Loop LOT 332, Mcdonough, GA 30253",4,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$325,900","222 Brookstone Dr #23, Mcdonough, GA 30252",5,4,"3,231","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$178,600","242 Locust Rd, Locust Grove, GA 30248",3,2,"1,842","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$228,232","548 Rosalind Ter, Locust Grove, GA 30248",4,3,"2,824","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$229,900","503 Gordon Cv, Locust Grove, GA 30248",4,3,"1,987","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$298,400","8013 Coleson Xing, Locust Grove, GA 30248",4,3,"2,812","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$198,093","1463 Wilshire Way, Mcdonough, GA 30253",3,2,"1,520","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$305,000","1412 Woodmere Ct, Mcdonough, GA 30252",4,4,"2,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$292,630","125 Warbler Way #28, Stockbridge, GA 30253",5,3,"2,751","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$292,630","125 Warbler Way, Mcdonough, GA 30253",5,3,"2,751","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$550,000","1000 Airline Rd, Mcdonough, GA 30252",5,4,"5,220","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$305,000","1412 Woodmere Ct, Mcdonough, GA 30252",4,4,"2,200",https://photos.zillowstatic.com/p_e/IS7u2s04bxxjqp0000000000.jpg
+"$550,000","1000 Airline Rd, Mcdonough, GA 30252",5,4,"5,220",https://photos.zillowstatic.com/p_e/ISbxf3ubqyj8ku0000000000.jpg
+"$292,630","125 Warbler Way, Mcdonough, GA 30253",5,3,"2,751",https://photos.zillowstatic.com/p_e/IS7e21fb8ffppx1000000000.jpg
+"$155,000","283 Rock Crk, Stockbridge, GA 30281",3,2,"2,053",N/A
+"$198,093","1463 Wilshire Way, Mcdonough, GA 30253",3,2,"1,520",https://photos.zillowstatic.com/p_e/ISrtr2cyjsrgrp1000000000.jpg
+"$645,606","135 Summertown Dr, Stockbridge, GA 30281",3,2,"1,736",https://photos.zillowstatic.com/p_e/ISblua8v2r2elc0000000000.jpg
+"$645,606","225 Bella Vista Ter, Mcdonough, GA 30253",3,2.5,"2,181",https://photos.zillowstatic.com/p_e/IS37e21yan0d641000000000.jpg
+"$120,000","855 Tramore Dr, Stockbridge, GA 30281",3,2,"1,194",N/A
+"$193,000","381 Lossie Ln, Mcdonough, GA 30253",4,3,"1,944",https://photos.zillowstatic.com/p_e/ISn2g0c0yyvw990000000000.jpg
+"$85,000","80 Knight Dr, Mcdonough, GA 30252",3,1,"1,257",N/A
+"$232,550","652 Sprayberry Dr, Stockbridge, GA 30281",--,--,--,N/A
+"$292,000","1296 Lake Forest Ln, Mcdonough, GA 30253",3,2,"2,630","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$240,783","1025 Matthews Way, Mcdonough, GA 30252",4,2.5,"2,147","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$235,000","1584 Pressley Ln, Mcdonough, GA 30253",4,3,"2,754","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$258,950","8033 Coleson Xing, Locust Grove, GA 30248",5,3,"2,511","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$226,000","105 George St #108, Hampton, GA 30228",12,4,"5,376",N/A
+"$240,655","9866 Byrne Dr #84, Jonesboro, GA 30236",5,3,"2,511","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$250,700","457 Emporia Loop #49, Mcdonough, GA 30253",4,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$271,195","248 Paulownia Cir, Mcdonough, GA 30253",4,3,"2,622","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$185,000","209 Heritage Cir, Mcdonough, GA 30253",4,2,"1,620","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$226,990","2159 Bridgewater Pass LOT 23, Hampton, GA 30228",4,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$250,700","457 Emporia Loop, Mcdonough, GA",4,3,"2,720","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$389,900","30252-3910 3910, Mcdonough, GA 30252",--,--,--,N/A
+"$316,440","532 Noblewood Dr, Mcdonough, GA",5,5,"3,481","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$208,000","225 Dewinter Ct, Stockbridge, GA 30281",4,3,"2,580","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$220,000","528 Mckenzie Ave, Stockbridge, GA 30281",3,3,"2,624","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$225,000","832 Colwell Ln, Mcdonough, GA 30253",4,4,"2,107",N/A
+"$210,000","523 Katherines Cv, Mcdonough, GA 30253",4,2,"2,024","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$128,000","421 Tina Hely Ct, Stockbridge, GA 30281",3,2,"1,228","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$136,000","115 Collier Rd, Stockbridge, GA 30281",3,2,"1,537",N/A
+"$199,900","165 Windy Oaks Ln, Locust Grove, GA 30248",3,2,"1,880","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$230,000","546 Lakeshore Dr, Stockbridge, GA 30281",4,3,"1,761","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$202,000","4085 Mcclendon Way, Rex, GA 30273",4,3,"2,220","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$229,700","353 Winthrop Ln, Mcdonough, GA 30253",4,3,"2,604","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$241,000","624 Sedona Loop, Hampton, GA 30228",4,3,"2,543","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$429,000","224 Lassiter Dr, Ellenwood, GA 30294",4,5,"5,555","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$240,000","1403 Landon Dr, Locust Grove, GA 30248",3,3,"2,176","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$250,000","992 Buckhorn Bnd, Locust Grove, GA 30248",4,3,"3,114","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$246,900","190 Al Jennah Blvd, Locust Grove, GA 30248",4,3,"2,249","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$352,310","8020 Louis Dr #124, Locust Grove, GA 30248",5,3,"3,216","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$250,000","992 Buckhorn Bnd, Locust Grove, GA 30248",4,3,"3,114",https://photos.zillowstatic.com/p_e/ISr90kjbgvfhuf1000000000.jpg
+"$199,000","634 Hardwood Ln, Mcdonough, GA 30253",4,3,"2,132",https://photos.zillowstatic.com/p_e/ISrp07egfy3m221000000000.jpg
+"$316,440","532 Noblewood Dr #31, Mcdonough, GA 30252",5,5,--,https://photos.zillowstatic.com/p_e/ISf0xxc7hppl5z0000000000.jpg
+"$311,500","331 Thistlewood Run, Mcdonough, GA 30252",4,4,"3,100",https://photos.zillowstatic.com/p_e/IS3nys3rnpkl7h1000000000.jpg
+"$274,000","809 Nevis Way, Mcdonough, GA 30253",5,4,"2,808",https://photos.zillowstatic.com/p_e/ISnykdmrzyjdrr1000000000.jpg
+"$183,000","321 Chase Marion Way, Mcdonough, GA 30253",3,2.5,"1,910",N/A
+"$183,000","321 Chase Marion Way #6, Mcdonough, GA 30253",4,3,"1,910",https://photos.zillowstatic.com/p_e/IS7avoheik1sth0000000000.jpg
+"$372,900","136 Tumble Run, Stockbridge, GA 30281",5,4,"4,681",https://photos.zillowstatic.com/p_e/ISvgcdhz60ohbv0000000000.jpg
+"$94,990","110 Chimney Ridge Trl, Stockbridge, GA 30281",3,2,"1,598",N/A
+"$229,000","128 Fears Dr, Hampton, GA 30228",4,3,"2,513","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$404,000","955 N Ola Rd, Mcdonough, GA 30252",6,6,"4,612","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$218,200","2044 Theberton Trl, Locust Grove, GA 30248",4,3,"2,356","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$115,000","24 Woolsey Rd, Hampton, GA 30228",3,2,"1,382","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$212,000","2005 Farm Hill Ct, Stockbridge, GA 30281",4,3,"2,619","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$225,000","409 Bedford Xing, Mcdonough, GA 30253",5,3,"2,597","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$365,000","100 Geyser Pl, Stockbridge, GA 30281",3,5,"4,500","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$324,900","145 Chamlee Way, Mcdonough, GA 30252",4,4,"3,130","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$210,000","132 Lakeshore Ct, Mcdonough, GA 30252",4,2,"2,769","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$113,000","192 Madeline Ct, Mcdonough, GA 30253",3,3,"1,552","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$205,000","790 Compton Ln, Mcdonough, GA 30253",4,3,"2,681","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$251,990","8023 Orange Grove Ct #123, Locust Grove, GA 30248",5,3,"2,525","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$162,000","505 Desert Willow Cir #2, Locust Grove, GA 30248",4,2,"1,784","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$251,990","8023 Orange Grove Ct, Locust Grove, GA 30248",--,--,--,N/A
+"$156,000","213 Roberts Trl, Locust Grove, GA 30248",3,2,"1,250","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$160,000","206 Whistle Way, Locust Grove, GA 30248",3,2,"1,800","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$222,120","2025 Theberton Trl, Locust Grove, GA 30248",4,3,"2,361","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$156,000","110 Steele Branch Dr, Hampton, GA 30228",3,2,"1,204","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$7,875","S Singley Dr, Locust Grove, GA 30248",--,--,--,N/A
+"$162,000","505 Desert Willow Cir, Locust Grove, GA 30248",4,2,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$221,930","2050 Theberton Trl, Locust Grove, GA 30248",4,3,"2,356","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$284,900","520 Mullen Ct, Locust Grove, GA 30248",--,--,--,N/A
+"$365,000","973 Donegal Dr, Locust Grove, GA 30248",6,4,"3,854","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$222,120","2025 Theberton Trl #213, Locust Grove, GA 30248",4,3,"2,361","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$241,142","516 Mullen Ct, Locust Grove, GA 30248",4,3,"2,300","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$221,930","2050 Theberton Trl #236, Locust Grove, GA 30248",4,3,"2,356","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$241,142","516 Mullen Ct #212, Locust Grove, GA 30248",4,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$284,900","520 Mullen Ct #211, Locust Grove, GA 30248",4,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$160,000","236 Mandy Ct, Mcdonough, GA 30252",3,2,"1,397","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$270,000","200 Sousa Ct, Mcdonough, GA 30252",--,--,--,N/A
+"$179,900","604 Cloudland Dr, Stockbridge, GA 30281",3,2,"1,489","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$304,900","152 Janney Cir #61, Mcdonough, GA 30253",5,3,--,https://photos.zillowstatic.com/p_e/ISr94fejcoxo521000000000.jpg
+"$275,900","140 Janney Cir #58, Mcdonough, GA 30253",4,4,--,https://photos.zillowstatic.com/p_e/ISn6vqphs68nh01000000000.jpg
+"$179,900","604 Cloudland Dr, Stockbridge, GA 30281",3,2,"1,489",https://photos.zillowstatic.com/p_e/ISv8mb4l4eyx0v0000000000.jpg
+"$167,900","85 W James Cir, Hampton, GA 30228",3,2,"1,454",https://photos.zillowstatic.com/p_e/IS3bhn2t3t1t8l0000000000.jpg
+"$185,000","709 Stonehaven Chase, Mcdonough, GA 30253",3,2,"1,426",https://photos.zillowstatic.com/p_e/ISvspnbw7tqaqr1000000000.jpg
+"$468,500","119 Tasha Cir, Ellenwood, GA 30294",5,5,"3,835",https://photos.zillowstatic.com/p_e/ISj793oto671580000000000.jpg
+"$123,000","421 Kara Ln, Mcdonough, GA 30253",3,3,"1,440",https://photos.zillowstatic.com/p_e/ISrh2vz7mya39s0000000000.jpg
+"$270,000","200 Sousa Ct, Mcdonough, GA 30252",--,--,--,N/A
+"$304,900","152 Janney Cir, Mcdonough, GA 30253",5,3,"2,700",https://photos.zillowstatic.com/p_e/ISvcdv4d9n9eo21000000000.jpg
+"$275,900","140 Janney Cir, Mcdonough, GA 30253",4,4,"2,762","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$226,650","126 Magnaview Dr, Mcdonough, GA 30253",4,3,"2,345","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$226,650","126 Magnaview Dr #282, Mcdonough, GA 30253",4,3,"2,345","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$234,900","275 Sheffield Chase, Mcdonough, GA 30253",4,3,"2,567","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$251,500","8260 Knollbrook Ln #10, Mcdonough, GA 30253",3,2,"1,987","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$220,000","231 Hayes Ln, Rex, GA 30273",3,2,"2,577","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$108,000","190 Cedar Ridge Rd, Locust Grove, GA 30248",3,2,"1,242","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$289,900","104 Hilda Way, Mcdonough, GA 30252",4,3,--,N/A
+"$144,500","3090 Tussahaw Xing, Mcdonough, GA 30252",3,2.5,"1,482","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$192,000","1581 Thornwick Trce, Stockbridge, GA 30281",3,3,"1,824","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$209,470","1735 Labonte Pkwy #55, Mcdonough, GA 30253",4,3,"1,976","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$289,900","104 Hilda Way #2, Mcdonough, GA 30252",4,3,"2,653","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$270,000","200 Sousa Ct #61, Mcdonough, GA 30252",4,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$251,500","8260 Knollbrook Ln, Mcdonough, GA 30253",3,2,"1,987","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$130,000","300 Falling Timber Ct, Stockbridge, GA 30281",3,3,"1,898","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$160,000","236 Mandy Ct, Mcdonough, GA 30252",3,2,"1,397","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$321,300","1477 Gallup Dr, Stockbridge, GA 30281",5,4,"3,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$234,900","514 Katherines Cv, Mcdonough, GA 30253",3,3,"1,798","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$228,000","280 Sunderland Way, Stockbridge, GA 30281",4,3,"2,264","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$249,900","108 Saint Margrit Cir, Stockbridge, GA 30281",3,2,"2,467","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$206,000","25 Fox Run Ln, Mcdonough, GA 30253",4,3,"1,989","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$209,470","1735 Labonte Pkwy, Mcdonough, GA 30253",4,3,"1,976","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$287,000","110 Allie Dr, Mcdonough, GA 30252",3,3.5,"3,070",N/A
+"$185,000","3015 Yellow Pine Ter, Mcdonough, GA 30252",4,3,"2,292","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$175,000","60 Island Shoals Rd, Jackson, GA 30233",3,2,"1,320","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$242,055","9850 Byrne Dr, Jonesboro, GA 30236",--,--,--,N/A
+"$315,000","110 Old Virginia Cir, Jonesboro, GA 30236",4,3,"2,113","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$255,000","3212 Highway 155 N, Mcdonough, GA 30252",4,3,"2,528","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$219,900","1101 Abundance Dr, Locust Grove, GA 30248",3,2,"2,310",N/A
+"$289,900","338 Norway Spruce Ct, Locust Grove, GA 30248",5,4,"3,086","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$115,000","412 Northwind Pl, Stockbridge, GA 30281",3,2,"1,705",N/A
+"$115,000","35 Chimney Ridge Trl, Stockbridge, GA 30281",3,2,"1,567",https://photos.zillowstatic.com/p_e/ISnuhcs7cz7ume0000000000.jpg
+"$199,900","504 Daileys Creek Dr, Mcdonough, GA 30253",3,3,"1,853",https://photos.zillowstatic.com/p_e/ISfo3ftctuyt7h1000000000.jpg
+"$242,500","1106 Haver Ct, Mcdonough, GA 30252",4,3,"2,800",https://photos.zillowstatic.com/p_e/ISv8iwpsbe5lvd0000000000.jpg
+"$134,998","2 Hillside Dr, Hampton, GA 30228",3,2,"1,371",https://photos.zillowstatic.com/p_e/ISnaewl6axiysd1000000000.jpg
+"$220,000","2085 Parador Bnd, Mcdonough, GA 30253",4,3,"2,209",https://photos.zillowstatic.com/p_e/ISneh9dgxx6zpg0000000000.jpg
+"$150,000","0 Highway 81 E, Mcdonough, GA 30252",48.14,N/A,N/A,https://photos.zillowstatic.com/p_e/ISf4g7w44h9b1k0000000000.jpg
+"$150,000","2158 Highway 81 E, Mcdonough, GA 30252",3,2,"1,872",N/A
+"$115,000","130 Highland Cir, Mcdonough, GA 30253",3,2,"1,156",https://photos.zillowstatic.com/p_e/IS7mwhq185euzr1000000000.jpg
+"$235,000","1912 Stanton Way, Mcdonough, GA 30253",5,3,"2,950",N/A
+"$417,330","3009 Dawkins Lndg #2, Hampton, GA 30228",--,--,--,N/A
+"$275,490","1433 Gallup Dr LOT 246, Stockbridge, GA 30281",4,3,"2,415","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$322,400","329 Winding Stream Trl, Hampton, GA 30228",5,4,"3,283","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$312,900","219 Lotus Cir, Mcdonough, GA 30252",--,--,--,N/A
+"$295,455","143 Lotus Cir, Mcdonough, GA 30252",--,--,--,N/A
+"$185,000","50 Creekside Way, Mcdonough, GA 30252",3,2,"1,606","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$275,490","1433 Gallup Dr, Stockbridge, GA 30281",4,2,"2,410","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$80,000","2051 Snapping Shoals Rd, Mcdonough, GA 30252",3,2,"1,463",N/A
+"$199,900","244 Swem Ct, Mcdonough, GA 30253",4,3,"2,430","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$65,000","438 Acacia Dr, Stockbridge, GA 30281",3,2,960,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$217,900","5982 Highway 81 E, Mcdonough, GA 30252",3,2,"1,950","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$210,000","841 Kohl Dr, Mcdonough, GA 30253",4,3,"3,210","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$276,000","134 Walcille Ln, Mcdonough, GA 30252",4,4,"2,450","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$230,000","1077 Roanoke Ave, Mcdonough, GA 30253",4,2,"3,072","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$171,000","465 S Ola Rd, Mcdonough, GA 30252",3,2,"1,298","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$647,793","119 Al Jennah Blvd, Locust Grove, GA 30248",13,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$647,793","186 Al Jennah Blvd, Locust Grove, GA 30248",4,2.5,"2,353","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$647,793","194 Al Jennah Blvd, Locust Grove, GA 30248",4,2.5,"2,249","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$328,000","116 Whitworth Dr #19, Locust Grove, GA 30248",4,3,"3,048","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$372,500","780 Huiet Dr, Mcdonough, GA 30252",4,3,"2,561","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$164,900","141 Creek Cir, Stockbridge, GA 30281",3,2,"1,512","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$350,000","441 Young James Cir, Stockbridge, GA 30281",5,4,"4,868",N/A
+"$309,719","175 Lotus Cir, Mcdonough, GA 30252",--,--,--,N/A
+"$65,000","185 Highland Cir, Stockbridge, GA 30281",3,2,"1,752","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$201,000","1359 Worcester Trl, Mcdonough, GA 30253",3,3,"1,992","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$245,000","720 Hennepin Ter, Mcdonough, GA 30253",4,3,"3,137","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$328,000","116 Whitworth Dr, Locust Grove, GA 30248",4,3,"3,049","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$190,000","880 King Mill Rd, Mcdonough, GA 30252",3,2,"1,533","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$245,000","823 Lake Ridge Dr, Mcdonough, GA 30253",4,3,"3,389","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$65,000","125 Highland Cir, Stockbridge, GA 30281",2,2,780,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$338,000","705 Petaluma Pl, Locust Grove, GA 30248",4,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"

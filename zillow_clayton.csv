@@ -1,0 +1,761 @@
+price,address,bds,ba,sqft,image
+"$48,000","569 N Of 569 Inman Rd, Fayetteville, GA 30215",2,N/A,N/A,https://photos.zillowstatic.com/p_e/ISrpk288g0rydl0000000000.jpg
+"$850,000","3280 Bay View Dr, Jonesboro, GA 30236",5,5.5,"5,546",https://photos.zillowstatic.com/p_e/ISnm3kybwlkj1x0000000000.jpg
+"$145,700","2771 Pattie Ct, Ellenwood, GA 30294",4,3,"1,681",https://photos.zillowstatic.com/p_e/ISn20o35pvich00000000000.jpg
+"$169,900","7229 Mountain Laurel Way, Stockbridge, GA 30281",4,3,"2,244",https://photos.zillowstatic.com/p_e/ISn6viznxlsn6t0000000000.jpg
+"$110,000","7436 Grayson Dr #6, Riverdale, GA 30296",3,2,"1,440",https://photos.zillowstatic.com/p_e/ISjn1ojnbeugru1000000000.jpg
+"$200,000","3287 Jodeco Pl, Jonesboro, GA 30236",3,2,"1,633",https://photos.zillowstatic.com/p_e/ISvwwnfmzbwsf31000000000.jpg
+"$100,000","1841 Freeman Rd, Jonesboro, GA 30236",4,2,"2,039",https://photos.zillowstatic.com/p_e/ISn2goe6von8kk1000000000.jpg
+"$110,000","8475 Shiloh Ct, Jonesboro, GA 30238",4,2,950,https://photos.zillowstatic.com/p_e/ISf446jsk2xag41000000000.jpg
+"$161,000","1239 Greenwood Ln, Riverdale, GA 30296",5,3,"1,053",https://photos.zillowstatic.com/p_e/ISznwouhcl4rvo1000000000.jpg
+"$183,500","3375 Bonnes Ct, Ellenwood, GA 30294",3,3,"2,406","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$157,000","5685 Stagecoach Rd, Rex, GA 30273",3,2,"1,593",N/A
+"$139,000","2806 Woodhollow Ln, Jonesboro, GA 30236",4,2,"1,332","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$255,000","1473 Judson Way #17, Riverdale, GA 30296",4,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$116,500","6976 Maddox Rd, Morrow, GA 30260",3,2,"1,362","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$208,900","10921 Wheeler Trce, Hampton, GA 30228",3,3,"1,800","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$120,000","7682 Bernardo Dr, Riverdale, GA 30296",3,3,"1,444","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$170,250","9277 Seminole Rd, Jonesboro, GA 30236",3,2,"1,964","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$175,000","8368 Creekridge Cir, Riverdale, GA 30296",3,2,"2,168","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$140,000","6639 Bretton Ct, Rex, GA 30273",3,2,"1,800","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$165,000","3181 Chippewa Dr, Rex, GA 30273",3,3,"2,318","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$199,000","510 Dominion Ct, Hampton, GA 30228",4,3,"2,126","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$227,300","1777 Alford Dr #81, Jonesboro, GA 30236",4,3,"2,356","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$253,525","586 Toronto Cir #111, Hampton, GA 30228",5,3,"2,747","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$118,000","766 Pineridge Dr, Forest Park, GA 30297",3,2,"1,088","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$180,000","9700 Brown Rd, Jonesboro, GA 30238",4,3,"1,888","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$169,000","1906 Portwest Way, Hampton, GA 30228",4,3,"2,024","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$253,525","586 Toronto Cir, Hampton, GA 30228",5,3,"2,747","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$80,000","2591 Old South Ct, Jonesboro, GA 30236",5,3,"1,138","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$99,000","8113 Woodlake Dr, Riverdale, GA 30274",2,3,"1,472","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$190,000","11979 Lovejoy Crossing Pl #108, Hampton, GA 30228",3,6,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$205,500","7615 Pine Gables Dr, Riverdale, GA 30296",4,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$155,000","9087 Endicott Pl, Jonesboro, GA 30236",3,2,"1,624","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$205,500","7627 Pine Gables Dr #15, Riverdale, GA 30296",4,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$236,000","11669 New Hope Rd, Hampton, GA 30228",3,3,"2,692","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$205,500","7615 Pine Gables Dr #13, Riverdale, GA 30296",4,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$110,000","7041 Babbling Brook Dr, Rex, GA 30273",4,3,"2,559","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$139,900","2118 4th Ave, Morrow, GA 30260",3,2,936,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$172,000","1070 Forest Gln, Jonesboro, GA 30238",3,3,"2,102","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$179,000","8011 Autumn Forest Dr, Jonesboro, GA 30236",3,3,"2,114","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$181,000","1798 Sandy Trail Dr, Hampton, GA 30228",4,3,"2,002","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$120,000","410 Eagles Flight Ln, Riverdale, GA 30274",3,2,"1,334",https://photos.zillowstatic.com/p_e/ISnquz7053t6zn1000000000.jpg
+"$152,000","354 River Chase Dr, Jonesboro, GA 30238",3,2,"1,676",https://photos.zillowstatic.com/p_e/ISvsp3sjlh3fz20000000000.jpg
+"$206,290","11958 Lovejoy Crossing Way, Hampton, GA 30228",4,3,"1,976",https://photos.zillowstatic.com/p_e/ISrlhlhwk9jwio0000000000.jpg
+"$290,975","391 Layfield Dr #1, Jonesboro, GA 30238",6,4,"2,506",https://photos.zillowstatic.com/p_e/ISvgg4p60bjl1z0000000000.jpg
+"$290,975","391 Layfield Dr, Jonesboro, GA 30238",5,4,"2,506",https://photos.zillowstatic.com/p_e/ISrxqojbmmpnp00000000000.jpg
+"$234,575","489 Jefferson Chase St #3205, Atlanta, GA 30354",3,3,"1,891",https://photos.zillowstatic.com/p_e/ISjb0r3s3trm651000000000.jpg
+"$139,900","2118 4th Ave, Morrow, GA 30260",3,2,936,https://photos.zillowstatic.com/p_e/IS7m0tdierf91g1000000000.jpg
+"$181,000","1798 Sandy Trail Dr, Hampton, GA 30228",4,3,"2,002",https://photos.zillowstatic.com/p_e/ISrxy2s1ya3v3a0000000000.jpg
+"$83,000","4530 Pine Dr, Forest Park, GA 30297",4,1,"1,152",https://photos.zillowstatic.com/p_e/ISnu1kfqq6bjr91000000000.jpg
+"$88,000","385 Greenhill Way, Forest Park, GA 30297",3,2,"1,080","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$214,900","1502 Bogota Way, Jonesboro, GA 30236",4,3,"1,994","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$172,000","1070 Forest Gln, Jonesboro, GA 30238",3,3,"2,102","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$98,500","827 Dennis Dr, Forest Park, GA 30297",3,1,792,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$207,990","11958 Lovejoy Crossing Way #59, Hampton, GA 30228",4,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$205,405","2620 Lovejoy Crossing Dr #189, Hampton, GA 30228",4,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$239,900","8354 Carlton Rd, Riverdale, GA 30296",4,3,"3,060","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$178,900","5600 Grande River Rd, College Park, GA 30349",3,3,"2,204","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$80,000","8079 Attleboro Dr, Jonesboro, GA 30238",3,1,"1,040","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$120,000","302 Essex Dr, Jonesboro, GA 30238",3,2,"1,040","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$179,900","1352 Creekview Cir, Riverdale, GA 30296",4,3,"2,407","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$100,000","9220 Homewood Dr, Riverdale, GA 30274",3,3,"1,516","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$380,500","2726 Jodeco Cir, Jonesboro, GA 30236",4,4,"3,351","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$121,000","10375 Surf Ct, Jonesboro, GA 30238",3,2,"1,273","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$185,000","10541 Sourwood Ct, Jonesboro, GA 30238",4,3,"2,265","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$278,885","610 Toronto Cir, Hampton, GA 30228",5,4,"3,166","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$72,000","4546 Richard Rd, Conley, GA 30288",3,2,"1,026","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$125,000","6576 Bent Creek Dr, Rex, GA 30273",3,2,"1,199","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$145,000","5721 Sandhurst Dr, Forest Park, GA 30297",4,2,"1,674","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$115,000","385 Martin Dr, Jonesboro, GA 30238",3,2,"1,304","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$180,000","1451 Trafalgar Way, Hampton, GA 30228",4,3,"1,035","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$150,000","5707 Rex Mill Crk, Rex, GA 30273",3,3,"1,136","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$177,000","9531 Deer Crossing Trce, Jonesboro, GA 30236",4,3,"1,875","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$240,710","682 Muscadine Ln, Jonesboro, GA 30238",--,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$162,000","6361 Clearbrook Dr, Morrow, GA 30260",4,3,"1,951","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$90,000","6744 River Road Ct, Jonesboro, GA 30236",3,2,"1,275","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$101,000","6055 Deerfield Ct, Morrow, GA 30260",3,1,"1,032","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$177,000","5782 Colonnade Dr, Rex, GA 30273",4,3,"2,222","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$160,000","8323 Taylor Rd, Riverdale, GA 30274",3,3,"1,626","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$230,255","485 Jefferson Chase St #3203, Atlanta, GA 30354",3,3,"1,891","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$190,000","555 Jake Trl, Jonesboro, GA 30238",4,3,"2,702","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$139,900","6836 Maddox Rd, Morrow, GA 30260",3,2,"1,450",https://photos.zillowstatic.com/p_e/ISv4frookpgjrh1000000000.jpg
+"$101,000","6055 Deerfield Ct, Morrow, GA 30260",3,1,"1,032",https://photos.zillowstatic.com/p_e/ISr9gwfxtqebn40000000000.jpg
+"$230,255","485 Jefferson Chase St #3203, Atlanta, GA 30354",3,3,"1,891",https://photos.zillowstatic.com/p_e/ISbhfcs28rjc5o1000000000.jpg
+"$228,090","12229 Shelby Ct, Hampton, GA 30228",4,3,"2,363",https://photos.zillowstatic.com/p_e/IS7uqmw7becktn1000000000.jpg
+"$155,000","6028 Navaho Trl, Morrow, GA 30260",4,4,"2,432",https://photos.zillowstatic.com/p_e/ISnmravtoxl3ls0000000000.jpg
+"$139,900","5417 Sycamore Cir, Forest Park, GA 30297",3,1,974,https://photos.zillowstatic.com/p_e/ISzv6iejhg2l9j1000000000.jpg
+"$108,000","5217 Kirk Dr, College Park, GA 30349",4,3,"1,488",https://photos.zillowstatic.com/p_e/ISjv3rx8l8rmoc0000000000.jpg
+"$99,000","981 Astor Ave, Forest Park, GA 30297",3,3,"1,557",https://photos.zillowstatic.com/p_e/ISv8q20vboouj40000000000.jpg
+"$108,000","735 S Carter Dr, Jonesboro, GA 30236",4,2,"1,658",https://photos.zillowstatic.com/p_e/ISf8f1as4wcjmu1000000000.jpg
+"$190,000","9725 Silverstone Ct, Jonesboro, GA 30238",4,3,"2,222","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$170,000","7535 Palmetto Way, Riverdale, GA 30274",5,2,"1,939","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$229,129","340 Layfield Dr, Jonesboro, GA 30238",3,3,"2,235","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$229,900","1795 Deer Crossing Cir, Jonesboro, GA 30236",5,3,"2,778","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$155,000","2885 Medina Dr, Jonesboro, GA 30236",3,2,"1,344","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$168,000","7315 Williamsburg Dr, Riverdale, GA 30274",3,3,"1,798","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$75,879","1110 Tanglewood Rd, Jonesboro, GA 30236",4,2,"1,178","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$167,000","1206 Village Path, Jonesboro, GA 30238",3,2,"1,817","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$50,000","4124 Murray Lake Cir, Forest Park, GA 30297",3,2,"1,003","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$241,000","12000 Turner Rd, Hampton, GA 30228",3,3,"2,906","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$179,000","12827 Dolphin Point, Hampton, GA 30228",4,3,"2,027","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$60,000","12122 Edgewater Dr, Hampton, GA 30228",1.92,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$138,000","363 E Downing Ct, Jonesboro, GA 30238",3,3,"1,118","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$172,000","11941 Harbour Town Pkwy, Fayetteville, GA 30215",4,3,"1,769","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$77,000","842 Oak Dr, Riverdale, GA 30274",3,2,"1,075","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$60,000","12122 Edgewater Dr #15, Hampton, GA 30228",1.92,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$220,000","4359 Goldleaf Ter, Rex, GA 30273",4,3,"2,449","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$160,500","3643 Charlotte Dr, Rex, GA 30273",3,2,"1,378","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$122,500","6197 Fieldcrest Dr, Morrow, GA 30260",3,2,"1,132","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$183,000","1590 Chattahoochee Ct, College Park, GA 30349",4,3,"2,165","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$182,900","2571 Rosecommons Dr, Hampton, GA 30228",3,3,"1,258","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$175,900","1834 Coventry Way, Jonesboro, GA 30236",4,3,"2,144","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$94,000","1786 Glen View Way, Hampton, GA 30228",2,2,"1,228","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$175,000","11628 Flemming Ct, Hampton, GA 30228",3,3,1,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$112,000","701 Georgetown Ln, Jonesboro, GA 30236",3,3,"1,568","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$16,500","11507 Summer Trce, Hampton, GA 30228",--,--,--,N/A
+"$165,000","3930 Alderwoods Dr, Jonesboro, GA 30236",4,3,"1,864","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$120,000","212 Scarsdale Dr, Riverdale, GA 30274",4,2,"1,735","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$104,900","3211 Creekwood Dr, Rex, GA 30273",3,2,"1,495","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$225,000","2445 Greenfield Ln, Jonesboro, GA 30236",3,3,"2,249","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$132,000","2086 Old Rex Morrow Rd, Morrow, GA 30260",3,2,"1,640","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$147,900","10443 Tobano Trl, Jonesboro, GA 30238",4,2,"1,234",https://photos.zillowstatic.com/p_e/IS7ip94kop4pmh0000000000.jpg
+"$225,000","2445 Greenfield Ln, Jonesboro, GA 30236",3,3,"2,249",https://photos.zillowstatic.com/p_e/ISjfvpm70b22f60000000000.jpg
+"$225,990","676 Muscadine Ln LOT 4, Jonesboro, GA 30238",4,3,--,https://photos.zillowstatic.com/p_e/ISf0l8lvptcrwb0000000000.jpg
+"$195,000","7497 Petunia Dr, Riverdale, GA 30296",5,3,"2,698",https://photos.zillowstatic.com/p_e/ISrlte8e7waolj1000000000.jpg
+"$200,000","655 Millstone Dr, Jonesboro, GA 30238",6,4,"4,057",https://photos.zillowstatic.com/p_e/ISf87n5phrgn3o0000000000.jpg
+"$145,000","8534 Avalon Dr, Riverdale, GA 30274",4,2,"1,924",https://photos.zillowstatic.com/p_e/ISr1i84z8czkao1000000000.jpg
+"$149,900","10381 Ivygate Ave, Jonesboro, GA 30238",3,2,"1,474",https://photos.zillowstatic.com/p_e/ISz39htmu6dp651000000000.jpg
+"$143,025","1657 Highway 138 E, Jonesboro, GA 30236",3,2,"1,258",https://photos.zillowstatic.com/p_e/ISbxfza667gked1000000000.jpg
+"$144,000","6188 Continental Cir, Morrow, GA 30260",4,--,"1,884",https://photos.zillowstatic.com/p_e/ISvsty6fdmgm5x0000000000.jpg
+"$209,900","1906 Sandy Trail Dr, Hampton, GA 30228",4,3,"2,877","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$143,000","10777 Knotty Pine Pl, Hampton, GA 30228",3,2,"1,434","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$179,900","6186 Culver Dr, Morrow, GA 30260",3,2,"1,600","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$134,400","8062 Linda Ct, Jonesboro, GA 30238",3,2,"1,396","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$212,000","2018 Spivey Village Dr, Jonesboro, GA 30236",4,3,"2,066","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$188,000","5851 Sunflower Ct, Ellenwood, GA 30294",4,3,"1,982","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$145,000","10435 Tobano Trl, Jonesboro, GA 30238",3,3,"1,710","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$96,500","4628 City View Dr, Forest Park, GA 30297",2,1,720,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$114,000","687 Georgetown Ln, Jonesboro, GA 30236",3,3,"1,568","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$155,000","5820 Meadow Ln, Rex, GA 30273",3,2,"1,862","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$130,000","6988 Sun Valley Way, Riverdale, GA 30274",3,2,"1,480","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$175,000","668 Swamp Creek Dr, Jonesboro, GA 30238",4,2,"1,778","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$135,000","6520 King William Dr, Morrow, GA 30260",3,3,"1,851","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$180,000","11801 Fairway Overlook, Fayetteville, GA 30215",3,3,"1,704","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$185,000","6043 Heisler St, Rex, GA 30273",3,3,"1,808","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.50M,"3040 Emerald Dr, Jonesboro, GA 30236",5,7,"5,335","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$220,000","3224 Rex Ridge Dr, Rex, GA 30273",4,3,"2,678",N/A
+"$158,000","3236 Poplar Ridge Dr, Rex, GA 30273",3,2,"1,444","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$165,000","151 Carolinas Way, Fayetteville, GA 30215",4,3,"3,124","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$222,895","7845 Waterwheel Way #80, Jonesboro, GA 30238",4,3,"2,720","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$130,000","1282 Morrow Rd, Morrow, GA 30260",2,3,"1,978","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$155,400","7707 Kennington Ln, Jonesboro, GA 30236",3,2,"1,594","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$88,000","465 Pinecrest Dr, Riverdale, GA 30274",3,2,"1,066","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$154,000","10972 Big Sky Dr, Hampton, GA 30228",3,2,"1,726","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$185,000","11817 Lovejoy Crossing Blvd #0, Hampton, GA 30228",3,3,"1,872","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$150,000","7165 Fielder Rd, Jonesboro, GA 30236",3,2,"1,352","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$205,000","4164 Village Crossing Cir, Ellenwood, GA 30294",3,2,"1,985","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$135,000","2853 Heather Ridge Ln, Jonesboro, GA 30236",3,3,"1,516","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$144,000","7169 Chestnut Ln, Riverdale, GA 30274",3,2,"1,463","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$185,000","11817 Lovejoy Crossing Blvd, Hampton, GA 30228",3,2.5,936,N/A
+"$155,000","1477 Emily Ct, Riverdale, GA 30296",4,2,"1,796","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$185,000","6504 Lynndale Ln, Morrow, GA 30260",3,3,"2,108",https://photos.zillowstatic.com/p_e/ISjzuygvswly530000000000.jpg
+"$185,000","11817 Lovejoy Crossing Blvd, Hampton, GA 30228",3,2.5,936,N/A
+"$144,000","7169 Chestnut Ln, Riverdale, GA 30274",3,2,"1,463",https://photos.zillowstatic.com/p_e/ISb9xwt4su9xww0000000000.jpg
+"$155,000","1477 Emily Ct, Riverdale, GA 30296",4,2,"1,796",https://photos.zillowstatic.com/p_e/ISznw4jvjse2x11000000000.jpg
+"$128,000","6689 Sunset Ct, Rex, GA 30273",3,3,"1,375",https://photos.zillowstatic.com/p_e/ISjnlf2okioljr1000000000.jpg
+"$235,900","6229 Harless Ct, Riverdale, GA 30274",4,3,"2,530",https://photos.zillowstatic.com/p_e/IS725fqzbnx0zf1000000000.jpg
+"$137,500","3231 Walt Stephens Rd, Jonesboro, GA 30236",3,2,"1,325",https://photos.zillowstatic.com/p_e/IS3768sovxkyx51000000000.jpg
+"$235,990","12231 Anchor Way #64, Hampton, GA 30228",5,3,"2,756",https://photos.zillowstatic.com/p_e/ISr1a69fcicryj1000000000.jpg
+"$330,000","4081 Villager Way #7/38, Rex, GA 30273",6,4,"6,000",https://photos.zillowstatic.com/p_e/ISbdsfsh4ar92t0000000000.jpg
+"$169,900","5676 Rock Shoals Way, Atlanta, GA 30349",4,3,"2,168","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$56,000","1510 Greenwillow Dr, Conley, GA 30288",3,2,"1,418","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$202,000","4814 Price St, Forest Park, GA 30297",5,4,"3,443","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$181,000","1349 Monterey Ct, Morrow, GA 30260",4,3,"2,276","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$75,000","4614 College St, Forest Park, GA 30297",3,1,"1,066","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$200,000","348 Kimberwick Dr, Hampton, GA 30228",4,3,"2,736","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$165,000","6751 Creekmoor Ln, Riverdale, GA 30296",4,3,"2,700","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$253,750","3067 Saint Andrews Ct, Jonesboro, GA 30236",4,3,"2,513","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$185,000","120 Waters Edge Way, Fayetteville, GA 30215",4,3,"1,896","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$53,900","1660 Slate Rd, Conley, GA 30288",3,1,"1,025","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$150,000","11075 Knotty Pine Pl, Hampton, GA 30228",3,2,"1,408","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$230,000","12238 Flannery Ln, Hampton, GA 30228",4,3,"2,484","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$359,000","604 Arlington Cir, Jonesboro, GA 30236",4,2,"3,319","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$160,000","842 Shoals Ct, Atlanta, GA 30349",3,3,"1,662","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$168,000","547 Brenston Ct, Ellenwood, GA 30294",3,3,"1,418","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$205,000","2502 Brenston Dr, Ellenwood, GA 30294",4,3,"2,112","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$185,000","37 Harbour Lake Dr, Fayetteville, GA 30215",4,3,"2,504","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$92,900","800 Poplar Springs Rd, Riverdale, GA 30274",3,1,"1,084","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$149,000","7053 Sir Galahad Way, Jonesboro, GA 30236",4,3,673,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$80,000","5453 Joyce Dr, Forest Park, GA 30297",3,2,"1,075","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$135,000","4106 Renard Way, Rex, GA 30273",3,2,"1,874","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$130,000","4692 Ernest Dr, Forest Park, GA 30297",3,3,"1,545","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$90,000","1302 Cedar Knoll Way, Atlanta, GA 30349",3,2,"1,226","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$208,900","4016 Lindsey Ln, Rex, GA 30273",4,3,"1,142","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$229,990","700 Muscadine Ln LOT 8, Jonesboro, GA 30238",4,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$88,000","1229 Larkwood Dr, Jonesboro, GA 30238",2,2,"1,251","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$32,500","1625 Conley Rd APT 201, Conley, GA 30288",3,2,280,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$174,900","11095 Turner Rd, Hampton, GA 30228",3,2,"1,536","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$166,000","871 Corinth Dr, Jonesboro, GA 30238",3,2,"1,668","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$115,000","8992 Cornell Dr #25, Jonesboro, GA 30238",4,2,"1,275","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$160,000","6519 Cameron Rd, Morrow, GA 30260",3,2,"1,493","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$229,990","700 Muscadine Ln LOT 8, Jonesboro, GA 30238",4,3,--,https://photos.zillowstatic.com/p_e/IS3jndd29xyj101000000000.jpg
+"$144,250","8417 Stonewall Jackson Dr, Jonesboro, GA 30238",3,2,"1,456",N/A
+"$140,000","5405 Phillips Dr, Morrow, GA 30260",3,2,"1,209",https://photos.zillowstatic.com/p_e/ISfcuz55y40cux0000000000.jpg
+"$240,000","12022 Scottish Ct, Fayetteville, GA 30215",4,3,"3,307",https://photos.zillowstatic.com/p_e/ISjfv1s32awjv71000000000.jpg
+"$174,999","7281 Sandpiper Way, Riverdale, GA 30274",4,2,"1,477",https://photos.zillowstatic.com/p_e/IS3r9o2daen1tv0000000000.jpg
+"$237,645","1583 Farrell Ln, Hampton, GA 30228",4,3,"2,720",https://photos.zillowstatic.com/p_e/ISvo23xndoxuz71000000000.jpg
+"$217,000","9389 Deer Crossing Ln, Jonesboro, GA 30236",4,3,"3,000",https://photos.zillowstatic.com/p_e/ISb5urky9fccri0000000000.jpg
+"$150,000","9025 Hurst Ct, Jonesboro, GA 30238",4,2,"1,279",https://photos.zillowstatic.com/p_e/IS3zzdm0jq5xm41000000000.jpg
+"$865,000","2775 Club Valley Ct, Jonesboro, GA 30236",4,7,"6,252",https://photos.zillowstatic.com/p_e/ISrxev04t7ugb20000000000.jpg
+"$225,000","494 Pernell Dr, Hampton, GA 30228",5,3,"3,286","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$80,000","7089 Vesta Way, Jonesboro, GA 30236",3,2,"1,056","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$142,000","3030 Botany Dr, Jonesboro, GA 30236",3,2,"1,368","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$120,000","725 Caribbean Dr, Forest Park, GA 30297",5,2,2,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$152,000","486 Shadowmoore Dr #60, Riverdale, GA 30274",3,3,"1,970","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$139,900","921 Astor Ave #/44, Forest Park, GA 30297",4,3,"1,836","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$256,930","580 Toronto Cir #110, Hampton, GA 30228",4,3,"2,750","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$256,930","580 Toronto Cir, Hampton, GA 30228",4,3,"2,750","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$115,000","8992 Cornell Dr, Jonesboro, GA 30238",4,2,"1,275","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$65,000","5690 Orly Ter, College Park, GA 30349",3,2,"1,642","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$200,000","9323 Waters Edge Dr, Jonesboro, GA 30236",4,3,"2,382","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$185,000","1687 Blue Heron Way, Hampton, GA 30228",4,2,"1,855","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$227,700","11956 Lovejoy Crossing Pl #97, Hampton, GA 30228",4,6,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$160,000","65 Oak Hill Ter, Fayetteville, GA 30215",3,2,"1,360","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$190,000","536 Heatherdown Way, Riverdale, GA 30274",4,3,"2,414","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$196,000","5679 Jubilant Dr, Rex, GA 30273",4,3,"1,957","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$165,000","5954 Twilight Trl, Morrow, GA 30260",5,3,"1,900","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$226,000","7796 Thrailkill Rd, Jonesboro, GA 30236",4,3,"2,328","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$123,000","5179 Hanover St, Atlanta, GA 30349",3,3,"1,750","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$144,000","8417 Glenwoods Ter, Riverdale, GA 30274",4,2,"1,780","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$98,000","242 Jonesboro Rd, Jonesboro, GA 30236",3,1,"1,066","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$160,000","797 North Ave, Forest Park, GA 30297",3,2,"3,096","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$140,000","6121 Tina Ln, Rex, GA 30273",3,2,"1,406","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$90,000","36 Old Post Rd, Jonesboro, GA 30238",3,2,"1,204","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$205,900","10783 Wheeler Trce, Hampton, GA 30228",3,3,"1,689","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$320,000","12135 Edgewater Dr, Hampton, GA 30228",5,4,"2,946","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$250,000","7451 Embassy Trce, Riverdale, GA 30296",3,3,"2,698","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$42,000","9474 Cypress Ln, Jonesboro, GA 30238",3,2,"1,416","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$213,000","5887 Rex Ridge Pkwy, Rex, GA 30273",4,3,"2,500","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$233,520","588 Millstone Dr, Jonesboro, GA 30238",5,4,"2,968","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$172,000","4058 John Arnold Cir, Conley, GA 30288",Studio,--,855,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$172,000","4058 John Arnold Cir, Conley, GA 30288",Studio,--,855,https://photos.zillowstatic.com/p_e/ISvommtpqmxlem0000000000.jpg
+"$157,000","362 Kendrick Estates Dr #56, Jonesboro, GA 30238",4,3,"2,012",https://photos.zillowstatic.com/p_e/IS7q7p61q8sf391000000000.jpg
+"$243,000","12129 Panhandle Rd, Hampton, GA 30228",3,3,"2,373",https://photos.zillowstatic.com/p_e/ISf0hhh3bp2vrx1000000000.jpg
+"$90,000","7060 Brookview Crk, Riverdale, GA 30274",2,2.5,"1,240",https://photos.zillowstatic.com/p_e/ISbtg51irbf6bd1000000000.jpg
+"$172,400","4058 John Arnold Cir #5, Conley, GA 30288",Studio,--,--,https://photos.zillowstatic.com/p_e/ISfkwquynb38pm1000000000.jpg
+"$152,000","497 Independence Dr, Jonesboro, GA 30238",3,3,"1,756",https://photos.zillowstatic.com/p_e/IS3n2w8gal0e570000000000.jpg
+"$120,000","154 Sedgefield Dr, Jonesboro, GA 30236",3,2,"1,056",https://photos.zillowstatic.com/p_e/ISj7prh178qw2m0000000000.jpg
+"$232,290","11904 Lovejoy Crossing Pl #42, Hampton, GA 30228",4,3,--,https://photos.zillowstatic.com/p_e/ISzrv2spxvz8hn1000000000.jpg
+"$148,000","9425 Forest Knoll Dr, Jonesboro, GA 30238",4,2,"1,676",https://photos.zillowstatic.com/p_e/IS7anu0775n4kb0000000000.jpg
+"$225,000","9281 Fieldstone Ct, Jonesboro, GA 30236",4,3,"2,398","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$326,900","11440 Azalea Trl, Hampton, GA 30228",4,3,"3,356","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$175,000","105 Waters Edge Way, Fayetteville, GA 30215",4,3,"2,686","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$184,000","8026 Fisher Dr, Jonesboro, GA 30236",3,2,"1,492","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$147,000","9479 Rollinghills Dr, Jonesboro, GA 30238",3,3,"1,506","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$169,500","11034 Sedalia Way, Hampton, GA 30228",4,3,"2,568","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$157,000","362 Kendrick Estates Dr, Jonesboro, GA 30238",4,3,"2,012","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$196,000","9399 Wendover Ct, Jonesboro, GA 30236",3,2,"1,721","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$114,600","5811 Creekside Dr, Rex, GA 30273",3,2,"1,288","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$190,000","11030 Mansura Pl, Hampton, GA 30228",4,3,"2,536","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$169,000","10069 Tara Glynn Dr, Hampton, GA 30228",3,3,"1,946","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$199,900","576 Flint Ridge Ct, Jonesboro, GA 30238",3,3,"1,884","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$42,500","9503 Winding Way Ln, Jonesboro, GA 30238",4,3,"1,618","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$194,500","5876 Whitney Way, Rex, GA 30273",4,3,"2,348","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$296,630","6152 Walker Rd, Riverdale, GA 30296",5,3,"3,950","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$208,000","2592 Brookgate Xing, Ellenwood, GA 30294",4,3,"2,506","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$180,000","59 Horseshoe Bnd, Riverdale, GA 30274",3,3,"2,165","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$150,000","2765 Pattie Ct, Ellenwood, GA 30294",3,2,"1,851","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$95,000","1135 Ponderosa Park Dr, Forest Park, GA 30297",4,2,"1,550","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$154,000","2826 Heritage Ln, Morrow, GA 30260",3,2,"1,450","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$225,990","718 Muscadine Ln LOT 11, Jonesboro, GA 30238",4,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$200,900","10859 Wheeler Trce, Hampton, GA 30228",3,3,"1,689","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$159,000","2865 Windcrest Dr, Hampton, GA 30228",3,2,"1,544","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$117,000","7311 Wagon Wheel Ct, Jonesboro, GA 30236",3,3,810,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$140,000","583 Hynds Springs Dr, Jonesboro, GA 30238",3,2,"1,512","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$139,000","6756 Green Meadows Ln, Morrow, GA 30260",4,3,"1,229","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$172,000","250 Stallion Trl, Riverdale, GA 30274",3,3,"1,732","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$149,000","1817 Bridgeport Ln, Hampton, GA 30228",3,2,"1,594","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$190,000","1687 Regency Pl, Riverdale, GA 30296",4,3,"2,388","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$151,000","87 Oak Hill Ter, Fayetteville, GA 30215",3,2,"1,353","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$179,900","7267 Williamsburg Dr, Riverdale, GA 30274",5,4,"1,772","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$179,900","7267 Williamsburg Dr, Riverdale, GA 30274",5,4,"1,772",https://photos.zillowstatic.com/p_e/ISzzte6akmm7st0000000000.jpg
+"$139,000","6756 Green Meadows Ln, Morrow, GA 30260",4,3,"1,229",https://photos.zillowstatic.com/p_e/ISrpo5109t9bnc1000000000.jpg
+"$181,000","1393 Amaryllis Way #5, Riverdale, GA 30296",4,3,"2,020",https://photos.zillowstatic.com/p_e/ISvsdiz9670r3r0000000000.jpg
+"$210,000","9419 Rocky Crk #48, Jonesboro, GA 30236",4,3,"2,974",https://photos.zillowstatic.com/p_e/ISv8u1yvr7fnmi0000000000.jpg
+"$140,000","583 Hynds Springs Dr, Jonesboro, GA 30238",3,2,"1,512",https://photos.zillowstatic.com/p_e/ISb1vdn2uqxtdm1000000000.jpg
+"$172,000","250 Stallion Trl, Riverdale, GA 30274",3,3,"1,732",https://photos.zillowstatic.com/p_e/IS3jjassbft0vs1000000000.jpg
+"$158,000","10613 Village Trl, Jonesboro, GA 30238",3,3,"1,720",https://photos.zillowstatic.com/p_e/ISnqmt5wk8zjj70000000000.jpg
+"$277,861","668 Mill Creek Trl #61, Jonesboro, GA 30238",5,4,"3,166",https://photos.zillowstatic.com/p_e/ISrha9k3apqzo91000000000.jpg
+"$173,990","3543 Meadow Ridge Ct, Rex, GA 30273",3,3,"1,490",https://photos.zillowstatic.com/p_e/ISn6fuhdpr3ykf0000000000.jpg
+"$165,000","4282 Grant Forest Cir #78, Ellenwood, GA 30294",3,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$70,500","4492 Ryan Rd, Conley, GA 30288",3,1,"1,008","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$156,000","6402 Valley Dale Dr, Riverdale, GA 30274",3,2,"2,322","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$150,000","6637 Fleming Rd, Morrow, GA 30260",4,3,"1,405","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$176,000","3291 Weathered Wood Way, Rex, GA 30273",4,3,"2,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$233,460","682 Millstone Dr, Jonesboro, GA 30238",--,--,--,N/A
+"$165,000","11939 Harbour Town Pkwy, Fayetteville, GA 30215",3,2,"1,534","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$113,000","701 Georgetown Ct, Jonesboro, GA 30236",3,3,"1,528","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$174,195","4953 Elm Brk #185, Atlanta, GA 30349",3,3,"1,467","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$165,000","3108 Rock Creek Dr, Rex, GA 30273",3,3,"1,400","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$204,000","11999 Olmstead Dr, Fayetteville, GA 30215",5,3,"2,850","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$150,000","3142 Deerfield Way, Rex, GA 30273",Studio,--,"1,281","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$233,460","682 Millstone Dr #22, Jonesboro, GA 30238",5,4,"2,968","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$128,580","6217 Welton Dr, Riverdale, GA 30296",3,3,"1,846","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$203,900","3001 Cleburne, Hampton, GA 30228",3,3,"1,689","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$232,290","11904 Lovejoy Crossing Pl, Hampton, GA 30228",4,3,"2,762","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$180,000","9300 Whaleys Lake Ln, Jonesboro, GA 30238",4,3,"2,346","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$169,900","6653 Wellesley Dr, Riverdale, GA 30296",4,3,"1,522","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$145,000","1054 Helen St, Forest Park, GA 30297",3,2,"1,587","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$799,000","2361 Forest Dr, Jonesboro, GA 30236",4,5,"5,400","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$244,455","480 Jefferson Chase St #3103, Atlanta, GA 30354",3,3,"1,891","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$135,000","560 Pinecrest Dr, Riverdale, GA 30274",3,1,"1,040","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$142,000","7105 Oakwood Cir, Rex, GA 30273",3,2,"1,317","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$132,000","10786 Thrasher Rd, Jonesboro, GA 30238",3,2,"1,104","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$175,000","1433 Arbor Place Dr, Morrow, GA 30260",4,3,"1,924","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$105,000","329 Brookview Dr, Riverdale, GA 30274",4,3,"1,528","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$273,000","8033 Lake Ridge Dr, Jonesboro, GA 30236",4,3,"3,913","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$84,000","985 Steeplechase Ln, Riverdale, GA 30296",3,3,"1,898","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$145,500","5125 Phillips Dr, Forest Park, GA 30297",3,1,"1,600","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$200,000","12808 Panhandle Rd, Hampton, GA 30228",3,2,"1,957","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$168,000","691 Beechwood Ct, Jonesboro, GA 30238",4,3,"1,786","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$82,000","8186 Englewood Trl, Riverdale, GA 30274",3,2,"1,252",https://photos.zillowstatic.com/p_e/ISr5d3456memas1000000000.jpg
+"$168,000","691 Beechwood Ct, Jonesboro, GA 30238",4,3,"1,786",https://photos.zillowstatic.com/p_e/IS3vouw1mifq2j1000000000.jpg
+"$165,000","1110 Forest Gln, Jonesboro, GA 30238",3,3,"2,125",https://photos.zillowstatic.com/p_e/ISrxyyszhe5s7v1000000000.jpg
+"$144,000","8293 Meridian Dr, Riverdale, GA 30274",4,2,"1,120",https://photos.zillowstatic.com/p_e/ISnikuyqratpea0000000000.jpg
+"$115,000","167 Antebellum Cir, Riverdale, GA 30274",3,2,"1,326",https://photos.zillowstatic.com/p_e/ISzvahwvjyvv2t0000000000.jpg
+"$200,000","12808 Panhandle Rd, Hampton, GA 30228",3,2,"1,957",https://photos.zillowstatic.com/p_e/IS37qfjm8lcrw41000000000.jpg
+"$155,000","8051 Woods Ln, Jonesboro, GA 30236",3,3,"2,016",https://photos.zillowstatic.com/p_e/ISfkcbxa4myoph1000000000.jpg
+"$102,000","6093 Camden Forrest Cv, Riverdale, GA 30296",3,2.5,541,N/A
+"$102,400","1296 Hollenbeck Ln, Riverdale, GA 30296",2,3,"1,380",https://photos.zillowstatic.com/p_e/IS7ipl9s72uxr21000000000.jpg
+"$189,000","1731 Wood Stork Dr, Hampton, GA 30228",4,2,"1,855","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$188,500","5689 Grande River Rd, College Park, GA 30349",3,3,"1,697","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$168,990","2357 Glebe Ct #3, Hampton, GA 30228",3,2,"1,614","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$116,900","4379 Rob Roy Ln, Conley, GA 30288",3,1,"1,025","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$257,145","583 Millstone Dr #67, Jonesboro, GA 30238",5,4,"2,833","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$274,291","577 Millstone Dr #66, Jonesboro, GA 30238",5,4,"3,166","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$229,900","1221 England Ter, Hampton, GA 30228",4,3,"3,380","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$83,000","387 N Beach Ct, Riverdale, GA 30274",2,3,811,N/A
+"$185,000","64 Harbour Lake Dr #49, Fayetteville, GA 30215",4,3,"1,833","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$115,500","1767 Glen View Way, Hampton, GA 30228",3,5,"1,520","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$175,400","2634 Lovejoy Xing #281, Hampton, GA 30228",3,2,"1,364","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$156,000","8090 Birch Walk Dr, Riverdale, GA 30274",3,3,"1,645","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$157,000","7635 Antebellum Ln, Riverdale, GA 30274",4,3,"1,760","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$220,000","3063 Jodeco Dr, Jonesboro, GA 30236",4,2,"2,564","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$104,000","1121 N Parkwood Dr, Forest Park, GA 30297",2,1,"1,512","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$166,666","3192 W Panola Rd, Ellenwood, GA 30294",--,--,--,N/A
+"$87,000","1662 Northridge Dr, Morrow, GA 30260",2,2,"1,224","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$205,900","10791 Wheeler Trce, Hampton, GA 30228",3,3,"1,689","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$165,000","12297 Riviera Dr, Fayetteville, GA 30215",4,3,"1,745","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$189,990","11988 Lovejoy Crossing Trce #147, Hampton, GA 30228",3,6,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$140,000","6507 Pine Bark Ct, Morrow, GA 30260",3,3,"1,438","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$24,000","6141 Evans Dr, Rex, GA 30273",2,1,"1,036","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$162,000","11511 Summer Creek Dr, Hampton, GA 30228",3,3,"1,938","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$205,000","5899 Sunflower Ct, Ellenwood, GA 30294",4,3,"2,864","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$204,000","1617 Monarch Ct, Riverdale, GA 30296",4,2,"2,228","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$226,400","7878 Waterwheel Way #91, Jonesboro, GA 30238",5,4,"2,859","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$226,400","7878 Waterwheel Way, Jonesboro, GA 30238",4,3,"2,859","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$139,000","579 Wexwood Dr, Riverdale, GA 30274",4,2,"1,201","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$229,530","1519 Judson Way, Riverdale, GA 30296",4,3,"2,090","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$240,000","3759 Arminto Dr, Ellenwood, GA 30294",5,3,"3,212","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$179,900","11956 Spring Lake Way, Fayetteville, GA 30215",4,3,"1,862","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$177,000","7495 Garnet Dr, Jonesboro, GA 30236",3,3,"1,924",https://photos.zillowstatic.com/p_e/ISj3apmunc1fvs0000000000.jpg
+"$222,755","497 Jefferson Chase St #3304, Atlanta, GA 30354",3,3,"1,891",https://photos.zillowstatic.com/p_e/ISvwk6ib3bzl3k1000000000.jpg
+"$188,490","11933 Lovejoy Crossing Blvd #85, Hampton, GA 30228",3,3,--,https://photos.zillowstatic.com/p_e/ISfgp6z5okqvc31000000000.jpg
+"$179,900","11956 Spring Lake Way, Fayetteville, GA 30215",4,3,"1,862",https://photos.zillowstatic.com/p_e/IS333jj9vdv68l0000000000.jpg
+"$174,000","1610 Silver Petal Way, College Park, GA 30349",3,3,"1,710",https://photos.zillowstatic.com/p_e/ISjbs8ka03ka2c1000000000.jpg
+"$143,000","6935 Church St, Riverdale, GA 30274",3,2,"1,336",https://photos.zillowstatic.com/p_e/IS3jrcr3sli6zs1000000000.jpg
+"$188,000","9664 Utah Dr, Jonesboro, GA 30238",4,3,"2,500",https://photos.zillowstatic.com/p_e/ISalq73a7zvc4m0000000000.jpg
+"$86,200","642 Glenn Dr, Forest Park, GA 30297",3,2,850,https://photos.zillowstatic.com/p_e/ISnis48ntqbce00000000000.jpg
+"$130,000","6238 Stimson Way, Riverdale, GA 30296",3,3,"1,507",https://photos.zillowstatic.com/p_e/IS7y51l93gwzxe1000000000.jpg
+"$157,200","6160 Tina Ln, Rex, GA 30273",4,3,"1,565","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$185,300","7617 Garnet Dr, Jonesboro, GA 30236",4,3,"2,232","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$157,900","9101 Sterling Ridge Ln, Jonesboro, GA 30238",4,3,"1,828","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$116,988","7246 Alicias Way, Morrow, GA 30260",2,3,"1,150","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$210,000","11444 Flemming Cove Dr, Hampton, GA 30228",4,4,"3,118","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$285,000","2109 Fort Trl, Morrow, GA 30260",4,3,"2,688","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$230,000","1859 Central Park Loop, Morrow, GA 30260",5,3,"2,599","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$149,000","9910 Fitzgerald Rd, Jonesboro, GA 30238",3,2,"1,362","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$177,000","6757 W Fayetteville Rd, Riverdale, GA 30296",3,2,"1,740","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$140,000","2277 Lanier Pl, Morrow, GA 30260",3,2,"1,201","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$185,000","1887 Roble Dr, College Park, GA 30349",4,3,"2,084","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$101,600","5775 Phillips Dr, Forest Park, GA 30297",5,3,"1,322","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$135,000","10886 Morning Dove Dr, Hampton, GA 30228",3,2,"1,348","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$150,000","11040 Tara Glynn Dr, Hampton, GA 30228",3,2,"1,568","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$140,000","9407 Thomas Rd, Jonesboro, GA 30238",3,2,"1,184","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$148,000","6406 Oak Chase Ln, Riverdale, GA 30296",3,3,"1,890","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$155,000","1019 Kingsdown Ct, Riverdale, GA 30296",3,2,"1,314","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$189,390","11984 Lovejoy Crossing Trce #146, Hampton, GA 30228",3,6,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$210,000","8709 Spivey Village Trl, Jonesboro, GA 30236",4,3,"2,408","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$267,500","6250 Hazelnut Ct, Morrow, GA 30260",5,3,"3,356","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$69,000","1513 Towhee Ct, Jonesboro, GA 30238",3,2,"1,295",N/A
+"$140,000","920 Laurel St, Lake City, GA 30260",3,2,"1,225","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$355,000","3328 Mitchell Rd, Ellenwood, GA 30294",6,5,"3,824","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$155,000","5413 Denny Dr, Atlanta, GA 30349",4,3,750,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$197,000","9562 Rollinghills Dr, Jonesboro, GA 30238",4,3,"1,308","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$120,000","9054 Southcrest Ct, Jonesboro, GA 30238",3,2,"1,072","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$80,000","10081 Silent Trl, Jonesboro, GA 30238",3,2,"1,092","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$223,540","1505 Nations Trl #17, Riverdale, GA 30296",4,3,"2,038","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$208,900","10899 Wheeler Trce, Hampton, GA 30228",3,3,"1,689","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$125,200","769 Corinth Dr, Jonesboro, GA 30238",3,2,"1,412","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$172,000","7598 Broadhurst Dr, Riverdale, GA 30296",5,3,"2,261","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$159,900","2771 Arctic Ct, Morrow, GA 30260",3,3,"2,200",https://photos.zillowstatic.com/p_e/ISbhvk1shozbof0000000000.jpg
+"$223,540","1505 Nations Trl #17, Riverdale, GA 30296",4,3,"2,038",https://photos.zillowstatic.com/p_e/ISnau828hd4j940000000000.jpg
+"$223,900","10974 Station Dr, Hampton, GA 30228",4,3,"2,228",https://photos.zillowstatic.com/p_e/IS7ytb5j05aljt0000000000.jpg
+"$125,200","769 Corinth Dr, Jonesboro, GA 30238",3,2,"1,412",https://photos.zillowstatic.com/p_e/IS3rpkyjv3e3mx0000000000.jpg
+"$210,000","800 Sugarloaf Way, Hampton, GA 30228",4,3,"2,528",https://photos.zillowstatic.com/p_e/ISv4rch6ee18jr0000000000.jpg
+"$172,000","7598 Broadhurst Dr, Riverdale, GA 30296",5,3,"2,261",https://photos.zillowstatic.com/p_e/ISnexpwqgn8fov0000000000.jpg
+"$169,000","8475 Timberlake Dr #2, Riverdale, GA 30296",4,3,"2,006",https://photos.zillowstatic.com/p_e/IS3vkzpwfuc8370000000000.jpg
+"$80,000","10081 Silent Trl, Jonesboro, GA 30238",3,2,"1,092",https://photos.zillowstatic.com/p_e/ISfgxgwo7698nh1000000000.jpg
+"$176,000","2760 Noahs Ark Rd, Jonesboro, GA 30236",4,3,"1,796",https://photos.zillowstatic.com/p_e/ISbhfked9bkc3j1000000000.jpg
+"$118,000","976 Queen Elizabeth Way, Morrow, GA 30260",3,2,"1,118","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$155,000","3965 Keystone Pl, Conley, GA 30288",3,3,"1,690","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$150,000","3688 Bristol Overlook, Rex, GA 30273",3,2,"1,282","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$130,000","10001 Neuchatel Cres, Jonesboro, GA 30238",4,3,"2,930","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$216,000","12113 Plantation Pkwy, Fayetteville, GA 30215",3,3,"2,740","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$183,900","1312 Wellesley Pl, Riverdale, GA 30296",5,3,"1,950","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$135,000","1528 Carriage Ln, Jonesboro, GA 30238",3,2,"1,380","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$180,000","2813 Amerson Tr, Ellenwood, GA 30294",3,3,"1,300",N/A
+"$234,186","380 Layfield Dr, Jonesboro, GA 30238",4,3,"2,506","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$50,000","918 Needle Dr, Forest Park, GA 30297",4,2,"1,248","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$233,565","387 Panhandle Pl #42, Hampton, GA 30228",4,3,"2,118","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$182,700","4854 Summersun Dr, Morrow, GA 30260",3,3,"1,756","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$174,900","5450 Sapphire Cir, Ellenwood, GA 30294",3,3,"2,246","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$239,900","7555 Pine Gables Dr, Riverdale, GA 30296",6,4,"3,689","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$218,500","1706 Blue Heron Way, Hampton, GA 30228",5,3,"3,316","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$111,500","6449 Havenridge Dr, Riverdale, GA 30274",3,2,"1,801","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$130,000","10117 Tide Ct, Jonesboro, GA 30238",3,2,"1,400","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$196,000","1296 Labrador Ln, Riverdale, GA 30296",4,3,"2,754","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$154,290","8477 Douglass Trl #105, Jonesboro, GA 30236",3,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$130,000","6584 Voyles Dr, Riverdale, GA 30274",3,2,"1,459","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$119,900","4034 Grant Rd, Ellenwood, GA 30294",2,2,"1,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$199,900","7831 Big Ben Ct, Jonesboro, GA 30236",3,3,"2,100","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$124,000","6095 E Fayetteville Dr, Riverdale, GA 30296",3,2,"1,100","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$235,586","372 Layfield Dr, Jonesboro, GA 30238",4,3,"2,506","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$34,500","1625 Conley Rd APT 21, Conley, GA 30288",3,2,280,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$155,000","7481 Penland Ct, Riverdale, GA 30296",5,2,"1,924","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$94,000","4219 Pine Cir, Forest Park, GA 30297",3,2,"1,809","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$119,500","4082 Ohara Dr, Forest Park, GA 30297",3,2,"1,323",N/A
+"$157,000","1002 Stormy Ln, Jonesboro, GA 30238",5,3,"2,202","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$200,000","2007 Amber Leaf Ct, Jonesboro, GA 30236",3,3,976,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$165,000","3290 Weathered Wood Way, Rex, GA 30273",4,3,"2,159","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$165,000","3290 Weathered Wood Way, Rex, GA 30273",4,3,"2,159",https://photos.zillowstatic.com/p_e/ISv8aanhdq0iat0000000000.jpg
+"$200,000","2007 Amber Leaf Ct, Jonesboro, GA 30236",3,3,976,https://photos.zillowstatic.com/p_e/ISrlp704rt0xme0000000000.jpg
+"$79,000","8347 Mountain Pass, Riverdale, GA 30274",3,3,761,https://photos.zillowstatic.com/p_e/ISnu9a1z2e1r190000000000.jpg
+"$150,000","1449 Bethaven Rd, Riverdale, GA 30296",3,2,"2,127",https://photos.zillowstatic.com/p_e/ISnayzd6qrpsmv1000000000.jpg
+"$160,000","7266 Mountain Laurel Way, Stockbridge, GA 30281",3,3,"1,562",https://photos.zillowstatic.com/p_e/IS3v86bsrywde71000000000.jpg
+"$129,000","204 Evenview Cir, Jonesboro, GA 30236",4,2,"1,025",https://photos.zillowstatic.com/p_e/ISne5g6q14mcz50000000000.jpg
+"$64,900","1260 Conley Rd, Forest Park, GA 30297",2,1,782,https://photos.zillowstatic.com/p_e/ISvs1lljyw4qpd1000000000.jpg
+"$144,500","5201 Hanover St, Atlanta, GA 30349",3,3,"1,848",https://photos.zillowstatic.com/p_e/IS725jhnrnjwre1000000000.jpg
+"$206,000","540 Olde Rose Ct, Riverdale, GA 30274",5,3,"2,484",https://photos.zillowstatic.com/p_e/IS7a72s44cf2hm0000000000.jpg
+"$195,900","1718 Mallard Cir, Conley, GA 30288",4,2,"1,075","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$138,500","244 Willow Springs Dr, Jonesboro, GA 30238",4,3,750,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$160,000","482 Autumn Dr, Riverdale, GA 30274",3,3,"1,904","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$135,000","5960 Meadow Ln, Rex, GA 30273",3,3,"1,493","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$99,000","1685 Camden Forrest Way, Riverdale, GA 30296",2,3,800,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$330,000","748 Red Wolf Run, Atlanta, GA 30349",--,--,--,N/A
+"$168,000","1539 Kon Tiki Ln, Jonesboro, GA 30236",3,3,"1,592","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$328,500","748 Red Wolf Run, Atlanta, GA 30349",5,3,"2,760","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$155,000","68 Haver Dr, Riverdale, GA 30274",4,3,"1,678","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$134,000","6964 Dell Ct, Riverdale, GA 30274",3,2,"1,275","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$110,000","8007 Crane Rd, Jonesboro, GA 30236",3,2,"1,500","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$230,000","9793 Washington Cir, Jonesboro, GA 30238",5,3,"3,097","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$110,000","6524 Camp St, Riverdale, GA 30274",2,1,972,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$289,192","607 Oakville Ter, Hampton, GA 30228",4,3,"3,497","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$232,000","7489 Taylor Rd, Riverdale, GA 30274",4,4,"1,437","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$161,900","11878 Fuller St #2, Hampton, GA 30228",2,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$139,900","2985 Woodfield Dr, Rex, GA 30273",4,3,"1,404","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$83,000","8391 San Jose Trl, Jonesboro, GA 30236",4,2,"1,401","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$255,055","11759 Halton Hills Ln, Hampton, GA 30228",4,3,"2,750","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$304,825","613 Oakville Ter, Hampton, GA 30228",5,4,"4,185","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$223,615","1542 Farrell Ln, Hampton, GA",4,3,"2,338","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$140,000","2771 Kathie Ln, Ellenwood, GA 30294",3,2,"1,576","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$140,500","866 Pinevalley Dr, Forest Park, GA 30297",5,3,"1,682","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$160,000","12395 Riviera Dr, Fayetteville, GA 30215",3,3,"1,589","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$145,000","10452 Candlelight Rd, Jonesboro, GA 30238",4,2,"1,192","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$125,000","7643 Commerce Ct, Riverdale, GA 30296",3,3,"1,524","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$130,000","2255 Bedford Ct, Jonesboro, GA 30236",3,2,"1,284","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$184,000","10801 Misty Meadows Ct, Hampton, GA 30228",4,3,"2,902","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$116,000","1755 Broad River Rd, Atlanta, GA 30349",2,3,"1,372","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$149,900","2728 Peggy Sue Ln, Morrow, GA 30260",3,2,"1,420","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$120,000","276 Commons Dr, Jonesboro, GA 30236",2,8,2,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$155,000","4568 Westminster Dr, Ellenwood, GA 30294",3,3,"1,708",https://photos.zillowstatic.com/p_e/IS7qj2xvthv6i00000000000.jpg
+"$249,890","571 Millstone Dr #65, Jonesboro, GA 30238",4,3,"2,720",https://photos.zillowstatic.com/p_e/ISjrcn1jx65ed70000000000.jpg
+"$144,900","8381 Willows Way, Riverdale, GA 30274",3,3,"1,926",https://photos.zillowstatic.com/p_e/ISni8xsyr9mzmw0000000000.jpg
+"$198,000","3428 Mount Zion Rd #76, Stockbridge, GA 30281",3,3,--,https://photos.zillowstatic.com/p_e/ISfsy52z9w4q4y0000000000.jpg
+"$224,490","7398 Embassy Trce, Riverdale, GA 30296",4,3,"2,038",https://photos.zillowstatic.com/p_e/IS33nayygrhf8w1000000000.jpg
+"$160,000","6632 Keswick Dr, Riverdale, GA 30296",4,3,"2,287",https://photos.zillowstatic.com/p_e/ISn6f675twma6z0000000000.jpg
+"$225,000","3271 Lake Jodeco Rd, Jonesboro, GA 30236",3,3,"1,620",https://photos.zillowstatic.com/p_e/IS37y1u3h7ywl90000000000.jpg
+"$262,000","2036 Kunuga Dr, Jonesboro, GA 30236",4,3,"3,069",https://photos.zillowstatic.com/p_e/ISzw9hi5m7dmlf.jpg
+"$269,175","595 Oakville Ter, Hampton, GA 30228",4,3,"3,223",https://photos.zillowstatic.com/p_e/ISrhinsljifrx11000000000.jpg
+"$210,000","3089 Rex Ridge Cir, Rex, GA 30273",5,3,"2,322",N/A
+"$189,000","2621 Lovejoy Crossing Ln, Hampton, GA 30228",3,3,"1,640","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$140,800","854 Shoals Ct, Atlanta, GA 30349",5,4,"1,645","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$125,900","1309 Morrow Rd, Morrow, GA 30260",3,2,"1,404","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$122,300","6857 Doncaster Rd, Jonesboro, GA 30236",4,3,"1,722","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$163,000","7447 Garnet Dr, Jonesboro, GA 30236",3,3,"1,924","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$140,700","10330 Wisteria Ln, Jonesboro, GA 30238",3,2,"1,065","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$208,000","3813 Teton Pass, Ellenwood, GA 30294",4,4,"2,023","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$229,900","612 Rangeley Meadows Ct, Hampton, GA 30228",5,3,"3,371","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$282,262","579 Toronto Cir, Hampton, GA 30228",4,3,"3,497","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$209,900","10975 Station Dr, Hampton, GA 30228",4,2,"1,855","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$162,000","10355 Commons Xing, Jonesboro, GA 30238",3,2,"1,372","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$115,000","7698 Bernardo Dr, Riverdale, GA 30296",2,3,556,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$83,000","6408 Briar Chase Ct, Riverdale, GA 30296",3,2,846,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$165,000","6678 Covey Ct, Riverdale, GA 30296",3,2,"2,109",N/A
+"$110,600","832 Shoals Ct, College Park, GA 30349",3,2.5,"1,510","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$218,000","6687 Chason Woods Ct, Jonesboro, GA 30238",5,3,"3,378","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$2,000","720 Blueridge Dr, Forest Park, GA 30297",3,1,900,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$142,000","2395 Bethune Cir, Morrow, GA 30260",3,3,"1,392","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$227,596","9200 Fairfield Approach, Jonesboro, GA 30236",3,3,"2,404","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$187,900","11982 Quail #87, Lovejoy, GA 30250",3,3,"1,630","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$154,000","9505 Forest Knoll Dr, Jonesboro, GA 30238",3,2,"1,916","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$110,000","10810 Mallard Dr, Jonesboro, GA 30238",3,2,"1,440","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$77,000","10840 Mallard Dr, Jonesboro, GA 30238",4,3,"2,054","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$143,000","5237 Brentwood Rd, Atlanta, GA 30349",3,2,"1,360","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$177,000","2648 Old Toney Rd, Ellenwood, GA 30294",3,3,"2,114","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$213,000","9346 Deer Crossing Ln, Jonesboro, GA 30236",5,3,"3,032",N/A
+"$130,000","14 Jonathan Rd, Riverdale, GA 30274",4,2,"1,792","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$172,000","10513 Cedar Knob, Jonesboro, GA 30238",4,3,"3,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$17,000","2935 Ann Marie Ln, Rex, GA 30273",0.27,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$206,700","9745 Rabun Way, Jonesboro, GA 30238",4,3,"2,688","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$218,000","11078 Milano Ln, Hampton, GA 30228",4,3,"2,672",https://photos.zillowstatic.com/p_e/ISjjevmj28rme51000000000.jpg
+"$277,885","585 Toronto Cir, Hampton, GA 30228",5,4,"3,166",https://photos.zillowstatic.com/p_e/ISnyk9ndqlmc3o0000000000.jpg
+"$145,000","6524 Debbie Sue Ln, Morrow, GA 30260",3,2,"1,248",https://photos.zillowstatic.com/p_e/ISjf7bb2h3ardm0000000000.jpg
+"$205,300","8063 Woods Ln, Jonesboro, GA 30236",4,3,"2,906",https://photos.zillowstatic.com/p_e/IS3vg0o4c7x7xw1000000000.jpg
+"$155,000","900 Sloan Ct, Jonesboro, GA 30238",3,2,"1,518",https://photos.zillowstatic.com/p_e/ISfks7lv2j57vl1000000000.jpg
+"$248,000","12397 Edgewater Dr, Hampton, GA 30228",4,4,"3,006",https://photos.zillowstatic.com/p_e/IS7ydvt2ysajfp1000000000.jpg
+"$128,000","652 Robert E Lee Pkwy, Jonesboro, GA 30238",3,2,"1,300",https://photos.zillowstatic.com/p_e/ISnextz3gnlhgl1000000000.jpg
+"$76,000","6684 Pelican Ct #37, Riverdale, GA 30274",3,1,925,https://photos.zillowstatic.com/p_e/IS3fov4r6jaugz0000000000.jpg
+"$140,000","976 Olde Town Pl, Jonesboro, GA 30236",3,2,"1,370",https://photos.zillowstatic.com/p_e/IS3fw9l7c27x521000000000.jpg
+"$65,500","6590 Rabun Rd, Morrow, GA 30260",3,2,"1,557","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$102,500","916 Kennesaw Dr, Forest Park, GA 30297",3,2,"1,025","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$127,500","7545 Kevin Pl, Jonesboro, GA 30236",3,2,"1,306","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$119,000","7226 Georges Way, Morrow, GA 30260",3,3,"1,414","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$210,000","10706 Buckingham Cir, Hampton, GA 30228",5,3,"2,515","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$149,000","977 Fox Chase Ln, Riverdale, GA 30296",3,3,"1,698","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$98,000","1746 Bethsaida Rd, Riverdale, GA 30296",3,3,"2,277","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$111,500","8974 Ashwood Dr, Riverdale, GA 30274",3,2,900,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$119,000","7226 Georges Way #122, Morrow, GA 30260",3,3,"1,414","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$250,000","3514 Arminto Dr, Ellenwood, GA 30294",5,3,"3,144","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$104,000","6083 Camden Forrest Ct, Riverdale, GA 30296",2,3,"1,090","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$110,000","663 Georgetown Ln, Jonesboro, GA 30236",3,3,"1,476","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$16,000","4823 N Lake Dr, Forest Park, GA 30297",3,1,"1,404",N/A
+"$173,000","1614 Elizabeth Ln #8, Hampton, GA 30228",4,2,"2,127","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$140,000","1678 Hebron Ln, Riverdale, GA 30296",3,2,"1,602","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$173,000","3800 Augustine Pl, Rex, GA 30273",4,3,"2,014","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$142,000","5208 Hanover St, Atlanta, GA 30349",3,3,"1,902","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$15,000","1455 Cambridge Ct, Riverdale, GA 30296",3,3,"1,674",N/A
+"$228,000","9820 Dixon Industrial Blvd, Jonesboro, GA 30236",4,2,"2,069","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$135,000","4155 Elizabeth Park Ct, Conley, GA 30288",2,1,"1,595","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$237,890","676 Millstone Dr #23, Jonesboro, GA 30238",5,4,"3,166","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$188,000","11665 Panhandle Rd, Hampton, GA 30228",5,3,"2,251","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$258,500","1674 Mount Zion Pl, Jonesboro, GA 30236",4,3,"3,274","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$164,000","1585 Keystone Dr, Conley, GA 30288",4,2.5,"2,034","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$178,000","11155 Chelsea Ln, Hampton, GA 30228",4,4,"3,028",N/A
+"$167,000","2954 Bayberry Ct, Hampton, GA 30228",3,2,"1,574","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$24,500","11019 Shadow Creek Ter #69, Hampton, GA 30228",--,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$113,000","642 Georgetown Ct, Jonesboro, GA 30236",3,3,785,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$24,500","11019 Shadow Creek Ter, Hampton, GA 30228",884,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$237,700","238 Morrison Trl LOT 18, Hampton, GA 30228",4,4,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$137,000","6548 Fleming Rd, Morrow, GA 30260",3,2,"1,405","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$343,900","11375 Azalea Trl, Hampton, GA 30228",5,4,"3,895",https://photos.zillowstatic.com/p_e/ISjrsbbnrlnywd1000000000.jpg
+"$150,000","131 Skylark Ln, Jonesboro, GA 30238",4,3,"1,176",https://photos.zillowstatic.com/p_e/ISf0tm141mrsdl1000000000.jpg
+"$24,500","11019 Shadow Creek Ter, Hampton, GA 30228",884,N/A,N/A,https://photos.zillowstatic.com/p_e/ISv4rs1lbzy0f50000000000.jpg
+"$200,000","5486 Glen Haven Dr, Atlanta, GA 30349",2,2,"1,092",N/A
+"$200,000","5484 Glen Haven Dr, Atlanta, GA 30349",2,2,"1,092",N/A
+"$24,500","11019 Shadow Creek Ter #69, Hampton, GA 30228",--,N/A,N/A,https://photos.zillowstatic.com/p_e/ISzj9wdeugb7291000000000.jpg
+"$237,700","238 Morrison Trl LOT 18, Hampton, GA 30228",4,4,--,https://photos.zillowstatic.com/p_e/ISn6jlxim0s5xz0000000000.jpg
+"$227,000","5520 Luther Ct, Ellenwood, GA 30294",5,3,"3,268",https://photos.zillowstatic.com/p_e/ISvgkv8rja0mep1000000000.jpg
+"$169,500","1632 Ogala Dr, Jonesboro, GA 30236",3,2,"1,568",https://photos.zillowstatic.com/p_e/ISbxnhqsmpnsla0000000000.jpg
+"$174,900","9017 Jimmy Lee Cir, Jonesboro, GA 30238",4,3,"2,042","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$150,000","8145 Hynds Springs Ln, Jonesboro, GA 30238",3,3,"1,408","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$178,400","2620 Lovejoy Crossing Dr, Hampton, GA 30228",4,3,"1,976","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$256,000","2089 Rosemont Ct, Jonesboro, GA 30236",5,4,"3,464","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$133,000","6644 Homestead Rd, Rex, GA 30273",3,2,"1,215","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$175,000","5758 Broadleaf Way, Atlanta, GA 30349",5,3,"2,012","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$130,000","369 Brittan Trl #48, Jonesboro, GA 30236",3,2,"1,150","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$187,900","11836 Lovejoy Crossing Blvd, Hampton, GA 30228",3,3,"1,683","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$158,000","6797 Charles Dr, Morrow, GA 30260",3,2,"1,406","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$156,990","8479 Douglas Trl #106, Jonesboro, GA 30236",2,2,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$160,000","996 Longleaf Dr, Forest Park, GA 30297",4,2,"1,519","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$58,000","5237 Lyndale Cir, Forest Park, GA 30297",3,1,850,N/A
+"$123,600","6399 Ellenwood Dr, Rex, GA 30273",3,3,"1,332","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$350,000","8066 Augusta Ct, Jonesboro, GA 30236",4,3.5,"1,810",N/A
+"$335,700","107 Bear Creek Trl, Hampton, GA 30228",4,4,"3,313","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$113,000","5834 Creekside Dr, Rex, GA 30273",3,2,"1,350",N/A
+"$117,500","3411 Mosswood Ln, Rex, GA 30273",3,2,"2,046","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$150,000","7325 Watonga Way, Riverdale, GA 30296",3,2,"2,446","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$215,400","5120 Summerview Way, Morrow, GA 30260",3,2,"1,935","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$84,000","9044 Franklin Ct, Jonesboro, GA 30238",3,2,"1,175","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$83,700","8206 Huntington Dr, Jonesboro, GA 30238",3,2,975,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$204,000","5546 Swanson Rd, Ellenwood, GA 30294",4,3,"2,652","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$750,000","3144 Pier I, Lake Spivey, GA 30236",4,4,"4,872","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$225,755","492 Jefferson Chase St #3003, Atlanta, GA 30354",3,3,"1,891","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$95,000","1623 Cheryl Ter, Riverdale, GA 30296",3,2,"1,891",N/A
+"$200,000","1110 Willards Way, Hampton, GA 30228",5,4,"2,900","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$157,000","7940 Mustang Ln, Riverdale, GA 30274",3,3,"1,700","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$223,000","12773 Cattail Ct, Hampton, GA 30228",3,2,"1,769","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$750,000","3144 Pier I, Jonesboro, GA 30236",4,4.5,"2,727","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$158,000","3810 Clarendon Pl, Rex, GA 30273",3,2,"1,143","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$110,000","887 Bartow Ct, Riverdale, GA 30274",3,2,"1,110",N/A
+"$202,900","10895 Wheeler Trce, Hampton, GA 30228",3,3,"1,689",https://photos.zillowstatic.com/p_e/IS33b5qf0jn9s50000000000.jpg
+"$157,000","7940 Mustang Ln, Riverdale, GA 30274",3,3,"1,700",https://photos.zillowstatic.com/p_e/ISbhfkywl9lbm70000000000.jpg
+"$185,000","11818 Registry Blvd, Hampton, GA 30228",4,3,"2,125",https://photos.zillowstatic.com/p_e/ISjrwir7hapxj70000000000.jpg
+"$279,900","12307 Styron Dr LOT 126, Hampton, GA 30228",6,4,--,https://photos.zillowstatic.com/p_e/ISnux8g48i4wio1000000000.jpg
+"$253,000","189 Sawgrass Way, Fayetteville, GA 30215",4,4,"3,561",https://photos.zillowstatic.com/p_e/IS7i1jf4bv8uf40000000000.jpg
+"$80,000","2356 Glebe Ct, Hampton, GA 30228",--,--,--,N/A
+"$279,900","12307 Styron Dr, Hampton, GA 30228",--,--,--,N/A
+"$235,200","12278 Anchor Way, Hampton, GA 30228",--,--,--,N/A
+"$80,000","2350 Glebe Ct, Hampton, GA 30228",--,--,--,N/A
+"$80,000","2346 Glebe Ct, Hampton, GA 30228",--,--,--,N/A
+"$80,000","2342 Glebe Ct, Hampton, GA 30228",--,--,--,N/A
+"$98,500","6203 Bermuda St, Forest Park, GA 30297",3,1,"1,145","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$235,200","12278 Anchor Way LOT 82, Hampton, GA 30228",4,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$167,000","635 Sterling Ct, Riverdale, GA 30274",3,3,"2,138","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$59,000","651 W Warren Dr, Forest Park, GA 30297",3,2,"1,191","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$83,000","20 Crystal River Dr, Riverdale, GA 30274",4,2,"1,500","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$180,000","496 Whaleys Lake Dr, Jonesboro, GA 30238",4,3,"1,661","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$236,000","1752 Central Park Loop, Morrow, GA 30260",5,3,"2,599","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$169,900","6782 Biscayne Blvd, Rex, GA 30273",3,2,"1,360","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$136,900","198 W Windemere Way, Jonesboro, GA 30238",4,2,"1,201","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$123,500","104 Andover Dr, Jonesboro, GA 30238",3,2,"1,275","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$124,500","8527 Perryville Ct, Jonesboro, GA 30238",4,2,925,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$212,000","230 Olympic Dr, Fayetteville, GA 30215",4,3,"3,151","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$201,000","319 Tara Beach Ln, Jonesboro, GA 30238",4,2.5,"1,103",N/A
+"$159,900","11910 Fuller St, Hampton, GA 30228",--,--,--,N/A
+"$98,000","6301 Stillwater Dr, Riverdale, GA 30274",3,1.5,"1,873","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$263,385","589 Oakville Ter, Hampton, GA 30228",5,3,"3,012","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$169,000","2040 Valley Woods Dr, Riverdale, GA 30296",5,3,"2,210","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$201,040","319 Tara Beach Ln #22, Jonesboro, GA 30238",3,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$268,986","640 Caledon Way, Hampton, GA 30228",4,4,"2,920","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$130,000","8104 Attleboro Dr, Jonesboro, GA 30238",3,2,"1,040","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$199,900","4448 Mortons Way, Ellenwood, GA 30294",4,3,"3,200",N/A
+"$152,990","2362 Glebe Ct #20, Hampton, GA 30228",3,2,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$272,394","624 Millstone Dr, Jonesboro, GA 30238",5,4,"3,166","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$197,000","2532 Greenfield Ln, Jonesboro, GA 30236",3,3,"3,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$139,000","6155 Harvard Ct, Morrow, GA 30260",3,2,"1,312","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$191,000","7784 Kennington Ln, Jonesboro, GA 30236",3,3,"2,064","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$270,000","636 Pristine Pl, Jonesboro, GA 30238",6,4,"3,884","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$190,000","6819 Oakleigh Trl, Rex, GA 30273",3,3,"2,224","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$160,000","372 Park Ridge Cir, Riverdale, GA 30274",3,2,"1,525","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$235,000","6246 Harless Ct, Riverdale, GA 30274",4,3,"2,530",https://photos.zillowstatic.com/p_e/ISjj694kq26zzg1000000000.jpg
+"$190,000","6819 Oakleigh Trl, Rex, GA 30273",3,3,"2,224",https://photos.zillowstatic.com/p_e/ISfsq3fdhy6ck50000000000.jpg
+"$272,394","624 Millstone Dr #29, Jonesboro, GA 30238",5,4,"3,166",https://photos.zillowstatic.com/p_e/ISzjl518cgwjja1000000000.jpg
+"$181,500","3714 Upton Ct, Ellenwood, GA 30294",3,3,"2,556",https://photos.zillowstatic.com/p_e/IS3zzpjeddwveq0000000000.jpg
+"$270,000","636 Pristine Pl, Jonesboro, GA 30238",6,4,"3,884",https://photos.zillowstatic.com/p_e/ISnmrqfo6j07gl0000000000.jpg
+"$169,000","1286 Pixley Dr, Riverdale, GA 30296",5,4,"1,584",https://photos.zillowstatic.com/p_e/ISj71d29f1rgvu1000000000.jpg
+"$126,000","8904 Dorsey Rd, Riverdale, GA 30274",3,2.5,"1,344",https://photos.zillowstatic.com/p_e/ISjbottowf480f1000000000.jpg
+"$107,500","11350 Kayla Dr, Hampton, GA 30228",3,3,"1,608",https://photos.zillowstatic.com/p_e/ISz7onvt59gr771000000000.jpg
+"$134,000","1582 April Ln, Morrow, GA 30260",3,3,"1,418",https://photos.zillowstatic.com/p_e/ISb5ev4sf588jc1000000000.jpg
+"$97,000","4660 Bouldercrest Rd, Ellenwood, GA 30294",3,2,"1,880","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$102,000","8600 Thomas Rd, Riverdale, GA 30274",3,3,"1,530","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$103,000","11358 Kayla Dr, Hampton, GA 30228",3,3,"1,432","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$121,000","6756 Flint Pl, Jonesboro, GA 30236",3,2,"1,170","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$70,000","3650 Rex Rd, Rex, GA 30273",3,2,"1,526","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$164,900","886 Terance Ave, Jonesboro, GA 30238",3,2.5,"2,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$117,600","3012 Bretton Dr, Rex, GA 30273",3,1.5,"1,826","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$116,700","994 Majesty Ln, Morrow, GA 30260",3,2,"1,851","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$173,500","11712 Registry Blvd, Hampton, GA 30228",3,3,"2,228","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$139,000","467 Roxbury Dr, Riverdale, GA 30274",3,1,"1,075","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$120,000","204 Woodcrest Way, Jonesboro, GA 30236",3,1.5,"1,056",N/A
+"$84,000","293 Country Club Dr, Jonesboro, GA 30238",2,2,"1,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$145,000","6940 Vesta Brook Dr, Morrow, GA 30260",3,2,"1,522","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$120,000","1749 Oxford Dr, Morrow, GA 30260",3,2,"1,509","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$200,000","5654 Hosea Ct, Ellenwood, GA 30294",4,2,"1,891","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$146,000","6574 Demere Dr, Morrow, GA 30260",4,2,"1,678","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$100,000","294 Roxbury Dr, Riverdale, GA 30274",4,2,"1,550","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$145,000","1276 Avery Dr #01/91, Jonesboro, GA 30238",3,2,"1,811",N/A
+"$145,000","1276 Avery Dr, Jonesboro, GA 30238",3,2,"1,811","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$153,000","3791 Paddington Trl, Rex, GA 30273",3,3,"1,791","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$45,000","7080 Babbling Brook Dr, Jonesboro, GA 30236",3,2,"1,414",N/A
+"$60,000","5631 Waterford Ct #36, Morrow, GA 30260",3,2,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$249,000","672 Mill Creek Trl, Jonesboro, GA 30238",4,3,"2,720","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$150,000","9111 Woodgreen Way, Jonesboro, GA 30238",3,2,"1,144","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$122,500","1765 Broad River Rd, Atlanta, GA 30349",3,2,"1,444","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$220,000","1859 Raleigh Ct, Jonesboro, GA 30236",3,3,"2,324","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$103,000","11360 Kayla Dr, Hampton, GA 30228",3,3,"1,456","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$251,490","1529 Nations Trl, Riverdale, GA 30296",--,--,--,N/A
+"$222,900","10533 Fitzgerald Rd, Jonesboro, GA 30238",4,3,"4,449","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$185,000","2652 Ashley Cir, Jonesboro, GA 30236",5,3,"2,690","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$143,000","3607 Mosswood Ln, Rex, GA 30273",3,2,"1,340","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$143,000","3607 Mosswood Ln, Rex, GA 30273",3,2,"1,340",https://photos.zillowstatic.com/p_e/ISzn8q3r2iag7h0000000000.jpg
+"$185,000","2652 Ashley Cir, Jonesboro, GA 30236",5,3,"2,690",https://photos.zillowstatic.com/p_e/ISjz2tldcm0g3z0000000000.jpg
+"$160,440","8467 Douglass Trl #100, Jonesboro, GA 30236",3,3,"1,398",https://photos.zillowstatic.com/p_e/ISbx7x7ku7wsmi0000000000.jpg
+"$160,440","8467 Douglass Trl, Jonesboro, GA 30236",--,--,--,N/A
+"$222,900","10533 Fitzgerald Rd, Jonesboro, GA 30238",4,3,"4,449",https://photos.zillowstatic.com/p_e/ISvoq147wvevni1000000000.jpg
+"$251,490","1529 Nations Trl, Riverdale, GA 30296",--,--,--,N/A
+"$146,000","9260 Golf View Dr, Riverdale, GA 30274",4,3,"1,560",https://photos.zillowstatic.com/p_e/ISjjiahkwg24ya0000000000.jpg
+"$169,000","5722 Partin Ct, Ellenwood, GA 30294",4,3,"1,843",https://photos.zillowstatic.com/p_e/ISbpl2nn3rmov60000000000.jpg
+"$199,900","8574 Goswell Dr, Jonesboro, GA 30238",4,2.5,"2,828",https://photos.zillowstatic.com/p_e/ISni892aoxsabh0000000000.jpg
+"$238,000","12033 Kelowna Rd, Hampton, GA 30228",4,3,"3,336","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$137,500","627 Barksdale Dr, Forest Park, GA 30297",4,2,"3,154","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$158,790","8481 Douglass Trl #107, Jonesboro, GA 30236",3,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$775,000","8494 Edgewater Cv, Lake Spivey, GA 30236",6,7,"8,600","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$225,200","1916 Spivey Village Ln, Jonesboro, GA 30236",4,4,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$317,795","643 Oakville Ter, Hampton, GA 30228",--,--,--,N/A
+"$149,000","5380 Denny Dr, Atlanta, GA 30349",4,2,"1,851","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$349,765","271 Woodstone Ct, Atlanta, GA 30349",--,--,--,N/A
+"$155,000","2734 Culver Cir, Morrow, GA 30260",3,3,"1,808","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$110,000","5361 Orchard Pl, Morrow, GA 30260",3,2,"1,275","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$200,900","2998 Cleburne Ter, Hampton, GA 30228",3,3,"2,410","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$690,383","2370 Indio Ct, Jonesboro, GA 30236",3,2,"1,548","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$170,000","7161 Laurel Creek Dr #0074, Stockbridge, GA 30281",4,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$106,000","6109 Camden Forrest Cv #6109, Riverdale, GA 30296",2,3,512,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$108,000","6109 Camden Forrest Cv, Riverdale, GA 30296",2,3,"1,024","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$128,000","111 Crowder St, Jonesboro, GA 30236",3,2.5,"1,680","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$235,087","7949 Mustang Ln, Riverdale, GA 30274",5,2.5,"2,238","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$170,000","7983 Woods Ln, Jonesboro, GA 30236",4,3,"2,551","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$422,343","11371 Chelsea Ln, Hampton, GA 30228",4,2,"1,449","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$126,900","10814 Mallard Dr, Jonesboro, GA 30238",3,2,"1,620","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$120,000","395 River Oak Dr, Riverdale, GA 30274",2,1.5,"1,000",N/A
+"$100,000","2486 Brianna Dr, Hampton, GA 30228",3,3,"1,470","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$141,500","1960 Campfire Dr, Riverdale, GA 30296",3,2,"1,378","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$225,200","1916 Spivey Village Ln #60, Jonesboro, GA 30236",4,4,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$238,440","1524 Nations Trl, Riverdale, GA 30296",--,--,--,N/A
+"$116,000","6248 Flamingo Way, Morrow, GA 30260",3,1,"1,075","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$422,343","9703 Ivey Ridge Cir, Jonesboro, GA 30238",4,2.5,"2,610","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$119,500","837 Crabtree Ct, Jonesboro, GA 30238",3,2.5,"1,814",N/A
+"$167,500","6716 Brookwood Cir, Jonesboro, GA 30236",5,2,"1,647","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$225,000","9394 Sweetbriar Cir, Jonesboro, GA 30236",4,3,"2,254","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$145,000","662 Wynfield Way, Jonesboro, GA 30238",3,2.5,"1,790","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$145,000","662 Wynfield Way, Jonesboro, GA 30238",3,2.5,"1,790",https://photos.zillowstatic.com/p_e/ISf8ftbgijt9ql1000000000.jpg
+"$422,343","11371 Chelsea Ln, Hampton, GA 30228",4,2,"1,449",https://photos.zillowstatic.com/p_e/ISrllk7z80lhbg1000000000.jpg
+"$149,000","5380 Denny Dr, Atlanta, GA 30349",4,2,"1,851",https://photos.zillowstatic.com/p_e/ISzn8e6956jcod0000000000.jpg
+"$775,000","8494 Edgewater Cv, Lake Spivey, GA 30236",6,7,"8,600",https://photos.zillowstatic.com/p_e/ISzfygnxdod6pn1000000000.jpg
+"$690,383","12564 Lakeside Pkwy, Fayetteville, GA 30215",4,3,"2,098",https://photos.zillowstatic.com/p_e/ISzb3auku3g7mr1000000000.jpg
+"$349,765","271 Woodstone Ct, Atlanta, GA 30349",--,--,--,N/A
+"$108,000","6109 Camden Forrest Cv, Riverdale, GA 30296",2,3,"1,024",https://photos.zillowstatic.com/p_e/ISbtw9vc4iiijw1000000000.jpg
+"$170,000","7983 Woods Ln, Jonesboro, GA 30236",4,3,"2,551",https://photos.zillowstatic.com/p_e/IS3b138rkxue0g0000000000.jpg
+"$50,000","8219 Sussex Dr, Jonesboro, GA 30238",3,1,"1,014",https://photos.zillowstatic.com/p_e/ISrhqxpsl8n0lk0000000000.jpg
+"$153,990","8471 Douglass Trl, Jonesboro, GA 30236",3,3,--,N/A
+"$138,000","5339 Creekview Ln, Morrow, GA 30260",4,3,"1,836","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$202,710","2639 Lovejoy Crossing Dr, Hampton, GA 30228",3,3,"1,950","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$30,000","0 Woods Ln, Jonesboro, GA 30236",4.48,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$255,275","445 Panhandle Pl, Hampton, GA 30228",--,--,--,N/A
+"$200,000","6556 Aquila Dr, Morrow, GA 30260",5,3,"1,541",N/A
+"$202,710","2639 Lovejoy Crossing Dr #259, Hampton, GA 30228",3,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$85,000","6399 Lanier Rd, Morrow, GA 30260",3,1.5,"1,305",N/A
+"$256,000","1654 Nations Trl, Riverdale, GA 30296",4,3,"2,408","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$175,000","12369 Riviera Dr, Fayetteville, GA 30215",4,3,"1,781","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$258,145","620 Millstone Dr, Jonesboro, GA 30238",5,4,"2,968","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$215,000","3094 Rex Ridge Cir, Rex, GA 30273",5,3,"2,556","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$150,800","1032 Brian Ln, Forest Park, GA 30297",4,2,"1,913","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$109,000","2323 Nicole Dr, Hampton, GA 30228",3,3,"1,624","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$149,925","895 N Cumberland Cir, Riverdale, GA 30296",4,2,"1,798","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$158,900","11882 Fuller St, Hampton, GA 30228",3,3,"1,386","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$189,000","7646 Pine Gables Dr, Riverdale, GA 30296",4,3,"2,138","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$120,000","8977 Gatewood Dr, Jonesboro, GA 30238",3,2,"1,344","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$138,000","498 Watson Ferry Dr, Forest Park, GA 30297",3,2,"1,102","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$256,000","1654 Nations Trl, Riverdale, GA 30296",--,--,--,N/A
+"$252,490","7377 Embassy Trce, Riverdale, GA 30296",--,--,--,N/A
+"$334,771","231 Woodstone Ct, Atlanta, GA 30331",5,4,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$205,000","7579 Pine Gables Dr, Riverdale, GA 30296",--,--,--,N/A
+"$520,000","2722 Jodeco Cir, Jonesboro, GA 30236",6,5,"5,505","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$145,000","828 Pine Shoals Ct, College Park, GA 30349",3,2,"1,509","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$108,000","5189 Kingswood Cir, Atlanta, GA 30349",3,2,"1,008","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$119,900","837 Laurel St, Forest Park, GA 30297",3,2,"1,560","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$210,000","5525 Luther Ct, Ellenwood, GA 30294",4,3,"1,960","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$237,000","1963 Surrey Ln, Jonesboro, GA 30236",5,3,"2,766","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$168,500","746 Dixon Rd, Jonesboro, GA 30238",4,4,"2,347","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$123,500","5285 Chantilly Ter, College Park, GA 30349",3,2,"1,368","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"

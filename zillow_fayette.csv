@@ -1,0 +1,761 @@
+price,address,bds,ba,sqft,image
+"$685,000","250 Old Ivy, Fayetteville, GA 30215",5,6,"5,632",https://photos.zillowstatic.com/p_e/ISb5a80il7u12j0000000000.jpg
+"$790,000","705 Approach Dr, Peachtree City, GA 30269",6,6,"5,379",https://photos.zillowstatic.com/p_e/IS72puvlrgtg8p0000000000.jpg
+"$377,000","405 Holly Grove Church Rd, Peachtree City, GA 30269",4,3,"2,302",https://photos.zillowstatic.com/p_e/ISnqu3fw17hrkh1000000000.jpg
+"$412,000","111 Reflections Point, Fayetteville, GA 30215",4,4,"3,430",https://photos.zillowstatic.com/p_e/ISzvq1r5x6jxsu1000000000.jpg
+"$310,000","100 Gray Fox Point, Fayetteville, GA 30214",4,4,"2,573",https://photos.zillowstatic.com/p_e/ISnmb2ips79n6q0000000000.jpg
+"$413,000","125 Hopeton Ter, Fayetteville, GA 30215",4,3,"2,935",https://photos.zillowstatic.com/p_e/ISrpw7g3umr0801000000000.jpg
+"$259,000","107 Kraftwood Park, Peachtree City, GA 30269",3,2,"1,384",https://photos.zillowstatic.com/p_e/ISnq22vdntqcnd0000000000.jpg
+"$250,000","204 Deergrass Trl, Peachtree City, GA 30269",3,2,"1,472",https://photos.zillowstatic.com/p_e/ISvwgnk5o4j7860000000000.jpg
+"$386,560","88 Chapman Farm Rd LOT 17, Senoia, GA 30276",4,4,"4,123",https://photos.zillowstatic.com/p_e/ISbdwaz2fad7m80000000000.jpg
+"$265,000","118 Rubicon Rd, Peachtree City, GA 30269",3,4,"1,912","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$435,000","360 Emerald Lake Dr, Fayetteville, GA 30215",5,5,"5,402","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$250,000","6 Dover Trl, Peachtree City, GA 30269",2,3,"1,979","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$490,000","315 Lilac Path, Peachtree City, GA 30269",5,4,"3,139","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$360,550","130 Essex Cir, Fayetteville, GA 30215",4,3,"2,547","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$459,900","486 Lees Lake Rd, Fayetteville, GA 30214",3,4,"4,525","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$186,000","308 Morgans Turn, Peachtree City, GA 30269",3,2,"1,345","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$139,000","11 Cobblestone Crk, Peachtree City, GA 30269",2,2,"1,236","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$218,600","541 Covered Bridge Trl, Fayetteville, GA 30214",3,2,"2,080","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$274,320","603 Las Brasis Ct, Peachtree City, GA 30269",3,4,"2,128","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$268,000","135 Summer Brooke, Peachtree City, GA 30269",4,2,"1,621","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$477,000","420 Stonewyck Dr, Tyrone, GA 30290",5,4,"3,575","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$820,000","125 Meeting House Rd, Fayetteville, GA 30215",5,5,"3,785","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$353,000","1310 Yarborough Dr, Peachtree City, GA 30269",4,3,"2,450","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$546,000","188 Carson Rd #4, Brooks, GA 30205",4,4,"3,286","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$210,000","105 Starrs Mill Dr, Senoia, GA 30276",4,3,"1,696","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$250,000","150 Windward Way, Fayetteville, GA 30214",3,3,"2,502","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$345,000","1110 Iveydale Ln, Peachtree City, GA 30269",4,3,"2,563","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$413,500","230 Blue Point Pkwy, Fayetteville, GA 30215",4,4,"2,916","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$209,000","190 Woodgate, Fayetteville, GA 30215",3,2,"1,690",N/A
+"$249,900","335 Windsor Dr, Fayetteville, GA 30215",4,3,"2,151","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$515,000","106 Camp Creek Trl, Peachtree City, GA 30269",6,5,"5,700","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$544,900","180 Swanson Rd #4, Fayetteville, GA 30214",4,4,"3,350","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$283,000","355 Burch Rd, Fayetteville, GA 30215",6,3,"3,297","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$160,000","916 Highway 314, Fayetteville, GA 30214",4,3,"2,265","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$299,000","140 Roscommon Ct, Tyrone, GA 30290",4,3,"3,756","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$191,000","31 Cobblestone Crk, Peachtree City, GA 30269",4,3,"1,851",N/A
+"$360,000","310 Legacy Ln, Peachtree City, GA 30269",3,2,"1,936","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$333,900","115 Drumcliff Ct, Tyrone, GA 30290",5,4,"3,438","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$62,500","255 Oak St, Fayetteville, GA 30215",3,3,"1,906","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$265,000","105 Forest Hall Pl, Fayetteville, GA 30214",5,3,"3,343","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$230,000","245 Rehobeth Way, Fayetteville, GA 30214",3,2,"1,811",https://photos.zillowstatic.com/p_e/ISvgsd8d58pwtt0000000000.jpg
+"$329,900","120 Mandy Ct, Fayetteville, GA 30215",4,3,"2,924",https://photos.zillowstatic.com/p_e/ISfk0ef5eo7ii80000000000.jpg
+"$427,572","4 Lot 4-2 Newberry Estates Xing #4-2, Senoia, GA 30276",5,4,"3,662",https://photos.zillowstatic.com/p_e/IS7uaq0dfcyjr71000000000.jpg
+"$643,400","1153 Antioch Rd, Fayetteville, GA 30215",5,5,"5,348",https://photos.zillowstatic.com/p_e/ISbx3mcxtndzc60000000000.jpg
+"$55,000","0 Snead Rd #504-598, Fayetteville, GA 30215",--,N/A,N/A,https://photos.zillowstatic.com/p_e/ISvwoprucrh3401000000000.jpg
+"$487,000","203 Camp Creek Trl, Peachtree City, GA 30269",3,3,"2,875",https://photos.zillowstatic.com/p_e/IS7qnhzqcs20051000000000.jpg
+"$349,900","145 Flint Acres Cir, Jonesboro, GA 30238",4,4,"5,813",N/A
+"$350,000","106 Denham Sq, Peachtree City, GA 30269",3,4,"2,511",https://photos.zillowstatic.com/p_e/ISb1fd86l7t1t31000000000.jpg
+"$274,900","195 Sugarland Trl, Fayetteville, GA 30214",4,3,"2,580",https://photos.zillowstatic.com/p_e/ISzbzenzf25mw60000000000.jpg
+"$625,000","156 Interlochen Dr, Peachtree City, GA 30269",5,5,"4,448","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$303,000","308 Ginger Cake Rd, Fayetteville, GA 30214",3,4,"3,840","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$389,000","120 Gadson Dr, Fayetteville, GA 30214",5,3,"2,876","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$613,500","113 Middleton Dr, Peachtree City, GA 30269",6,4,"4,816","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$429,900","618 Bellenden Dr, Peachtree City, GA 30269",4,4,"3,453","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$577,000","611 Mask Rd #12, Brooks, GA 30205",5,4,"3,098","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$372,000","118 Masters Dr N, Peachtree City, GA 30269",4,3,"2,920","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$141,500","32 Twiggs Cor, Peachtree City, GA 30269",2,2,"1,118","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$250,000","245 Devilla Trce, Fayetteville, GA 30214",4,4,"2,802","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$309,000","267 Turnbridge Cir, Peachtree City, GA 30269",4,2,"1,947","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$145,000","310 Oak St, Fayetteville, GA 30215",3,2,"1,802","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$325,000","2699 Highway 85 S, Senoia, GA 30276",3,3,"2,639","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$232,000","544 Covered Bridge Trl, Fayetteville, GA 30214",4,2.5,"2,136","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$335,000","105 Cabin Gate, Peachtree City, GA 30269",4,3,"2,462","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$538,000","165 Streamview Ct, Fayetteville, GA 30215",6,4,"4,037","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$285,000","1039 Pinehurst Dr, Peachtree City, GA 30269",2,2,"1,695","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$510,000","114 Julias Xing, Brooks, GA 30205",4,3,"3,566","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$485,000","185 Riveroak Dr, Fayetteville, GA 30215",4,4,"3,841","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$206,000","842 Senoia Rd, Tyrone, GA 30290",3,2,"2,269","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$430,000","415 Robinson Rd, Peachtree City, GA 30269",4,5,"4,423","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$72,000","0 S 242 Clark Spur, Fayetteville, GA 30215",18.7,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$430,000","321 Huiet Dr, Fayetteville, GA 30215",5,4,"2,892","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$375,000","144 Maple Grove Ter, Peachtree City, GA 30269",2,3,"2,770","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$425,000","170 Chaparral Trce, Tyrone, GA 30290",5,4,"4,408","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$474,900","215 Postwood Dr, Fayetteville, GA 30215",3,3,"2,877",N/A
+"$205,000","115 Country Side Dr, Senoia, GA 30276",3,2,"1,250","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$271,000","253 Otter Cir, Fayetteville, GA 30215",4,3,"2,213","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$443,800","130 Whitman Grv, Fayetteville, GA 30215",4,4,"3,858","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$159,000","2753 Highway 92 S, Fayetteville, GA 30215",2,1,"1,232","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$330,000","202 Swanson Rdg, Peachtree City, GA 30269",3,3,"3,946","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$502,000","300 Bellingrath Ct, Peachtree City, GA 30269",4,3,"3,204","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$260,000","138 Sweetgum Rd, Peachtree City, GA 30269",3,2,"1,444",https://photos.zillowstatic.com/p_e/ISv8icm8ack8u90000000000.jpg
+"$502,000","300 Bellingrath Ct, Peachtree City, GA 30269",4,3,"3,204",https://photos.zillowstatic.com/p_e/ISrpsg4pw8vik91000000000.jpg
+"$259,900","130 Mill Wood Ln, Fayetteville, GA 30214",4,3,"3,370",https://photos.zillowstatic.com/p_e/ISbl2h6kgrjit80000000000.jpg
+"$224,900","120 Maple Ct, Fayetteville, GA 30214",4,3,"2,557",https://photos.zillowstatic.com/p_e/IS76451ah9wgkk1000000000.jpg
+"$150,900","200 Monmouth Dr, Fayetteville, GA 30214",2,2,"1,361",https://photos.zillowstatic.com/p_e/ISn2cd7anx4f980000000000.jpg
+"$878,000","809 Smokey Way, Peachtree City, GA 30269",6,7,"6,367",https://photos.zillowstatic.com/p_e/ISz3hrqtkh2dp61000000000.jpg
+"$448,902","323 Cottonwood Circle, Peachtree City, GA 30269",3,2,"1,772",N/A
+"$580,000","360 Morgan Mill Rd, Brooks, GA 30205",3,4,"3,251",https://photos.zillowstatic.com/p_e/IS7q3q4hkp49mx0000000000.jpg
+"$330,931","135 Filson Dr #2025, Senoia, GA 30276",4,3,"2,812",https://photos.zillowstatic.com/p_e/ISznw0wmyykcay0000000000.jpg
+"$250,000","335 Sunderland Cir, Fayetteville, GA 30215",4,2,"1,836","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$420,000","315 Park Haven Ln, Tyrone, GA 30290",4,4,"3,695","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$463,000","205 Oakleigh Manor Dr, Fayetteville, GA 30215",3,4,"3,984","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$167,000","313 Twiggs Cor, Peachtree City, GA 30269",3,3,"1,246","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$565,500","209 Palisades, Peachtree City, GA 30269",4,4,"5,905","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$299,900","320 Pine Trail Rd, Fayetteville, GA 30214",3,2,"2,265","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$522,000","1114 Montclair Dr, Peachtree City, GA 30269",4,5,"3,503","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$194,900","115 Ridge Rd, Tyrone, GA 30290",3,2,"1,684","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$318,000","190 Sweetwater Dr, Fayetteville, GA 30214",4,4,"2,851","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$495,000","354 Lowery Rd, Fayetteville, GA 30215",6,3,"4,118","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$540,000","120 Kenmare Row, Tyrone, GA 30290",5,4,"3,966","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$387,000","578 Grant Rd, Brooks, GA 30205",3,3,"2,727","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$430,000","579 Crabapple Ln, Peachtree City, GA 30269",5,5,"4,100","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$425,000","824 Richmond Cir, Peachtree City, GA 30269",4,4,"3,347","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$323,700","345 Laurelwood Dr, Tyrone, GA 30290",4,3,"2,660","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$269,900","185 Canterbury Ln, Fayetteville, GA 30215",3,3,"2,276","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$190,000","192 Highland Hills Rd, Fayetteville, GA 30214",3,2,"1,779","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$441,000","826 Richmond Cir, Peachtree City, GA 30269",4,4,"3,682","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$410,000","320 Terrane Rdg, Peachtree City, GA 30269",3,2,"2,638","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$452,905","262 Blue Point Pkwy, Fayetteville, GA 30215",4,4,"3,401","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$290,000","105 Monticello Way, Fayetteville, GA 30214",4,4,"3,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$452,905","262 Blue Point Pkwy #60, Fayetteville, GA 30215",4,4,"3,401","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$255,000","235 Devilla Ct #75, Fayetteville, GA 30214",3,2,"2,205","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$385,000","120 Laydon Ave, Fayetteville, GA 30214",5,5,"3,320","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$935,000","585 Wentworth Ct, Fayetteville, GA 30215",7,6,"6,401","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$399,000","313 Calgary Dr, Peachtree City, GA 30269",4,3,"2,601","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$549,900","120 Buckhorn Trl, Fayetteville, GA 30214",5,5,"4,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$363,900","310 Haskin Knls, Peachtree City, GA 30269",4,3,"2,271","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$445,000","647 Lees Lake Rd, Fayetteville, GA 30214",6,4,"4,802","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$356,000","1706 Yarborough Dr, Peachtree City, GA 30269",4,3,"2,600","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$241,000","125 Parkside Dr, Fayetteville, GA 30214",4,3,"1,969","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$342,800","215 Buckhorn Trl #22, Fayetteville, GA 30214",4,5,"5,069",https://photos.zillowstatic.com/p_e/ISn247lqtrq9061000000000.jpg
+"$180,000","135 Millers Oak Way, Jonesboro, GA 30238",3,2,"1,945",https://photos.zillowstatic.com/p_e/ISn6rnon8t9rn10000000000.jpg
+"$342,800","215 Buckhorn Trl, Fayetteville, GA 30214",5,4,"2,802",https://photos.zillowstatic.com/p_e/ISzb7d7olu0l6w1000000000.jpg
+"$185,000","125 Angela Dr, Fayetteville, GA 30215",3,2,"1,550",https://photos.zillowstatic.com/p_e/ISuwwv5khn4ket1000000000.jpg
+"$310,000","135 Marina Ct, Fayetteville, GA 30215",4,4,"3,884",https://photos.zillowstatic.com/p_e/ISrdzh4rihwht01000000000.jpg
+"$487,500","402 Golf View Dr, Peachtree City, GA 30269",--,--,"2,820",N/A
+"$241,000","125 Parkside Dr, Fayetteville, GA 30214",4,3,"1,969",https://photos.zillowstatic.com/p_e/ISjbwrljsavbi20000000000.jpg
+"$389,500","1106 Twin Bridge Ln, Peachtree City, GA 30269",4,3,"2,800",https://photos.zillowstatic.com/p_e/IS7uulugx7kp401000000000.jpg
+"$271,500","105 Vista Ln, Tyrone, GA 30290",3,2,"2,189",https://photos.zillowstatic.com/p_e/ISjv3b9j46hf011000000000.jpg
+"$323,000","124 Stearman Rd, Fayetteville, GA 30214",6,4,"3,600","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$225,000","347 Summer Pl, Peachtree City, GA 30269",3,2,"1,408","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$333,000","107 Haven Rdg, Peachtree City, GA 30269",4,3,"2,282",N/A
+"$548,000","185 Lodge Trl, Fayetteville, GA 30215",5,4,"3,876","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$470,000","107 Village Green Cir, Tyrone, GA 30290",5,5,"5,548","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$388,000","131 Planterra Way #140, Peachtree City, GA 30269",3,3,"2,280","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$355,000","200 Montego Trl, Tyrone, GA 30290",5,4,"3,900","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$390,000","602 Preserve Pl, Peachtree City, GA 30269",5,3,"2,890","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$700,000","158 Dogwood Trl, Tyrone, GA 30290",3,3,"2,583","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$210,000","109 Kings Ridge Dr, Peachtree City, GA 30269",3,2,"1,966","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$417,000","217 Columns Ln, Peachtree City, GA 30269",5,3,"3,280","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$179,000","665 Bradley Dr, Fayetteville, GA 30214",3,2,"1,477","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$337,000","209 Felspar Rdg, Peachtree City, GA 30269",3,3,"2,448","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$260,000","156 Bernhard Rd, Fayetteville, GA 30215",3,2,"1,951","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$674,500","406 Vanderwall, Peachtree City, GA 30269",5,4,"3,401","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$224,000","105 Birch Ct, Fayetteville, GA 30214",4,2,"2,357","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$349,600","103 Bowmoor Bank, Peachtree City, GA 30269",4,3,"2,132","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$385,000","180 Grant Rd, Fayetteville, GA 30215",3,3,"3,070","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$400,000","300 Sandalin Ln, Peachtree City, GA 30269",4,4,"3,494","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$548,500","170 Hillred Dr, Fayetteville, GA 30215",4,4,"3,918","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$406,000","195 Rolling Brook Trl, Fayetteville, GA 30215",5,3,"3,275","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$345,350","416 Hampton Grn, Peachtree City, GA 30269",3,2,"2,142","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$439,000","1103 Twin Bridge Ln, Peachtree City, GA 30269",4,4,"3,124","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$524,000","103 Biltmore Trce, Peachtree City, GA 30269",4,4,"4,303","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$284,500","100 Silverthorn Dr, Tyrone, GA 30290",3,3,"2,161","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$296,000","616 Doubletrace Ln, Peachtree City, GA 30269",4,3,"1,932","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$387,000","105 Bridgestone Cv, Fayetteville, GA 30215",5,4,"3,089","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$300,000","140 Fawn Brook Pass, Fayetteville, GA 30215",4,3,"2,282","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$227,000","285 Rehobeth Way, Fayetteville, GA 30214",2,2,"1,671","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$553,000","903 Franklin Rd, Peachtree City, GA 30269",6,5,"5,237","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$549,000","403 Sturdivant Ct, Peachtree City, GA 30269",5,5,"4,800","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$545,000","440 Stonewyck Dr, Tyrone, GA 30290",6,5,"5,775",https://photos.zillowstatic.com/p_e/ISrtvpcxqpfq4t0000000000.jpg
+"$611,690","120 Creekrise Dr #3, Peachtree City, GA 30269",5,4,"3,710",https://photos.zillowstatic.com/p_e/ISzbfjpssn28dm0000000000.jpg
+"$465,000","120 Jefferson Woods Dr, Peachtree City, GA 30269",3,3,"3,421",https://photos.zillowstatic.com/p_e/ISzfuxt6tw074o0000000000.jpg
+"$211,000","155 Wendell Ct, Fayetteville, GA 30215",3,2,"1,800",https://photos.zillowstatic.com/p_e/ISvw0vr3s39t561000000000.jpg
+"$205,000","146 Carrollwood Dr, Fayetteville, GA 30215",4,2,"1,582",https://photos.zillowstatic.com/p_e/ISb9l3b164h7ty0000000000.jpg
+"$343,475","190 Lakepoint Ln, Fayetteville, GA 30215",4,3,"3,200",https://photos.zillowstatic.com/p_e/ISn2oaxhku5gre1000000000.jpg
+"$279,900","403 Bellway Ct, Tyrone, GA 30290",4,3,"2,009",https://photos.zillowstatic.com/p_e/ISvk3tmw74sfs80000000000.jpg
+"$257,000","215 Melanie Ln, Fayetteville, GA 30214",6,4,"2,894",https://photos.zillowstatic.com/p_e/ISz3d890u4mi210000000000.jpg
+"$420,000","115 Cottage Grv, Peachtree City, GA 30269",4,4,"3,381",https://photos.zillowstatic.com/p_e/ISnaugsxkm4lkl0000000000.jpg
+"$328,500","102 Gateway Point, Peachtree City, GA 30269",4,4,"3,409","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$271,900","105 Clarin Way, Peachtree City, GA 30269",3,2,"1,593","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$305,000","190 Alford Dr, Fayetteville, GA 30215",3,3,"2,168","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$379,900","99 Senoia Oaks Way #3, Senoia, GA 30276",5,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$358,950","145 Farm Ln, Fayetteville, GA 30214",4,4,"2,847","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$420,000","301 Sandalin Ln, Peachtree City, GA 30269",6,4,"3,400","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$599,275","195 Kelmscott Ln #B406, Fayetteville, GA 30214",3,3,"1,993","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$317,900","255 Brandon Mill Cir, Fayetteville, GA 30214",4,5,"3,289","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$299,500","255 Country Squire Dr #17, Fayetteville, GA 30215",3,3,"2,300","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$500,000","805 Langdon Ln, Peachtree City, GA 30269",5,3,"3,295","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$570,000","110 Larkins Ldg, Peachtree City, GA 30269",4,5,"3,636","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$315,000","105 Shadylawn Ct, Peachtree City, GA 30269",3,2,"1,778","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$174,900","175 Old Milam Rd, Fayetteville, GA 30214",4,2,"1,532","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$196,000","115 York Ln, Fayetteville, GA 30214",3,2,"1,503","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$680,225","336 Cottonwood Circle, Peachtree City, GA 30269",3,3,"2,815",N/A
+"$345,000","110 Winterthur Pl, Fayetteville, GA 30214",5,5,"4,057","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$302,000","335 Brandon Mill Cir, Fayetteville, GA 30214",4,3,"3,600","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$341,170","0 Ashwood Farms Dr #4, Senoia, GA 30276",5,4,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$455,000","190 Carrington Ln, Brooks, GA 30205",4,4,"3,142","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$335,000","212 Pickets Row, Peachtree City, GA 30269",3,3,"1,842","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.40M,"317 Watermark Dr, Peachtree City, GA 30269",5,6,"3,710",N/A
+"$557,000","297 Nelms Rd, Fayetteville, GA 30215",4,4,"3,700","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$599,275","195 Kelmscott Ln, Fayetteville, GA 30214",3,3,"1,993","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$390,000","160 Brennan Dr, Tyrone, GA 30290",4,5,"3,059","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$499,900","129 Maple Grove Ter, Peachtree City, GA 30269",4,3,"3,318","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$223,900","320 High St #A, Fayetteville, GA 30214",1,1,542,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$385,000","1667 Highway 92 S, Fayetteville, GA 30215",4,4,"3,590","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$368,000","351 Kite Lake Rd, Fayetteville, GA 30214",4,4,"4,393","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$556,000","307 Bellingrath Ct, Peachtree City, GA 30269",4,4,"3,473","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$259,900","560 Ridgemont Dr, Fayetteville, GA 30215",4,3,"2,577","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$215,900","377 Highway 279, Fayetteville, GA 30214",3,2,"2,137","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$60,000","275 Thornton Dr, Fayetteville, GA 30214",1,2,--,https://photos.zillowstatic.com/p_e/ISzfy42diz9zb60000000000.jpg
+"$439,000","105 Chantilly Ln, Fayetteville, GA 30215",4,3,"3,120",https://photos.zillowstatic.com/p_e/ISfsuqbt64n7tg0000000000.jpg
+"$295,000","105 Calypso Ct, Tyrone, GA 30290",3,2,"2,180",https://photos.zillowstatic.com/p_e/ISr9st1mt337do1000000000.jpg
+"$415,000","236 Terrane Rdg, Peachtree City, GA 30269",5,3,"3,982",https://photos.zillowstatic.com/p_e/ISvg0swj83aqg31000000000.jpg
+"$615,000","1402 Creston Hl, Peachtree City, GA 30269",5,5,"4,059",https://photos.zillowstatic.com/p_e/ISvo27of4sdl0h1000000000.jpg
+"$465,000","358 Snead Rd, Fayetteville, GA 30215",5,4,"3,380",https://photos.zillowstatic.com/p_e/ISzbj625qbeaio0000000000.jpg
+"$475,000","180 Wellborn Chase, Fayetteville, GA 30215",5,3,"3,008",https://photos.zillowstatic.com/p_e/ISnik604gz5s501000000000.jpg
+"$385,000","325 Bontura Dr, Senoia, GA 30276",4,3,"2,432",https://photos.zillowstatic.com/p_e/ISj7pj705lo6iq1000000000.jpg
+"$459,900","1414 Pennfair Dr, Peachtree City, GA 30269",5,4,"3,479",https://photos.zillowstatic.com/p_e/IS3bds36dvhqbo1000000000.jpg
+"$259,900","195 Felton Dr, Fayetteville, GA 30214",4,3,"2,119","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$190,000","0 Quarters Rd #1, Fayetteville, GA 30215",--,N/A,N/A,N/A
+"$190,750","260 Camford Stone Path, Fayetteville, GA 30214",3,3,"1,845","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$214,900","105 Rosewood Dr, Fayetteville, GA 30214",3,2,"1,742","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$276,500","200 Charon Way, Peachtree City, GA 30269",4,3,"2,555","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$140,000","34 Twiggs Cor, Peachtree City, GA 30269",2,2,"1,056","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$48,000","135 Rock Creek Trl, Fayetteville, GA 30214",1.01,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$292,061","35 Blossom Wood Dr #2012, Senoia, GA 30276",4,2,"2,025","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$358,784","Wolf Creek Dr, Senoia, GA 30276",--,--,--,N/A
+"$358,784","82 Wolf Creek Dr #4, Senoia, GA 30276",4,3,"3,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$599,800","1390 Highway 92 S, Fayetteville, GA 30215",3,2,"1,550","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$250,000","516 Avalon Dr, Fayetteville, GA 30214",6,3,"2,590","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$200,000","681 Senoia Rd, Tyrone, GA 30290",4,4,800,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$385,000","5 Owens Path #25, Senoia, GA 30276",5,5,"3,732","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$225,000","120 Windham Way, Fayetteville, GA 30215",3,2,"1,749","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$225,000","175 Waldrop Way, Fayetteville, GA 30215",3,2,"1,655","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$390,000","272 W Mcintosh Rd, Brooks, GA 30205",11.5,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$805,000","296 Old Ford Rd, Fayetteville, GA 30214",8,9,"12,103","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$278,000","103 Butternut Ln, Peachtree City, GA 30269",3,2,"1,564","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$247,500","214 Ruskin Rd, Peachtree City, GA 30269",3,2,"1,352","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$658,000","335 Sidney Ln, Fayetteville, GA 30215",4,4,"3,808","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$235,000","130 Oliver Way, Fayetteville, GA 30214",3,2,"1,936","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.00M,"206 Brookings Ln, Peachtree City, GA 30269",5,5,"5,116","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$279,000","170 Sycamore Bnd, Fayetteville, GA 30214",4,3,"3,400","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$310,000","105 Shirewood Park, Peachtree City, GA 30269",3,2,"1,661","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$227,000","130 Grandchester Way, Fayetteville, GA 30215",3,2,"1,704","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$440,000","320 Dix Lee On Dr, Fayetteville, GA 30214",5,7,"6,288","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$245,000","236 Porter Rd, Fayetteville, GA 30215",3,2,"1,905","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$300,000","109 Sea Island Dr, Peachtree City, GA 30269",2,2,"1,730","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$142,550","144 Wynnmeade Pkwy, Peachtree City, GA 30269",3,1,"1,008","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$364,900","120 Seawright Dr, Fayetteville, GA 30215",5,4,"3,310","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$294,900","100 Kirton Turn, Peachtree City, GA 30269",4,3,"2,151",https://photos.zillowstatic.com/p_e/ISf40vza0erhw51000000000.jpg
+"$235,000","165 Watershed Way, Fayetteville, GA 30215",3,3,"2,605",https://photos.zillowstatic.com/p_e/ISnq6xpl326k7d1000000000.jpg
+"$673,000","125 N Cove Dr, Peachtree City, GA 30269",3,3,"2,681",https://photos.zillowstatic.com/p_e/ISj3irxyapm3731000000000.jpg
+"$501,500","286 Mud Bridge Rd, Fayetteville, GA 30215",4,4,"4,218",https://photos.zillowstatic.com/p_e/ISj75w3atygg2p0000000000.jpg
+"$376,900","406 Burgess Point, Peachtree City, GA 30269",4,3,"2,642",https://photos.zillowstatic.com/p_e/ISv8u9g7j9y7lm1000000000.jpg
+"$342,000","105 Kraftwood Park, Peachtree City, GA 30269",5,3,"2,700",https://photos.zillowstatic.com/p_e/ISlmbi2wbuiw211000000000.jpg
+"$245,000","236 Porter Rd, Fayetteville, GA 30215",--,--,"1,905",N/A
+"$310,000","205 Montego Trl, Tyrone, GA 30290",4,3,"2,378",https://photos.zillowstatic.com/p_e/ISvkr37m1j6h6n0000000000.jpg
+$1.33M,"220 Newport Dr, Peachtree City, GA 30269",6,8,"8,151",https://photos.zillowstatic.com/p_e/ISzns55ybdn5zw0000000000.jpg
+"$333,000","210 Vista Ln, Tyrone, GA 30290",4,3,"2,447","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$285,000","100 Sagamore Ln, Peachtree City, GA 30269",4,3,"1,834","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$358,000","201 Hickory Rd, Fayetteville, GA 30214",3,3,"2,954","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$495,000","101 Loblolly Cir, Peachtree City, GA 30269",4,6,"3,784","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$248,900","432 Kite Lake Rd, Fayetteville, GA 30214",4,3,"2,618","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$281,190","325 Harp Rd, Fayetteville, GA 30215",3,2,"1,475","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$370,000","204 Plaid Ct, Peachtree City, GA 30269",3,3,"2,168","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$245,000","100 Gantt Ln, Fayetteville, GA 30215",3,2,"2,256","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$750,000","300 Abercorn Sq, Peachtree City, GA 30269",4,4,"2,968","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$405,000","120 Shady Brook Walk, Fayetteville, GA 30214",8,5,"3,848","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$635,000","145 Merlin Ct, Fayetteville, GA 30214",5,6,"8,597","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$46,682","105 Whitman Grv, Fayetteville, GA 30215",--,--,--,N/A
+"$285,000","157 Lynn Dr, Fayetteville, GA 30215",3,2,"1,683","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$415,000","1107 Twin Bridge Ln, Peachtree City, GA 30269",4,3,"2,669","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$519,900","765 Birkdale Dr, Fayetteville, GA 30215",4,4,"3,656","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$35,500","340 Phillips Dr #34, Fayetteville, GA 30214",2.72,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$354,900","145 Lockmeade Way, Fayetteville, GA 30215",6,4,"3,206","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$336,000","200 Hedgerow Trl, Fayetteville, GA 30214",5,3.5,"4,925","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$305,000","503 Brooks Rd, Brooks, GA 30205",4,3,"3,121","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$179,300","973 Highway 85 Connector, Brooks, GA 30205",2,2,"1,420","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$874,900","170 Annelise Park Dr, Fayetteville, GA 30214",6,5,"4,455","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$153,000","101 Twiggs Cor, Peachtree City, GA 30269",2,2,975,N/A
+"$297,000","415 Dominique Ct, Fayetteville, GA 30214",4,4,"2,852","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$622,619","213 Widener Way, Peachtree City, GA 30269",--,--,--,N/A
+"$218,000","120 Winecoff Dr #34, Fayetteville, GA 30214",2,2,"1,902","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$145,000","180 Grindstone Way, Senoia, GA 30276",4,3,"3,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$577,000","305 Archway Ln, Peachtree City, GA 30269",5,4,"3,580","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$201,000","185 Valley Brook Trl, Jonesboro, GA 30238",3,2,"1,911","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$395,000","160 Calverton Ln, Tyrone, GA 30290",4,4,"3,107","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$230,000","105 Cedar Creek Ct, Fayetteville, GA 30215",4,3,"2,209",N/A
+"$210,000","110 Essex Cir, Fayetteville, GA 30215",--,--,"1,992",N/A
+"$400,000","208 Monticello Pl, Peachtree City, GA 30269",4,3,"3,013",N/A
+"$325,000","119 Haven Rdg, Peachtree City, GA 30269",4,4,"2,542",https://photos.zillowstatic.com/p_e/ISbxvjdmdthop60000000000.jpg
+"$350,000","215 Copperplate Ln, Peachtree City, GA 30269",4,3,"2,800",https://photos.zillowstatic.com/p_e/ISjrs7clb1j6a81000000000.jpg
+"$1,300","615 New Hope Rd, Fayetteville, GA 30214",4,4,"2,853",https://photos.zillowstatic.com/p_e/IStoyv8pzmttm11000000000.jpg
+"$255,000","395 Windsor Dr, Fayetteville, GA 30215",3,3,"2,176",https://photos.zillowstatic.com/p_e/IS3fwhjvzzwyrq0000000000.jpg
+"$175,000","165 Millers Oak Way, Jonesboro, GA 30238",3,2,"1,803",https://photos.zillowstatic.com/p_e/ISbtwpjqjvu1gj1000000000.jpg
+"$575,000","505 Creekside Way, Peachtree City, GA 30269",4,--,"3,549",https://photos.zillowstatic.com/p_e/IS1dhmjbdkbj9nn.jpg
+"$560,000","230 Annelise Park Dr, Fayetteville, GA 30214",5,5,"5,974",https://photos.zillowstatic.com/p_e/ISrxm5y6ozo6s50000000000.jpg
+"$498,500","109 Gleneagles Point, Peachtree City, GA 30269",5,--,"3,617",https://photos.zillowstatic.com/p_e/ISv47pt4sqccvv1000000000.jpg
+"$425,000","208 Pickets Row, Peachtree City, GA 30269",4,4,"2,711","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$400,000","102 Cadmium Ct, Peachtree City, GA 30269",4,3,"2,379","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$520,000","565 Stonehaven Dr, Fayetteville, GA 30215",4,4,"4,660","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$535,000","135 Woodberry Pl, Fayetteville, GA 30215",5,5,"3,955",N/A
+"$205,000","404 Peachtree Club Dr, Peachtree City, GA 30269",3,3,"1,412","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$175,000","205 Brookestone Point, Fayetteville, GA 30215",3,2,"1,257","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$329,785","208 Waterwood Bnd, Peachtree City, GA 30269",4,3.5,"3,000",N/A
+"$327,000","370 Gaelic Way, Tyrone, GA 30290",5,4,"4,075","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$805,000","160 Ashborough Park, Fayetteville, GA 30215",5,5,"6,839","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$529,900","335 Grandmas Ln, Fayetteville, GA 30215",5,5,"5,546","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$280,000","145 Hanover Cir, Fayetteville, GA 30214",5,3,"3,015","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$520,000","314 Loring Ln, Peachtree City, GA 30269",4,4,"2,787","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$263,100","170 Concord Ct, Fayetteville, GA 30214",3,3,"2,294","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$352,500","303 Brocade Ct, Peachtree City, GA 30269",4,2,"2,791","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$391,000","125 Kari Glen Dr, Fayetteville, GA 30215",4,4,"3,500","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$457,000","642 Grant Rd, Brooks, GA 30205",--,--,--,N/A
+"$450,000","639 Lees Lake Rd, Fayetteville, GA 30214",3,2.5,"2,742","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$290,000","185 Rockspray Rdg, Peachtree City, GA 30269",4,3,"2,521","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$286,000","504 Kemble Ln, Peachtree City, GA 30269",3,3,"1,912","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$255,000","514 Clearwater Cv, Peachtree City, GA 30269",3,3,"1,750","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$97,000","Traditions Way, Senoia, GA 30276",--,--,--,N/A
+"$97,000","Traditions Way, Senoia, GA 30276",--,--,--,N/A
+"$122,500","107 Fortress Dr, Peachtree City, GA 30269",4,3,"1,999","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$375,000","300 Vintage Vw, Peachtree City, GA 30269",4,2,"2,157","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$370,000","175 Calverton Ln, Tyrone, GA 30290",4,4,"3,336","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.09M,"185 3rd St, Fayetteville, GA 30214",--,--,--,N/A
+"$124,643","230 Deer Trl, Fayetteville, GA 30214",3,2,"1,767","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$349,900","145 Opal Ct, Fayetteville, GA 30215",5,4,"3,206","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$489,000","174 Cloister Dr, Peachtree City, GA 30269",5,4,"4,500","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$202,000","115 Pine St, Fayetteville, GA 30214",4,3,"2,249",N/A
+"$19,000","Old Milam Rd, Fayetteville, GA 30214",--,--,--,N/A
+"$349,900","145 Opal Ct, Fayetteville, GA 30215",5,4,"3,206",https://photos.zillowstatic.com/p_e/ISegtdzd50jx3u0000000000.jpg
+"$124,643","230 Deer Trl, Fayetteville, GA 30214",3,2,"1,767",https://photos.zillowstatic.com/p_e/ISepp4zlf01voj.jpg
+"$275,000","155 Morning Springs Walk, Fayetteville, GA 30214",4,4,"5,436",https://photos.zillowstatic.com/p_e/ISjz21sn257m270000000000.jpg
+"$399,900","77 Greyfairs Ave #108, Senoia, GA 30276",4,4,"3,094",https://photos.zillowstatic.com/p_e/IS7afs9uu84d4r0000000000.jpg
+"$517,000","200 Terrane Rdg, Peachtree City, GA 30269",5,3,"3,468",https://photos.zillowstatic.com/p_e/ISvs1trly9fw1h1000000000.jpg
+"$230,000","447 Banks Rd, Fayetteville, GA 30214",3,2,"2,114",https://photos.zillowstatic.com/p_e/ISznwstf5bojru0000000000.jpg
+"$456,700","370 Postwood Dr, Fayetteville, GA 30215",5,5,"3,938",https://photos.zillowstatic.com/p_e/ISjzaz7h5hh6dv0000000000.jpg
+"$457,000","642 Grant Rd, Brooks, GA 30205",3,3,"3,468",https://photos.zillowstatic.com/p_e/IS3voa53pzx1aj0000000000.jpg
+"$420,000","103 Waterlace Way, Fayetteville, GA 30215",4,3,"3,000",https://photos.zillowstatic.com/p_e/ISjzitkp6yp8qc0000000000.jpg
+"$169,900","330 Jeff Davis Pl, Fayetteville, GA 30214",2,2,"1,458","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$321,000","490 Bradley Dr, Fayetteville, GA 30214",--,--,"4,792","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$93,287","Old Greenville Rd, Fayetteville, GA 30215",--,--,"1,406",N/A
+"$240,000","145 Heatherwood Dr, Fayetteville, GA 30215",3,2,"2,100","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$150,000","14 Bay Branch Blvd, Fayetteville, GA 30214",3,3,"1,453","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$655,000","130 Old Ivy, Fayetteville, GA 30215",6,5,"3,594","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$580,000","170 Longcreek Dr, Fayetteville, GA 30214",6,8,"5,003","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$427,500","134 Colonnade Dr, Peachtree City, GA 30269",4,3,"3,362","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$367,750","155 Campaign Trl, Fayetteville, GA 30214",4,4,"3,264",N/A
+"$390,000","102 Fairgate Dr, Peachtree City, GA 30269",3,3,"2,602","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$260,000","105 Edmondson Way, Fayetteville, GA 30214",3,2,"2,333","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$235,000","228 County Line Rd, Fayetteville, GA 30215",4,3,"2,993","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$177,500","1112 Ridgefield Dr, Peachtree City, GA 30269",2,2,"1,269","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$384,900","142 Chadwick Dr, Peachtree City, GA 30269",4,3,"2,314","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$465,000","140 Donegal Dr, Tyrone, GA 30290",4,4,"2,907","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$603,000","100 Darren Dr, Fayetteville, GA 30215",6,5,"5,343","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$534,900","717 Snead Rd, Fayetteville, GA 30215",3,5,"4,480","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$280,000","107 Amblewood Ct, Peachtree City, GA 30269",3,3,"2,184","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$531,465","320 Oakleigh Manor Dr, Fayetteville, GA 30215",--,--,--,N/A
+"$5,500","Laurelwood Dr, Tyrone, GA 30290",--,--,"1,494",N/A
+"$330,000","160 Northwind Trl, Fayetteville, GA 30214",5,4,"3,988","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$699,900","150 Ashmere Ct, Tyrone, GA 30290",5,4,"3,540",N/A
+"$250,000","205 Biltmore Dr, Fayetteville, GA 30214",4,3,"2,372",N/A
+"$250,000","757 Kenwood Rd, Fayetteville, GA 30214",3,3,"3,754","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$144,900","220 Cornwallis Way, Fayetteville, GA 30214",2,2,"1,245","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.54M,"1015 Sandy Creek Rd, Fayetteville, GA 30214",5,3,"3,008","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$699,900","150 Ashmere Ct #14, Tyrone, GA 30290",5,4,"3,675","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$190,800","220 Bellevue Loop, Fayetteville, GA 30215",3,3,"1,456","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$810,000","275 Trotters Rdg, Fayetteville, GA 30215",5,5,"5,514",N/A
+"$375,000","115 Stamford Ave, Peachtree City, GA 30269",3,2,"2,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$279,900","317 Welton Way, Peachtree City, GA 30269",4,3,"2,147","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$299,000","225 Burch Rd, Fayetteville, GA 30215",3,2,"2,140",https://photos.zillowstatic.com/p_e/ISh3ugh83uu3m81000000000.jpg
+"$315,000","215 Hampton Rd, Fayetteville, GA 30215",3,3,"2,422",https://photos.zillowstatic.com/p_e/IS3bhv8z2cvy360000000000.jpg
+"$145,000","319 Summer Pl, Peachtree City, GA 30269",4,3,"2,700",N/A
+"$349,291","145 Filson Dr #2026, Senoia, GA 30276",5,3,"3,622",https://photos.zillowstatic.com/p_e/ISrpop05k34h050000000000.jpg
+"$282,190","80 Filson Dr #2038, Senoia, GA 30276",4,2,"2,308",N/A
+"$340,110","17 Chapman Farm Rd LOT 1, Senoia, GA 30276",3,4,"2,326",https://photos.zillowstatic.com/p_e/ISr16rua6q4m4f1000000000.jpg
+"$378,000","217 Lynn Dr, Fayetteville, GA 30215",4,3,"3,276",https://photos.zillowstatic.com/p_e/ISvkrne59s8zl60000000000.jpg
+$800,"115 Hedgerow Trl, Fayetteville, GA 30214",--,--,"3,585",N/A
+"$595,330","165 Whitman Grv, Fayetteville, GA 30215",--,--,--,N/A
+"$310,000","115 Chablis Ct, Fayetteville, GA 30214",6,4,"3,278","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$520,000","431 Hampton Rd, Fayetteville, GA 30215",4,3,"2,698","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$423,000","236 Independence Ln, Peachtree City, GA 30269",4,4,"3,591","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$426,625","417 Southbridge Pass, Peachtree City, GA 30269",5,4,"2,911","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$230,000","185 Redwood Cir, Fayetteville, GA 30214",--,--,"1,651",N/A
+"$180,000","275 Braemar Rd, Fayetteville, GA 30215",4,3,"3,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$440,000","109 Kenmare Row, Tyrone, GA 30290",5,4,"4,600","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$273,000","502 Clearwater Cv, Peachtree City, GA 30269",4,3,"1,740","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$350,000","103 Perch Point, Peachtree City, GA 30269",4,3,"2,346","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$380,000","711 Waterwood Bnd, Peachtree City, GA 30269",4,3,"2,334",N/A
+"$242,000","265 Bentley Way, Fayetteville, GA 30214",4,3,"2,267","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$439,900","305 Wintney Way, Peachtree City, GA 30269",5,5,"4,400","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$534,000","507 Viridian Vw, Peachtree City, GA 30269",5,4,"3,500","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$400,000","612 Spectrum Vis, Peachtree City, GA 30269",4,5,"4,400","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$500,"415 Brogdon Rd, Fayetteville, GA 30214",--,--,"2,331",N/A
+"$654,900","157 Waterlace Way, Fayetteville, GA 30215",4,4,"3,563","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$601,900","230 Heatherden Ave, Fayetteville, GA 30214",--,--,--,N/A
+"$250,000","103 Corran Ct, Peachtree City, GA 30269",3,2.5,"1,860","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$275,000","866 Hood Rd, Fayetteville, GA 30214",4,3,"2,474","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$635,000","1013 Pleasance Grv, Peachtree City, GA 30269",4,4,"4,642",N/A
+"$400,000","115 Beaverdam Rd, Fayetteville, GA 30214",5,4,"3,051","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$341,432","319 Cottonwood Circle, Peachtree City, GA 30269",2,2,"2,200",N/A
+"$237,000","115 Buckeye Ct, Fayetteville, GA 30214",3,2,"1,629","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$260,000","109 Quail Run, Peachtree City, GA 30269",3,2,"1,361","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$642,000","314 Bankstown Rd #6, Brooks, GA 30205",5,5,"3,923","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$434,900","313 Aster Ridge Trl, Peachtree City, GA 30269",4,4,"3,082","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$975,150","150 4th St, Fayetteville, GA 30214",4,5,"3,149","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$237,000","106 Windbreak Path, Peachtree City, GA 30269",4,4,"1,667","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$540,000","310 Park Haven Ln, Tyrone, GA 30290",5,5,"4,973","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$193,400","210 Woodstream Way, Fayetteville, GA 30214",3,2,"1,491","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$129,000","125 Williamsburg Way, Fayetteville, GA 30214",3,3,"1,482",N/A
+"$330,000","140 Mansfield Dr, Fayetteville, GA 30214",4,3,"2,700",N/A
+"$193,400","210 Woodstream Way, Fayetteville, GA 30214",3,2,"1,491",https://photos.zillowstatic.com/p_e/ISvg04i448rdve0000000000.jpg
+"$975,150","150 4th St, Fayetteville, GA 30214",4,5,"3,149",https://photos.zillowstatic.com/p_e/ISf4g7gcfki2sh0000000000.jpg
+"$125,000","1520 Highway 92 N, Fayetteville, GA 30214",2,1,"1,014",https://photos.zillowstatic.com/p_e/ISbph353rr23351000000000.jpg
+"$505,000","315 Elderberry Trl #164, Fayetteville, GA 30214",6,6,"5,511",https://photos.zillowstatic.com/p_e/IS7umb9vrehkra0000000000.jpg
+"$719,000","410 Westbourne Dr, Tyrone, GA 30290",6,--,"4,694",https://photos.zillowstatic.com/p_e/IS7eqzhbxp08u60000000000.jpg
+"$416,000","328 Walnut Grove Rd, Peachtree City, GA 30269",4,4,"2,536",https://photos.zillowstatic.com/p_e/ISrpcg98tjhziw0000000000.jpg
+"$715,000","400 Highgrove Dr, Fayetteville, GA 30215",5,5,"5,149",https://photos.zillowstatic.com/p_e/ISnedmg0oqutnw0000000000.jpg
+"$200,000","140 Elsberry Ln, Brooks, GA 30205",--,--,"2,542",N/A
+"$315,000","5 Lot 5 Ashwood Farms Dr #5, Senoia, GA 30276",4,2,"2,502","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$387,200","44 Greyfairs Ave, Senoia, GA 30276",5,3,"2,565","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$385,000","115 Opal Ct, Fayetteville, GA 30215",6,4,"4,949","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$320,000","185 Humboldt Dr, Fayetteville, GA 30214",5,3,"3,174","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$302,000","115 The By Way, Fayetteville, GA 30215",3,3,"2,246","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$310,000","290 Ginger Cake Rd, Fayetteville, GA 30214",3,3,"2,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$279,900","140 Healey Pass, Tyrone, GA 30290",3,3,"2,412","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$415,000","245 Brechin Dr #51, Senoia, GA 30276",4,3,"3,040","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$197,000","230 Emily Park, Fayetteville, GA 30215",2,2,"1,586","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$581,300","130 Brayden Dr, Tyrone, GA 30290",--,--,--,N/A
+"$230,000","160 Crestwood Rd, Tyrone, GA 30290",3,2,"1,652","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$260,000","125 Murphy Creek Ln, Fayetteville, GA 30215",3,3,"2,349","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$699,000","211 Kelvington Way #29, Peachtree City, GA 30269",4,5,"4,135","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$699,000","211 Kelvington Way, Peachtree City, GA 30269",4,5,"4,135","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$20,000","1495 Fayetteville Rd, Jonesboro, GA 30238",--,--,"1,100",N/A
+"$434,000","105 Amberton Ln, Fayetteville, GA 30215",4,3,"3,788","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$275,000","208 Milam Rd, Fayetteville, GA 30214",4,3,"2,647","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$18,000","1491 Fayetteville Rd, Jonesboro, GA 30238",--,--,"1,204",N/A
+"$155,000","230 Autumn Glen Cir, Fayetteville, GA 30215",--,--,"1,348",N/A
+"$250,000","52 Braelinn Creek Ct, Peachtree City, GA 30269",3,3,"1,761","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$411,116","102 Westberry St, Peachtree City, GA 30269",--,--,--,N/A
+"$330,000","175 Paula Dr, Tyrone, GA 30290",3,3,"2,157","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$382,000","312 Grovewood Ln, Peachtree City, GA 30269",3,3,"2,216","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$415,000","245 Brechin Dr, Senoia, GA 30276",4,3,"3,080","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$155,000","230 Autumn Glen Cir #44, Fayetteville, GA 30215",2,2,"1,362","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$522,218","125 Whitman Grv, Fayetteville, GA 30215",--,--,--,N/A
+"$415,378","214 Rosetti Trce, Peachtree City, GA 30269",--,N/A,N/A,N/A
+"$466,000","465 Stonehaven Dr, Fayetteville, GA 30215",4,3,"2,935","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$180,000","145 Carrington Ln, Brooks, GA 30205",5,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$193,000","209 Olive Dr, Peachtree City, GA 30269",3,2,"1,468",N/A
+"$240,000","365 N Fayette Dr, Fayetteville, GA 30214",4,3,"2,258","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$371,000","150 Senoia Oaks Way #20, Senoia, GA 30276",5,4,"3,029",https://photos.zillowstatic.com/p_e/ISjbwvkl4y4zlj1000000000.jpg
+"$535,000","110 Woodcreek Ln LOT 52, Fayetteville, GA 30215",5,4,"4,806",https://photos.zillowstatic.com/p_e/ISn6352zj0i3031000000000.jpg
+"$298,990","105 Rabbits Run, Fayetteville, GA 30214",4,4,"2,529",https://photos.zillowstatic.com/p_e/ISzjxyvs3msqxg1000000000.jpg
+"$305,000","110 Branch Bnd, Tyrone, GA 30290",5,4,"2,724",https://photos.zillowstatic.com/p_e/ISnqaodtzr9n931000000000.jpg
+"$750,000","302 Pennlyn Pl, Peachtree City, GA 30269",5,5,"5,684",https://photos.zillowstatic.com/p_e/ISnaq9w0jpium40000000000.jpg
+"$324,600","115 Colonial Ct, Fayetteville, GA 30214",4,3,"2,348",N/A
+"$535,000","110 Woodcreek Ln, Fayetteville, GA 30215",6,5,"4,807",https://photos.zillowstatic.com/p_e/ISzfmz1gk6snfo0000000000.jpg
+"$642,000","302 Bankstown Rd, Brooks, GA 30205",--,--,--,N/A
+"$304,500","215 Woodbyne Dr, Fayetteville, GA 30214",6,4,"3,550",https://photos.zillowstatic.com/p_e/ISn6zdmpnrtew81000000000.jpg
+"$124,000","229 Palmetto Rd, Tyrone, GA 30290",--,--,"1,550",N/A
+"$164,000","170 Middling Ln, Fayetteville, GA 30214",3,2,"1,607","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$155,000","335 Monmouth Dr, Fayetteville, GA 30214",3,2,"1,439","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$399,000","50 Sylvan Loop, Fayetteville, GA 30214",7,5,"5,868","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$221,700","105 Mill Ct, Senoia, GA 30276",3,2,"1,502","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$574,000","130 Strickland Ct, Fayetteville, GA 30215",4,4,"4,216","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$475,000","140 Covey Xing, Fayetteville, GA 30215",5,4,"3,113","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$330,000","200 Timberlane Dr, Fayetteville, GA 30214",4,4,"3,400","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$395,000","606 Skipping Rock Ln, Peachtree City, GA 30269",4,3,"2,500","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$360,885","160 Terrane Rdg, Peachtree City, GA 30269",4,3,"1,998","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$395,000","606 Skipping Rock Ln #136, Peachtree City, GA 30269",4,3,"2,500","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$290,000","160 Pointer Ridge Trl, Fayetteville, GA 30214",4,3,"2,903","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$627,000","430 Bankstown Rd, Brooks, GA 30205",5,4,"3,797",N/A
+"$141,250","230 Cornwallis Way, Fayetteville, GA 30214",2,2,"1,245","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$478,900","209 Blue Point Pkwy, Fayetteville, GA 30215",4,4,"2,963","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$220,000","120 Benjamin Ct, Fayetteville, GA 30214",4,3,"2,206","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$399,900","171 Ponderosa Dr #3, Fayetteville, GA 30214",4,4,"3,642","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$175,000","105 Winslow Ct #87, Fayetteville, GA 30214",2.53,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$399,900","171 Ponderosa Dr, Fayetteville, GA 30214",--,--,"3,642",N/A
+"$175,000","105 Winslow Ct, Fayetteville, GA 30214",--,--,--,N/A
+"$105,000","130 Williamsburg Way, Fayetteville, GA 30214",2,3,"1,452","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$334,000","211 Amelia Ln, Peachtree City, GA 30269",4,3,"2,252","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$279,000","165 Brookshire Dr, Fayetteville, GA 30215",3,2,"2,103","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$670,000","411 Loyd Rd, Peachtree City, GA 30269",5,4,"4,598","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$265,000","213 Jeff Davis Pl, Fayetteville, GA 30214",0.5,N/A,N/A,N/A
+"$80,000","160 White Tail Ct, Fayetteville, GA 30214",3,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$135,000","92 Cobblestone Crk, Peachtree City, GA 30269",3,3,"1,776","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$435,000","125 Woodleigh Dr, Fayetteville, GA 30215",4,3,"2,574","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$310,000","888 Grant Rd, Brooks, GA 30205",4,3,"2,026","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$230,000","735 Ginger Cake Rd, Fayetteville, GA 30214",4,2,"2,140","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$362,500","129 Santolina Park, Peachtree City, GA 30269",4,3,"2,435","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$230,000","735 Ginger Cake Rd, Fayetteville, GA 30214",4,2,"2,140",https://photos.zillowstatic.com/p_e/ISb9dxgvd2o5qc1000000000.jpg
+"$246,000","125 Dogwood Cir, Fayetteville, GA 30215",3,3,"1,830",https://photos.zillowstatic.com/p_e/ISfwd42fk714rq1000000000.jpg
+"$324,900","175 Lakepoint Ln, Fayetteville, GA 30215",5,3,"2,895",https://photos.zillowstatic.com/p_e/ISjrk1atk595o41000000000.jpg
+"$300,000","342 Graves Rd, Fayetteville, GA 30214",4,4,"2,894",https://photos.zillowstatic.com/p_e/IS72txo9dt8sgi1000000000.jpg
+"$351,163","Senoia Rd, Tyrone, GA 30290",--,--,--,N/A
+"$314,000","105 Saddle Ridge Way, Fayetteville, GA 30215",4,3,"2,541",https://photos.zillowstatic.com/p_e/ISnaa9xcjfo2ex1000000000.jpg
+"$306,000","180 Farm Ln, Fayetteville, GA 30214",4,3,"1,663",https://photos.zillowstatic.com/p_e/ISzvuwldx658s10000000000.jpg
+"$224,900","185 Rosewood Dr, Fayetteville, GA 30214",3,2,"1,964",https://photos.zillowstatic.com/p_e/ISfca0xepsdkjd1000000000.jpg
+"$210,000","225 Deer Trl, Fayetteville, GA 30214",3,2,"2,397",https://photos.zillowstatic.com/p_e/ISfcy2byv5sfjb0000000000.jpg
+"$224,900","175 Rosewood Dr, Fayetteville, GA 30214",--,--,--,N/A
+"$370,000","235 Old Mill Ct, Fayetteville, GA 30214",5,4,"2,972","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$143,000","301 Twiggs Cor, Peachtree City, GA 30269",2,2,975,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$280,000","101 Quail Run, Peachtree City, GA 30269",3,2,"1,355","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$574,000","295 Traditions Way #19, Senoia, GA 30276",4,4,"3,260",N/A
+"$574,000","Traditions Way, Senoia, GA 30276",--,--,--,N/A
+"$366,250","100 Warmstone Path, Peachtree City, GA 30269",4,3,"2,820","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$369,000","225 Honey Ln, Fayetteville, GA 30214",4,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$684,865","100 Creekrise Dr #1, Peachtree City, GA 30269",5,6,"5,259","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$160,000","135 Windy Hill Rd, Fayetteville, GA 30214",3,2,"1,762","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$474,723","404 Bandon Way, Peachtree City, GA 30269",3,4,"3,080","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$395,750","422 Holly Grove Church Rd, Peachtree City, GA 30269",4,3,"2,434","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$511,000","160 Isleworth Way, Fayetteville, GA 30215",5,4,"3,719","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$245,000","105 Old Magnolia Ln, Fayetteville, GA 30214",4,3,"3,371","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$60,000","218 Valley Vw, Peachtree City, GA 30269",--,--,"1,122",N/A
+"$460,000","175 Bel Aire Loop, Fayetteville, GA 30215",5,5,"4,273","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$315,000","390 Huckaby Rd, Brooks, GA 30205",3,2,"1,810","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$260,000","153 Dana Dr, Fayetteville, GA 30215",4,4,"2,636",N/A
+"$640,000","210 Old Ivy, Fayetteville, GA 30215",5,6,"5,316","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$535,000","291 Huckaby Rd, Brooks, GA 30205",--,--,"2,500",N/A
+"$301,660","170 Pendleton Trl, Tyrone, GA 30290",4,4,"3,522","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$195,350","150 Flint Acres Cir, Jonesboro, GA 30238",4,3,"2,110","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$485,000","403 Robinson Rd, Peachtree City, GA 30269",5,5,"5,037","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$790,000","455 Westbourne Dr, Tyrone, GA 30290",5,7,"7,451","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$358,000","101 Sea Island Dr, Peachtree City, GA 30269",2,2,"1,985","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$441,000","190 Northern Oaks Dr, Fayetteville, GA 30214",4,5,"3,588","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$475,000","221 Lavender Oasis, Peachtree City, GA 30269",6,5,"4,962","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$299,900","213 Shadowood Ln #25, Peachtree City, GA 30269",4,4,--,N/A
+"$350,000","131 Saint Albans Way, Peachtree City, GA 30269",3,3,"2,490","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$625,000","404 Chambray Hls, Peachtree City, GA 30269",5,4,"4,008","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$300,500","512 Raintree Hl, Peachtree City, GA 30269",3,2,"1,952","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$575,000","324 Chimney Sweep Cir, Peachtree City, GA 30269",4,4,"3,600",https://photos.zillowstatic.com/p_e/ISbd8od4kzbtp30000000000.jpg
+"$254,000","260 Innisbrook Way, Fayetteville, GA 30214",2,2,"1,924",https://photos.zillowstatic.com/p_e/ISn6bbs9x64u371000000000.jpg
+"$217,000","2301 Highway 92 S, Fayetteville, GA 30215",3,2,"6,732",https://photos.zillowstatic.com/p_e/ISnig7uwxbzfc41000000000.jpg
+"$334,090","17 Lot 17 Ashwood Ct #17, Senoia, GA 30276",4,3,--,https://photos.zillowstatic.com/p_e/ISbtwtq2h8d15o0000000000.jpg
+"$257,000","827 Bedford Park, Peachtree City, GA 30269",3,2,"1,443",N/A
+"$551,000","Traditions Way, Senoia, GA 30276",--,--,--,N/A
+"$304,000","308 Evian Way, Peachtree City, GA 30269",4,3,"2,280",https://photos.zillowstatic.com/p_e/ISbp52g96r5jm41000000000.jpg
+"$299,900","213 Shadowood Ln, Peachtree City, GA 30269",3,2.5,"1,850",N/A
+"$820,000","500 Old Valley Point, Fayetteville, GA 30215",6,7,"6,460",https://photos.zillowstatic.com/p_e/ISz3phgds7x3s50000000000.jpg
+"$247,000","175 Pepperdine Way, Fayetteville, GA 30214",4,2,"1,993","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$799,000","615 Keystone Ct, Fayetteville, GA 30215",6,6,"5,618","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$448,913","115 Ravens Lndg, Fayetteville, GA 30215",6,5,"5,983",N/A
+"$510,500","305 Owenberg Trce, Peachtree City, GA 30269",5,4,"3,225","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$513,609","127 Westberry St, Peachtree City, GA 30269",--,--,--,N/A
+"$138,000","105 Stratford Way, Fayetteville, GA 30214",2,2,"1,456","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$437,900","608 Preserve Pl, Peachtree City, GA 30269",4,4,"2,930","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$180,000","52 Cobblestone Crk, Peachtree City, GA 30269",3,3,"1,776","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$280,000","110 Murphy Creek Ln, Fayetteville, GA 30215",3,3,"2,537","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$309,900","120 Aspen Way, Fayetteville, GA 30214",4,3,"3,800","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$775,000","319 Brooks Rd, Brooks, GA 30205",5,4,"4,590","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$595,000","105 Pleasant Hl, Fayetteville, GA 30215",5,5,"5,115","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$345,900","373 Friendship Church Rd, Brooks, GA 30205",3,2,"2,788","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$400,000","320 Grandmas Ln, Fayetteville, GA 30215",--,--,"4,187",N/A
+"$535,000","Traditions Way, Senoia, GA 30276",--,--,--,N/A
+"$449,229","330 Oakleigh Manor Dr, Fayetteville, GA 30215",2,2,"3,393",N/A
+"$336,000","225 S Shore Ter, Fayetteville, GA 30214",5,4,"4,300","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$275,000","125 Chimney Spgs, Tyrone, GA 30290",4,3,"2,338","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$290,000","181 Peters Rd, Fayetteville, GA 30214",5,3,"3,395","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$405,000","201 Planceer Pl, Peachtree City, GA 30269",4,4,"2,640","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$250,000","242 Willow Rock Point, Fayetteville, GA 30215",4,2,"1,823","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$279,000","104 Cypress Ct, Peachtree City, GA 30269",4,3,"2,440","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$529,900","115 Grouse Point, Fayetteville, GA 30215",5,5,"4,277","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$345,000","506 Atwood Cir, Peachtree City, GA 30269",4,3,"2,505","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$134,300","73 Intown Pl, Fayetteville, GA 30214",2,3,"1,520","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$316,000","105 Drumcliff Ct, Tyrone, GA 30290",4,4,"2,861","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$350,000","130 Rosses Point, Tyrone, GA 30290",4,4,"3,750","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$275,000","120 Concord Ct, Fayetteville, GA 30214",4,3,"2,157","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$390,000","120 Lockmeade Way, Fayetteville, GA 30215",5,3,"3,940","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$165,000","227 Valley Vw, Peachtree City, GA 30269",3,2,"1,299",N/A
+"$400,000","350 Trickum Creek Rd, Tyrone, GA 30290",4,4,"1,973","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$225,000","244 Busbin Rd, Fayetteville, GA 30215",3,3,"1,899",https://photos.zillowstatic.com/p_e/ISfwphc13sl7dr0000000000.jpg
+"$435,000","355 Stonehaven Dr, Fayetteville, GA 30215",4,4,"2,763",https://photos.zillowstatic.com/p_e/IS6i91zhrimxkh1000000000.jpg
+"$260,000","111 Pepperwood Dr, Peachtree City, GA 30269",3,2,"1,398",https://photos.zillowstatic.com/p_e/ISfghs6w76e6rv1000000000.jpg
+"$307,900","150 Hillcrest Point, Fayetteville, GA 30215",4,3,"2,668",https://photos.zillowstatic.com/p_e/ISrd7sxevn68bc0000000000.jpg
+"$193,150","205 Magmar Ln, Fayetteville, GA 30214",3,2,"1,539",https://photos.zillowstatic.com/p_e/IS-17ieup5jt1ffh.jpg
+"$170,000","190 Heritage Farm Ln, Fayetteville, GA 30215",4,3,"2,012",https://photos.zillowstatic.com/p_e/ISyvegmy7v3e2a1000000000.jpg
+"$280,000","115 Vickery Ln, Fayetteville, GA 30215",4,4,"2,632",https://photos.zillowstatic.com/p_e/ISrt3khv652ec70000000000.jpg
+"$524,900","175 Breakspear Ln, Fayetteville, GA 30214",3,3,"1,680",https://photos.zillowstatic.com/p_e/ISn24bcik5gy5b1000000000.jpg
+"$255,250","120 Ferncliff, Fayetteville, GA 30215",4,2.5,"2,399",https://photos.zillowstatic.com/p_e/ISbd4xtnvmk1v81000000000.jpg
+"$499,900","822 Southern Shore Dr, Peachtree City, GA 30269",5,5,"4,375","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$235,000","702 Senoia Rd, Tyrone, GA 30290",4,3,"3,056","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$255,000","1058 Hood Rd, Fayetteville, GA 30214",--,--,"1,598",N/A
+"$225,000","990 Highway 92 S, Fayetteville, GA 30215",4,3,"2,898","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$314,200","135 Adam Ridge Ln, Fayetteville, GA 30214",4,3,"2,348",N/A
+"$649,074","220 Brayden Dr, Tyrone, GA 30290",4,5,"3,540","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$329,000","384 Old Senoia Rd, Fayetteville, GA 30215",4,3,"2,164","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$156,499","255 Jeff Davis Pl, Fayetteville, GA 30214",2,2,"1,458","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$125,000","380 Jefferson Ave, Fayetteville, GA 30214",2,1,"1,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$249,900","109 Carrollwood Dr, Fayetteville, GA 30215",3,3,"2,180","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$302,500","190 Wyngate Cir, Fayetteville, GA 30215",4,4,"3,394","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$268,000","103 Timber Walk, Peachtree City, GA 30269",4,3,"2,244","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$308,000","114 Belvedere Ln, Peachtree City, GA 30269",4,3,"2,108","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$495,000","170 Greencastle, Tyrone, GA 30290",Studio,--,"5,006",N/A
+"$297,500","406 Saint Dunstans Ct, Peachtree City, GA 30269",3,3,"1,858","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$425,000","207 Savannah Walk, Peachtree City, GA 30269",4,3,"2,560","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$213,300","180 Windsor Dr, Fayetteville, GA 30215",4,3,"1,804","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$277,000","155 Mine Run, Fayetteville, GA 30215",4,4,"2,488","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$312,500","60 Cliff Trl, Fayetteville, GA 30215",5,4,"2,438","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$580,000","334 N Peachtree Pkwy, Peachtree City, GA 30269",6,6,"5,258","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$570,000","695 Birkdale Dr, Fayetteville, GA 30215",5,5,"4,740","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$475,000","226 Collierstown Way, Peachtree City, GA 30269",4,3,"3,304","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$230,000","370 Devilla Trce, Fayetteville, GA 30214",4,3,"2,957","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$352,000","115 Lockmeade Way, Fayetteville, GA 30215",5,4,"3,483","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$170,000","723 Ridgefield Dr, Peachtree City, GA 30269",2,2,"1,292","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$540,000","238 Blue Point Pkwy, Fayetteville, GA 30215",4,4,"3,223","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$364,900","300 Turtle Bay, Peachtree City, GA 30269",3,2,"1,950","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$470,000","365 Revenna Trl, Fayetteville, GA 30214",5,4,"4,420","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$385,000","130 Fenhurst Point, Senoia, GA 30276",5,5,"3,146","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$205,000","178 Lynn Dr, Fayetteville, GA 30215",3,2,"1,782","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$150,000","120 Monmouth Dr, Fayetteville, GA 30214",2,2,"1,292","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$150,000","120 Monmouth Dr, Fayetteville, GA 30214",2,2,"1,292",https://photos.zillowstatic.com/p_e/ISzbzyafja24ri0000000000.jpg
+"$865,000","64 Smokerise Point, Peachtree City, GA 30269",6,5,"5,876",https://photos.zillowstatic.com/p_e/ISb13sjf76yjw21000000000.jpg
+"$405,000","195 Plunkett Dr, Fayetteville, GA 30215",5,4,"3,694",https://photos.zillowstatic.com/p_e/ISznkn9vnz5pgx0000000000.jpg
+"$156,500","110 Mimosa Dr, Fayetteville, GA 30214",3,1.5,"1,671",https://photos.zillowstatic.com/p_e/ISrtv1uepnouqh0000000000.jpg
+"$547,000","830 Carnellian Ln, Peachtree City, GA 30269",5,5,"3,985",https://photos.zillowstatic.com/p_e/ISrhqprodcv9g30000000000.jpg
+"$420,000","120 Covey Xing, Fayetteville, GA 30215",4,3,"2,683",https://photos.zillowstatic.com/p_e/ISjjenwdekp0c50000000000.jpg
+"$32,500","145 Calypso Ct, Tyrone, GA 30290",--,--,--,N/A
+"$220,000","165 Rehobeth Way, Fayetteville, GA 30214",2,2,"1,657",https://photos.zillowstatic.com/p_e/ISfgl3ukohs2ic0000000000.jpg
+"$32,500","135 Calypso Ct, Tyrone, GA 30290",2,N/A,N/A,https://photos.zillowstatic.com/p_e/IS2r1eplxzashq0000000000.jpg
+"$389,000","611 Blackburn Ln, Peachtree City, GA 30269",4,3,"2,639","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$237,000","200 Ashland Way, Fayetteville, GA 30214",4,3,"2,614","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$275,000","135 Strandhill Rd, Tyrone, GA 30290",5,4,"3,840","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$180,000","Green Meadow Ln, Fayetteville, GA 30215",--,--,--,N/A
+"$409,147","402 Southbridge Pass, Peachtree City, GA 30269","10,018",N/A,N/A,N/A
+"$164,000","260 Landing Dr, Fayetteville, GA 30214",3,2,"1,395","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$265,000","2060 Castle Lake Dr, Tyrone, GA 30290",4,4,"3,140","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$265,000","435 Briarwood Rd, Tyrone, GA 30290",3,2,"1,792",N/A
+"$235,000","602 Willow Rd, Peachtree City, GA 30269",3,2,"2,023","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$522,000","535 Stonehaven Dr, Fayetteville, GA 30215",5,4,"4,444","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$270,000","1014 Pinehurst Dr, Peachtree City, GA 30269",2,2,"1,550","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$260,000","5059 Pond View Dr, Senoia, GA 30276",--,--,"1,984",N/A
+"$170,000","1001 Ridgelake Dr, Peachtree City, GA 30269",2,2,"1,452",N/A
+"$305,000","246 Kirkley Rd, Tyrone, GA 30290",4,2,"2,495","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$300,500","293 Oak Ridge Trl, Fayetteville, GA 30214",4,4,"2,369","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$290,000","245 Galway Bnd, Tyrone, GA 30290",4,3,"2,218","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$256,000","302 New Fieldway, Peachtree City, GA 30269",3,2,"1,366","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$355,000","107 Sea Island Dr, Peachtree City, GA 30269",2,2,"2,087","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$211,000","130 Rosewood Dr, Fayetteville, GA 30214",4,3,"2,198","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$175,000","300 Oak St, Fayetteville, GA 30215",3,2,"1,500","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$256,000","302 Newfield Way, Peachtree City, GA 30269",3,2,"1,366",N/A
+"$869,000","115 High St, Fayetteville, GA 30214",--,--,--,N/A
+"$479,900","130 Glasgow Ln, Fayetteville, GA 30214",4,3,"1,712","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$212,000","1500 Senoia Rd, Tyrone, GA 30290",1.46,N/A,N/A,N/A
+"$235,000","523 Forrest Ave, Fayetteville, GA 30214",3,3,"2,406","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$620,000","2493 Redwine Rd, Fayetteville, GA 30215",--,--,"1,914",N/A
+"$385,155","418 Southbridge, Peachtree City, GA 30269",3,3,"1,675",N/A
+"$160,000","85 Highway 85 S, Fayetteville, GA 30215",--,--,--,N/A
+"$160,000","0 Highway 85 S, Fayetteville, GA 30215",5,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$800,000","416 Ebenezer Church Rd, Fayetteville, GA 30215",4,5,"4,781","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$120,000","848 Cartwright Pass, Fayetteville, GA 30214",2,2,"1,825","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$207,500","405 Ridgelake Dr, Peachtree City, GA 30269",2,2,"1,148",https://photos.zillowstatic.com/p_e/ISv4b4wzqhicge1000000000.jpg
+"$800,000","Ebenezer Church Rd, Fayetteville, GA 30215",--,--,--,N/A
+"$315,500","121 Keswick Manor Dr, Tyrone, GA 30290",4,4,"3,273",https://photos.zillowstatic.com/p_e/ISjn14c4o0pt190000000000.jpg
+"$880,000","340 Highgrove Dr, Fayetteville, GA 30215",5,6,"5,570",https://photos.zillowstatic.com/p_e/ISvg4zwjj41m8s1000000000.jpg
+"$408,709","414 Southbridge Pass, Peachtree City, GA 30269",--,--,--,N/A
+"$75,056","170 2nd St, Fayetteville, GA 30214",--,--,--,N/A
+"$75,056","140 2nd St, Fayetteville, GA 30214",--,--,--,N/A
+"$549,000","110 Hemlock Ct, Fayetteville, GA 30215",6,5,"4,516",https://photos.zillowstatic.com/p_e/ISf839vpbzey03.jpg
+"$410,000","380 Ridgewood Dr, Fayetteville, GA 30215",5,5,"4,042",https://photos.zillowstatic.com/p_e/ISrxuzmwulj5kh0000000000.jpg
+"$219,900","190 Rosewood Dr, Fayetteville, GA 30214",4,3,"2,028","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$135,000","173 Gable Rd, Brooks, GA 30205",--,--,"1,113",N/A
+"$361,425","140 Oakleigh Manor Dr, Fayetteville, GA 30215",--,--,--,N/A
+"$165,000","704 S Fairfield Dr, Peachtree City, GA 30269",2,2,"1,091","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$461,856","105 Oakleigh Manor Dr, Fayetteville, GA",3,2,"2,921","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$367,500","223 Creekstone Bnd, Peachtree City, GA 30269",4,3,"2,531","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$180,000","200 Green Meadow Ln, Fayetteville, GA 30215",15.75,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$232,000","110 Natures Path, Tyrone, GA 30290",--,--,"1,936",N/A
+"$464,014","125 Westberry St, Peachtree City, GA 30269",4,3,"2,816",N/A
+"$383,000","157 Harp Rd, Fayetteville, GA 30215",4,3,"2,883","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$285,000","2039 Village Park Dr, Peachtree City, GA 30269",2,2,"1,879","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$325,000","121 Heritage Way, Peachtree City, GA 30269",4,3,"2,536","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$250,000","118 Clarin Way, Peachtree City, GA 30269",5,3,"2,294",N/A
+"$464,014","125 Westberry St, Peachtree City, GA 30269",--,--,--,N/A
+"$285,000","120 Clandon Park Ter, Fayetteville, GA 30214",3,3,"2,570","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$278,000","134 Stanley Rd, Fayetteville, GA 30214",5,--,"4,632","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$342,500","550 Virginia Highlands, Fayetteville, GA 30215",6,5,"4,804","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$160,000","22 Fairway Ln, Peachtree City, GA 30269",2,1.5,"1,533","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$265,000","155 Rabbits Run, Fayetteville, GA 30214",3,3,"2,558","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$315,000","140 Melody Ln, Fayetteville, GA 30215",4,3,"3,209","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$362,999","115 Westmont Way, Tyrone, GA 30290",4,4,"3,827","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$307,500","119 Crofts Cor, Peachtree City, GA 30269",3,2,"1,663","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$230,500","320 Crabapple Rd, Fayetteville, GA 30215",3,3,"1,980","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$300,000","10 Michelle Trl, Fayetteville, GA 30215",3,3,"2,412","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$539,900","125 Grae Ct, Tyrone, GA 30290",4,4,"3,247",N/A
+"$314,000","206 Banks Run, Peachtree City, GA 30269",3,3,"2,973","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$235,000","230 Brookclear Ln, Fayetteville, GA 30215",3,3,"1,976","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$236,500","140 S Fairfield Dr, Peachtree City, GA 30269",3,2,"1,440","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$339,550","29 Wolf Branch Dr #11, Senoia, GA 30276",4,3,"3,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$544,500","Traditions Way, Senoia, GA 30276",--,--,--,N/A
+"$309,000","270 Vickery Ln, Fayetteville, GA 30215",4,5,"2,558","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$155,000","295 Hood Ave, Fayetteville, GA 30214",2,2,"1,819",https://photos.zillowstatic.com/p_e/ISzzl4pbbz6oi60000000000.jpg
+"$310,000","210 Greenfield Cir, Fayetteville, GA 30215",4,3.5,"3,208",https://photos.zillowstatic.com/p_e/ISekk5uqczj1090000000000.jpg
+"$278,000","134 Stanley Rd #23, Fayetteville, GA 30214",5,5,--,https://photos.zillowstatic.com/p_e/ISbdwaj2wm8k1l0000000000.jpg
+"$309,000","270 Vickery Ln, Fayetteville, GA 30215",4,5,"2,558",https://photos.zillowstatic.com/p_e/ISf01d70543t060000000000.jpg
+"$399,900","11 First Flight Dr #4-78, Senoia, GA 30276",5,4,"3,692",https://photos.zillowstatic.com/p_e/ISjrwa1i1ggla41000000000.jpg
+"$340,000","110 Apple Blossom Ln, Fayetteville, GA 30215",4,3,"2,743",https://photos.zillowstatic.com/p_e/IS9d8cc748jwtj1000000000.jpg
+"$75,000","Flat Creek Ct, Fayetteville, GA 30214",--,--,--,N/A
+"$128,000","115 Bowmoor Bank, Peachtree City, GA 30269",--,--,"2,209",N/A
+"$382,500","533 Inman Rd, Fayetteville, GA 30215",4,4,"3,788",https://photos.zillowstatic.com/p_e/ISnmzonngo9p3d1000000000.jpg
+"$388,481","416 Southbridge Pass, Peachtree City, GA 30269",4,3,"2,700","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$158,500","145 Rosewood Dr, Fayetteville, GA 30214",3,2,"2,120",N/A
+"$325,676","308 Lovell Ave, Peachtree City, GA 30269",--,--,--,N/A
+"$480,000","425 Sherwood Rd, Fayetteville, GA 30215",--,--,"2,705",N/A
+"$382,500","235 Glynn St S, Fayetteville, GA 30214","3,920",N/A,N/A,N/A
+"$899,900","125 High St, Fayetteville, GA 30214",--,--,--,N/A
+"$458,020","160 Glasgow Ln, Fayetteville, GA 30214",4,3,"1,712","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$78,250","210 Williamsburg Way, Fayetteville, GA 30214",--,--,"1,452",N/A
+"$160,000","185 Huntcliff Ct, Fayetteville, GA 30214",3,3,"2,100","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$336,900","125 Anna Ln, Fayetteville, GA 30215",3,3,"2,224","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$457,500","300 Emerald Lake Dr, Fayetteville, GA 30215",3,5,"4,608","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$330,000","232 Claridge Curv, Peachtree City, GA 30269",4,2,"2,310",N/A
+"$330,000","232 Claridge Curv #22, Peachtree City, GA 30269",4,2,"2,308","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$160,000","275 Forrest Ave, Fayetteville, GA 30214",4,3,"2,088","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$197,000","705 S Fairfield Dr, Peachtree City, GA 30269",3,2,"2,478","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$492,000","165 Laurel Forest Dr, Tyrone, GA 30290",4,3,"2,948","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$253,000","135 Harbor Club Ln, Fayetteville, GA 30214",4,3,"2,747","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$137,000","110 Dogwood Ct, Fayetteville, GA 30214",3,2,"1,670",N/A
+"$195,000","150 Point View Ct, Tyrone, GA 30290",3,2,"1,951","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$860,000","101 Strathmore Ln, Peachtree City, GA 30269",5,6,"6,386","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$375,000","135 Bridgestone Cv, Fayetteville, GA 30215",5,4,"3,511","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$422,000","135 Castlebrook Chase, Tyrone, GA 30290",5,4,"3,503","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$49,900","120 Clay Ct, Tyrone, GA 30290",1.05,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$201,000","95 Rosewood Dr, Fayetteville, GA 30214",4,3,"2,246","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$537,500","165 Woodcreek Ln, Fayetteville, GA 30215",4,3.5,"3,204",N/A
+"$252,500","215 Chateau Dr, Fayetteville, GA 30214",3,4,"2,046","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$289,000","430 Sylvan Loop, Fayetteville, GA 30214",5,3,"2,796","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$300,000","250 Saddle Ridge Way, Fayetteville, GA 30215",4,3,"2,423","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$142,000","40 Fairway Ln, Peachtree City, GA 30269",3,3,"1,732","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$625,000","152 Interlochen Dr, Peachtree City, GA 30269",4,4,"3,609","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$436,500","105 Mockingbird Trl, Peachtree City, GA 30269",--,--,"2,211",N/A
+"$462,000","375 Postwood Dr, Fayetteville, GA 30215",4,5,"3,619",https://photos.zillowstatic.com/p_e/ISa5im8wzl039z0000000000.jpg
+"$436,500","105 Mockingbird Trl, Peachtree City, GA 30269",--,--,"2,211",N/A
+"$372,575","1 Lot 1 Wilbanks Rd #1, Senoia, GA 30276",5,4,"2,946",https://photos.zillowstatic.com/p_e/ISniwj6rki73901000000000.jpg
+"$85,000","108 W Mcintosh Rd, Brooks, GA 30205",--,--,"1,290",N/A
+"$365,000","1104 Twin Bridge Ln, Peachtree City, GA 30269",--,--,"2,767",N/A
+"$275,000","165 Greenwood Ct, Fayetteville, GA 30214",3,3,"2,489",https://photos.zillowstatic.com/p_e/ISb9dxotdntz1x0000000000.jpg
+"$200,000","245 Lake Cir, Fayetteville, GA 30215",3,2,"2,030",N/A
+"$188,500","202 Kings Ct, Peachtree City, GA 30269",4,2,"1,540",https://photos.zillowstatic.com/p_e/ISfozbghk9n7xj1000000000.jpg
+"$698,425","145 Paddle Ct #17, Peachtree City, GA 30269",5,6,"5,291",https://photos.zillowstatic.com/p_e/ISvwwb2kbbxlyj0000000000.jpg
+"$179,000","230 Mimosa Dr, Fayetteville, GA 30214",3,3,"1,616","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$238,000","340 Devilla Trce, Fayetteville, GA 30214",4,3,"2,521","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$152,500","117 Sourwood Trl, Fayetteville, GA 30215",--,--,"1,625",N/A
+"$264,900","125 Jessica Ct, Fayetteville, GA 30215",3,3,"2,706","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$257,500","105 Littlefield Ct, Fayetteville, GA 30215",4,4,"2,055","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$563,000","162 Robinson Rd #3, Brooks, GA 30205",5,5,"4,438","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$563,000","Robinson Rd, Brooks, GA 30205",--,--,"3,802",N/A
+"$118,000","1405 Redwine Rd, Fayetteville, GA 30215",--,--,"2,046",N/A
+"$282,000","110 Genevieve Ct, Peachtree City, GA 30269",1.01,N/A,N/A,N/A
+"$230,000","153 Mcelroy Rd, Fayetteville, GA 30214",5,3,"2,205","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$510,000","155 Benson Cir, Fayetteville, GA 30214",6,5,"6,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$265,000","215 Country Squire Dr, Fayetteville, GA 30215",4,3,"2,745","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$340,000","200 Bontura Dr, Senoia, GA 30276",4,3,"2,557","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$185,000","100 Franklin Farms Cir, Fayetteville, GA 30214",--,--,"2,512",N/A
+"$200,000","100 Morgans Turn, Peachtree City, GA 30269",--,--,"2,489",N/A
+"$260,000","200 Shadowood Ln, Peachtree City, GA 30269",4,3,"2,410","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$399,000","121 Colonnade Dr, Peachtree City, GA 30269",4,3,"3,542","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$960,000","233 Malone Rd, Fayetteville, GA 30215",5,3,"3,989","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$285,000","150 Yeats Ct, Tyrone, GA 30290",3,3,"2,613","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$213,500","130 Southwood Ct, Fayetteville, GA 30214",4,3,"2,291","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$580,000","320 Old Farm Rd, Fayetteville, GA 30215",6,6,"6,201","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$150,000","2048 Forest Dr, Fayetteville, GA 30214",--,--,"1,761",N/A
+"$280,000","135 Yeats Ct, Tyrone, GA 30290",4,3,"2,545","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$84,528","185 2nd St, Fayetteville, GA 30214",--,--,--,N/A
+"$135,000","351 Plantation Cir, Fayetteville, GA 30214",4,3,"2,362","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$343,039","398 Mann Rd, Tyrone, GA 30290",3,4,"3,701","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$475,000","410 E As Way, Fayetteville, GA 30215",5,4,"5,067","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$474,900","470 Heatherden Ave, Fayetteville, GA 30214",3,3,"1,800","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$179,000","115 Meadow View Cir, Tyrone, GA 30290",3,2,"1,337","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$280,000","515 Longwood Ln, Peachtree City, GA 30269",3,3,"1,758","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$310,000","124 Glendale Dr, Peachtree City, GA 30269",3,2,"1,785","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"

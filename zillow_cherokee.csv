@@ -1,0 +1,801 @@
+price,address,bds,ba,sqft,image
+"$217,000","203 Parkridge Dr, Woodstock, GA 30189",2,2,"1,276",https://photos.zillowstatic.com/p_e/ISf87n5hj7spt70000000000.jpg
+"$360,000","1090 Boxwood Ln, Canton, GA 30114",5,3,"3,029",https://photos.zillowstatic.com/p_e/ISr5hasbmm5p8s1000000000.jpg
+"$422,000","102 Narrows Ct, Waleska, GA 30183",3,3,"1,832",https://photos.zillowstatic.com/p_e/ISqp4i5c4ml8jf0000000000.jpg
+"$433,000","601 Red Leaf Way, Canton, GA 30114",4,3,"2,570",https://photos.zillowstatic.com/p_e/ISjjy6lxn3cuzw1000000000.jpg
+"$460,000","855 Heathland Ct, Roswell, GA 30075",6,5,"5,800",https://photos.zillowstatic.com/p_e/ISb177a1bb97eb1000000000.jpg
+"$540,000","308 Meadow Overlook, Woodstock, GA 30188",Studio,--,"5,315",https://photos.zillowstatic.com/p_e/ISbt48nj5l8nci0000000000.jpg
+"$415,000","320 W Ridge Dr, Canton, GA 30114",5,4,"3,800",https://photos.zillowstatic.com/p_e/ISj3ek1uel28fr0000000000.jpg
+"$265,000","376 Dogwood Pass, Ball Ground, GA 30107",4,2,"2,046",https://photos.zillowstatic.com/p_e/ISbh7inceyaflv0000000000.jpg
+"$370,000","302 Blue Ridge Trce, Woodstock, GA 30189",4,4,"3,504",N/A
+"$149,000","0 Marietta 10 11 #12, Canton, GA 30114",1,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$270,000","527 Drifton Way, Woodstock, GA 30188",Studio,--,"1,752","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$285,500","720 Woodstock Seven Dr, Woodstock, GA 30188",3,3,"1,894","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$295,030","270 Shoals Bridge Rd, Acworth, GA 30102",4,3,"2,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$525,000","104 Royal Oaks Dr, Canton, GA 30115",4,4,"2,592","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$230,000","171 Townview Dr, Woodstock, GA 30189",3,3,"1,794","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$222,500","515 Hearthstone Trl, Canton, GA 30114",5,4,"3,568","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$405,000","452 Spring View Dr, Woodstock, GA 30188",5,5,"3,282","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$366,999","111 Treeline Trl, Canton, GA 30115",4,3,"2,796","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$344,192","310 Hickory Ct, Canton, GA 30115",--,--,--,N/A
+"$430,000","277 River Laurel Way, Woodstock, GA 30188",5,4,"3,041","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$312,000","303 Tall Oaks Ct, Canton, GA 30114",3,3,"2,238","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$250,000","1208 Hickory Wood Dr NE, Woodstock, GA 30188",3,2,"2,128","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$300,000","1515 Sandpiper Dr, Woodstock, GA 30189",5,3,"3,782","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$325,000","713 Purslane Way, Woodstock, GA 30188",3,4,"2,612","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$484,000","202 Glenrise Ct, Woodstock, GA 30188",6,4,"5,207","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$400,000","8042 Ridge Valley, Woodstock, GA 30189",5,4,"4,102","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$278,000","307 Cacique Ct, Woodstock, GA 30188",3,3,"1,943","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$325,000","414 Livingston Point, Acworth, GA 30102",5,3,"2,476","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$550,000","203 Somerset Cir, Woodstock, GA 30189",4,4,"3,213","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$219,900","305 Quail Hollow Dr, Woodstock, GA 30188",3,2,"1,586","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$460,000","106 Ryder Ct, Woodstock, GA 30189",4,4.5,"3,800","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$283,000","268 Shoals Bridge Rd #123, Acworth, GA 30102",4,3,"2,239","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$254,700","422 Thaxton Ln, Woodstock, GA 30188",2,2,"1,441","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$338,625","386 Gardens Of Harmony Dr, Canton, GA 30115",3,2,"1,822","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$237,500","3361 Mills Ridge Dr, Canton, GA 30114",3,3,"1,800","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$295,000","524 Crestmont Ln, Canton, GA 30114",4,3,"2,518","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$515,000","2306 Isla Run, Woodstock, GA 30188",5,5,"4,020","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$228,000","190 Townview Dr, Woodstock, GA 30189",3,3,"1,786","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$839,000","1206 N Lake Dr, Canton, GA 30115",6,5,"8,967","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$340,000","752 Parkside Dr, Woodstock, GA 30188",4,3,"2,938","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$279,900","416 Marion Spence Rd, Ball Ground, GA 30107",3,3,"2,173",https://photos.zillowstatic.com/p_e/ISfojfwb4sguxr1000000000.jpg
+"$330,990","226 Gallant Fox Way #5, Acworth, GA 30102",4,4,"2,908",https://photos.zillowstatic.com/p_e/IS3f8fxt9t29ss1000000000.jpg
+"$330,990","226 Gallant Fox Way, Acworth, GA 30102",4,4,"2,908",https://photos.zillowstatic.com/p_e/ISjrwecdk3z1qo1000000000.jpg
+"$385,000","501 Millside Trl, Canton, GA 30114",4,4,"3,027",https://photos.zillowstatic.com/p_e/IS7u2kmjnffvjs0000000000.jpg
+"$528,000","106 Royal Oaks Dr, Canton, GA 30115",5,4,"2,986",https://photos.zillowstatic.com/p_e/ISzz9r6vrny8wk1000000000.jpg
+"$589,900","216 Mcaffee St, Woodstock, GA 30188",4,4,"3,130",https://photos.zillowstatic.com/p_e/ISbxvfmip5x6jv0000000000.jpg
+"$176,000","25-25 Highoak Driv 25 Highoak Dr #11, Marietta, GA 30066",3,3,--,https://photos.zillowstatic.com/p_e/ISrh6utdngaqj81000000000.jpg
+"$250,000","985 Woodvalley Dr, Canton, GA 30115",3,2,"1,376",https://photos.zillowstatic.com/p_e/ISv4zmqq2eftq31000000000.jpg
+"$208,000","1561 Deerwood Ln, Acworth, GA 30102",3,2,"1,513",https://photos.zillowstatic.com/p_e/IS7arpjdyj9b8p0000000000.jpg
+"$230,000","200 Oakleaf Dr, Acworth, GA 30102",3,3,"1,943","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$350,000","152 Edgewater Trl, Canton, GA 30115",4,3,"2,948","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.55M,"300 Tellico Rd, Canton, GA 30115",6,7,"7,422","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$530,000","120 Lathems Mill Ln, Ball Ground, GA 30107",4,4,"3,741","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$265,000","143 River Marsh Ln, Woodstock, GA 30188",Studio,--,"1,815","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$246,000","111 Plumeria St, Canton, GA 30114",4,3,"2,010",N/A
+"$337,080","227 Gallant Fox Way #27, Acworth, GA 30102",5,4,"3,310","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$337,080","227 Gallant Fox Way, Acworth, GA 30102",5,4,"3,409","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$218,000","129 Sunset Ln, Woodstock, GA 30189",3,3,"1,758","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$80,000","201 Ficklen Church Way, Canton, GA 30114",2,1,768,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$254,000","425 Hearthstone Way, Woodstock, GA 30189",5,3,"2,220","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$165,000","14751 Highway 92, Woodstock, GA 30188",3,1,924,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$265,000","1085 Fieldstone Dr, Canton, GA 30114",3,2,"2,344","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$459,000","200 Morning Mist Ln, Woodstock, GA 30188",4,4,"4,460","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$80,000","201 Ficklen Church Way LOT 0, Canton, GA 30114",2,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$229,000","216 Brookhaven Ct, Acworth, GA 30102",3,3,"1,740","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$273,000","2061 Crestview Way, Woodstock, GA 30188",3,3,"3,124","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$442,000","522 Cedarwood Dr, Canton, GA 30115",5,4,"4,090","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$260,000","360 Chambers St UNIT 408, Woodstock, GA 30188",1,1,891,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$425,000","308 Shade Tree Cir, Woodstock, GA 30188",3,3,"3,208","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$398,904","343 Ellington Dr, Canton, GA 30115",--,--,--,N/A
+"$556,000","421 Morgan Falls Chase, Canton, GA 30114",4,5,"5,282","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,450","2228 Mohawk Trl, Acworth, GA 30102",3,2,"1,776","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$245,000","117 Dupree Rd, Woodstock, GA 30188",4,3,"2,540","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$461,000","127 Gold Springs Ct, Canton, GA 30114",4,4,"4,169","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$274,285","172 Bryon Ln, Acworth, GA 30102",3,3,"1,979","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$375,000","301 Pebblestone Ln, Canton, GA 30115",5,4,"3,082","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$230,000","214 Diamond Valley Pass, Canton, GA 30114",4,3,"2,750","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$235,000","135 Driftwood Ln, Woodstock, GA 30188",3,2,"1,990","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$160,000","243 Riverstone Commons Cir, Canton, GA 30114",3,3,"1,700","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$492,000","240 Trecastle Sq, Canton, GA 30114",4,4,"4,171","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$380,000","106 Crowe Rd, Alpharetta, GA 30004",3,2,"1,418",https://photos.zillowstatic.com/p_e/ISbh3r34wriy130000000000.jpg
+"$480,000","1730 Little Refuge Rd, Waleska, GA 30183",3,3,"4,096",https://photos.zillowstatic.com/p_e/ISvkbfpb178rbr0000000000.jpg
+"$240,000","1386 Olde Mill Trce, Woodstock, GA 30188",3,2,"2,104",https://photos.zillowstatic.com/p_e/ISbhnu7xiicdyy0000000000.jpg
+"$230,000","105 Brianna Way, Woodstock, GA 30188",3,4,"1,914",https://photos.zillowstatic.com/p_e/IS3bd0awzj1xnw0000000000.jpg
+"$240,000","371 Hidden Creek Ln, Canton, GA 30114",4,3,"2,196",https://photos.zillowstatic.com/p_e/ISv08vf1rahol11000000000.jpg
+"$494,000","339 Mcdaniel Pl, Canton, GA 30115",3,3,"2,373",https://photos.zillowstatic.com/p_e/ISnmjsntiaovd81000000000.jpg
+"$78,000","160 Moody Meadows Trl, Canton, GA 30114",2,N/A,N/A,https://photos.zillowstatic.com/p_e/IS3fw5efqzr6pv1000000000.jpg
+"$275,000","421 Christina Way, Acworth, GA 30102",4,--,"2,650",https://photos.zillowstatic.com/p_e/ISrp0nevfq2cai0000000000.jpg
+"$218,000","2008 Queensbury Dr, Acworth, GA 30102",3,2,"1,436",https://photos.zillowstatic.com/p_e/IS3voizftjylb90000000000.jpg
+"$435,000","1001 Golf Estates Dr, Woodstock, GA 30189",3,3,"2,984","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$429,900","128 Park W, Canton, GA 30115",4,3,"2,646","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$290,000","323 Split Rail Way, Canton, GA 30115",4,3,"2,308","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$314,000","406 Brookes Walk, Woodstock, GA 30188",3,3,"1,944",N/A
+"$289,400","516 Waterfall Dr, Canton, GA 30114",4,3,"2,824","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$250,000","730 Osco Pkwy, Woodstock, GA 30188",3,2,"1,424","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$350,000","3013 Summer Point Dr, Woodstock, GA 30189",5,4,"3,373","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$412,000","275 Mitchell Ln #30, Woodstock, GA 30188",3,4,"2,142","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$55,000","0 Reinhardt College Pkwy LOT 0, Canton, GA 30114",232.71,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$449,900","113 Wayfair Overlook Dr, Woodstock, GA 30188",5,4,"3,730",N/A
+"$280,000","915 Silver Lake Dr, Acworth, GA 30102",3,3,"2,485","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$330,000","425 Livingston Point, Acworth, GA 30102",4,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$167,500","231 Cottonwood Creek Cir, Canton, GA 30114",2,2,"1,007","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$335,000","129 Cherokee Reserve Cir, Canton, GA 30115",4,3,"3,202","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$380,000","101 Holly View Ln, Holly Springs, GA 30114",4,3,"2,950","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$302,200","166 S Village Ave, Canton, GA 30115",3,3,"2,213",N/A
+"$405,000","409 Frazier St, Woodstock, GA 30189",--,--,--,N/A
+"$482,687","255 Harmony Lake Dr, Holly Springs, GA",5,3,"3,320","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$346,490","227 Hickory Chase, Canton, GA 30115",3,3,"2,088","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$267,500","207 Highland Village Ln, Woodstock, GA 30188",3,3,"2,111","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$55,000","0 Reinhardt College Pkwy, Canton, GA 30114",232.71,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$315,900","612 Crosshaven Dr, Marietta, GA 30066",4,4,"2,458","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$258,000","107 William Ct #4, Ball Ground, GA 30107",4,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$258,000","107 William Ct, Ball Ground, GA 30107",4,3,"2,489","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$320,000","620 Byrd Mountain Ln, Canton, GA 30114",Studio,--,"1,869","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$462,500","109 Modoc Ct, Waleska, GA 30183",5,3,"3,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$407,200","407 Parkbrook Way, Canton, GA 30114",4,3,"2,716","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$389,900","229 Pinebrook Dr, Waleska, GA 30183",4,4,"2,784","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$300,000","910 Dooney Dr, Woodstock, GA 30188",3,2.5,"2,026","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$250,000","1142 Cotton Gin Dr, Woodstock, GA 30188",3,3,"1,804","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$211,000","1520 Deerwood Ln, Acworth, GA 30102",Studio,2,"2,391","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$360,000","211 Falcon Pointe Ct, Canton, GA 30114",4,3,"3,194",https://photos.zillowstatic.com/p_e/IS72lfl0rcd9kn0000000000.jpg
+"$300,000","201 Hunters Mill Ln, Woodstock, GA 30188",4,4,"3,104",https://photos.zillowstatic.com/p_e/IS3rltubg2r9s01000000000.jpg
+"$517,500","101 W Ridge Dr, Canton, GA 30114",4,4,"3,094",https://photos.zillowstatic.com/p_e/ISnedeetuuzom90000000000.jpg
+"$299,000","806 Whisperwood Trl, Acworth, GA 30102",4,3,"2,600",https://photos.zillowstatic.com/p_e/IS3j3uslgggghu1000000000.jpg
+"$255,000","603 Lauder Cir, Woodstock, GA 30188",4,3,"1,878",https://photos.zillowstatic.com/p_e/ISjjerntrj1bbp1000000000.jpg
+"$334,900","375 Yonah Cir, Woodstock, GA 30189",4,4,"2,675",N/A
+"$283,500","117 Covington Dr, Ball Ground, GA 30107",4,3,"2,231",https://photos.zillowstatic.com/p_e/ISjbot91lhjgzo0000000000.jpg
+"$295,000","706 Woodhaven Dr, Woodstock, GA 30188",3,2,"1,831",https://photos.zillowstatic.com/p_e/ISv0cai09n8fm50000000000.jpg
+"$37,500","0 Sherwood Dr, Woodstock, GA 30188",0.38,N/A,N/A,https://photos.zillowstatic.com/p_e/ISvsxpyhglligm1000000000.jpg
+"$205,000","0 Clark Creek Pass, Acworth, GA 30102",11,N/A,N/A,N/A
+"$280,000","531 Quinn Dr, Woodstock, GA 30188",4,2.5,"2,318",N/A
+"$429,500","606 Atlas Pl, Canton, GA 30114",5,4,"3,504","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$286,000","255 Old Tassel Ct, Woodstock, GA 30189",Studio,--,"1,726","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$237,500","1250 W Oaks Way, Woodstock, GA 30188",2,3,"1,277","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$615,000","14220 Old Course Dr, Roswell, GA 30075",5,5,"5,704","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$278,000","249 Park Ave, Woodstock, GA 30188",3,3,"2,352","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$324,000","2055 Township Dr, Woodstock, GA 30189",4,4,"3,157","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$204,900","117 Sunnybrook Ln, Woodstock, GA 30188",3,2,"1,382","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$268,500","304 Rose Creek Way, Woodstock, GA 30189",4,3,"2,110",N/A
+"$250,000","109 Park Village Dr, Canton, GA 30114",4,3,"1,623","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$180,000","750 Green Dr, Canton, GA 30114",3,2,"1,255","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$90,000","323 William Falls Dr, Canton, GA 30114",3.13,N/A,N/A,N/A
+"$230,000","107 Sunset Ln, Woodstock, GA 30189",3,3,"2,334","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$413,000","235 Highlands Dr, Woodstock, GA 30188",6,4,"4,658","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$315,000","590 Teresa Ln, Canton, GA 30115",4,3,"2,236","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$208,000","706 Copper Trace Way, Woodstock, GA 30189",3,2,"2,288","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$105,000","1711 Owens Store Rd LOT 0, Canton, GA 30115",5.05,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$310,000","315 Woodbrook Crst, Canton, GA 30114",4,3,"2,310","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$245,000","603 Beau Ln, Woodstock, GA 30188",4,2,"2,344","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$389,000","504 Anfield Dr, Woodstock, GA 30188",4,3,"3,835","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$90,000","323 William Falls Dr LOT 248, Canton, GA 30114",3.13,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$290,237","262 Augusta Walk, Canton, GA 30114",3,3,"2,256","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$549,000","437 Parkbrook Way, Canton, GA 30114",5,4,"3,066","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$389,900","510 Crested Hawk Rdg, Canton, GA 30114",5,5,"3,427","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$169,900","309 Franklin Ln, Acworth, GA 30102",2,2.5,"1,331","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$475,000","913 Raven Point, Canton, GA 30114",5,4,"3,541","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$290,000","1579 Julius Bridge Rd, Ball Ground, GA 30107",--,--,--,N/A
+"$288,000","713 Mulberry Cir, Woodstock, GA 30189",3,2,"1,638","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$560,998","4759 Blisston St #3, Marietta, GA 30066",4,4,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$604,900","111 Equest Dr, Canton, GA 30115",5,4,"4,300","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$239,900","235 Madison Ave, Acworth, GA 30102",3,3,"2,185",N/A
+"$268,000","585 Ashland Pkwy, Woodstock, GA 30189",3,3,"1,798",https://photos.zillowstatic.com/p_e/IS7e68npj6nsvf1000000000.jpg
+"$180,000","247 Waconda Ave, Canton, GA 30114",3,1,"1,144",https://photos.zillowstatic.com/p_e/ISnaivjrx3z3jd1000000000.jpg
+"$190,000","1060 Inca Ln, Woodstock, GA 30188",5,3,"3,300",https://photos.zillowstatic.com/p_e/IS7monhsgmrdq91000000000.jpg
+"$319,728","645 Little Bear Loop, Canton, GA 30114",3,3,"2,250",https://photos.zillowstatic.com/p_e/ISne1t10rufeis1000000000.jpg
+"$228,000","1840 Pickens St, Ball Ground, GA 30107",3,2,"1,349",N/A
+"$290,000","1579 Julius Bridge Rd, Ball Ground, GA 30107",25.73,N/A,N/A,https://photos.zillowstatic.com/p_e/ISvwkybd6tv11u1000000000.jpg
+"$237,900","109 Nelson Ridge Dr, Ball Ground, GA 30107",3,2,"1,609",https://photos.zillowstatic.com/p_e/IS7ypsb8gi3gn11000000000.jpg
+"$435,000","134 Narrows Loop, Waleska, GA 30183",4,3,"1,800",https://photos.zillowstatic.com/p_e/ISvs9va4qr2zcj1000000000.jpg
+"$290,000","1579 Julius Bridge Rd LOT 0, Ball Ground, GA 30107",25.73,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$515,000","655 Arnold Mill Rd, Woodstock, GA 30188",4,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$275,000","1054 Fieldstone Dr, Canton, GA 30114",4,3,"2,460","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$329,900","529 Wisteria Dr, Woodstock, GA 30188",5,3,"2,650","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$393,500","306 Vista Ct, Canton, GA 30114",5,4,"3,010","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$286,000","504 Oxeye Dr, Woodstock, GA 30188",4,3,"2,369","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$305,000","331 Parc Xing, Acworth, GA 30102",4,3,"2,836","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$243,000","305 White Marble Way, Ball Ground, GA 30107",3,2,"1,507","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$330,000","721 Rosedale Rd, Woodstock, GA 30189",4,3,"4,030","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$360,000","310 Valley Green Ct, Woodstock, GA 30189",4,3,"2,727","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.50M,"910 Accipter Way, Ball Ground, GA 30107",8,11,"14,706","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$261,000","110 Eagle Glen Dr, Woodstock, GA 30189",4,3,"1,631","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$321,000","192 S Village Ave, Canton, GA 30115",4,3,"2,602","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$293,000","520 Silver Maple Ln, Woodstock, GA 30189",4,3,"3,406","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$288,490","224 Lower Pheasant Ln, Woodstock, GA 30188",4,3,"1,858","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$265,000","104 Spring Way, Woodstock, GA 30189",4,2,"1,748","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$212,500","637 Spanish Oak Dr, Acworth, GA 30102",3,3,"1,360","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$310,000","4026 Watkins Glen Dr, Woodstock, GA 30189",4,4,"2,616","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$292,000","518 Crestmont Ln, Canton, GA 30114",4,3,"2,493","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$279,610","254 Augusta Walk, Canton, GA 30114",3,3,"2,256","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$411,142","106 High Mountain Trce, Canton, GA 30114",2,2,"1,782",N/A
+"$380,000","115 Laurel Canyon Trl, Canton, GA 30114",4,2,"2,888",N/A
+"$394,999","302 Misty Morning Cir, Canton, GA 30114",5,4,"2,776","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$295,000","312 Etowah Valley Trce, Woodstock, GA 30189",4,4,"2,482","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$105,000","520 Toonigh Rd LOT 0, Woodstock, GA 30188",2.33,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$230,000","100 Sweetgum Cir, Canton, GA 30115",3,2,"1,440","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$230,000","359 Hiawassee Dr, Woodstock, GA 30188",3,3,"1,320","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$390,000","619 Mcclure Dr, Cumming, GA 30028",3,3,"2,048","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$209,000","6256 New Mill Trl, Acworth, GA 30102",3,2,"2,718","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$105,000","520 Toonigh Rd, Woodstock, GA 30188",2,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$314,000","425 Olde Hickory Ct, Woodstock, GA 30188",--,--,--,N/A
+"$251,000","231 Westwind Dr, Ball Ground, GA 30107",3,2,"1,688",https://photos.zillowstatic.com/p_e/ISvo6q1i3c056u1000000000.jpg
+"$124,000","10491 Hickory Flat Hwy, Woodstock, GA 30188",4,3,"1,950",https://photos.zillowstatic.com/p_e/ISvgkznd2rowk11000000000.jpg
+"$408,000","103 Olde Hickory Ct #2002, Woodstock, GA 30188",3,3,"2,900",https://photos.zillowstatic.com/p_e/IS3jza7tbk9nbl1000000000.jpg
+$1.10M,"794 Old Lathemtown Rd, Canton, GA 30115",5,8,"8,000",https://photos.zillowstatic.com/p_e/ISbdok9jnocvj51000000000.jpg
+"$175,000","306 2nd St, Woodstock, GA 30188",3,1,"1,406",https://photos.zillowstatic.com/p_e/ISuoq18a93137k1000000000.jpg
+"$130,000","203 Traditions Dr, Alpharetta, GA 30004",1.05,N/A,N/A,https://photos.zillowstatic.com/p_e/ISfsqzrwhajt6e0000000000.jpg
+"$130,000","203 Traditions Dr LOT 80, Alpharetta, GA 30004",1.05,N/A,N/A,https://photos.zillowstatic.com/p_e/ISf4gnssgxwuxm0000000000.jpg
+"$451,000","1103 Bridge Mill Ave, Canton, GA 30114",5,5,"4,798",https://photos.zillowstatic.com/p_e/ISrl9bs3zj051p1000000000.jpg
+"$345,950","338 Cherokee Station Cir #2102, Woodstock, GA 30188",3,3,"2,480",https://photos.zillowstatic.com/p_e/IS7umfgjysp4po1000000000.jpg
+"$15,000","111 Creek Hollow Dr LOT 0, Woodstock, GA 30188",1.22,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$294,000","203 Elmbrook Ln, Canton, GA 30114",4,3,"2,092","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$244,000","3609 Broken Arrow Dr, Woodstock, GA 30189",3,2,"1,343","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$233,000","503 Stanford Pl, Woodstock, GA 30188",3,3,"1,286","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$254,900","5239 Ferry Creek Ln, Acworth, GA 30102",3,2,"1,352","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$360,000","149 Hale View Cir, Canton, GA 30114",4,4,"3,254","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$382,000","1080 Towne Lake Hls E, Woodstock, GA 30189",4,3,"3,363",N/A
+"$351,040","336 Cherokee Station Cir #2103, Woodstock, GA 30188",3,3,"2,480","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$355,000","509 Rocking Porch Way, Woodstock, GA 30189",4,4,"2,422",N/A
+"$234,000","2915 Cedar Mill Dr, Acworth, GA 30102",3,3,"1,748","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$260,135","169 Terrace Walk, Woodstock, GA 30189",3,3,"1,905","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$238,900","635 Driftwood Dr, Woodstock, GA 30189",3,2,"1,800","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$250,105","221 Royal Crescent Ter, Canton, GA 30115",3,3,"1,842",N/A
+"$260,135","169 Terrace Walk #160, Woodstock, GA 30189",3,3,"1,905","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$363,000","2367 Henry Scott Rd, Ball Ground, GA 30107",4,4,"2,656","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$60,000","230 Pearidge Rd, Holly Springs, GA 30114",1.03,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$340,001","319 Spence Cir, Ball Ground, GA 30107",4,3,"3,278","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$655,590","435 Horizon Trl, Canton, GA 30114",4,4,"3,600","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$309,219","259 Augusta Walk, Canton, GA 30114",5,3,"2,837","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$257,500","175 Stoneforest Dr, Woodstock, GA 30189",3,4,"2,145","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$325,000","421 Blue Sky Cir, Acworth, GA 30102",4,3,"2,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$51,600","2875 Loring Rd NW, Woodstock, GA 30189",0.77,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$251,500","438 Mountain View Ln, Woodstock, GA 30188",3,3,"1,767","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$215,000","109 Finsbury Ln, Woodstock, GA 30188",3,3,"1,620","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$361,000","235 Cornerstone Dr, Woodstock, GA 30188",3,4,"2,837","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$273,000","211 Lantern Walk Dr, Ball Ground, GA 30107",--,--,--,N/A
+"$305,000","4007 Bent Willow Ln, Woodstock, GA 30189",3,2,"2,270","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$132,000","121 Sharp Mountain Crk #22, Ball Ground, GA 30107",3.87,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$132,000","121 Sharp Mountain Crk, Ball Ground, GA 30107",3.87,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$295,000","807 Commons Ct, Woodstock, GA 30189",3,3,"2,626","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$250,000","212 Brookhaven Ct, Acworth, GA 30102",3,3,"1,802","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$250,000","212 Brookhaven Ct, Acworth, GA 30102",3,3,"1,802",https://photos.zillowstatic.com/p_e/IS76808vrjbsuu0000000000.jpg
+"$295,000","807 Commons Ct, Woodstock, GA 30189",3,3,"2,626",https://photos.zillowstatic.com/p_e/ISv00h7nwxv70h0000000000.jpg
+"$325,000","228 Sterling Brook Ln, Canton, GA 30114",4,3,"2,809",https://photos.zillowstatic.com/p_e/ISb5ak1zklvlo60000000000.jpg
+"$240,000","181 Colemans Bluff Dr, Woodstock, GA 30188",3,2,"1,477",N/A
+"$399,000","311 Melrose Cir, Woodstock, GA 30188",4,3,"3,609",https://photos.zillowstatic.com/p_e/ISvgw0lpi8igyr1000000000.jpg
+"$250,000","265 Diamond Valley Pass, Canton, GA 30114",4,3,"1,948",https://photos.zillowstatic.com/p_e/ISfsqbpqgjezam1000000000.jpg
+"$273,000","211 Lantern Walk Dr, Ball Ground, GA 30107",4,3,"2,127",https://photos.zillowstatic.com/p_e/ISrpgvjhkepumc1000000000.jpg
+"$261,000","430 Citronelle Dr, Woodstock, GA 30188",3,3,"1,855",https://photos.zillowstatic.com/p_e/ISfwxn6njxc6gs0000000000.jpg
+"$420,000","139 Millstone Way, Canton, GA 30115",5,5,"3,382",https://photos.zillowstatic.com/p_e/ISjr0y5gyjih300000000000.jpg
+"$183,000","259 Fox Creek Blvd, Woodstock, GA 30188",2,2.5,"1,329","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$330,000","102 Creek Side Way, Ball Ground, GA 30107",3,3,"2,051","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$644,500","103 Robin Hl, Woodstock, GA 30188",4,4,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$385,000","7056 Hunters Rdg, Woodstock, GA 30189",4,4,"2,889","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$278,000","940 Sublime Trl, Canton, GA 30114",5,3,"3,059","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$83,000","202 Timber Wolf Trl, Cumming, GA 30028",4,5,"3,038","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$215,000","5180 Ridge Tarn, Acworth, GA 30102",3,3,"1,630","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$252,000","216 Woodcreek Way, Acworth, GA 30101",4,3,"3,600","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$371,472","202 Meadows Ct #31, Woodstock, GA 30189",4,3,"2,544","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$209,900","618 Sweet Bay Rdg, Woodstock, GA 30188",3,3,"1,671","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$280,000","113 Weatherstone Dr, Woodstock, GA 30188",3,3,"2,088","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$480,000","2516 E Cherokee Dr, Woodstock, GA 30188",4,4,"2,334","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$371,472","202 Meadows Ct, Woodstock, GA 30189",--,--,--,N/A
+"$435,000","104 Linkside Ct, Woodstock, GA 30189",4,3,"3,698","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$511,900","130 Meadow Mill Rd, Woodstock, GA 30188",4,4,"2,800","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$335,000","740 Lorimore Pass, Canton, GA 30115",4,4,"2,899","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$640,000","918 Pine Cir, Woodstock, GA 30189",4,5,"3,344","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$465,850","200 Windflower Ct, Canton, GA 30115",4,4,"3,216","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$457,500","241 George Gray Ln, Waleska, GA 30183",5,3,"3,439","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$235,000","828 Riverstone Ln, Woodstock, GA 30188",4,3,"1,949","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$245,000","421 Village Vw, Woodstock, GA 30188",3,3,"1,266","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$249,900","262 Northridge Rd, Canton, GA 30107",4,2,"1,350","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$235,000","6924 Sky Lane Dr, Acworth, GA 30102",4,2,"2,300","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$170,000","230 Cottonwood Creek Cir, Canton, GA 30114",2,3,"1,397","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$110,000","5400 Kings Camp Rd Cabin 29b #29B, Acworth, GA 30101",1,1,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$275,000","223 Evergreen Trce, Canton, GA 30114",3,4,"2,508","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$336,630","215 Longleaf Ct, Canton, GA 30114",3,2,"1,682","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$310,000","1472 Johnson Brady Rd, Canton, GA 30115",3,3,"1,822","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$365,000","630 Georgia Way, Woodstock, GA 30188",5,6,"4,481","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$276,900","176 W Putnam Ferry Rd, Woodstock, GA 30189",3,2,"2,300","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$493,500","161 Lakestone Pkwy, Woodstock, GA 30188",5,4,"3,160","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$325,000","100 Chestnut Hill Dr, Canton, GA 30114",4,3,"3,939",https://photos.zillowstatic.com/p_e/ISfsafltprti2u1000000000.jpg
+"$233,500","903 Tamarisk Pl, Canton, GA 30114",Studio,--,"1,834",https://photos.zillowstatic.com/p_e/IS7ip1ey7l9q330000000000.jpg
+"$310,000","425 Woodridge Ct, Canton, GA 30114",4,3,"2,126",https://photos.zillowstatic.com/p_e/IS37i1f70g0yes0000000000.jpg
+"$273,095","183 Bryon Rd, Acworth, GA 30102",4,3,"1,979",https://photos.zillowstatic.com/p_e/IS3v8yc404o8mu0000000000.jpg
+"$320,000","103 Caracas Dr, Woodstock, GA 30188",5,3,"2,557",https://photos.zillowstatic.com/p_e/ISb5e7227512gb0000000000.jpg
+"$330,350","515 S Bound Ct, Acworth, GA 30102",4,3,"2,220",https://photos.zillowstatic.com/p_e/ISrhecxebbubh20000000000.jpg
+"$328,000","1026 Deer Hollow Dr, Woodstock, GA 30189",4,3,"2,344",https://photos.zillowstatic.com/p_e/ISrhiv2fflhwfb0000000000.jpg
+"$295,390","216 Ellis Ln, Woodstock, GA 30189",3,3,"1,974",https://photos.zillowstatic.com/p_e/ISfcejax814kef0000000000.jpg
+"$559,900","1020 Hickory Woods Way, Canton, GA 30115",5,5,"4,878",https://photos.zillowstatic.com/p_e/ISjjia5vkvz32b1000000000.jpg
+"$330,000","408 Puckett Creek Cir, Canton, GA 30114",4,4,"3,507","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$330,000","146 Manor Ln, Woodstock, GA 30188",4,3,"2,926","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$280,000","123 Kasey Dr, Woodstock, GA 30189",4,3,"2,600","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$306,850","165 Puckett Creek Dr, Canton, GA 30114",--,--,--,N/A
+"$221,000","227 Oconee Way, Canton, GA 30114",3,3,"1,541","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.26M,"10 Stone Creek Trl, Alpharetta, GA 30004",4,3,"6,505","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$319,000","505 Lake Front Dr, Canton, GA 30115",3,2,"1,704","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$321,000","279 Creek View Pl, Canton, GA 30114",4,3,"2,179","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$195,000","6552 Windsor Dr, Acworth, GA 30102",3,2,"1,461","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$195,000","157 Spring Way Sq, Canton, GA 30114",3,3,"1,758","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$365,000","129 Reunion Pl, Acworth, GA 30102",4,3,"3,148","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$400,500","717 Golden Farm Way, Canton, GA 30114",5,3,"3,157",N/A
+"$234,000","602 Laurel Bnd, Canton, GA 30114",4,3,"1,859","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$321,000","279 Creek View Pl #22, Canton, GA 30114",4,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$155,000","188 Nolan Way LOT 7, Canton, GA 30115",2.54,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$223,000","138 Oakview Psge, Canton, GA 30114",3,3,"1,914","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$308,000","125 Saddlehorn Ct, Woodstock, GA 30188",5,5,"3,448","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$337,500","515 Chestnut Walk, Canton, GA 30114",5,4,"3,484","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$590,000","321 Lakebridge Xing, Canton, GA 30114",6,6,"6,582","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$236,000","1044 Braddock Cir, Woodstock, GA 30189",4,3,"1,860","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$349,900","1066 Forest Creek Dr, Canton, GA 30115",4,3,"2,866","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$154,900","554 N Etowah Dr, Canton, GA 30114",2,1,864,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$240,000","111 Ivygreen Chase, Canton, GA 30114",3,2,"1,430","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$300,000","403 Pine Log Ct, Canton, GA 30115",4,3,"2,786","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$365,000","707 Middlebrook Chase, Canton, GA 30115",6,4,"3,436",N/A
+"$288,950","211 Ellis Ln, Woodstock, GA 30189",3,3,"1,818","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$264,900","237 Taylors Farm Dr, Canton, GA 30115",4,2,"3,333","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$192,000","223 Oak Grove Way, Acworth, GA 30102",3,3,"1,260","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$342,000","223 Brookview Pl, Woodstock, GA 30188",3,2,"2,071","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$369,500","126 Dunlavin Dr, Acworth, GA 30102",5,4,"3,825",N/A
+"$309,990","3503 Great Sky Pkwy W, Canton, GA 30114",4,3,"2,439","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$275,245","232 Augusta Walk, Canton, GA 30114",4,3,"2,439",https://photos.zillowstatic.com/p_e/ISjrk1e40mwfio0000000000.jpg
+"$355,250","606 Forest Pine Dr, Ball Ground, GA 30107",4,4,"2,386",https://photos.zillowstatic.com/p_e/ISjvv8aow08mwr0000000000.jpg
+"$280,000","716 Habersham Pl, Canton, GA 30115",3,2,"1,620",https://photos.zillowstatic.com/p_e/ISbxn9460lb5gu1000000000.jpg
+"$270,000","538 Arnold Mill Rd, Woodstock, GA 30188",5,3,"3,019",https://photos.zillowstatic.com/p_e/IS72hw7i7y00iz0000000000.jpg
+"$480,000","229 Aster Ct, Canton, GA 30114",4,4,"4,703",N/A
+"$549,900","480 Olivia Ln, Ball Ground, GA 30107",4,4,"3,552",https://photos.zillowstatic.com/p_e/ISnul7j80szx3q1000000000.jpg
+"$372,069","208 Ellis Ln, Woodstock, GA 30189",3,4,"2,518",https://photos.zillowstatic.com/p_e/ISnic8g353ygas1000000000.jpg
+"$247,500","207 Townview Dr, Woodstock, GA 30189",3,3,"1,792",https://photos.zillowstatic.com/p_e/ISbl255n4be67q1000000000.jpg
+"$190,000","100 Hospital Rd, Canton, GA 30114",5,2,936,N/A
+"$335,000","310 Meadowcrest Cir, Canton, GA 30115",4,4,"2,870",N/A
+"$375,000","313 Chesterfield Cv, Woodstock, GA 30189",4,3,"2,850","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$155,000","61 Dogwood Pass, Nelson, GA 30151",2,1,"1,920","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$326,400","110 Maple Ct, Waleska, GA 30183",3,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$60,000","230 Pearidge Rd LOT 0, Canton, GA 30114",1.03,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$436,000","345 N Brooke Dr, Canton, GA 30115",4,5,"4,770","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$227,000","1053 Dunedin Trl, Woodstock, GA 30188",3,3,"1,815","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$314,900","829 Harrison Dr, Acworth, GA 30102",4,3,"2,708",N/A
+"$213,000","313 Hiawassee Dr, Woodstock, GA 30188",3,3,"1,434","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$220,000","201 Townview Dr, Woodstock, GA 30189",3,3,"1,772","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$212,500","1017 Daventry Xing, Woodstock, GA 30188",2,2,917,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$370,000","124 Stargaze Rdg, Canton, GA 30114",4,3,"3,282","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$285,000","108 Freedom Dr, Acworth, GA 30102",5,3,"2,460","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$300,000","4004 Dream Catcher Dr, Woodstock, GA 30189",4,3,"2,373",N/A
+"$192,500","210 Beaver Pond Dr, Woodstock, GA 30188",3,2,"1,680","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$329,990","717 Thrush Rd, Acworth, GA 30102",--,--,--,N/A
+"$219,400","252 Walnut Ridge Rd, Canton, GA 30115",6,5,"4,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$199,000","236 Ridge Mill Dr, Acworth, GA 30102",3,3,"1,584","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$295,000","3111 Sandhurst Dr, Woodstock, GA 30189",3,3,"2,268","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$314,900","232 Mountain Vista Blvd, Canton, GA 30115",4,3,"1,985",N/A
+"$215,000","103 Franklin Hills Ct, Canton, GA 30114",3,3,"2,188","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$244,000","4351 Whiteleaf Way, Canton, GA 30115",4,3,"2,077","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$329,990","717 Thrush Rd, Acworth, GA 30102",2,2,"1,776","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$360,000","200 Sable Ridge Way, Acworth, GA 30102",Studio,--,"2,675","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$184,000","2055 Britley Park Xing, Woodstock, GA 30189",2,2,"1,212",N/A
+"$299,000","140 Williamsburg Ln, Woodstock, GA 30189",4,3,"2,892","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$460,373","248 Cordova St, Woodstock, GA 30189",--,--,--,N/A
+"$489,500","107 Glencedars Ln, Canton, GA 30115",4,5,"4,897","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$250,000","5001 Spice Garden Ln, Woodstock, GA 30189",4,3,"3,344","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$385,000","965 Woodbury Rd, Canton, GA 30114",5,5,"5,792","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$180,000","Mason Dr, Canton, GA 30115",--,--,--,N/A
+"$229,900","1419 Anona Pl, Woodstock, GA 30188",3,3,"1,436",https://photos.zillowstatic.com/p_e/ISj3ax0zaxjn6y0000000000.jpg
+"$406,000","203 Valley View Ct, Woodstock, GA 30188",5,4,"3,051",https://photos.zillowstatic.com/p_e/ISzvekx9b9qjjk1000000000.jpg
+"$180,000","Mason Dr, Canton, GA 30115",--,--,--,N/A
+"$180,000","246 Johnson Dr, Canton, GA 30115",3,2.5,"1,772",N/A
+"$196,500","584 Fox Creek Xing #3, Woodstock, GA 30188",2,3,"1,790",https://photos.zillowstatic.com/p_e/ISnmbuf62gst0u1000000000.jpg
+"$360,000","526 Papillion Trce, Woodstock, GA 30188",4,3,"2,378",https://photos.zillowstatic.com/p_e/ISf40z6b4oal2m1000000000.jpg
+"$171,500","834 Ash St, Canton, GA 30114",2,3,"1,554",https://photos.zillowstatic.com/p_e/ISzbbo6uf93uw61000000000.jpg
+"$375,000","506 Windy Sky Blf, Canton, GA 30114",5,4,"3,516",https://photos.zillowstatic.com/p_e/ISjrkdftdip7xy0000000000.jpg
+"$120,000","130 Sharp Mountain Crk, Ball Ground, GA 30107",2.05,N/A,N/A,N/A
+"$164,000","615 Mcclure Dr LOT 0, Cumming, GA 30028",5.25,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$185,000","125 Robinhood Dr, Woodstock, GA 30188",3,1,"1,536","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$197,500","232 Hembredge Dr, Canton, GA 30115",3,2,"1,296","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$164,000","615 Mcclure Dr, Cumming, GA 30028",Studio,--,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$265,000","532 Quinn Dr, Woodstock, GA 30188",4,3,"2,100","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$222,000","206 Courtyard Dr, Woodstock, GA 30189",2,2,"1,681","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$320,000","207 Holly Creek Way, Woodstock, GA 30188",4,3,"3,856","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$350,000","0 Edwards Mill Rd, Ballground, GA 30107",9.07,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$185,000","109 The Crossings Ln, Woodstock, GA 30189",2,2,"1,794","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$339,350","108 Avery Landing Way, Canton, GA 30115",4,3,"3,106",N/A
+"$185,000","320 Bethel Dr, Woodstock, GA 30189",5,3,"2,962","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$223,000","612 Wellington Ct, Woodstock, GA 30188",4,3,"2,330","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$300,000","519 Crestmont Ln, Canton, GA 30114",4,3,"2,743","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$455,000","940 Old Magnolia Trl, Canton, GA 30115",3,3,"2,686","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$230,000","630 Morgan Springs Ct, Canton, GA 30115",3,2,"1,544","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$545,000","900 Water Tank Rd, Canton, GA 30115",3,2,"1,760","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$415,000","209 Fox Pointe Ct, Woodstock, GA 30188",5,4,"3,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$307,980","307 Denali Butte, Canton, GA 30114",--,--,--,N/A
+"$455,000","416 Mill Stream Way, Woodstock, GA 30188",5,4,"3,985","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$174,325","536 Fox Creek Xing, Woodstock, GA 30188",2,3,"1,369","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$270,905","318 Winston Cir, Canton, GA 30114",3,3,"1,762","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$197,500","232 Hembredge Dr #12, Canton, GA 30115",3,2,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$329,000","222 S Mountain Brook Way, Ball Ground, GA 30107",4,2,"2,439","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$285,500","295 Allison Ln, Ball Ground, GA 30107",3,2,"1,421","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$389,900","131 Longleaf Dr, Canton, GA 30114",5,4,"3,700","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$770,000","811 Creekside Trl, Alpharetta, GA 30004",5,5,"4,511","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$550,000","206 W Sky Ball, Ball Ground, GA 30107",--,--,--,N/A
+"$199,500","613 Oakside Pl, Acworth, GA 30102",3,3,"1,624","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$298,000","819 Buffington Way, Canton, GA 30115",4,3,"3,224","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$218,000","240 Rose Cottage Dr, Woodstock, GA 30189",3,2,"1,328","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$360,000","185 Archie Way, Woodstock, GA 30188",--,--,--,N/A
+"$218,000","240 Rose Cottage Dr, Woodstock, GA 30189",3,2,"1,328",https://photos.zillowstatic.com/p_e/ISb9x0pfst8zfj0000000000.jpg
+"$360,000","185 Archie Way, Woodstock, GA 30188",--,--,--,N/A
+"$225,000","512 Riverview Ln, Canton, GA 30114",2,2,"1,817",https://photos.zillowstatic.com/p_e/ISjjiizrs71c0q0000000000.jpg
+"$272,000","506 Drifton Way, Woodstock, GA 30188",3,3,"1,974",https://photos.zillowstatic.com/p_e/ISfgtldycj6q4y0000000000.jpg
+"$285,000","812 Plaintain Dr, Woodstock, GA 30188",3,3,"1,986",https://photos.zillowstatic.com/p_e/ISbxnpocz7kiso1000000000.jpg
+"$225,000","1269 W Wylie Bridge Rd, Woodstock, GA 30188",3,2,"1,438",https://photos.zillowstatic.com/p_e/IS3f09nf4j9oot0000000000.jpg
+"$895,000","2151 Batesville Rd, Canton, GA 30115",4,5,"6,634",https://photos.zillowstatic.com/p_e/ISvgg0ye9jpfsg1000000000.jpg
+"$275,000","1527 Dupree Rd, Woodstock, GA 30189",3,2,"2,270",https://photos.zillowstatic.com/p_e/ISrlls57412jj91000000000.jpg
+"$298,000","819 Buffington Way, Canton, GA 30115",4,3,"3,224",https://photos.zillowstatic.com/p_e/ISbhfky44ft6fl1000000000.jpg
+"$250,000","132 Hidden Lake Cir, Canton, GA 30114",4,3,"2,282","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$300,000","511 Watercress Dr, Woodstock, GA 30188",4,2.5,"2,052",N/A
+"$529,900","5166 Millwood Dr, Canton, GA 30114",6,5,"4,465","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$226,000","623 Victoria Ln, Woodstock, GA 30189",3,2,"1,316","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$303,611","310 Hickory Run Way, Canton, GA 30114",--,--,--,N/A
+"$198,000","122 Bethany Manor Dr, Ball Ground, GA 30107",3,3,"1,844","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$303,000","721 Flag St, Canton, GA 30114",4,3,"2,762","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$305,500","111 Brookwood Trl, Waleska, GA 30183",3,3,"3,098","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$240,000","5804 Reinhardt College Pkwy, Waleska, GA 30183",3,2,"1,734","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$662,000","222 Grandmar Chase, Canton, GA 30115",5,4,"4,216","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$184,200","107 Woodglen Dr, Woodstock, GA 30188",3,2,"1,584","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$320,000","424 Acorn Dr, Acworth, GA 30102",4,3,"2,700","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$412,500","186 Antioch Rd, Canton, GA 30115",3,3,"3,396","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$570,000","406 New Fern Ln, Canton, GA 30114",6,7,"6,054","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$196,000","209 Bethany Manor Ct, Ball Ground, GA 30107",4,3,"1,716","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$487,008","246 Harmony Lake Dr, Canton, GA 30115",--,--,--,N/A
+"$323,119","216 Gaston Ct, Canton, GA 30115",--,--,--,N/A
+"$285,244","405 Summit Ave, Canton, GA 30114",--,--,--,N/A
+"$360,000","189 Archie Way, Woodstock, GA 30188",--,--,--,N/A
+"$223,000","111 Oakview Psge, Canton, GA 30114",3,3,"1,844","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$255,000","242 Colemans Bluff Dr, Woodstock, GA 30188",4,3,"1,956","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$175,000","2435 Trenton Dr, Canton, GA 30115",4,2,"1,760","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$300,000","704 Harlequin Way, Canton, GA 30115",4,3,"2,551","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$98,000","Arbor Hill Rd, Canton, GA 30115",3,2,"1,950","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$369,500","180 Sweetwater Creek Dr, Canton, GA 30114",5,4,"2,596","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$700,000","1629 A J Land Rd, Canton, GA 30115",11.69,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$420,000","355 Sky Mountain Ln, Canton, GA 30115",4,4,"3,790","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$340,000","187 Archie Way, Woodstock, GA 30188",4,4,"2,800","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$430,000","304 Glen Mill Ct, Woodstock, GA 30188",4,3,"2,840","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$245,500","510 River Pl, Woodstock, GA 30188",3,2,"1,728","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$395,000","511 Bart Manous Rd, Canton, GA 30115",3,2,"2,004","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$320,000","271 Falcon Pointe Ct, Canton, GA 30114",5,3,"2,536",https://photos.zillowstatic.com/p_e/ISrxqwppb78xy60000000000.jpg
+"$323,119","216 Gaston Ct, Canton, GA 30115",--,--,--,N/A
+"$240,000","3785 Pine Brook Dr, Acworth, GA 30102",3,2,"1,338",https://photos.zillowstatic.com/p_e/ISr512jy9fkdzw1000000000.jpg
+"$285,244","405 Summit Ave, Canton, GA 30114",--,--,--,N/A
+"$384,000","265 Mitchell Ln, Woodstock, GA 30188",--,--,--,N/A
+"$203,000","419 Hillcrest Cmns, Canton, GA 30115",4,3,"1,228",https://photos.zillowstatic.com/p_e/ISrhe4r06s3xem0000000000.jpg
+"$358,763","312 Ellington Dr, Canton, GA 30115",--,--,--,N/A
+"$280,000","210 Holly Chase Ct, Canton, GA 30114",4,3,"2,307",https://photos.zillowstatic.com/p_e/IS7ix3pyft7pp40000000000.jpg
+"$38,000","427 Airstrip Dr, Canton, GA 30114",--,--,--,N/A
+"$238,185","630 Royal Crest Ct, Canton, GA 30115",--,--,--,N/A
+"$325,000","414 Montclair Ct, Woodstock, GA 30188",--,--,--,N/A
+"$340,000","187 Archie Way, Woodstock, GA 30188",--,--,--,N/A
+"$325,000","414 Montclair Ct, Woodstock, GA 30188",4,4,"2,115","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$360,000","189 Archie Way, Woodstock, GA 30188",--,--,--,N/A
+"$72,500","1125 Wyatt Rd, Canton, GA 30115",--,--,--,N/A
+"$98,000","Arbor Hill Rd, Canton, GA 30115",3,2,"1,950","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$88,400","Unassigned Address, Acworth, GA 30101",--,--,--,N/A
+"$474,813","Unassigned Address, Acworth, GA 30101",--,--,--,N/A
+"$223,000","111 Oakview Psge, Canton, GA 30114",3,3,"1,844","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$280,000","223 Mincey Way, Woodstock, GA 30188",4,3,"2,682","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$413,156","1398 Beechworth Ln, Acworth, GA 30101",3,3,"2,785","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$255,000","242 Colemans Bluff Dr, Woodstock, GA 30188",4,3,"1,956","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$231,000","112 Lummus Rd, Cumming, GA 30040",3,2,"1,620","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$333,000","936 Bendleton Dr, Woodstock, GA 30188",4,2.5,"2,216",N/A
+"$358,763","312 Ellington Dr, Canton, GA 30115",3,2,"2,250","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$220,000","723 Lake Point Dr, Woodstock, GA 30189",3,2,"1,683","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$443,000","1000 Hickory Woods Way, Canton, GA 30115",4,4,"3,196","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$227,000","135 Townview Dr, Woodstock, GA 30189",3,3,"1,776","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$248,000","2472 Ramblewood Ct, Acworth, GA 30102",4,3,"2,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$275,000","1029 Smithwyck Dr, Canton, GA 30115",3,2,"1,636","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$411,607","1124 Heatherland Dr NE, Marietta, GA 30066",4,5,"3,034","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$392,500","359 Carmichael Cir, Canton, GA",4,4,"3,941","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$340,000","187 Archie Way, Woodstock, GA 30188",4,4,"2,800","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$369,500","180 Sweetwater Creek Dr, Canton, GA 30114",5,4,"2,596","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$265,000","173 Brookwood Dr, Canton, GA 30114",6,4,"4,384","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$175,000","2435 Trenton Dr, Canton, GA 30115",4,2,"1,760","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$255,000","114 Hidden Lake Cir, Canton, GA 30114",4,3,"2,190","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$294,900","146 Plantation Trce, Woodstock, GA 30188",4,3,"2,112","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$300,000","704 Harlequin Way, Canton, GA 30115",4,3,"2,551","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$228,000","353 Ridgewood Dr, Waleska, GA 30183",4,3,"2,610","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$285,244","405 Summit Ave #8, Canton, GA 30114",2,2,"2,094",https://photos.zillowstatic.com/p_e/ISfk06xdq4jqod0000000000.jpg
+"$472,500","418 Parkbrook Way, Canton, GA 30114",5,4,"3,700",https://photos.zillowstatic.com/p_e/IS3fgdpswn6xlu1000000000.jpg
+"$60,000","448 Allison Ln, Ball Ground, GA 30107",3,1,"1,260",N/A
+"$318,500","417 Tom Avery Dr, Ball Ground, GA 30107",4,3,"2,361",N/A
+"$362,490","126 Stargaze Rdg, Canton, GA 30114",4,3,"2,570",https://photos.zillowstatic.com/p_e/ISbhvgac82rby71000000000.jpg
+"$285,000","705 Flag St, Canton, GA 30114",4,2.5,"2,358",N/A
+"$145,000","2514 Fate Conn Rd, Canton, GA 30114",2,N/A,N/A,https://photos.zillowstatic.com/p_e/ISrxagm3e5ec3o1000000000.jpg
+"$283,250","682 Ocean Ave, Canton, GA 30114",4,3,"2,308",https://photos.zillowstatic.com/p_e/ISfsavhdjsqr070000000000.jpg
+"$296,000","426 Tom Avery Dr, Ball Ground, GA 30107",3,2,"1,801",https://photos.zillowstatic.com/p_e/ISzzdasb7u51mn0000000000.jpg
+"$285,000","603 Ocean Ave, Canton, GA 30114",4,3,"2,358","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$228,000","353 Ridgewood Dr, Waleska, GA 30183",4,3,"2,610","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$299,900","220 Brick Mill Dr, Canton, GA 30115",4,4,"2,746","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$349,900","404 W Leslie Ct, Woodstock, GA 30188",3,3,"2,834","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$195,000","218 Magnolia Leaf Dr, Woodstock, GA 30188",3,3,"1,628","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$30,000","540 Drake Ln, Canton, GA 30115",1,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$181,280","2211 Mohawk Trl, Acworth, GA 30102",3,2,"1,456",N/A
+"$285,000","2000 Cherokee Trl, Woodstock, GA 30189",3,2,"2,016","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$467,000","1056 Avery Creek Dr, Woodstock, GA 30188",5,5,"4,707","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$246,900","152 Renford Rd, Ball Ground, GA 30107",4,3,"2,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$645,000","119 Sharp Mountain Crk, Ball Ground, GA 30107",5,3,"4,980","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$302,900","406 Montclair Ct, Woodstock, GA 30188",4,4,"2,115","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$302,900","406 Montclair Ct, Woodstock, GA 30188",--,--,--,N/A
+"$296,990","303 Hayden Cir #2, Woodstock, GA 30189",3,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$492,500","1080 Bridge Mill Ave, Canton, GA 30114",6,6,"5,950","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$388,205","406 Hickory Ter, Canton, GA 30115",--,--,--,N/A
+"$274,000","209 Toonigh Way, Canton, GA 30115",4,3,"2,436",N/A
+"$212,000","262 Hiawassee Dr, Woodstock, GA 30188",3,3,"1,677","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$375,451","296 Orchard Trl, Canton, GA 30115",--,--,--,N/A
+"$294,200","2117 Colony Dr, Canton, GA 30114",4,3,"2,699","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$177,317","603 Cherokee Trce, Canton, GA 30115",3,2,"1,280","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$305,000","402 Montclair Ct, Woodstock, GA 30188",--,--,--,N/A
+"$85,000","171 N Arnold Mill Rd, Woodstock, GA 30188",--,--,--,N/A
+"$265,000","1116 Etowah Valley Ln, Woodstock, GA 30189",4,3,"2,181","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$273,000","142 Hartwood Dr, Woodstock, GA 30189",4,3,"1,948","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$358,500","513 Rocking Porch Way, Woodstock, GA 30189",4,4,"2,415","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$219,069","6520 Windsor Dr, Acworth, GA 30102",3,2,"1,512",N/A
+"$410,000","1729 Grand Oaks Dr, Woodstock, GA 30188",4,4,"2,562","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$326,205","329 Ellington Dr, Canton, GA 30115",--,--,--,N/A
+"$299,999","7984 Highway 92, Woodstock, GA 30189",10.73,N/A,N/A,N/A
+"$364,984","153 Inwood Walk, Woodstock, GA 30188",3,3,"2,632","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$542,000","201 Leland Way, Woodstock, GA 30188",5,4,"4,848",https://photos.zillowstatic.com/p_e/ISne11c5g8zexx0000000000.jpg
+"$299,999","7984 Highway 92, Woodstock, GA 30189",10.73,N/A,N/A,N/A
+"$85,000","171 N Arnold Mill Rd, Woodstock, GA 30188",--,--,--,N/A
+"$190,000","273 Lakeside Dr, Canton, GA 30183",3,2,"1,264",https://photos.zillowstatic.com/p_e/IS7ardu1f516kf1000000000.jpg
+"$389,000","408 Wilshire Ln, Canton, GA 30115",4,4,"2,817",https://photos.zillowstatic.com/p_e/IS76owntjmvyjt1000000000.jpg
+"$228,500","6242 New Mill Trl, Acworth, GA 30102",3,2.5,"2,576",https://photos.zillowstatic.com/p_e/ISnamyow4yfh8d1000000000.jpg
+"$175,000","1104 Palm St, Canton, GA 30115",3,3,"1,800",https://photos.zillowstatic.com/p_e/ISna2fgpv7ayg81000000000.jpg
+"$285,000","222 Jefferson Ave, Canton, GA 30114",4,3,"2,713",https://photos.zillowstatic.com/p_e/ISjzumfauko9p81000000000.jpg
+"$184,900","202 Valley Xing, Canton, GA 30114",3,4,"1,906",https://photos.zillowstatic.com/p_e/ISv4r47l836qaq0000000000.jpg
+"$175,000","269 Riverstone Pl, Canton, GA 30114",2,2,"1,278",N/A
+"$346,850","179 Madison St #46, Holly Springs, GA 30115",5,3,"2,828","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$378,145","194 Neese Farm Dr #26, Woodstock, GA 30188",4,4,"2,798","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$514,920","409 Loblolly St, Woodstock, GA 30188",--,--,--,N/A
+"$419,990","411 Morning Mist Trl, Canton, GA 30114",4,4,"3,045","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$346,850","179 Madison St, Canton, GA 30115",4,3,"2,828","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$340,000","147 Avery Landing Way, Canton, GA 30115",4,3,"3,283",N/A
+"$339,350","135 Avery Landing Way, Canton, GA 30115",4,3,"3,280","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$330,000","335 Reserve Overlook, Canton, GA 30115",4,4,"2,928","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$425,240","503 Coachman Cir, Canton, GA 30115",5,4,"3,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$275,000","318 Balaban Cir, Woodstock, GA 30188",4,3,"1,878","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$270,000","508 Waterfall Dr, Canton, GA 30114",3,2,"1,730","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$370,000","626 Eagles Lndg, Woodstock, GA 30188",4,4,"2,842","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$509,900","301 Mcdaniel Pl, Woodstock, GA 30188",--,--,--,N/A
+"$291,500","1004 Smithwyck Dr, Canton, GA 30115",4,3,"2,281","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$395,000","304 Shade Tree Cir, Woodstock, GA 30188",3,3,"2,399","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$250,000","1068 Middlebrooke Dr, Canton, GA 30115",5,5,"2,487","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$370,000","626 Eagles Ldg, Woodstock, GA 30188",--,--,--,N/A
+"$289,903","406 Summit Ave #4, Canton, GA 30114",2,2,"2,097","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$317,000","302 Providence Walk Way, Canton, GA 30114",5,3,"3,656","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$353,000","624 Providence Walk Pl, Canton, GA 30114",5,3,"2,988","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$265,000","263 Springs Xing, Canton, GA 30114",4,3,"2,405","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$378,145","194 Neese Farm Dr, Woodstock, GA 30188",4,3,"2,798","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$412,000","434 Lake Point Trce, Canton, GA 30114",4,4,"3,223","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$170,800","110 Burch Rd, Woodstock, GA 30188",4,2,"2,053","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$187,000","530 Cherokee Overlook Ct, Canton, GA 30115",3,2,"1,655","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$238,000","200 Weatherstone Pointe Dr, Woodstock, GA 30188",4,3,"2,228","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$186,500","106 Quail Run, Woodstock, GA 30189",3,2,"1,543","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$289,903","406 Summit Ave, Canton, GA 30114",--,--,--,N/A
+"$5,900","946 Lake Arrowhead Dr, Waleska, GA 30183",0.44,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$289,903","406 Summit Ave, Canton, GA 30114",2,2,"2,179","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$5,900","946 Lake Arrowhead Dr, Waleska, GA 30183",0.44,N/A,N/A,https://photos.zillowstatic.com/p_e/IS76sv9lkowusn1000000000.jpg
+"$289,903","406 Summit Ave, Canton, GA 30114",--,--,--,N/A
+"$5,000","102 Fort Wayne Dr, Waleska, GA 30183",0.49,N/A,N/A,https://photos.zillowstatic.com/p_e/ISnyok24bplr5x1000000000.jpg
+"$234,000","375 Franklin Ln, Acworth, GA 30102",3,3,"2,254",https://photos.zillowstatic.com/p_e/ISrtf1ztm21il81000000000.jpg
+"$360,000","1104 Vanderbilt Ct, Woodstock, GA 30188",5,4,"3,382",https://photos.zillowstatic.com/p_e/IS3zfm7zbcfgvr0000000000.jpg
+"$315,000","230 Serenoa Dr, Canton, GA 30114",3,2,"1,542",https://photos.zillowstatic.com/p_e/IS7qjua54s53jc0000000000.jpg
+"$439,600","221 Mitchell Ln, Woodstock, GA 30188",4,4,"2,448",https://photos.zillowstatic.com/p_e/IS3jr0qqfi2dto1000000000.jpg
+"$199,500","326 Princess Ave, Woodstock, GA 30189",3,2,"2,056",https://photos.zillowstatic.com/p_e/IS72x4p9wit9ft1000000000.jpg
+"$439,600","221 Mitchell Ln #10, Woodstock, GA 30188",4,4,"2,448",https://photos.zillowstatic.com/p_e/IS3bdk5emofp3a0000000000.jpg
+"$261,000","229 Sharon Way, Woodstock, GA 30189",3,3,"2,018","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$210,000","131 Riverwatch Ct, Canton, GA 30114",3,3,"1,818","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$363,198","719 Thrush Rd, Acworth, GA 30102",--,--,--,N/A
+"$374,900","602 Chickory Ct, Woodstock, GA 30188",4,3,"2,750","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$220,000","121 Point View Dr, Canton, GA 30114",2,2,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$230,000","105 Sunset Ln, Woodstock, GA 30189",3,4,"2,385","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$439,600","221 Mitchell Ln, Woodstock, GA 30188",--,--,--,N/A
+"$349,000","117 Arcadia Park Dr, Canton, GA 30114",5,4,"2,951","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$359,895","235 Hickory Chase, Canton, GA 30115",--,--,--,N/A
+"$192,000","219 Saxon Ct, Canton, GA 30114",4,3,"1,816","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$289,000","310 Springs Xing, Canton, GA 30114",5,3,"2,809","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$429,900","238 Sumac Trl, Woodstock, GA 30188",5,4,"3,996","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$450,000","125 Grove View Rd, Woodstock, GA 30189",--,--,--,N/A
+"$289,000","302 Melilot Ct, Woodstock, GA 30188",3,3,"1,986","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$255,000","325 Knotts Cir, Woodstock, GA 30188",3,3,"1,998","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$471,000","1925 Cokers Chapel Rd, Ball Ground, GA 30107",5,5,"3,560","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$510,000","130 Amber Lake Dr, Ball Ground, GA 30107",5,4,"5,280","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$118,500","279 Highrock Rd, Waleska, GA 30183",2,2,"2,399","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$337,500","414 Timberleaf Rd, Canton, GA 30115",4,4,"2,830",N/A
+"$291,700","532 Gardenview Rd, Canton, GA 30114",4,3,"2,680","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$300,000","814 Honey Springs Dr, Woodstock, GA 30189",4,3,"2,373","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$282,000","704 Glendale Forest Ct, Woodstock, GA 30189",4,3,"2,386","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$375,000","705 Sweet Gum Way, Canton, GA 30115",4,3,"2,632","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$275,000","1425 Towne Harbor Psge, Woodstock, GA 30189",3,3,"2,998","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$340,000","434 Christina Way, Acworth, GA 30102",5,4,"3,048","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$799,000","109 Kremer Falls Trce, Canton, GA 30114",5,6,"7,056","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$267,000","220 Manous Way, Canton, GA 30115",4,3,"2,285","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$358,000","706 Dove Chase, Canton, GA 30114",6,4,"2,900","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$221,000","583 Rivercrest Dr, Canton, GA 30188",3,2,"1,502","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$200,000","1111 Rook Pl, Woodstock, GA 30188",2,2,"1,248","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$209,000","104 The Crossings Ln, Woodstock, GA 30189",3,3,"1,840","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$358,000","706 Dove Chase, Canton, GA 30114",6,4,"2,900",https://photos.zillowstatic.com/p_e/ISzz15w1qitgdc0000000000.jpg
+"$200,000","1111 Rook Pl, Woodstock, GA 30188",2,2,"1,248",https://photos.zillowstatic.com/p_e/ISzzlgezfqsglp1000000000.jpg
+"$223,250","126 Hawkins Farm Ln, Ball Ground, GA 30107",5,3,"1,810",https://photos.zillowstatic.com/p_e/ISbhbpbrk665ve1000000000.jpg
+"$284,900","121 Silver Creek Dr, Canton, GA 30114",4,3,"2,477",https://photos.zillowstatic.com/p_e/ISzvesbeql639a1000000000.jpg
+"$235,000","3575 Cherokee Overlook Dr, Canton, GA 30115",5,2,"2,344",https://photos.zillowstatic.com/p_e/IS3vgkziy75cfq1000000000.jpg
+"$234,900","725 Mountain Laurel Dr, Canton, GA 30114",3,3,"1,880",https://photos.zillowstatic.com/p_e/ISvwcchoqy8umm1000000000.jpg
+"$330,393","400 Summit Ave, Canton, GA 30114",--,--,--,N/A
+"$254,920","155 Terrace Walk, Woodstock, GA 30189",3,3,"1,905",https://photos.zillowstatic.com/p_e/ISz7w1kgxxks930000000000.jpg
+"$230,000","516 Victoria Rd, Woodstock, GA 30189",4,3,"2,160",N/A
+"$285,830","1147 Blankets Creek Dr, Canton, GA 30114",4,2.5,"2,387",N/A
+"$302,000","600 Doublegate Ct, Canton, GA 30114",6,4,"3,791","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.00M,"1614 A J Land Rd, Canton, GA 30115",3,3.5,"2,240",N/A
+"$799,000","109-109B Kremer Falls Trce, Canton, GA 30114",6,6,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$254,000","118 Ivygreen Chase, Canton, GA 30114",3,2,"2,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$125,000","Sutallee Ridge Ct, White, GA 30184",--,--,--,N/A
+"$125,000","0 Sutallee Ridge Ct LOT 22, White, GA 30184",5,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.00M,"1320 A J Land Rd, Canton, GA 30115",5,3,"2,223",N/A
+"$212,000","2142 Cascade Dr, Acworth, GA 30102",3,2,"1,540","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$229,000","322 Hill Crest Cir, Woodstock, GA 30188",3,2,"1,538","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$465,000","239 Millstone Pkwy, Woodstock, GA 30188",5,4,"3,837","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$227,000","197 Townview Dr, Woodstock, GA 30189",3,3,"1,772","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$230,000","611 Evergreen Dr, Woodstock, GA 30188",4,2,"1,571",N/A
+"$287,000","308 Vermillion St, Acworth, GA 30102",3,2,"2,243","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$799,000","105 Kremer Falls Trce, Canton, GA 30114",1.1,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$507,000","105 Glencedars Ln, Canton, GA 30115",5,6,"5,031","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$217,000","304 Hiawassee Dr, Woodstock, GA 30188",2,3,"1,286","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$335,000","710 Lorimore Pass, Canton, GA 30115",5,3,"2,899","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$228,000","609 Oleander Way, Canton, GA 30114",3,3,"1,868","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$236,900","315 Pioneer Cir, Woodstock, GA 30188",3,2,1,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$150,000","5328 Wade Green Rd, Acworth, GA 30102",3,1,950,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$724,900","5162 Millwood Dr, Canton, GA 30114",7,6,"7,531","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$260,000","608 Royal Crescent Aly, Canton, GA 30115",--,--,--,N/A
+"$15,000","154 Lakeside Dr, Waleska, GA 30183",--,--,--,N/A
+"$315,000","326 Woodridge Pass, Canton, GA 30114",3,3,"2,373","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$315,000","168 N Mountain Brooke Dr, Ball Ground, GA 30107",--,--,--,N/A
+"$260,000","585 Creighton Rd, Ball Ground, GA 30107",2,3,"1,496","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$317,500","158 N Mountain Brooke Dr, Ball Ground, GA 30107",3,3,"2,300","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$544,754","428 Horizon Trl, Canton, GA 30114",4,4,"3,600","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$330,393","400 Summit Ave, Canton, GA 30114",2,2,"2,109","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$244,500","132 Old Canton Rd, Ball Ground, GA 30107",3,3,"1,666","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$330,393","400 Summit Ave, Canton, GA 30114",2,2,"2,109",https://photos.zillowstatic.com/p_e/ISrdr7n8maq3wk0000000000.jpg
+"$260,000","585 Creighton Rd, Ball Ground, GA 30107",2,3,"1,496",https://photos.zillowstatic.com/p_e/ISnmbaceu16o7w0000000000.jpg
+"$544,754","428 Horizon Trl, Canton, GA 30114",4,4,"3,600",https://photos.zillowstatic.com/p_e/ISb9pi1rsme9431000000000.jpg
+"$277,000","180 Wallnut Hall Cir, Woodstock, GA 30189",3,3,"2,038",https://photos.zillowstatic.com/p_e/ISnq6dmtf1uey70000000000.jpg
+"$417,000","351 Windsong Way, Woodstock, GA 30188",4,3,"2,567",https://photos.zillowstatic.com/p_e/ISf0p3otvpqyet1000000000.jpg
+"$490,000","960 Steeplechase Rd, Alpharetta, GA 30004",5,5,"4,676",https://photos.zillowstatic.com/p_e/IS3fcyiqt16pu90000000000.jpg
+"$265,000","222 Woodcreek Way, Acworth, GA 30101",3,4,"2,820",https://photos.zillowstatic.com/p_e/ISb5iee3zx1wwq1000000000.jpg
+"$225,000","135 Amanda Ln, Canton, GA 30115",3,2,"1,620",https://photos.zillowstatic.com/p_e/ISf4cgck4x53mx1000000000.jpg
+"$521,000","203 Wexford Ct, Canton, GA 30115",4,3,"3,070",https://photos.zillowstatic.com/p_e/ISf0t26mik609a1000000000.jpg
+"$258,000","656 Sunflower Dr, Canton, GA 30114",4,3,"2,504","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$260,000","229 Royal Crescent Ter #119, Canton, GA 30115",3,3,"2,167","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$318,675","384 Gardens Of Harmony Dr, Canton, GA 30115",--,--,--,N/A
+"$370,524","341 Ellington Dr, Canton, GA 30115",--,--,--,N/A
+"$399,900","133 Normandy Dr, Woodstock, GA 30188",4,3,"2,816","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$375,000","620 Eagles Ldg, Woodstock, GA 30188",--,--,--,N/A
+"$529,325","134 Registry Ln, Canton, GA 30115",--,--,"5,303",N/A
+"$375,000","620 Eagles Lndg, Woodstock, GA 30188",4,4,"3,061","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$474,900","342 Little Pine Ln, Woodstock, GA 30188",3,3,"2,510","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$668,132","Unassigned Address, Acworth, GA 30101",4,4,"3,400","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$248,000","226 Cedar Valley Ct, Canton, GA 30115",3,2,"1,836","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$529,325","134 Registry Ln, Canton, GA 30115",4,5,"4,524","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$275,000","510 Bentwood Dr, Woodstock, GA 30189",3,3,"1,922","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$390,000","1211 Olive Ct, Canton, GA 30115",5,4,"3,028","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$40,000","6986 Bells Ferry Rd, Canton, GA 30114",2,1,"1,173","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$283,000","256 Glens Loop, Woodstock, GA 30188",2,2,"1,367","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$377,000","210 Cornerstone Dr, Woodstock, GA 30188",4,4,"2,837","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$295,000","5195 Valley Tarn, Acworth, GA 30102",4,4,"3,219","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$338,745","111 Holly View Ln, Holly Springs, GA 30114",3,3,"2,555","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$119,900","768 Old Vandiver Dr, Canton, GA 30114",3,1,952,N/A
+"$5,000","1458 Pickens St, Ball Ground, GA 30107",--,1,600,N/A
+"$95,400","000 Sperin Rd, Ball Ground, GA 30107",6.64,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$415,000","531 Crested Hawk Rdg, Canton, GA 30114",5,5,"4,153","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$360,000","513 Papillion Trce, Woodstock, GA 30188",4,3,"2,361","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$250,000","731 Habersham Pl, Canton, GA 30115",3,2,"1,267","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$650,000","585 Chilhoe Dr, Canton, GA 30115",4,6,"8,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$472,900","203 Twisted Timber Ct, Woodstock, GA 30189",4,3,"2,627","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$278,000","103 Tarragon Ct, Woodstock, GA 30189",3,3,"2,998","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.07M,"301 Trinity Overlook, Canton, GA 30115",4,5,"4,084","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$55,000","123 Carney Dr, Ball Ground, GA 30107",0.92,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$290,000","109 Mount Moriah Rd, Ball Ground, GA 30107",--,--,--,N/A
+"$223,500","1309 Rocking Chair Ct, Woodstock, GA 30188",2,3,"1,760",https://photos.zillowstatic.com/p_e/IS33zz9ugkqcd30000000000.jpg
+"$160,000","272 Riverstone Pl, Canton, GA 30114",2,2,"1,278",N/A
+$1.11M,"117 Cedar Woods Trl, Canton, GA 30114",6,8,"8,616",https://photos.zillowstatic.com/p_e/IS-1796rz8yxpkkd.jpg
+"$479,900","1040 Avery Creek Dr, Woodstock, GA 30188",5,6,"4,653",https://photos.zillowstatic.com/p_e/ISjbsoocpka82f1000000000.jpg
+"$452,000","215 Jeffrey Dr, Woodstock, GA 30188",6,4.5,"5,330",https://photos.zillowstatic.com/p_e/IS3ni85au666sc0000000000.jpg
+"$220,000","180 Swanee Ln, Woodstock, GA 30188",3,3,"1,274",https://photos.zillowstatic.com/p_e/ISf0dybbh2ov5t1000000000.jpg
+"$220,000","532 Bluff Ct, Woodstock, GA 30188",3,2,"1,356",https://photos.zillowstatic.com/p_e/ISzzt21anol7pt0000000000.jpg
+"$275,000","612 Dahoma Trl, Woodstock, GA 30188",3,2.5,"1,855",N/A
+"$100,000","2503 Fairway Oaks, Waleska, GA 30183",2,2,954,https://photos.zillowstatic.com/p_e/ISrdbj5y959qfd0000000000.jpg
+"$120,000","367 Willis Dr, Ball Ground, GA 30107",5,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$444,900","905 Steeplechase Rd, Alpharetta, GA 30004",4,3.5,"3,353",N/A
+"$440,000","1410 Beechworth Ln, Acworth, GA 30101",--,--,--,N/A
+"$262,000","609 Tall Timbers, Woodstock, GA 30188",3,3,"2,024","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$229,000","117 River Park Xing, Woodstock, GA 30188",3,2.5,"2,017","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$365,265","107 Hickory Run, Canton, GA 30115",--,--,--,N/A
+"$5,000","210 Sequoyah Dr, Alpharetta, GA 30004",3,2,"1,134",N/A
+"$215,000","1453 White Path Trl, Canton, GA 30114",5,2,"2,349","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$279,000","Moody Rd, Ball Ground, GA 30107",--,--,--,N/A
+"$310,000","208 Preserve Ct, Ball Ground, GA 30107",3,2,"1,907","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$165,000","200 Bethany Farms Dr, Ball Ground, GA 30107",5,5,"4,276","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$182,000","245 River Green Ave UNIT 23, Canton, GA 30114",3,3,"1,596","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$380,000","210 Chadwyck Ln, Canton, GA 30115",4,4,"3,706","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$373,000","212 Sable Ridge Way, Acworth, GA 30102",4,4,"3,063","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$150,000","458 Trinity Church Rd, Canton, GA 30115",3,2,"1,832","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$600,000","300 Spotted Ridge Cir #16, Woodstock, GA 30188",6,4,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$600,000","300 Spotted Ridge Cir, Woodstock, GA 30188",6,4,"4,494","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$147,000","247 Taylors Farm Dr, Canton, GA 30115",3,2,"2,344",N/A
+"$249,000","226 Oak Grove Way, Acworth, GA 30102",3,2.5,"1,260","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$249,000","224 Oak Grove Way, Acworth, GA 30102",2,2,826,N/A
+"$150,000","304 Sunlight Dr, Woodstock, GA 30188",2,2,"1,178",N/A
+"$192,500","1135 Becky Ct, Acworth, GA 30102",3,2,"1,344","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$182,000","245 River Green Ave, Canton, GA 30114",3,2,"1,596",N/A
+"$151,100","3008 Old Virginia Trl, Woodstock, GA 30189",3,2,"1,292","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$210,000","236 Eagle Glen Way, Woodstock, GA 30189",3,2,"1,544","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$249,000","205 Oak Grove Way, Acworth, GA 30102",3,2,"1,260","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$249,000","228 Oak Grove Way, Acworth, GA 30102",3,3,"1,346",N/A
+"$264,900","4007 Westridge Xing, Woodstock, GA 30188",3,3,"1,896","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$295,000","406 Wood Trce, Ball Ground, GA 30107",4,3,"2,227","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$242,270","909 Cobblestone Trl, Canton, GA 30114",4,3,"2,270","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$270,000","520 Stell Rd, Canton, GA 30188",3,3,"2,194","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$252,000","105 Bridle Ct, Canton, GA 30114",5,3,"2,484",https://photos.zillowstatic.com/p_e/ISbtsadk13ca141000000000.jpg
+"$255,455","208 Ridge Valley Drive, Woodstock, GA 30189",4,3,"2,000",N/A
+"$620,000","204 Pheasant Hills Ct, Canton, GA 30114",6,5,"6,331",https://photos.zillowstatic.com/p_e/ISf0lckd2gyk9g0000000000.jpg
+"$255,000","1060 River Plantation Dr, Woodstock, GA 30188",5,3,"2,934",https://photos.zillowstatic.com/p_e/IS72xktb1b5f0g0000000000.jpg
+"$335,640","151 Avery Landing Way, Canton, GA 30115",--,--,--,N/A
+"$268,900","1018 Atherton Ln, Woodstock, GA 30189",3,2,"2,400",https://photos.zillowstatic.com/p_e/IS76givjrolt4w0000000000.jpg
+"$242,000","117 Farmington Dr, Woodstock, GA 30188",3,3,"2,256",https://photos.zillowstatic.com/p_e/IS72xgysi6y96w1000000000.jpg
+"$270,000","520 Stell Rd, Canton, GA 30188",3,3,"2,194",https://photos.zillowstatic.com/p_e/ISf05kr7nj67y81000000000.jpg
+"$242,270","909 Cobblestone Trl, Canton, GA 30114",4,3,"2,270",https://photos.zillowstatic.com/p_e/ISb5as7t2jr1gg0000000000.jpg
+"$279,900","515 Quinn Dr, Woodstock, GA 30188",4,3,"2,311","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$222,000","829 Society Ct, Woodstock, GA 30188",2,3,"1,760","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$245,000","248 Parc View Ln, Woodstock, GA 30188",3,3,"1,864","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$285,000","318 Sable Trace Pass, Acworth, GA 30102",6,3,"2,872","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$295,000","2685 Woodridge Chase, Canton, GA 30114",4,3,"2,962","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$238,000","316 Chattahoochee Way, Woodstock, GA 30188",4,2,"1,752","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$310,000","108 Grand Approach Dr, Woodstock, GA 30188",3,4,"2,125","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$360,000","305 Water Oak Ln, Canton, GA 30114",5,3,"3,037","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$192,000","1447 Wildwood Dr, Acworth, GA 30102",4,3,"2,190","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$285,000","206 Jody Lynn Ct, Woodstock, GA 30188",3,2,"2,248","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$216,000","6202 Westridge Trce, Acworth, GA 30102",3,2,"1,505","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$312,060","321 Denali Butte Ter, Canton, GA 30114",4,3,"2,193","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$201,000","211 Bethany Manor Ct, Ball Ground, GA 30107",3,3,"1,844","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$200,000","526 Hemlock Dr, Woodstock, GA 30188",3,2,"1,461","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$462,000","909 Raven Point, Canton, GA 30114",6,5,"4,307","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$329,750","215 Meadows Ct, Woodstock, GA 30189",4,3,"2,544","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$298,000","184 Mountain Vista Blvd, Canton, GA 30115",4,3,"2,330","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$316,020","236 William Creek Dr, Canton, GA 30115",2,2,"1,983",N/A
+"$221,000","206 Park Pl, Woodstock, GA 30189",3,2,"1,402","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$329,750","215 Meadows Ct, Woodstock, GA 30189",--,--,--,N/A
+"$230,000","233 Lexington Dr, Woodstock, GA 30188",--,--,--,N/A
+"$230,000","233 Lexington Dr, Woodstock, GA 30188",5,2,"2,056",N/A
+"$413,898","429 Aristides Way, Canton, GA 30115",--,--,--,N/A
+"$307,000","315 Cabinwood Trl, Canton, GA 30115",4,3,"2,089","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$499,000","104 Gold Springs Ct, Canton, GA 30114",5,5,"4,600","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$255,455","216 Ridge Valley Dr, Woodstock, GA 30189",3,3,"1,804","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$368,000","334 Shade Tree Cir, Woodstock, GA 30188",3,2,"2,274","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$195,000","205 Don John Trl, Woodstock, GA 30189",3,2,"1,860",N/A
+"$290,000","330 Acuba Vw, Woodstock, GA 30188",2,2,"1,763","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$315,000","715 Waveland Dr, Woodstock, GA 30189",4,3,"2,916","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$248,900","157 Victoria Sta, Woodstock, GA 30189",4,3,"1,379","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$368,000","334 Shade Tree Cir, Woodstock, GA 30188",3,2,"2,274",https://photos.zillowstatic.com/p_e/IS72dlk50qwc911000000000.jpg
+"$364,545","2285 Cottrell Ln, Acworth, GA 30102",5,4,"3,147",https://photos.zillowstatic.com/p_e/ISrha59kgjxecv0000000000.jpg
+"$221,000","206 Park Pl, Woodstock, GA 30189",3,2,"1,402",https://photos.zillowstatic.com/p_e/ISf0ht6rvcswiw0000000000.jpg
+"$329,750","215 Meadows Ct, Woodstock, GA 30189",4,3,"2,544",https://photos.zillowstatic.com/p_e/ISfsqjzrycy7ch1000000000.jpg
+"$329,750","215 Meadows Ct, Woodstock, GA 30189",--,--,--,N/A
+"$180,000","Trinity Church Rd, Canton, GA 30115",--,--,--,N/A
+"$430,000","295 Lingefelt Ln, Canton, GA 30115",5,5,"3,600",https://photos.zillowstatic.com/p_e/ISfg141bnknyyd1000000000.jpg
+"$22,500","755 A J Land Rd, Canton, GA 30115",4,2,"2,028",N/A
+"$215,000","1539 Kimberly Pl, Canton, GA 30114",3,2,"1,442",https://photos.zillowstatic.com/p_e/ISfkwqeq6ac5j41000000000.jpg
+"$351,000","1135 Arborhill Dr, Woodstock, GA 30189",4,4,"2,800","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$215,000","3014 Cedar Mill Xing, Acworth, GA 30102",3,2,"2,482","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$315,000","715 Waveland Dr, Woodstock, GA 30189",4,3,"2,916","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$359,000","137 Plantation Trce, Woodstock, GA 30188",4,4,"3,240","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$301,167","117 Fitchburg Dr, Woodstock, GA 30189",3,1,"1,219",N/A
+"$413,898","429 Aristides Way, Canton, GA 30115",--,--,--,N/A
+"$242,000","2048 Crestview Way, Woodstock, GA 30188",3,2,"1,540","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$230,000","233 Lexington Dr, Woodstock, GA 30188",5,2,"2,056",N/A
+"$305,000","408 Montclair Ct, Woodstock, GA 30188",--,--,--,N/A
+"$568,145","912 Landsdowne Cv, Holly Springs, GA 30115",--,--,--,N/A
+"$248,900","157 Victoria Sta, Woodstock, GA 30189",4,3,"1,379","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$260,000","835 Lower Creighton Rd, Cumming, GA 30028",9.48,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$200,000","2898 Pleasant Arbor Rd, Waleska, GA 30183",3,3,"2,604",N/A
+"$440,000","1016 Laurel Lake Dr, Ball Ground, GA 30107",4,3,"2,260","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$260,000","Lower Creighton Rd, Cumming, GA 30028",--,--,--,N/A
+"$265,000","530 Winder Trl, Canton, GA 30114",4,3,"2,334","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$336,666","643 Little Bear Loop, Canton, GA 30114",4,4,"2,643","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$330,000","207 Daybreak Rush, Canton, GA 30114",5,3,"2,952","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$266,000","1394 Chatley Way, Woodstock, GA 30188",4,3,"2,050","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$45,000","450 Cherokee St, Canton, GA 30114",0.63,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$370,000","148 Reddin Dr, Canton, GA 30114",5,5,"4,396","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$15,000","Island Mill Rd, Acworth, GA 30102",--,--,--,N/A
+"$205,000","471 Aster Trce, Canton, GA 30115",4,3,"2,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$300,000","548 Victoria Rd, Woodstock, GA 30189",4,3,"2,390","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$375,150","749 Rockwood Ct, Canton, GA 30115",3,2,"1,683",N/A
+"$150,000","128 Creekview Ln, Canton, GA 30115",--,--,--,N/A
+"$420,000","4025 Gold Mill Rdg, Canton, GA 30114",5,4,"4,100","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$510,000","4743 Blisston St NE, Marietta, GA 30066",--,--,--,N/A
+"$310,000","307 Wind Ship Ct, Woodstock, GA 30189",5,4,"3,362","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.96M,"0 Union Hill Rd, Canton, GA 30115",18.99,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$227,500","566 Poplar Bnd, Canton, GA 30114",3,3,"1,888","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"

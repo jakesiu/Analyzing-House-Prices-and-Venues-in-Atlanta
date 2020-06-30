@@ -1,0 +1,761 @@
+price,address,bds,ba,sqft,image
+"$226,250","3826 Dandridge Way, Duluth, GA 30096",3,3,"1,696",https://photos.zillowstatic.com/p_e/ISzng0tz4htoo91000000000.jpg
+"$373,000","3240 Kittiwake Cir, Norcross, GA 30092",3,3,"2,822",https://photos.zillowstatic.com/p_e/ISvk7odhjacbv90000000000.jpg
+"$242,000","5218 Leecroft Dr, Sugar Hill, GA 30518",4,2,"1,864",https://photos.zillowstatic.com/p_e/ISjvjvbrdetc2r1000000000.jpg
+"$135,000","2681 Highpoint Rd, Snellville, GA 30078",5,3,"2,000",https://photos.zillowstatic.com/p_e/ISbl21iujiohtx0000000000.jpg
+"$302,990","2958 Estate View Ct #151, Dacula, GA 30019",4,3,"2,894",https://photos.zillowstatic.com/p_e/IS7arte08gr1zv0000000000.jpg
+"$260,000","333 Nancy Ct SW, Lilburn, GA 30047",3,3,"1,597",https://photos.zillowstatic.com/p_e/ISvomiu72bg1o50000000000.jpg
+"$274,000","2759 Sterling Dr, Lawrenceville, GA 30043",4,3,"2,627",https://photos.zillowstatic.com/p_e/ISvkv2lnsvno4c1000000000.jpg
+"$260,000","2311 Laura Ct, Snellville, GA 30039",4,3,"2,755",https://photos.zillowstatic.com/p_e/ISvwcwwxnlkdwb0000000000.jpg
+"$218,000","2751 Hickory Trl, Snellville, GA 30078",3,3,"1,664",https://photos.zillowstatic.com/p_e/IS7uy4obt2fis31000000000.jpg
+"$199,000","4170 Magnolia Glen Walk, Norcross, GA 30093",4,3,"1,728","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$71,000","754 Alcovy Way, Lawrenceville, GA 30043",--,--,--,N/A
+"$267,500","1294 Park Pass Way, Suwanee, GA 30024",3,4,"1,674","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$285,000","5050 Glencliff Dr, Sugar Hill, GA 30518",5,3,"2,193","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$302,400","3062 Hawthorn Farm Blvd, Loganville, GA 30052",4,4,"2,812","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$485,000","1620 Kingsley Ct, Lawrenceville, GA 30043",5,6,"5,155","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$320,000","4656 Chimney Rock Dr SW, Lilburn, GA 30047",4,3,"2,963","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$340,000","116 Little Barley Ln, Grayson, GA 30017",6,5,"3,236",N/A
+"$347,000","3920 Ancroft Cir, Norcross, GA 30092",4,3,"2,672","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$214,000","3000 Dunlin Lake Way, Lawrenceville, GA 30044",4,3,"2,156",N/A
+"$180,200","2837 Rosemont Dr, Lawrenceville, GA 30044",4,3,"2,602","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$286,500","2818 Estate View Ct, Dacula, GA 30019",5,3,"2,831","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$295,740","2755 Cypress Ridge Dr, Loganville, GA 30052",5,4,"2,833","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$279,900","3095 Blackshear Ct, Lawrenceville, GA 30044",4,3,"2,408",N/A
+"$194,500","4322 Cedar Pointe Dr, Snellville, GA 30039",3,2,"1,487","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$340,000","4650 Glen Level Dr, Sugar Hill, GA 30518",4,3,"2,841","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$270,000","1360 Middleburg Hunt, Lawrenceville, GA 30043",4,3,"2,560","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$250,000","1065 Roberts Dr, Sugar Hill, GA 30518",3,2,"1,600","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$330,000","4655 Allison Dr, Sugar Hill, GA 30518",4,3,"2,429","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$371,000","1607 Greenspring Ct, Hoschton, GA 30548",5,3,"3,129","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$169,000","2604 Laurel View Dr, Snellville, GA 30039",3,2,"1,578","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$284,000","2305 Linstone Ln, Grayson, GA 30017",5,4,"2,865","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$177,000","448 Spring Head Ct, Lawrenceville, GA 30046",3,3,"1,788","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$219,888","3446 Pate Creek Vw, Snellville, GA 30078",4,3,"2,152","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$135,000","582 Oak Way, Lawrenceville, GA 30046",3,2,"1,095","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$361,000","333 Lake Forest Ct, Lawrenceville, GA 30043",4,3,"4,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$253,600","3550 River Summit Trl, Duluth, GA 30097",4,3,"2,246","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$320,000","3515 Ansley Park Dr, Suwanee, GA 30024",5,3,"2,523","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$327,595","6149 Wheeler Ridge Rd., Auburn, GA 30011",4,4,"3,500",N/A
+"$195,000","756 Arbor Gate Ln, Lawrenceville, GA 30044",4,4,"1,520","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$349,900","1741 Long Acre Dr, Loganville, GA 30052",5,4,"3,166","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$396,000","561 Wagon Hill Ln, Sugar Hill, GA 30518",4,4,"2,851",https://photos.zillowstatic.com/p_e/ISvs5sxwnnbxch0000000000.jpg
+"$259,000","2419 Mitford Ct, Dacula, GA 30019",4,3,"2,319",https://photos.zillowstatic.com/p_e/ISrlxdmz9h0jc41000000000.jpg
+"$168,000","3154 Corner Oak Dr, Peachtree Corners, GA 30071",2,3,"1,412",https://photos.zillowstatic.com/p_e/ISrx61s6rolist1000000000.jpg
+"$300,000","1385 Drakie Ct SW, Lilburn, GA 30047",4,3,"2,674",https://photos.zillowstatic.com/p_e/ISn6zxtoj227m81000000000.jpg
+"$210,000","3285 Ridgerock Way, Snellville, GA 30078",3,3,"1,896",https://photos.zillowstatic.com/p_e/IS729yzipguhk01000000000.jpg
+"$238,900","2095 Skyland Glen Dr, Snellville, GA 30078",4,3,"2,288",https://photos.zillowstatic.com/p_e/ISbd4xtz0d3uq11000000000.jpg
+"$296,230","3752 Stonebranch Ln, Loganville, GA 30052",5,4,"3,412",https://photos.zillowstatic.com/p_e/ISfcmpshotscc61000000000.jpg
+"$263,000","4575 Brook Farms Ct, Duluth, GA 30096",3,2,"2,306",https://photos.zillowstatic.com/p_e/ISzbrkue2xnm3a0000000000.jpg
+"$232,000","5685 Sugar Creek Ct, Norcross, GA 30093",4,3,"2,432",https://photos.zillowstatic.com/p_e/IS7yldhfcr58n91000000000.jpg
+"$180,000","712 Windy Dr, Stone Mountain, GA 30087",3,2,"2,732","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$304,850","1667 Castleberry Ln, Buford, GA 30518",4,4,"2,645","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$368,000","3620 Devenwood Way, Buford, GA 30519",5,4,"2,500","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$308,650","4028 Brynhill Ln, Buford, GA 30518",5,3,"2,740","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$325,000","345 Brynfield Pkwy #72, Suwanee, GA 30024",4,3,"2,090","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$385,000","1033 Alexander Run Pass, Sugar Hill, GA 30518",5,4,"3,132","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$371,000","1878 Glenview Park Cir, Duluth, GA 30097",3,3,"2,120","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$528,492","4710 Gablestone Xing #19, Hoschton, GA 30548",5,4,"4,430","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$260,000","5448 Silver Springs Dr, Sugar Hill, GA 30518",4,3,"2,908","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$308,650","4028 Brynhill Ln #82B, Buford, GA 30518",5,3,"2,740","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$304,850","1667 Castleberry Ln #122C, Buford, GA 30518",4,4,"2,645","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$451,557","4370 Thacker Ln, Suwanee, GA 30024",3,3,"2,313","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$528,492","4710 Gablestone Xing, Hoschton, GA 30548",5,4,"4,430","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$256,500","775 Prestonwood Dr, Lawrenceville, GA 30043",4,3,"2,486","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$315,000","4040 Whitfield Oak Way, Auburn, GA 30011",5,4,"3,750","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$339,000","1748 Mineral Springs Rd, Hoschton, GA 30548",4,3,"2,100","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$347,500","3169 Onamia Rd, Duluth, GA 30096",4,3,"2,619","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$232,500","2411 Arbour Trace Ter, Suwanee, GA 30024",3,3,"1,644","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$285,000","1649 Maybell Trl, Lawrenceville, GA 30044",4,3,"2,994","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$305,000","2540 Middleton Way, Grayson, GA 30017",5,3,"2,942","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$210,000","3457 Sweetwater Dr, Lawrenceville, GA 30044",3,2,"1,653",N/A
+"$325,000","345 Brynfield Pkwy, Suwanee, GA 30024",4,3,"2,500","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$186,000","2546 Pamela Dr, Snellville, GA 30078",3,2,"1,732","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$255,850","2453 Quay Rdg, Lawrenceville, GA 30044",3,3,"1,850","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$256,000","2035 Kensington Ct SW, Lilburn, GA 30047",4,3,"2,416","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$245,000","2940 Emerald Springs Dr, Lawrenceville, GA 30045",4,3,"1,666","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$239,000","1958 Patterson Ct, Lawrenceville, GA 30044",Studio,--,"2,146","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$117,000","6620 Wellington Sq, Norcross, GA 30093",2,2,"1,120","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$200,000","2046 Maier Ct, Snellville, GA 30078",3,2,"1,546","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$399,900","2981 Cadbury Trl, Snellville, GA 30039",5,4,"3,498","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$271,590","115 Canvas Ives Dr, Lawrenceville, GA 30045",3,3,"1,802","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$399,900","2981 Cadbury Trl, Snellville, GA 30039",5,4,"3,498",https://photos.zillowstatic.com/p_e/ISvwsscgruz8mf1000000000.jpg
+"$271,590","115 Canvas Ives Dr, Lawrenceville, GA 30045",3,3,"1,802",https://photos.zillowstatic.com/p_e/ISz78n8v5vrkid0000000000.jpg
+"$315,000","1218 Woodcliff Ct SW, Lilburn, GA 30047",4,4,"2,600",https://photos.zillowstatic.com/p_e/ISvc1acvnaa4m81000000000.jpg
+"$117,000","6620 Wellington Sq, Norcross, GA 30093",2,2,"1,120",https://photos.zillowstatic.com/p_e/ISrdb706fmnwst0000000000.jpg
+"$138,800","3849 Centerville Hwy, Snellville, GA 30039",3,2,"1,650",https://photos.zillowstatic.com/p_e/IS76gewp1k73uz0000000000.jpg
+"$349,900","5021 Oak Tree Ln, Stone Mountain, GA 30087",4,5,"4,550",https://photos.zillowstatic.com/p_e/ISnmfxw8z31z8j1000000000.jpg
+"$395,000","2619 Dunhaven Gln, Snellville, GA 30078",5,4,"3,435",N/A
+"$255,850","2453 Quay Rdg, Lawrenceville, GA 30044",3,3,"1,850",https://photos.zillowstatic.com/p_e/ISj3ijv3vnpjfp0000000000.jpg
+"$376,250","3300 Cameron Trl, Norcross, GA 30092",3,4,"2,745",https://photos.zillowstatic.com/p_e/ISrpohy55mq4dw1000000000.jpg
+"$195,000","1569 Shenta Oak Dr, Norcross, GA 30093",Studio,--,"1,308","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$239,000","1958 Patterson Ct, Lawrenceville, GA 30044",Studio,--,"2,146","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$455,000","2719 Cedar Kay Trl, Duluth, GA 30097",6,5,"4,445","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$186,000","2546 Pamela Dr, Snellville, GA 30078",3,2,"1,732","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$348,000","280 Roberts Rd, Suwanee, GA 30024",4,3,"2,949","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$210,000","2320 Whitebluff Way, Buford, GA 30519",3,2,"1,932","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$330,455","301 Northaven Ave, Suwanee, GA 30024",3,4,"2,123","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$801,000","5176 Creek Walk Cir, Peachtree Corners, GA 30092",5,4,"5,036","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$216,500","2671 Cedar Dr, Lawrenceville, GA 30043",4,3,"2,186","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$290,000","1659 Auburn Ridge Way #5B, Dacula, GA 30019",2,2,"1,869","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$297,000","1587 Maplecliff Way, Sugar Hill, GA 30518",4,3,"2,308","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$224,000","5841 Swan Walk, Sugar Hill, GA 30518",3,3,"2,228","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$290,000","1659 Auburn Ridge Way, Dacula, GA 30019",2,2,"1,869","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$550,000","309 Tarnbrook Chase, Buford, GA 30024",5,4,"3,832","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$255,000","925 Wolf Springs Cv, Lawrenceville, GA 30043",3,4,"2,196","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$309,000","247 Traditions Dr, Loganville, GA 30052",4,4,"2,880","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$180,250","839 Cadet Ct NW, Lilburn, GA 30047",3,2,"1,208","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$186,500","122 Park Place Dr, Lawrenceville, GA 30046",3,2,"1,804","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$178,000","3520 Nutmeg Dr, Duluth, GA 30096",2,3,"1,280","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$330,000","6210 Lake Windsor Pkwy, Buford, GA 30518",5,3,"2,921","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$205,000","4865 Brandon Acres Ln, Buford, GA 30519",3,2.5,"1,687","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$268,000","3058 Mill Run Ct, Duluth, GA 30097",5,3,"1,980","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$424,900","5900 Terrace Bend Way, Peachtree Corners, GA 30092",3,4,"2,570","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$135,000","3702 Morning Ct, Snellville, GA 30039",3,2,"1,476","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$375,000","1442 Hillside Dr, Grayson, GA 30017",4,2,"2,403","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$190,000","2571 Kings Cir, Lawrenceville, GA 30044",3,3,"1,344","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$285,000","1651 Heathermoor Way, Dacula, GA 30019",5,3,"3,106","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$297,000","2100 Indian Ivey Ln, Dacula, GA 30019",4,3,"2,312","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$242,000","3327 James Harbor Way, Lawrenceville, GA 30044",4,3,"2,443","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$254,875","2469 Irwell Way, Lawrenceville, GA 30044",3,3,"1,850","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$210,000","1731 Water Lily Way, Lawrenceville, GA 30045",3,3,"2,095","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$265,000","222 Hardy Ives Ln, Lawrenceville, GA 30045",4,3,"2,344",https://photos.zillowstatic.com/p_e/ISjvjvnw5bfu0p0000000000.jpg
+"$175,500","2788 Hickory Ln, Snellville, GA 30078",3,2,"2,093",https://photos.zillowstatic.com/p_e/ISnmzgx57op4jr0000000000.jpg
+"$506,000","1254 Redemption Dr, Lawrenceville, GA 30045",4,5,"5,040",https://photos.zillowstatic.com/p_e/ISjjm9ra0jozoe1000000000.jpg
+"$227,000","1991 Rocky Mill Ln, Lawrenceville, GA 30044",3,3,"1,812",https://photos.zillowstatic.com/p_e/ISfc69tibkszuo0000000000.jpg
+"$254,875","2469 Irwell Way, Lawrenceville, GA 30044",3,3,"1,850",https://photos.zillowstatic.com/p_e/IS3blmowh1alzd0000000000.jpg
+"$210,000","1731 Water Lily Way, Lawrenceville, GA 30045",3,3,"2,095",https://photos.zillowstatic.com/p_e/ISfciigwgv9ub90000000000.jpg
+"$157,000","3902 Stillwater Dr, Duluth, GA 30096",3,2,"1,748",N/A
+"$215,000","1011 Waterford Park Ct, Lawrenceville, GA 30044",3,3,"1,660",https://photos.zillowstatic.com/p_e/ISv8upsb78bjau0000000000.jpg
+"$300,000","1002 Jonathan Ln, Tucker, GA 30084",4,3,"2,790",https://photos.zillowstatic.com/p_e/ISnmzglscohznb0000000000.jpg
+"$552,500","1176 Alcovy Rd, Lawrenceville, GA 30045",5,5,"5,485","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$284,000","2645 Trelipe Dr, Lawrenceville, GA 30044",4,3,"2,400","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$209,500","366 Harmony Grove Rd, Lilburn, GA 30047",4,2,"2,100","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$242,000","3327 James Harbor Way, Lawrenceville, GA 30044",4,3,"2,443","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$367,000","558 Loretta Way, Grayson, GA 30017",6,4,"3,822","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$254,475","241 Irwell Path #48, Lawrenceville, GA 30044",3,3,"1,850","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$254,875","2469 Irwell Way #23A, Lawrenceville, GA 30044",3,3,"1,850","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$212,000","561 Pond Weed Dr, Lawrenceville, GA 30045",3,3,"1,954","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$484,900","3705 River Hollow Run, Peachtree Corners, GA 30096",4,4,"3,164","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$254,475","241 Irwell Path, Lawrenceville, GA 30044",3,3,"1,850","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$184,900","835 White Oak Ct, Lawrenceville, GA 30046",4,2,"1,380","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$307,000","702 Cedar Trce SW, Lilburn, GA 30047",5,3,"3,024","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$325,000","2362 Saint Kennedy Ln, Buford, GA 30518",4,3,"3,035","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$600,000","3260 Bailey Rd, Dacula, GA 30019",4,4,"3,852","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$200,000","2168 Mill Garden Run, Buford, GA 30519",3,4,"1,508","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$315,000","1502 Oak Ivy Ln, Lawrenceville, GA 30043",4,2,"2,514","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$307,608","7640 Silk Tree Pointe, Braselton, GA 30517",4,3,"2,550","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$280,865","1875 Hamilton Creek Pkwy, Dacula, GA 30019",3,3,"1,996","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$242,500","357 Creek Manor Way, Suwanee, GA 30024",3,3,"1,701","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$225,000","315 Knelston Oak Dr, Suwanee, GA 30024",3,3,"1,696","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$260,000","4442 Keenly Valley Dr, Buford, GA 30519",4,3,"2,332","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$392,000","5184 Sunlake Dr, Hoschton, GA 30548",5,4,"3,325","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$541,874","4748 Gablestone Dr #31, Hoschton, GA 30548",5,4,"3,717","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$280,865","1875 Hamilton Creek Pkwy #12A, Dacula, GA 30019",3,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$343,775","2477 Bear Paw Dr #24, Lawrenceville, GA 30043",5,3,"2,888","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$541,874","4748 Gablestone Dr, Hoschton, GA 30548",5,4,"3,717","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$270,000","704 Village Field Ct, Suwanee, GA 30024",3,4,"2,232","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$360,000","1405 Lamont Cir, Dacula, GA 30019",4,4,"3,958","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$375,000","1120 Croftmoore Lndg, Suwanee, GA 30024",Studio,--,1,N/A
+"$225,000","315 Knelston Oak Dr #20, Suwanee, GA 30024",3,3,"1,667","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$343,775","2477 Bear Paw Dr, Lawrenceville, GA 30043",5,3,"2,888","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$325,000","2362 Saint Kennedy Ln, Buford, GA 30518",4,3,"3,035",https://photos.zillowstatic.com/p_e/ISzbzu7ut41o260000000000.jpg
+"$392,000","5184 Sunlake Dr, Hoschton, GA 30548",5,4,"3,325",https://photos.zillowstatic.com/p_e/ISr9wc33ow00j90000000000.jpg
+"$275,000","275 Dellwood Dr, Lawrenceville, GA 30043",4,3,"2,416",https://photos.zillowstatic.com/p_e/ISjb0rby9g9b670000000000.jpg
+"$343,990","5459 Wheeler Rd, Auburn, GA 30011",5,3,"2,983",https://photos.zillowstatic.com/p_e/ISv0sa92a52hjx1000000000.jpg
+"$175,000","5556 Westberry Ln, Norcross, GA 30071",3,2,"1,305",https://photos.zillowstatic.com/p_e/ISzfex2dmpz4t30000000000.jpg
+"$315,000","1864 Victorian Ct, Snellville, GA 30078",5,3,"2,987",https://photos.zillowstatic.com/p_e/IS7azbeujdqm1a0000000000.jpg
+"$333,515","3331 Acacia Ct, Duluth, GA 30096",4,4,"2,295",https://photos.zillowstatic.com/p_e/ISblih1xkipbgn1000000000.jpg
+"$265,000","2410 River Run Dr, Dacula, GA 30019",4,3,"2,950",https://photos.zillowstatic.com/p_e/ISb1nnpc0pqur90000000000.jpg
+"$314,000","5539 Wynhall Dr, Peachtree Corners, GA 30071",4,3,"2,451",https://photos.zillowstatic.com/p_e/ISn2slc8dmu1ml0000000000.jpg
+"$335,000","296 Towne Park Dr, Lawrenceville, GA 30044",4,5,"4,974","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$360,528","2585 Churchill Dr, Lawrenceville, GA 30044",5,4,"3,575","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$259,500","2247 Wind Lass Dr, Buford, GA 30518",4,2,"2,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$241,500","2293 Ivy Crest Dr, Buford, GA 30519",3,2,"1,648","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$346,000","2497 Allsborough Way, Dacula, GA 30019",5,4,"3,847","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$440,000","119 Vinca Cir, Suwanee, GA 30024",5,4,"3,076","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$406,000","1859 Legrand Cir, Lawrenceville, GA 30043",4,4,"2,686","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$385,000","3920 Suwanee Place Dr, Suwanee, GA 30024",4,3,"4,171","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$286,000","4140 Ancroft Cir, Norcross, GA 30092",4,3,"2,207","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.21M,"5172 Legends Dr, Braselton, GA 30517",6,7,"12,586","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$237,000","1481 Pinebark Ct, Grayson, GA 30017",3,2,"1,801","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$339,000","4553 Cinco Dr SW, Lilburn, GA 30047",5,4,"2,684","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$189,900","3862 Woodington Pl, Lawrenceville, GA 30044",3,2,"1,376","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$221,000","3920 Village Main St, Loganville, GA 30052",3,2,"1,768",N/A
+"$325,000","406 Middleton Pl, Grayson, GA 30017",5,4,"3,294","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$230,000","2000 Graybrook Dr, Grayson, GA 30017",3,2,"1,615","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$113,000","6446 Wedgeview Dr, Tucker, GA 30084",2,3,"1,236","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$183,000","1950 Surrey Hill Cir, Lawrenceville, GA 30044",3,2,"1,483","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$165,000","505 Cochran Dr, Norcross, GA 30071",0.41,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$255,000","2333 Park Manor Ln, Snellville, GA 30078",4,3,"2,894","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$560,000","433 S Peachtree St, Peachtree Corners, GA 30071",4,4,"3,473","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$279,000","2760 Brookhill Ct, Snellville, GA 30078",5,3,"3,092","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$449,480","1139 Bar Harbor Pl #27, Lawrenceville, GA 30044",4,3,"2,928","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$283,000","4025 Trillium Wood Trl, Snellville, GA 30039",5,3,"3,225","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$187,000","2807 Raven Wood Dr, Snellville, GA 30078",3,2,"1,384","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$166,000","3012 Gala Trl, Snellville, GA 30039",4,3,"2,738","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$335,000","2229 Arlington Walk Ln, Grayson, GA 30017",5,4,"3,672","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$191,000","345 Oaktown Pl, Lawrenceville, GA 30044",3,3,"1,900","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$172,000","715 Old Manor Rd NW, Lilburn, GA 30047",4,2,"1,476","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$470,000","1374 Baniff Ct, Snellville, GA 30078",6,6,"3,872","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$242,900","5907 Brookside Oak Cir, Norcross, GA 30093",3,4,"2,398","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$339,720","3320 Pickens St #18, Duluth, GA 30096",4,4,"2,295",https://photos.zillowstatic.com/p_e/ISfgx4bg54gzxl0000000000.jpg
+"$214,900","4017 Rock Hollow Dr, Loganville, GA 30052",3,2,"1,936",https://photos.zillowstatic.com/p_e/ISj3ir9w4aqteb0000000000.jpg
+"$165,000","505 Cochran Dr LOT 22, Norcross, GA 30071",0.41,N/A,N/A,https://photos.zillowstatic.com/p_e/ISzz50nag6t3kv1000000000.jpg
+"$333,515","3331 Acacia Ct #24, Duluth, GA 30096",4,4,"2,295",https://photos.zillowstatic.com/p_e/ISfsylq0sbnx7x0000000000.jpg
+"$236,000","2662 Marcia Dr, Lawrenceville, GA 30044",3,2,"2,555",https://photos.zillowstatic.com/p_e/ISrlh51pj3rby71000000000.jpg
+"$114,000","4090 Stillwater Dr, Duluth, GA 30096",2,2,"1,446",https://photos.zillowstatic.com/p_e/ISfkczjktj7aew1000000000.jpg
+"$320,000","2200 Pirates Cv, Lawrenceville, GA 30045",5,4,"3,500",https://photos.zillowstatic.com/p_e/IS7yd7za1j946t0000000000.jpg
+"$457,000","3619 Allenhurst Dr, Norcross, GA 30092",5,3,"3,499",https://photos.zillowstatic.com/p_e/ISv4j6fejl0pa71000000000.jpg
+"$269,900","4761 Sampson Ct #1, Lilburn, GA 30047",4,4,"2,325",N/A
+"$400,000","2986 Oak Hampton Ct, Duluth, GA 30096",5,4,"3,500","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$213,700","814 Terrace Trce, Lawrenceville, GA 30044",3,2,"1,932","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$241,000","2622 Creek Hollow Dr, Duluth, GA 30096",3,3,"2,092","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$245,000","545 Laurelton Cir, Lawrenceville, GA 30044",4,3,"2,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$449,480","1139 Bar Harbor Pl, Lawrenceville, GA 30044",4,3,"2,928","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$215,000","2598 Redfield Dr, Norcross, GA 30071",3,2,"1,304","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$150,000","331 Canterbury Ln, Lawrenceville, GA 30046",3,2,"1,184","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$228,000","2955 Red Pine Ct, Duluth, GA 30096",3,2,"2,145","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$223,000","5444 N Fork Dr SW, Lilburn, GA 30047",3,3,"1,704","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$200,000","4595 Millenium View Ct, Snellville, GA 30039",3,3,"1,986","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$242,000","2395 Fortune Dr, Dacula, GA 30019",5,3,"1,900","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$210,000","1125 Northfield Ln, Lawrenceville, GA 30045",3,2,"1,262",N/A
+"$619,000","4741 Dovecote Walk, Suwanee, GA 30024",6,6,"5,449","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$319,000","2454 Kingsbrooke Ct, Duluth, GA 30097",4,4,"3,148","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$260,010","3217 Victoria Park Ln, Buford, GA 30519",4,2,"2,433","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$310,000","853 Red Rock Ct, Suwanee, GA 30024",4,3,"2,014","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$525,000","5800 Wild Azalea Cv, Sugar Hill, GA 30518",6,5,"5,721","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$425,000","1615 Treybyrne Ct, Dacula, GA 30019",5,5,"3,417","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$270,000","5826 Apple Grove Rd, Buford, GA 30519",4,3,"2,312","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$317,500","392 Ashbourne Trl, Lawrenceville, GA 30043",4,3,"2,506","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$390,000","332 Breezewood Ct, Suwanee, GA 30024",5,4,"4,001","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$182,500","1689 Harvest Dr, Lawrenceville, GA 30043",3,2,"1,212","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$425,000","3534 Candytuft Run, Auburn, GA 30011",5,4,"4,072","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$313,000","597 Bridgeton Cv, Suwanee, GA 30024",4,3,"2,748","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$343,000","3242 Little Bear Ln, Buford, GA 30519",5,3,"3,161","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$354,900","4120 Riverglen Cir, Suwanee, GA 30024",5,4,"3,025","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$425,000","1728 Scouts Walk, Dacula, GA 30019",5,5,"4,499","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$222,000","2585 Freemans Walk Dr, Dacula, GA 30019",3,2,"1,597","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$308,650","1757 Castleberry Ln, Buford, GA 30518",5,3,"2,740","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$465,000","416 Thunder Rd, Buford, GA 30518",4,3,--,N/A
+"$178,900","6427 Mossy Oak Lndg, Braselton, GA 30517",3,3,"1,660",N/A
+"$229,000","1495 Royale Castle Dr, Lawrenceville, GA 30043",4,3,"2,399",https://photos.zillowstatic.com/p_e/ISr51e8yfjidtw1000000000.jpg
+"$425,000","1615 Treybyrne Ct, Dacula, GA 30019",5,5,"3,417",https://photos.zillowstatic.com/p_e/IS7um37ggzc67d0000000000.jpg
+"$525,000","5800 Wild Azalea Cv, Sugar Hill, GA 30518",6,5,"5,721",https://photos.zillowstatic.com/p_e/ISrhq1xkvv3li80000000000.jpg
+"$317,500","392 Ashbourne Trl, Lawrenceville, GA 30043",4,3,"2,506",https://photos.zillowstatic.com/p_e/ISr90knepp2euz0000000000.jpg
+"$288,900","3298 Woodward Down Trl, Buford, GA 30519",4,4,"2,637",https://photos.zillowstatic.com/p_e/ISnq2usatr1pkp1000000000.jpg
+"$282,000","3225 Ivy Station Dr, Duluth, GA 30096",4,3,"2,524",https://photos.zillowstatic.com/p_e/ISjbgnn1ja2grg0000000000.jpg
+"$253,610","2524 Morgan Place Dr, Buford, GA 30519",3,3,"1,830",https://photos.zillowstatic.com/p_e/ISv0g1ms77w3pn0000000000.jpg
+"$313,000","597 Bridgeton Cv, Suwanee, GA 30024",4,3,"2,748",https://photos.zillowstatic.com/p_e/ISfcmtf2fvh4gy0000000000.jpg
+"$343,000","3242 Little Bear Ln, Buford, GA 30519",5,3,"3,161",https://photos.zillowstatic.com/p_e/ISjvrpgdsa95340000000000.jpg
+"$178,900","6427 Mossy Oak Lndg, Braselton, GA 30517",3,3,"1,660",N/A
+"$376,500","2391 Herring Woods Trl, Grayson, GA 30017",5,4,"4,044","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$250,000","945 Great Oaks Dr, Lawrenceville, GA 30045",4,3,"2,285","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$182,500","3086 Park Ln, Snellville, GA 30078",3,2,"1,420","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$335,000","740 Windsor Place Cir, Grayson, GA 30017",4,4,"2,790","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$455,000","4297 Stilson Cir, Norcross, GA 30092",4,3,"2,803","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$304,000","2750 Blake Towers Ln, Buford, GA 30519",4,3,"2,498","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$250,000","2372 Heatherton Ct, Dacula, GA 30019",3,2,"1,782","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$460,000","2765 Towne Village Dr, Duluth, GA 30097",4,4,"3,561","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$395,000","3705 Lenna Dr, Snellville, GA 30039",4,3,"3,980","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$310,000","1753 Glenwood Way, Snellville, GA 30078",4,3,"2,355","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$290,000","4210 Whitfield Oak Way, Auburn, GA 30011",5,3,"2,665","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$230,000","1184 Pinehurst Trl, Grayson, GA 30017",3,2,"2,547","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$234,000","1436 Blue Sail Ave, Grayson, GA 30017",3,2,"1,970","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$205,000","1825 Arborwood Dr, Grayson, GA 30017",3,2,"1,559","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$315,000","596 Pine Grove Ave, Grayson, GA 30017",4,4,"2,718","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$214,000","4735 Hidden Creek Ct, Loganville, GA 30052",3,2,"1,561","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$235,000","360 Avalon Forest Dr, Lawrenceville, GA 30044",3,2,"1,695","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$225,000","4270 Bradstone Trce NW, Lilburn, GA 30047",3,3,"2,114","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$163,000","3416 Deshong Dr, Stone Mountain, GA 30087",3,2,"1,570","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$253,250","2513 Quay Rdg #36A, Lawrenceville, GA 30044",3,3,"1,850","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$278,000","4320 Hopkins Run Dr, Duluth, GA 30096",4,3,"2,686","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$367,265","259 Perry Point Run #31, Lawrenceville, GA 30046",3,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$231,000","2138 Meadow Crest Ter, Snellville, GA 30078",3,2,"2,330","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$530,000","672 Grassmeade Way, Snellville, GA 30078",5,5,"4,876","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$275,950","5671 Shadow View Dr, Stone Mountain, GA 30087",3,3,"2,823","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$219,900","2889 Arendel Dr, Lawrenceville, GA 30044",3,2,"1,578","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$367,265","259 Perry Point Run, Lawrenceville, GA 30046",3,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$247,000","4491 Cashers Ct, Lilburn, GA 30047",3,3,"1,696","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$143,000","494 Berckman Dr NW, Lilburn, GA 30047",2,3,"1,418","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$158,000","4459 Bryant Dr SW, Lilburn, GA 30047",3,1,"1,097","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$367,265","259 Perry Point Run, Lawrenceville, GA 30046",3,3,--,https://photos.zillowstatic.com/p_e/ISbppduvwwxyjy0000000000.jpg
+"$143,000","494 Berckman Dr NW, Lilburn, GA 30047",2,3,"1,418",https://photos.zillowstatic.com/p_e/ISnquvoeo1x7zo1000000000.jpg
+"$205,000","1825 Arborwood Dr, Grayson, GA 30017",3,2,"1,559",https://photos.zillowstatic.com/p_e/IS7u24an10h83s1000000000.jpg
+"$231,000","2138 Meadow Crest Ter, Snellville, GA 30078",3,2,"2,330",https://photos.zillowstatic.com/p_e/ISfkwi4tjr43gp0000000000.jpg
+"$293,000","3026 Overlook Hill Pass, Dacula, GA 30019",5,4,"2,837",https://photos.zillowstatic.com/p_e/ISblqr66qqgoh60000000000.jpg
+"$358,000","3610 Ridge Towne Dr, Duluth, GA 30096",3,3,"2,400",https://photos.zillowstatic.com/p_e/ISbx71fkazw27s1000000000.jpg
+"$235,000","871 Charles Hall Dr, Dacula, GA 30019",4,3,"2,848",https://photos.zillowstatic.com/p_e/ISjn9e158sjps71000000000.jpg
+"$540,000","4987 Dovecote Trl, Suwanee, GA 30024",5,4,"4,173",https://photos.zillowstatic.com/p_e/ISn2oq10arsaje0000000000.jpg
+"$260,000","5131 Apple Grove Rd, Buford, GA 30519",3,3,"2,282",https://photos.zillowstatic.com/p_e/ISn2s1940uqcmt1000000000.jpg
+"$264,000","160 Old Swimming Pool Rd, Buford, GA 30518",3,3,"1,811","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$287,000","1220 Platinum Dr, Hoschton, GA 30548",5,4,"3,085","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$280,000","1916 Abinger Way, Lawrenceville, GA 30043",4,3,"2,412","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$210,000","101 Chantilly Ln, Lawrenceville, GA 30043",3,3,"1,835","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$359,000","3594 Reed Mill Dr, Buford, GA 30519",4,4,"3,148","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1,"95 Lawson St, Buford, GA 30518",2,1,836,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$620,000","4770 Highland Point Dr, Auburn, GA 30011",5,5,"6,098","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$235,000","1913 Tulip Petal Rd, Auburn, GA 30011",4,3,"1,804","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$305,800","4164 Roberts Cove Ter, Suwanee, GA 30024",4,3,"2,686","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$250,000","1581 Jami Hollow Way, Lawrenceville, GA 30043",3,2,"2,320","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$273,000","5580 Stephens Mill Dr, Sugar Hill, GA 30518",3,3,"2,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$297,500","1847 Pierce Way, Buford, GA 30519",4,3,"2,845","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$228,500","278 Indian Branch Way, Lawrenceville, GA 30043",3,3,"2,230","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$215,000","4688 Generation Ct, Snellville, GA 30039",3,2,"1,493","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$280,000","1099 Allison Woods Ct, Lawrenceville, GA 30043",6,4,"3,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$249,900","3958 Savannah Ridge Ct, Loganville, GA 30052",4,3,"2,720","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$312,000","3728 Dove Creek Cir, Lawrenceville, GA 30044",5,4,"3,066","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$345,000","5967 Princeton Run, Tucker, GA 30084",4,4,"2,431",N/A
+"$252,000","1244 Hadaway Ct, Lawrenceville, GA 30043",4,3,"2,635","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$265,000","4845 Markim Forest Ln, Sugar Hill, GA 30518",4,3,"2,252","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$279,900","1098 Arbor Grove Way, Buford, GA 30518",4,3,"2,466","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$960,000","4287 Ridgegate Dr, Peachtree Corners, GA 30097",5,6,"8,574","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$175,000","3429 September Morn, Norcross, GA 30092",2,3,"1,307","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$230,000","1392 Mary Dale Dr SW, Lilburn, GA 30047",3,2,"2,281","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$312,826","78 Dorothy Ln #106A, Lawrenceville, GA 30046",4,3,"2,800","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$254,500","4461 Fulson Dr, Lilburn, GA 30047",3,3,--,N/A
+"$220,000","3418 Pleasant View Ct, Loganville, GA 30052",4,3,"2,336","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$265,000","4545 Redspruce Dr SW, Lilburn, GA 30047",4,3,"2,265","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$267,000","3982 Plymouth Rock Dr, Loganville, GA 30052",5,3,"2,744","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$346,500","3500 Parkwood Hills Ct, Snellville, GA 30078",4,3,"3,360","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$261,000","1027 Spring Mill Dr SW, Lilburn, GA 30047",4,3,"2,106","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$190,000","4685 Millenium View Ct, Snellville, GA 30039",3,3,"1,986",https://photos.zillowstatic.com/p_e/ISn6bvralgrqaj1000000000.jpg
+"$399,000","3583 Lachlan Dr, Snellville, GA 30078",5,4,"3,310",https://photos.zillowstatic.com/p_e/ISny0mv4o13y2l1000000000.jpg
+"$346,500","3500 Parkwood Hills Ct, Snellville, GA 30078",4,3,"3,360",https://photos.zillowstatic.com/p_e/ISrtbmow4p89cn0000000000.jpg
+"$267,000","3982 Plymouth Rock Dr, Loganville, GA 30052",5,3,"2,744",https://photos.zillowstatic.com/p_e/ISr1upt7qlxoju1000000000.jpg
+"$230,000","1392 Mary Dale Dr SW, Lilburn, GA 30047",3,2,"2,281",https://photos.zillowstatic.com/p_e/ISvcl1f7r5uc0r1000000000.jpg
+"$312,826","78 Dorothy Ln #106A, Lawrenceville, GA 30046",4,3,"2,800",https://photos.zillowstatic.com/p_e/IS37ei97kqqk730000000000.jpg
+"$399,000","3583 Lachlan Dr #15, Snellville, GA 30078",5,4,--,https://photos.zillowstatic.com/p_e/ISzrjhnqq5efxn0000000000.jpg
+"$279,000","4380 Inns Brook Dr, Snellville, GA 30039",3,3,"2,888",https://photos.zillowstatic.com/p_e/ISvchafumydlbr1000000000.jpg
+"$247,000","4491 Fulson Dr, Lilburn, GA 30047",3,3,"1,696",https://photos.zillowstatic.com/p_e/ISvknoo2t710y60000000000.jpg
+"$229,000","569 Takely Dr, Lawrenceville, GA 30046",3,2,"1,914","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$265,000","4545 Redspruce Dr SW, Lilburn, GA 30047",4,3,"2,265","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$220,000","3418 Pleasant View Ct, Loganville, GA 30052",4,3,"2,336","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$345,000","2566 Madison Mae Ln, Grayson, GA 30017",4,4,"3,447","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$407,500","1460 Carrington Ct, Lawrenceville, GA 30044",5,4,"4,397","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$312,826","78 Dorothy Ln, Lawrenceville, GA 30046",5,4,"2,800","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$280,000","502 Suwanee Oaks Dr, Suwanee, GA 30024",4,3,"2,640","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$369,900","5107 Sunlake Dr, Hoschton, GA 30548",5,4,"3,644","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$234,000","2095 Stancil Park Ln, Dacula, GA 30019",3,2,"1,749","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$360,000","4262 Goldfield Trce, Suwanee, GA 30024",4,4,"2,835","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$242,000","1920 Patrick Mill Pl, Buford, GA 30518",3,2,"2,110","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$255,000","1047 Sunny Glenn Ct, Lawrenceville, GA 30043",4,3,"2,396","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$235,000","1800 Fort Daniels Trl, Dacula, GA 30019",4,3,"2,158","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$232,000","251 Allatoona Rd, Lawrenceville, GA 30043",3,3,"1,772","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$295,000","980 River Valley Dr, Dacula, GA 30019",4,3,"2,554","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$305,000","2274 Oak Falls Ln, Buford, GA 30519",4,3,"2,610","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$251,500","123 The Esplanade Way SW, Loganville, GA 30052",4,3,"2,462","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$365,000","1305 Highland Lake Dr, Lawrenceville, GA 30045",4,5,"4,381","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$299,000","2533 River Knoll Dr SW, Lilburn, GA 30047",3,5,"3,309","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$225,500","925 James Ridge Dr, Lawrenceville, GA 30045",3,2,"1,802","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$265,000","1803 Ivy View Walk, Loganville, GA 30052",4,3,"2,202","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$449,500","227 Rosshandler Rd, Buford, GA 30024",3,4,"3,145","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$309,000","5336 Blossom Brook Dr, Sugar Hill, GA 30518",4,3,"2,404","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$297,500","1245 Mountain Ivey Ct, Sugar Hill, GA 30518",4,3,"2,374","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$184,000","1140 Burning Bush Dr, Loganville, GA 30052",3,3,"2,004","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$260,000","3160 Drayton Manor Run, Lawrenceville, GA 30046",3,3,"2,955","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$575,000","2608 Hidden Falls Dr, Buford, GA 30519",4,5,"4,996","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$300,000","802 Rockfount Way, Lawrenceville, GA 30043",5,3,"3,938","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$249,900","979 Pecan Grove Pl, Lawrenceville, GA 30046",3,3,"2,335","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$250,000","922 Heartwood Cir, Lawrenceville, GA 30043",4,3,"2,372","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$303,000","1864 Gray Wolf Ln, Dacula, GA 30019",5,4,"3,336","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$219,900","4781 Heather Mill Trce, Snellville, GA 30039",4,3,"2,177",https://photos.zillowstatic.com/p_e/ISbt8nd5h28kmx0000000000.jpg
+"$250,000","2990 Dunlin Lake Way, Lawrenceville, GA 30044",4,2,"2,748",https://photos.zillowstatic.com/p_e/ISzngojwu5g0n71000000000.jpg
+"$232,000","2190 Rocky Mill Dr, Lawrenceville, GA 30044",4,3,"1,348",https://photos.zillowstatic.com/p_e/ISr908qgft6a360000000000.jpg
+"$228,000","860 Ozora Rd, Lawrenceville, GA 30045",4,4,"1,992",https://photos.zillowstatic.com/p_e/ISvk7gj4blao1u1000000000.jpg
+"$295,800","345 Sanctuary Dr, Lawrenceville, GA 30046",4,3,--,https://photos.zillowstatic.com/p_e/ISfo7ebp3v302s1000000000.jpg
+"$195,000","5310 Nathan Dr NW, Lilburn, GA 30047",3,2,"1,452",https://photos.zillowstatic.com/p_e/ISjnt9bx7wqvon0000000000.jpg
+"$284,900","815 Clarion Way, Lawrenceville, GA 30044",4,3,"2,180",https://photos.zillowstatic.com/p_e/ISvkngice78oc60000000000.jpg
+"$222,000","1559 Sisters Ct, Lawrenceville, GA 30043",3,2,"1,498",https://photos.zillowstatic.com/p_e/ISfsazwnsj1o1w0000000000.jpg
+"$303,000","1864 Gray Wolf Ln, Dacula, GA 30019",5,4,"3,336",https://photos.zillowstatic.com/p_e/ISjza7urezhfr81000000000.jpg
+"$300,000","2210 Day Break Way, Dacula, GA 30019",5,3,"2,819","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$249,900","979 Pecan Grove Pl, Lawrenceville, GA 30046",3,3,"2,335","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$353,000","3518 Davenport Rd, Duluth, GA 30096",3,4,"2,498","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$143,000","401 Olde Mill Ln, Norcross, GA 30093",2,2,"1,244","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$449,900","2818 Willowstone Dr, Duluth, GA 30096",5,3,"2,970","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$175,000","976 Pike Forest Dr, Lawrenceville, GA 30045",3,3,"1,528","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$242,000","4441 Fulson Dr, Lilburn, GA 30047",3,3,"1,810","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$679,900","1069 Grassmeade Ct, Snellville, GA 30078",5,5,"4,678","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$209,900","131 Summer Pond Trl, Lawrenceville, GA 30046",3,3,"1,624","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$260,000","3890 Lake Pass Ln, Suwanee, GA 30024",3,3,"1,852","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$644,900","2499 Autumn Maple Dr, Braselton, GA 30517",5,5,"7,129","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$379,900","2167 Roberts View Trl, Buford, GA 30519",6,4,"4,610","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$405,000","1744 Praters Point, Dacula, GA 30019",5,3,"5,811","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$250,000","5856 Apple Grove Rd, Buford, GA 30519",4,3,"2,345","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$430,000","954 Poplar Mill Way, Buford, GA 30518",6,5,"4,852","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$373,150","3617 Ridge Towne Dr, Duluth, GA 30096",3,4,"2,352","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$305,000","2030 Spring Mist Ter, Lawrenceville, GA 30043",5,3,"3,152","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$270,500","2599 Beddington Way, Suwanee, GA 30024",4,3,"2,268","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$510,000","3030 Millwater Xing, Dacula, GA 30019",5,5,"6,364","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$730,000","5317 Legends Dr, Braselton, GA 30517",5,5,"6,798","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$485,000","297 Rosshandler Rd, Buford, GA 30024",3,4,"3,145","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$740,000","2191 Sever Rd, Lawrenceville, GA 30043",6,5,"4,728","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$500,000","4516 Graywood Trce, Norcross, GA 30092",5,4.5,"5,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$247,500","854 Rocky Ridge Ct, Stone Mountain, GA 30087",4,3,"2,459","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$200,000","5965 Singleton Rd, Norcross, GA 30093",3,1,"1,075","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$470,000","1655 Rockdale Cir, Snellville, GA 30078",4,3,"2,600","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$249,500","3483 Newtons Crest Cir, Snellville, GA 30078",4,3,"2,227","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$253,825","1840 Talbot Ct, Lawrenceville, GA 30044",4,3,"2,587","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$260,000","3130 Pittard Hill Point, Duluth, GA 30096",4,4,"2,324","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$336,000","5018 Stone Moss Way, Hoschton, GA 30548",5,4,"3,302","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$325,000","4437 Kerrington Ave, Sugar Hill, GA 30518",3,3,"2,009","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$336,000","5018 Stone Moss Way, Hoschton, GA 30548",5,4,"3,302",https://photos.zillowstatic.com/p_e/ISn20wl4fiebku0000000000.jpg
+"$325,000","4437 Kerrington Ave, Sugar Hill, GA 30518",3,3,"2,009",https://photos.zillowstatic.com/p_e/ISyn0sf3ndoeqf0000000000.jpg
+"$438,500","217 Rosshandler Rd, Buford, GA 30024",3,4,"3,145",https://photos.zillowstatic.com/p_e/ISzzdun9iihla60000000000.jpg
+"$260,000","1142 Eastmill Cv, Dacula, GA 30019",4,4,"2,361",https://photos.zillowstatic.com/p_e/ISfovgtf2222sy0000000000.jpg
+"$335,600","4775 Settles Point Rd, Suwanee, GA 30024",4,3,"2,874",https://photos.zillowstatic.com/p_e/ISjn5nttbcja7e0000000000.jpg
+"$205,000","2721 Brackenwood Dr, Snellville, GA 30039",3,4,"2,001",N/A
+"$250,000","2152 Cheyenne Ln, Lawrenceville, GA 30044",3,2,"1,796",https://photos.zillowstatic.com/p_e/IS3nmrmn054shf1000000000.jpg
+"$325,000","1141 Cedar Bluff Trl SW, Lilburn, GA 30047",4,3,"2,346",N/A
+"$223,000","3202 Huxley Ct, Duluth, GA 30096",3,2,"1,356",https://photos.zillowstatic.com/p_e/IS3j7daroydpbk0000000000.jpg
+"$639,900","4401 Meadow Club Dr, Suwanee, GA 30024",6,5,"5,836","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$236,400","5862 Sycamore Ridge Dr, Sugar Hill, GA 30518",3,2,"1,565","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$308,000","5044 Lilburn Stone Mountain Rd SW, Lilburn, GA 30047",4,3,"2,260","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$350,000","3352 Cameron Trl, Norcross, GA 30092",4,4,"2,433","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$345,000","2001 Oak Branch Way, Stone Mountain, GA 30087",5,4,"3,932","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$260,000","1309 Charcoal Ives Rd, Lawrenceville, GA 30045",3,3,"1,960","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$225,000","4814 Mayan Ct SW, Lilburn, GA 30047",4,2,"2,438","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$148,000","4067 Heritage Valley Ct, Norcross, GA 30093",3,2,"1,344","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$243,810","104 Canvas Ives Dr, Lawrenceville, GA 30045",4,2.5,"2,020",N/A
+"$560,000","5136 Broadgreen Dr, Norcross, GA 30092",5,5,"4,140","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$480,000","1852 Sugarstone Dr, Lawrenceville, GA 30043",5,5,"5,775","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$277,900","2377 Shady Maple Trl, Loganville, GA 30052",4,3,"3,069","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$267,560","3700 Lilly Brook Dr, Loganville, GA 30052",5,3,"2,511","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$174,900","3425 Palisade Ct, Snellville, GA 30039",3,2,"1,558","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$282,000","414 Juniper Bluff Ct, Grayson, GA 30017",4,4,"2,577","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$191,000","3226 Sunderland Dr, Snellville, GA 30039",5,3,"1,932","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$382,000","4157 Volley Ln, Norcross, GA 30092",4,3,"3,303","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$330,000","1388 Red Fox Run SW, Lilburn, GA 30047",4,3,"3,117","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$365,000","3352 Cameron Trl #74, Peachtree Corners, GA 30092",4,4,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$326,722","109 Dorothy Ln, Lawrenceville, GA 30046",5,3,"3,320","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$313,727","6245 Thorncrest Dr #13, Tucker, GA 30084",3,3,"1,933","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$326,722","109 Dorothy Ln #48, Lawrenceville, GA 30046",5,3,"3,320","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$51,000","0 Haynes Cir, Snellville, GA 30039",1.14,N/A,N/A,N/A
+"$215,000","3879 Grovemont Pl, Duluth, GA 30096",3,3,"1,696","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$206,000","1297 Candlelite Ln, Snellville, GA 30078",3,2,"1,908","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$259,000","3160 Pine Cove Ct SW, Lilburn, GA 30047",5,3,"2,700","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$212,000","4256 Shoreside Cir, Snellville, GA 30039",4,3,"1,970","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$51,000","0 Haynes Cir LOT 0, Snellville, GA 30039",1.14,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$355,000","241 Shore Dr, Suwanee, GA 30024",4,4,"3,573","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$261,000","4885 Puritan Dr, Sugar Hill, GA 30518",3,2.5,"1,990","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$183,500","6410 Mossy Oak Lndg, Braselton, GA 30517",3,3,"1,576","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$485,000","2175 Woods River Ln, Duluth, GA 30097",5,4,"3,661",https://photos.zillowstatic.com/p_e/IS72lrqs924u040000000000.jpg
+"$319,000","6088 Park Leaf Walk, Buford, GA 30518",4,3,"3,572",https://photos.zillowstatic.com/p_e/ISf01hin97admo0000000000.jpg
+"$239,990","2277 Chateau Dr, Lawrenceville, GA 30043",5,3,"1,900",https://photos.zillowstatic.com/p_e/ISbxbs632mmvg50000000000.jpg
+"$219,000","3206 Montheath Pass, Duluth, GA 30096",3,2,"1,274",https://photos.zillowstatic.com/p_e/ISjbk614qkym8n0000000000.jpg
+"$201,000","843 Whitehall Dr, Lawrenceville, GA 30043",4,3,"1,911",https://photos.zillowstatic.com/p_e/ISb5iqn65kf4dg0000000000.jpg
+"$300,000","1665 Reynolds Mill Dr, Lawrenceville, GA 30043",6,4,"3,452",https://photos.zillowstatic.com/p_e/IS3nqqo33ju9ui0000000000.jpg
+"$350,000","2121 Monticello Pl, Lawrenceville, GA 30043",4,3,"2,885",https://photos.zillowstatic.com/p_e/ISjr0av3j94t8b1000000000.jpg
+"$270,000","3055 Gem Creek Rd, Buford, GA 30519",5,3,"2,469",https://photos.zillowstatic.com/p_e/ISbtgxevkdtnk80000000000.jpg
+"$235,000","2323 Amber Creek Trl, Buford, GA 30519",3,2,"1,656",https://photos.zillowstatic.com/p_e/ISvgcdhzmaw7vt0000000000.jpg
+"$261,000","4885 Puritan Dr, Sugar Hill, GA 30518",3,2.5,"1,990","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$355,000","241 Shore Dr, Suwanee, GA 30024",4,4,"3,573","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$183,500","6410 Mossy Oak Lndg, Braselton, GA 30517",3,3,"1,576","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$412,000","4788 Moon Hollow Ct, Buford, GA 30519",5,4,"3,631","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$380,000","398 Dunleven Manor Walk, Lawrenceville, GA 30043",5,4,"3,841","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$320,000","3737 Antares Dr, Buford, GA 30519",5,4,"3,256","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$349,850","436 Baylee Ridge Cir, Dacula, GA 30019",5,4,"3,174","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$325,000","4377 Kerrington Ave, Sugar Hill, GA 30518",4,4,"2,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$369,000","80 Saddle Tree Way, Sugar Hill, GA 30518",4,3,"3,622","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$208,000","2587 Albion Farm Way, Duluth, GA 30097",2,2,"1,154","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$295,000","1811 Beyers Landing Dr, Buford, GA 30519",5,3,"2,723","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$385,000","760 Bentgrass Ct, Dacula, GA 30019",4,4,"3,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$455,000","4679 Arbor Crest Pl, Suwanee, GA 30024",5,5,"3,838","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$340,000","2455 Matlin Way, Buford, GA 30519",4,4,"2,863","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$295,000","1168 Sparkling Cove Dr, Buford, GA 30518",4,3,"3,570","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$359,900","4290 Fitzpatrick Way, Norcross, GA 30092",4,3,"2,175","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$179,900","4231 Mountain Glen Trce, Snellville, GA 30039",3,2,"1,560","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$80,000","3888 S Rockbridge Rd, Stone Mountain, GA 30087",5,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$273,000","2761 Rolling Downs Way, Loganville, GA 30052",4,3,"2,866","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$205,000","566 Birch Ln, Lawrenceville, GA 30044",4,2,"1,925","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$925,000","604 Hilltop Ln, Berkeley Lake, GA 30096",4,4,"6,139","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$465,000","240 Longview Dr, Norcross, GA 30071",4,2,"2,525","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$619,900","992 Allen Lake Path, Suwanee, GA 30024",6,6,"5,637","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$269,900","1762 Penny Ln, Lawrenceville, GA 30043",4,3,"2,334","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$262,500","2664 Sedgeview Way, Buford, GA 30519",4,3,"2,242","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$469,900","5315 Wickershire Dr, Norcross, GA 30092",5,5,"4,266","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$239,900","4055 Spring Cove Dr, Duluth, GA 30097",3,3,"2,116","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$369,000","3566 Ashby Pond Ln, Duluth, GA 30097",4,4,"3,564","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$410,000","3710 Creek Mist Lndg, Suwanee, GA 30024",6,4,"3,751",N/A
+"$379,900","715 Amberton Close, Suwanee, GA 30024",5,4,"4,400","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$387,500","1470 Azalea Brook Dr, Lawrenceville, GA 30043",5,4,"4,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$410,000","3710 Creek Mist Lndg, Suwanee, GA 30024",6,4,"3,751",N/A
+"$239,900","4055 Spring Cove Dr, Duluth, GA 30097",3,3,"2,116",https://photos.zillowstatic.com/p_e/ISjzei9u06fskk0000000000.jpg
+"$293,000","1060 Pebble Bend Dr, Grayson, GA 30017",5,4,"3,485",https://photos.zillowstatic.com/p_e/ISzzxlqtjzos0q0000000000.jpg
+"$220,000","1951 N Oak Dr NW, Lawrenceville, GA 30044",5,3,"2,700",https://photos.zillowstatic.com/p_e/IS33n2coz8ud9u0000000000.jpg
+"$432,000","4544 Cape Kure Ct, Norcross, GA 30092",5,6,"3,537",https://photos.zillowstatic.com/p_e/IS7649wkx23qf50000000000.jpg
+"$610,000","3182 Town Manor Cir, Dacula, GA 30019",5,5,"5,600",https://photos.zillowstatic.com/p_e/ISz7cuwh6q4qgg0000000000.jpg
+"$435,000","2468 Violet, Duluth, GA 30096",5,4,"2,720",https://photos.zillowstatic.com/p_e/ISn6bz6pl7b8170000000000.jpg
+"$274,000","1551 Misty Valley Dr, Lawrenceville, GA 30045",4,3,"3,800",https://photos.zillowstatic.com/p_e/ISz39l0r533sqp1000000000.jpg
+"$249,900","1354 Great Oaks Ct, Lawrenceville, GA 30045",4,2,"2,050",https://photos.zillowstatic.com/p_e/ISb1ry86ixx3ma0000000000.jpg
+"$206,000","4086 Jami Ln, Snellville, GA 30039",3,3,"1,820","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$284,750","2972 Cherry Laurel Dr #9, Norcross, GA 30071",3,3,"1,876","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$289,000","3703 Tamer Ln SW, Lilburn, GA 30047",3,3,"2,214","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$313,000","2181 Day Break Way, Dacula, GA 30019",5,3,"3,198","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$135,000","5586 Executive Way, Norcross, GA 30071",2,3,"1,280","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$234,000","796 Sunset Ridge Ln, Lawrenceville, GA 30045",3,2,"1,770","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$226,000","4381 Preserve Trl, Snellville, GA 30039",5,3,"2,579","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$448,000","1142 Grassmeade Way, Snellville, GA 30078",5,4,"3,658","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$274,900","4923 Berkeley Oak Cir, Norcross, GA 30092",3,3,"1,980","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$220,000","525 Heathgate Dr, Lawrenceville, GA 30044",5,3,"1,849","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$250,000","58 Leighs Grove Way, Grayson, GA 30017",4,3,"2,276","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$196,000","2218 Myra Ln #11, Snellville, GA 30078",3,2,"1,688","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$300,028","6247 Thorncrest Dr #14, Tucker, GA 30084",3,3,"1,897","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$279,500","3365 Prairie Dr, Snellville, GA 30039",5,3,"3,511","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$485,000","1302 Terrasol Rdg SW, Lilburn, GA 30047",6,5,"4,400","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$180,000","1147 Red Oak Cv, Tucker, GA 30084",2,3,"1,456",N/A
+"$254,000","1725 Big Haynes Ct, Grayson, GA 30017",4,3,"2,726","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$239,500","48 Stone Valley Dr SW, Lilburn, GA 30047",3,3,"1,984","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$244,000","3530 Lochmill Dr, Loganville, GA 30052",3,2,"2,286","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$340,000","1315 Tribble Walk Ct, Lawrenceville, GA 30045",4,4,"2,220","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$214,000","2038 Summertown Dr, Norcross, GA 30071",3,2,"1,250","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$212,000","3947 Maple Tree Ct, Loganville, GA 30052",3,3.5,"1,936","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$395,000","4629 Jack Nicklaus St, Duluth, GA 30096",4,3,"2,620","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$284,750","2972 Cherry Laurel Ln #9, Norcross, GA 30071",3,3,"1,870","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$290,000","5674 Baldwin Ct, Norcross, GA 30071",Studio,--,"2,280","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$250,000","3051 Kittery Dr, Snellville, GA 30039",5,4,"3,271","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$485,000","1302 Terrasol Rdg #63, Lilburn, GA 30047",6,5,"4,405","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$257,500","860 Providence Dr, Lawrenceville, GA 30044",4,3,"2,329","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$380,000","3011 Spruce Cir, Snellville, GA 30078",8,12,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$160,000","3500 Sweetwater Rd UNIT 301, Duluth, GA 30096",2,2,"1,230","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$120,000","6709 Trafalger Sq, Norcross, GA 30093",2,2,"1,064","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$214,000","2038 Summertown Dr, Norcross, GA 30071",3,2,"1,250",https://photos.zillowstatic.com/p_e/ISfwxb1rx83slx1000000000.jpg
+"$249,900","1354 Great Oaks Ct, Lawrenceville, GA 30045",4,2,"2,050",https://photos.zillowstatic.com/p_e/ISb1ry86ixx3ma0000000000.jpg
+"$284,750","2972 Cherry Laurel Dr #9, Norcross, GA 30071",3,3,"1,876",https://photos.zillowstatic.com/p_e/ISfwdgnvk5oeus1000000000.jpg
+"$234,000","796 Sunset Ridge Ln, Lawrenceville, GA 30045",3,2,"1,770",https://photos.zillowstatic.com/p_e/ISbxjul6jog1si0000000000.jpg
+"$212,000","1740 Garbrooke Cv, Lawrenceville, GA 30046",3,3,"1,776",https://photos.zillowstatic.com/p_e/ISjrgu1rytc8lz0000000000.jpg
+"$279,500","3365 Prairie Dr, Snellville, GA 30039",5,3,"3,511",https://photos.zillowstatic.com/p_e/IS3bd49ugok1cy0000000000.jpg
+"$284,750","2972 Cherry Laurel Ln #9, Norcross, GA 30071",3,3,"1,870",https://photos.zillowstatic.com/p_e/ISna2nis9nh0cn1000000000.jpg
+"$254,000","1725 Big Haynes Ct, Grayson, GA 30017",4,3,"2,726",https://photos.zillowstatic.com/p_e/ISvwwbywevnceb1000000000.jpg
+"$285,000","1841 Lone Oak Ct, Lawrenceville, GA 30043",5,4,"3,556",https://photos.zillowstatic.com/p_e/ISbhbd20gvouq90000000000.jpg
+"$579,000","989 Allen Lake Path, Suwanee, GA 30024",6,5,"6,134","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$331,249","3116 Oxford Mill Ln, Buford, GA",4,3,"2,319","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$269,000","1910 Wildcat Cliffs Way, Lawrenceville, GA 30043",4,3,"2,670","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$279,990","3006 Cove View Ct #95, Dacula, GA 30019",4,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$248,500","3999 Church View Ln, Suwanee, GA 30024",2,3,"1,408","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$229,900","674 Galloping Bend Ct #45, Auburn, GA 30011",3,2,"1,742","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$367,000","2507 Bear Paw Dr, Lawrenceville, GA 30043",5,3,"3,150","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$257,000","400 Hambridge Ct, Lawrenceville, GA 30043",4,3,"2,525","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$306,750","4068 Brynhill Ln, Buford, GA 30518",4,4,"2,645","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$352,000","1946 Sterling Park, Buford, GA 30518",4,4,"2,400","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$245,000","290 Beckenham Walk Dr, Dacula, GA 30019",4,3,"2,362","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$187,500","1205 Penhurst Way, Lawrenceville, GA 30043",2,3,"1,408","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$267,490","5228 City Walk Dr #39, Buford, GA 30518",3,3,"1,965","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$199,000","1045 Oak Grove Cir, Lawrenceville, GA 30043",3,2,"1,473","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$310,500","1127 Fountain Lakes Ct, Lawrenceville, GA 30043",4,3,"2,443","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$216,200","321 Natalie Dr, Lawrenceville, GA 30043",4,3,"1,862","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$229,900","674 Galloping Bend Ct, Auburn, GA 30011",3,2,"1,742","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$410,000","3838 Shadow Loch Dr, Suwanee, GA 30024",5,4,"3,700","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$317,000","1906 Blue Heron Way, Lawrenceville, GA 30043",5,3,"2,882","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$300,000","1976 Jameson Cir, Lawrenceville, GA 30043",4,2,"2,523","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$485,000","2163 Abbott Dr, Buford, GA 30519",4,5,"3,112","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$301,900","209 Chloe Dianne Dr, Loganville, GA 30052",5,4,"3,073","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$268,000","727 Edgeley Ln, Lawrenceville, GA 30044",4,3,"2,652","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$178,044","355 Ridgemont Dr, Lawrenceville, GA 30046",3,2,"1,485","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$256,000","2725 Barimore Pl, Dacula, GA 30019",4,3,"2,365","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$290,000","6335 Lake Windsor Pkwy, Buford, GA 30518",4,3,"2,775","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$285,000","1021 Steeple Run, Lawrenceville, GA 30043",4,3,"3,021","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$106,000","5043 Top Cat Ct, Sugar Hill, GA 30518",2,2,"1,024","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$279,000","2017 Alderbrooke Ct, Lawrenceville, GA 30043",3,3,"2,550","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$340,000","826 Village Manor Pl, Suwanee, GA 30024",3,3,"2,540","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$224,000","3521 Ivy Crest Way, Buford, GA 30519",3,2,"1,837","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$720,000","3422 Forest Vista Dr, Dacula, GA 30019",6,5,"6,608",https://photos.zillowstatic.com/p_e/ISb9ttcegntpss0000000000.jpg
+"$414,500","3144 Cherrychest Way, Snellville, GA 30078",4,3,"3,473",https://photos.zillowstatic.com/p_e/IS3vws80eata4p1000000000.jpg
+"$212,900","335 Eagle Tiff Dr, Sugar Hill, GA 30518",3,3,"1,994",https://photos.zillowstatic.com/p_e/ISa5mp92pp1n8j1000000000.jpg
+"$528,990","5185 Sophia Downs Ct #1, Suwanee, GA 30024",4,4,"3,650",https://photos.zillowstatic.com/p_e/ISnqy6crflrq5m0000000000.jpg
+"$309,900","6374 Barker Station Walk, Sugar Hill, GA 30518",4,3,"2,138",https://photos.zillowstatic.com/p_e/ISrlxpzdnhhfwq1000000000.jpg
+"$220,000","3972 Rosebud Park Dr, Snellville, GA 30039",5,3,"2,745",https://photos.zillowstatic.com/p_e/ISr5pktdzk7ty01000000000.jpg
+"$245,000","997 Preserve Park Dr, Loganville, GA 30052",4,3,"3,179",https://photos.zillowstatic.com/p_e/ISnqy29apbv8a20000000000.jpg
+"$260,000","1309 Oakcrest Ct SW, Lilburn, GA 30047",4,3,"1,920",https://photos.zillowstatic.com/p_e/IS7ueh8ob0l5321000000000.jpg
+"$320,000","125 Little Barley Ln, Grayson, GA 30017",4,4,"2,716",https://photos.zillowstatic.com/p_e/ISblq7vfyp87861000000000.jpg
+"$335,000","3824 Bay Orchard Ln, Loganville, GA 30052",5,3,"3,188","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$140,000","6352 Hawthorne Ter, Norcross, GA 30092",4,3,"1,902","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$262,500","5902 Ohara Dr, Stone Mountain, GA 30087",4,3,"2,191","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$182,000","2101 Hasel St, Lawrenceville, GA 30044",2,3,"1,868","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$311,900","2686 Holden Spring Dr, Dacula, GA 30019",5,4,"3,622","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$207,500","1059 Mount Water Ln, Lawrenceville, GA 30043",4,4,"3,312","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$290,000","1601 Scenic Pines Dr, Lawrenceville, GA 30044",4,4,"2,570","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$123,600","1492 Branch Dr, Tucker, GA 30084",2,2,"1,170","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$200,000","1402 Daniel Ln, Lawrenceville, GA 30046",3,2,"1,364","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$298,900","611 Omnia Ct, Lawrenceville, GA 30044",5,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$343,000","158 Stargrass Way, Grayson, GA 30017",5,5,"3,499","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$278,250","1521 Greyfield Trce, Snellville, GA 30078",4,3,"2,808",N/A
+"$210,000","3436 NW Village Glen Ct, Snellville, GA 30039",3,2,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$400,000","3380 Garmon Dr, Loganville, GA 30052",5,4,"3,424","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$252,500","2499 Irwell Way, Lawrenceville, GA 30044",3,3,"1,850","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$230,000","4257 Landington Ct, Duluth, GA 30096",3,2,"1,752","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$178,000","200 Kentshire Pl, Lawrenceville, GA 30044",3,3,"1,520","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$815,000","5323 Aldeburgh Dr, Suwanee, GA 30024",4,4,"4,253","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$355,000","2383 Infield Ln, Lawrenceville, GA 30043",4,3,"3,367","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$224,900","1784 Fort River Way, Dacula, GA 30019",3,2,"1,547","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$389,075","2601 River Cane Way, Buford, GA 30519",6,5,"3,431","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$405,000","1215 Whitehawk Trl, Lawrenceville, GA 30043",5,4,"4,230","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$317,000","2045 Parliament Dr, Lawrenceville, GA 30043",4,3,"3,385","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$365,000","1150 Henry Ter, Lawrenceville, GA 30046",4,4,"4,634","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$186,000","150 Towler Rd, Lawrenceville, GA 30046",3,3,"1,516","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$240,000","2860 Hunters Pond Ln, Snellville, GA 30078",4,3,"2,665","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$253,000","919 Lakeview Rd, Grayson, GA 30017",3,2.5,"3,146","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$248,900","6232 Bellecliff Run, Tucker, GA 30084",3,3,"1,920","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$189,000","3796 Etna Dr, Snellville, GA 30039",4,3,"1,824","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$400,000","3885 Spalding Bluff Dr, Norcross, GA 30092",5,5,"4,968","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$179,000","873 Parc River Blvd, Lawrenceville, GA 30046",3,3,"1,632","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$179,000","472 Scenic Hwy, Lawrenceville, GA 30046",3,2,"1,300",https://photos.zillowstatic.com/p_e/ISjvzr33cownjb1000000000.jpg
+"$200,000","2826 Freemans Mill Rd, Dacula, GA 30019",3,2,"1,204",https://photos.zillowstatic.com/p_e/ISr9c5kzf9dg1u0000000000.jpg
+"$373,000","4325 Landover Way, Suwanee, GA 30024",5,3,"3,200",https://photos.zillowstatic.com/p_e/ISvsxtxfp1e86p0000000000.jpg
+"$290,000","3155 Manor Ct, Snellville, GA 30078",4,4,"2,110",https://photos.zillowstatic.com/p_e/IS7qjihe6ns9gt1000000000.jpg
+"$176,000","4150 Tuggle Rd, Buford, GA 30519",3,2,"1,505",https://photos.zillowstatic.com/p_e/ISniw3y9hkp2wr0000000000.jpg
+"$190,000","1121 Casanova Ct, Lawrenceville, GA 30044",3,3,"1,796",https://photos.zillowstatic.com/p_e/ISfo72iy1v2pgh0000000000.jpg
+"$195,000","361 Bethesda Church Rd, Lawrenceville, GA 30044",3,1,"1,120",https://photos.zillowstatic.com/p_e/ISv4vnwk1aounz0000000000.jpg
+"$234,900","4317 Wheaton Way, Snellville, GA 30039",4,3,"2,436",https://photos.zillowstatic.com/p_e/IS3zzh1nd012kb0000000000.jpg
+"$200,000","5788 Williams Rd, Norcross, GA 30093",1.53,N/A,N/A,https://photos.zillowstatic.com/p_e/IS7e6ovykr40z40000000000.jpg
+"$349,900","769 1st St, Lawrenceville, GA 30046",4,4,"3,357","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$219,500","1095 Eagle Pointe Dr, Lawrenceville, GA 30044",4,2,"1,385","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$246,500","1295 Summit Chase Dr, Snellville, GA 30078",4,3,"2,600","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$261,000","3381 Cooper Woods Dr, Loganville, GA 30052",4,3,"2,823","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$236,000","1511 Parkcrest Ln, Grayson, GA 30017",5,3,"2,500","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$314,900","3353 Shoals Ridge Dr, Dacula, GA 30019",5,3,"3,209","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$275,554","463 Baltimore Ave SW, Lilburn, GA 30047",5,3,"3,195","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$347,105","3935 Clade Fern Ln, Buford, GA 30519",4,4,"3,370","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$430,000","1230 Lamont Cir, Dacula, GA 30019",5,4,"4,331","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$199,000","4120 Spring Cove Dr, Duluth, GA 30097",3,3,"1,576","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$220,000","1753 Shadybrook Ct, Lawrenceville, GA 30043",3,2,"2,400","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$117,000","19533 116th Ave, Mokena, IL 30024",3,1,"1,026","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$215,000","4965 Rockborough Trl, Norcross, GA 30071",3,3,"1,140","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$345,000","3797 Wimbledon Way, Norcross, GA 30092",3,2,"2,284","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$207,584","5370 Lakebrooke Run, Stone Mountain, GA 30087",3,3,"1,947","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$360,500","4600 Jones Bridge Cir, Norcross, GA 30092",4,3,"2,218","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$175,000","68 Cedar Ridge Trl, Lawrenceville, GA 30046",3,2,"1,092","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$273,500","5074 Fox Forest Cir SW, Lilburn, GA 30047",4,2,"2,256","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$141,000","134 Patterson Close Ct, Lawrenceville, GA 30044",2,1,"1,008","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$256,000","205 Timber Oak Cv, Lawrenceville, GA 30043",4,3,"2,540","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$362,000","4365 Signal Ridge Ct, Buford, GA 30518",4,4,"2,990","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$250,000","3305 Coles Creek Dr, Buford, GA 30519",4,3,"2,716","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$256,000","6015 Ambercrest Ct, Buford, GA 30518",4,2,"2,001","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$519,900","2767 Country House Way, Buford, GA 30519",6,5,"5,328","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$490,000","3390 Greenside Ct, Dacula, GA 30019",5,5,"3,892","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$589,000","706 Rock Springs Rd #5, Lawrenceville, GA 30043",5,4,"4,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$560,000","6044 Nature Path Ln, Sugar Hill, GA 30518",5,5,"6,363","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$589,000","706 Rock Springs Rd, Lawrenceville, GA 30043",5,4,"4,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$259,125","2463 Quay Rdg #41, Lawrenceville, GA 30044",3,3,"1,850","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$233,000","1500 Lucelle Ave, Stone Mountain, GA 30087",3,3,"2,236","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$263,000","1367 Hillandale Rd, Lawrenceville, GA 30046",4,3,"2,636","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$257,000","2705 Jay Oak Dr, Dacula, GA 30019",4,2,"2,381",https://photos.zillowstatic.com/p_e/IS33znkarfb1dt1000000000.jpg
+"$243,650","4102 Rocks Ln, Loganville, GA 30052",4,4,"2,500",https://photos.zillowstatic.com/p_e/ISjvf8z6m5a5u91000000000.jpg
+"$260,000","503 Hardy Ives Ln, Lawrenceville, GA 30045",3,3,"2,058",https://photos.zillowstatic.com/p_e/IS3fwtkcbj2n0y1000000000.jpg
+"$230,000","3978 Carter Dr NW, Lilburn, GA 30047",5,3,"2,916",N/A
+"$281,000","1275 Tribble Walk Ct, Lawrenceville, GA 30045",4,3,"2,757",https://photos.zillowstatic.com/p_e/IS37ajz0k0wj820000000000.jpg
+"$175,000","3694 Regency Park Dr, Duluth, GA 30096",2,3,"1,166",https://photos.zillowstatic.com/p_e/ISfg53n63p7cnq1000000000.jpg
+"$200,000","4900 Spur Ct, Norcross, GA 30071",5,3,"2,600",https://photos.zillowstatic.com/p_e/ISvshxlw3xa52u0000000000.jpg
+"$400,000","4624 Jefferson Ln SW, Lilburn, GA 30047",4,3,"2,910",https://photos.zillowstatic.com/p_e/ISbh3vakcomrne0000000000.jpg
+"$279,975","1608 Park Land Ct, Snellville, GA 30078",2,3,"1,991",https://photos.zillowstatic.com/p_e/IS37ei5slu1a311000000000.jpg
+"$258,000","5651 Marian Ln NW, Lilburn, GA 30047",4,3,"2,411","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$680,000","2341 Hunters Green Dr, Lawrenceville, GA 30043",5,6,"5,500","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$284,900","1120 Pebble Bend Dr, Grayson, GA 30017",4,3,"2,684","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$469,000","5605 Estates Ct, Norcross, GA 30093",Studio,--,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$319,000","2148 Cluster Ln, Grayson, GA 30017",4,4,"3,343","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$238,000","1884 Raintree Ct, Snellville, GA 30078",4,3,"2,184","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$269,900","831 Windsor Oak Cir, Lawrenceville, GA 30045",4,3,"2,302","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$177,000","2005 Wisteria Ct, Lawrenceville, GA 30044",3,2,"1,489","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$377,900","740 Winston Dr, Lawrenceville, GA 30044",4,5,"4,730","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$249,900","1961 Wickliffe Pl, Snellville, GA 30078",3,4,"4,056","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$254,000","708 Arbour Way, Suwanee, GA 30024",4,3,"2,246","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$380,000","1817 Baxley Pine Trce, Suwanee, GA 30024",4,4,"3,186","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$257,000","3920 Meeting St, Duluth, GA 30096",3,4,"2,492","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$270,000","1620 Rushing River Way, Suwanee, GA 30024",3,3,"2,322","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$536,900","2718 Bridle Ridge Way, Buford, GA 30519",6,5,"6,303",N/A
+"$225,000","1028 Falconcrest Dr, Lawrenceville, GA 30043",5,3,"2,542","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$295,000","322 Ashbourne Trl, Lawrenceville, GA 30043",4,3,"2,582","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$424,900","680 Valla Crucis Ln, Dacula, GA 30019",6,4,"3,686","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$530,000","2898 Hidden Falls Dr, Buford, GA 30519",6,5,"5,845","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$362,430","3681 Heirloom Loop Ct, Buford, GA 30519",3,3,"2,837","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$227,000","4053 Avonlea Way, Buford, GA 30519",3,2,"1,512","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$289,900","4172 Duran Ln, Auburn, GA 30011",4,3,"3,956","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$279,900","1165 Sparkleberry Ct, Auburn, GA 30011",6,4,"3,047","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$428,825","2178 Holland Creek Lane, Buford, GA 30518",4,3,"3,500",N/A
+"$277,375","4321 Lanier Park Dr, Sugar Hill, GA 30518",3,3,"1,836","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$201,500","97 Huron Way, Norcross, GA 30071",3,3,"1,592","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$292,000","3651 Lake Pass Ln, Suwanee, GA 30024",3,3,"2,052","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$415,000","2480 Northmont Pkwy, Duluth, GA 30097",5,4,"3,318","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$335,000","1115 Windsor Place Cir, Grayson, GA 30017",3,3,"2,970","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$460,000","4507 Stilson Cir, Norcross, GA 30092",4,3,"2,985","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$55,000","1476 Oak Rd LOT 1, Snellville, GA 30078",0.62,N/A,N/A,N/A
+"$270,000","2089 Charcoal Ives Rd, Lawrenceville, GA 30045",3,3,"2,018",https://photos.zillowstatic.com/p_e/ISbdk57cbbmino0000000000.jpg
+"$540,923","5999 Kenn Manor Way, Norcross, GA 30071",4,4,"3,200",https://photos.zillowstatic.com/p_e/ISzbv7j425juxw0000000000.jpg
+"$340,000","4271 Mink Livsey Rd, Snellville, GA 30039",4,4,"2,839",https://photos.zillowstatic.com/p_e/ISzv277zmn0utw1000000000.jpg
+"$179,900","3375 Merlot Ct, Lawrenceville, GA 30044",3,4,"1,923",https://photos.zillowstatic.com/p_e/ISz70djqaig7oo1000000000.jpg
+"$361,000","1119 Bar Harbor Pl, Lawrenceville, GA 30044",--,--,--,N/A
+"$55,000","1476 Oak Rd LOT 1, Snellville, GA 30078",0.62,N/A,N/A,N/A
+"$222,000","4091 E Meadow Dr, Berkeley Lake, GA 30096",3,3,"1,444",https://photos.zillowstatic.com/p_e/ISvsl0neen613t1000000000.jpg
+"$230,000","403 Crested View Dr, Loganville, GA 30052",3,4,"2,888",https://photos.zillowstatic.com/p_e/IS7ylt51mnxdkp1000000000.jpg
+"$198,900","4268 Castle Gate Dr, Snellville, GA 30039",3,2,"1,548",https://photos.zillowstatic.com/p_e/IS7qrsupi8fejn1000000000.jpg
+"$334,900","3598 Spring Place Ct, Loganville, GA 30052",5,5,"3,226","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$475,000","414 Thunder Rd, Buford, GA 30518",4,5,"3,447","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$494,000","4090 Secret Shoals Way, Buford, GA 30518",5,4,"3,557","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$900,"4485 Tench Rd SUITE 1121, Suwanee, GA 30024",--,--,--,N/A
+"$330,000","1972 Azalea Dr, Lawrenceville, GA 30043",2,--,"1,356","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$242,900","2119 Barberry Dr, Buford, GA 30519",3,2.5,"2,488","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$275,000","4101 Glen Vista Ct, Duluth, GA 30097",3,3,"2,436","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$237,500","3535 Brockenhurst Dr, Buford, GA 30519",3,3,"1,986","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$328,000","4475 Bogan Gates Dr, Buford, GA 30519",4,3,"2,600","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$399,900","635 Morning Creek Ln, Suwanee, GA 30024",5,4,"2,572","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$308,000","760 Winston Dr, Lawrenceville, GA 30044",5,4,"3,562","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$265,000","1837 Preserve Creek Way, Loganville, GA 30052",4,3,"3,140","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$55,000","1476 Oak Rd, Snellville, GA 30078",0.62,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$249,900","765 E Fork Shady Dr NW, Lilburn, GA 30047",4,3,"1,968","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$200,000","2246 Windsor Dr, Snellville, GA 30078",3,2,"1,778","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$188,000","5854 Western Hills Dr, Norcross, GA 30071",4,3,"1,620","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$187,000","1740 1740 Eden Valley Ct, Loganville, GA 30052",3,2,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$195,000","2209 Oakland Downs Way, Lawrenceville, GA 30044",3,3,"1,922","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$325,000","2546 Staunton Ln, Duluth, GA 30096",4,3,"2,246","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$260,000","2658 Bold Springs Rd, Dacula, GA 30019",3,3,"2,546","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$236,000","5185 Apollo Ln SW, Lilburn, GA 30047",3,2,"1,569","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$362,500","2787 Camp Mitchell Rd, Loganville, GA 30052",4,3,"3,490","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$425,000","1510 Blyth Walk, Snellville, GA 30078",5,4,"4,428","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$307,000","4359 Alpine Ct, Snellville, GA 30039",3,4,"5,250","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$249,900","575 Orchard Place Cir SW, Lilburn, GA 30047",3,2,"2,034","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$350,000","2115 Chandler Rd, Grayson, GA 30017",5,4,"4,299","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$244,000","5548 Trace Views Dr #5548, Norcross, GA 30071",4,4,"1,878","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$244,000","5548 Trace Views Dr, Norcross, GA 30071",4,4,"1,878","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$438,500","1182 Rising Moon Trl, Snellville, GA 30078",6,5,"4,484","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$199,000","666 Stonecrest Dr, Loganville, GA 30052",3,3,"1,948","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$263,000","1202 Balvaird Dr, Lawrenceville, GA 30045",4,3,"2,484","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$343,000","1821 Rosetree Dr, Lilburn, GA 30047",4,3,"3,000",https://photos.zillowstatic.com/p_e/ISrtryco1vjs9q1000000000.jpg
+"$263,000","1202 Balvaird Dr, Lawrenceville, GA 30045",4,3,"2,484",https://photos.zillowstatic.com/p_e/IS3vc9c28mmoto0000000000.jpg
+"$188,000","5854 Western Hills Dr, Norcross, GA 30071",4,3,"1,620",https://photos.zillowstatic.com/p_e/ISj3ini0bfa5vo0000000000.jpg
+"$295,000","2356 Five Forks Trickum Rd, Lawrenceville, GA 30044",3,2,"1,920",https://photos.zillowstatic.com/p_e/ISjfvxw8e5k6781000000000.jpg
+"$260,000","2658 Bold Springs Rd, Dacula, GA 30019",3,3,"2,546",https://photos.zillowstatic.com/p_e/IS337qjd5bgbp40000000000.jpg
+"$179,000","3080 Ashly Brooke Dr, Snellville, GA 30078",3,2,"1,600",https://photos.zillowstatic.com/p_e/ISbpdgg5p0wp500000000000.jpg
+"$173,000","5480 Crestland Ct, Stone Mountain, GA 30087",3,2,"1,516",https://photos.zillowstatic.com/p_e/ISrxyulz1poezp0000000000.jpg
+"$330,000","2875 Ross Rd, Snellville, GA 30039",2,2,"1,597",https://photos.zillowstatic.com/p_e/ISf8bulxhq2tdq0000000000.jpg
+"$325,000","2546 Staunton Ln, Duluth, GA 30096",4,3,"2,246",https://photos.zillowstatic.com/p_e/IS7ydvt2e7axq71000000000.jpg
+"$244,000","5548 Trace Views Dr #5548, Norcross, GA 30071",4,4,"1,878","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$55,000","1476 Oak Rd, Snellville, GA 30078",0.62,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$200,000","2246 Windsor Dr, Snellville, GA 30078",3,2,"1,778","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$275,000","798 Beaver Ln NW, Lilburn, GA 30047",4,3,"2,684","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$187,000","1740 1740 Eden Valley Ct, Loganville, GA 30052",3,2,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$156,000","2231 Boone Pl, Snellville, GA 30078",3,2,"1,502","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$249,900","575 Orchard Place Cir SW, Lilburn, GA 30047",3,2,"2,034","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$362,500","2787 Camp Mitchell Rd, Loganville, GA 30052",4,3,"3,490","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$22,500","3975 Countryside Way LOT 52, Snellville, GA 30039",0.46,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$425,000","1510 Blyth Walk, Snellville, GA 30078",5,4,"4,428","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$350,000","2115 Chandler Rd, Grayson, GA 30017",5,4,"4,299","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$191,000","626 Dickens Rd NW, Lilburn, GA 30047",3,2,"1,520","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$205,000","4245 Friar Tuck Ln, Buford, GA 30519",3,2,"1,248","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$475,000","414 Thunder Rd, Buford, GA 30518",4,5,"3,440",N/A
+"$960,000","1855 Sugarloaf Club Dr, Duluth, GA 30097",5,7,"7,085","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$315,000","2602 Ambria Dr, Buford, GA 30519",4,3,"2,395","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$173,000","1360 Fox Chase, Lawrenceville, GA 30043",3,3,"1,716",N/A
+"$385,000","2039 Ivey Chase Dr, Dacula, GA 30019",5,4,"2,706","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$410,000","525 Birnamwood Dr, Suwanee, GA 30024",3,2.5,"2,875","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$357,000","3960 Baxley Ridge Dr, Suwanee, GA 30024",4,3,"2,682","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$299,000","765 River Cove Dr, Dacula, GA 30019",4,4,"2,214","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$248,000","1755 Heatherton Rd, Dacula, GA 30019",3,2,"1,799","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$210,000","2835 Sardis Dr, Buford, GA 30519",4,2,"2,320","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$349,900","3720 Lake Pass Ln, Suwanee, GA 30024",4,3,"2,390","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$582,000","5273 Enniskillen Ct, Suwanee, GA 30024",5,4,"4,140","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$394,900","5201 Woodline View Cir, Auburn, GA 30011",5,5,"3,226","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$389,000","353 Ambrose Creek Dr, Buford, GA 30518",4,4,"2,519","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$168,000","3100 Mary Todd Ln, Dacula, GA 30019",3,2,"1,400","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$432,900","3688 Heirloom Loop Ct, Buford, GA 30519",3,3,"2,446","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$242,900","2119 Barberry Dr #13, Buford, GA 30519",3,3,"2,488","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$207,000","1129 Montague Pl, Lawrenceville, GA 30043",3,3,"1,752","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"

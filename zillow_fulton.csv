@@ -1,0 +1,801 @@
+price,address,bds,ba,sqft,image
+"$297,000","40 Booker St NW, Atlanta, GA 30314",4,3,"1,779",https://photos.zillowstatic.com/p_e/ISz35inrpl2y701000000000.jpg
+"$359,550","2157 Old Georgian Ter NW UNIT 49, Atlanta, GA",3,4,"2,203",https://photos.zillowstatic.com/p_e/ISrdjx99ro5yhv1000000000.jpg
+"$230,000","6900 Roswell Rd, Sandy Springs, GA 30328",4,3,"1,434",https://photos.zillowstatic.com/p_e/ISbplucyegqpkn1000000000.jpg
+"$888,888","11850 Little Creek Xing, Alpharetta, GA 30005",7,6,"8,154",https://photos.zillowstatic.com/p_e/ISj7lc70yybjrm0000000000.jpg
+"$470,000","12517 Kensington Blvd, Johns Creek, GA 30005",5,4,"3,269",https://photos.zillowstatic.com/p_e/IS3nisgcvswi0p1000000000.jpg
+"$659,000","5 Wieuca Trce NE, Atlanta, GA 30342",4,3,"3,136",https://photos.zillowstatic.com/p_e/IS76o0ftwoqwf60000000000.jpg
+"$433,000","3030 Fenwood Trl, Roswell, GA 30075",4,3,"2,892",https://photos.zillowstatic.com/p_e/ISjz6kpxohqxyz0000000000.jpg
+"$232,000","6737 Delaware Bnd, Fairburn, GA 30213",4,3,"2,286",https://photos.zillowstatic.com/p_e/ISzrrvzzbxwcu00000000000.jpg
+"$285,700","1392 Clermont Ave, East Point, GA 30344",3,2,"1,456",https://photos.zillowstatic.com/p_e/ISb17r578gxvat1000000000.jpg
+"$355,000","3126 Abbey Dr SW, Atlanta, GA 30331",5,4,"3,412","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$68,000","3105 Jones St, East Point, GA 30344",2,1,928,N/A
+$1.80M,"1889 Hollywood Rd NW, Atlanta, GA 30318",3.2,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$430,000","950 W Peachtree St #1011, Atlanta, GA 30309",2,2,"1,091","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$425,000","10980 Pennbrooke Xing, Johns Creek, GA 30097",4,3,"2,888","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$285,000","10100 Windrush Ln #10, Alpharetta, GA 30009",2,2,"1,350","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$475,000","749 Hamilton Cir SE, Atlanta, GA 30312",3,4,"2,073","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$230,000","3314 Pine Heights Dr NE, Atlanta, GA 30324",2,2,"1,504","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$412,500","8015 Glisten Ave, Sandy Springs, GA 30328",3,3,"2,114","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.12M,"8325 Jett Ferry Rd, Sandy Springs, GA 30350",5,5,"4,794","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$320,000","4207 Harris Ridge Ct, Roswell, GA 30076",3,2,"1,632","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$470,000","10500 Turner Rd, Roswell, GA 30076",4,3,"3,500","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$50,000","2020 Lexington Ave LOT 0, Atlanta, GA 30344",0.41,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$80,000","2912 Briarwood Blvd, East Point, GA 30344",3,2,"1,171","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$316,000","1087 Winburn Dr, East Point, GA 30344",3,2,"2,180","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$50,000","2020 Lexington Ave, East Point, GA 30344",0.41,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$171,000","7722 Bucknell Ter, Fairburn, GA 30213",3,4,"1,632","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$184,000","3777 Peachtree Rd NE APT 1014, Brookhaven, GA 30319",1,1,903,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$360,000","536 Glen Iris Dr NE, Atlanta, GA 30308",3,1,"1,194","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$349,900","314 Grant St SE, Atlanta, GA 30312",2,3,"1,152","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$213,000","5440 Cascade Run SW, Atlanta, GA 30336",3,3,"1,803","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$412,500","8015 Glisten Ave, Sandy Springs, GA 30328",3,3,"2,114","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$590,000","3325 Piedmont Rd NE UNIT 1905, Atlanta, GA 30305",2,2,"1,568","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$205,000","3108 Pine Heights Dr NE, Atlanta, GA 30324",2,2,"1,249","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$355,000","1470 Pollard Dr SW, Atlanta, GA 30311",5,2,"3,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$254,950","3235 Roswell Rd NE, Atlanta, GA 30305",1,1,"1,080",N/A
+"$341,220","2151 Colvin Ct NW UNIT 29, Atlanta, GA 30318",3,4,"1,953","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$410,000","10590 Morton Ridge Dr, Johns Creek, GA 30022",5,3,"2,822","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$450,000","9940 Carrington Ln, Johns Creek, GA 30022",5,3,"3,130","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$799,000","15350 Treyburn Manor Vw, Milton, GA 30004",5,4,"4,859","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$470,000","1030 Brookstead Chase, Johns Creek, GA 30097",5,4,"3,420","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$410,000","10590 Morton Ridge Dr, Johns Creek, GA 30022",5,3,"2,822",https://photos.zillowstatic.com/p_e/ISjvb1zqmyhkg01000000000.jpg
+"$450,000","9940 Carrington Ln, Johns Creek, GA 30022",5,3,"3,130",https://photos.zillowstatic.com/p_e/IS7y1u0mguodg41000000000.jpg
+"$470,000","1030 Brookstead Chase, Johns Creek, GA 30097",5,4,"3,420",https://photos.zillowstatic.com/p_e/ISnyoo5pw5beyu1000000000.jpg
+"$730,000","835 Nettlebrook Ln, Milton, GA 30004",6,9,"6,961",https://photos.zillowstatic.com/p_e/ISniohn8phuoju1000000000.jpg
+"$208,000","3777 Peachtree Rd NE APT 1117, Brookhaven, GA 30319",1,1,919,N/A
+"$300,000","200 Renaissance Pkwy NE APT 304, Atlanta, GA 30308",2,2,"1,316",https://photos.zillowstatic.com/p_e/ISv0gt357o1cad1000000000.jpg
+"$995,000","750 Eagles Mere Ct, Alpharetta, GA 30005",4,5,"3,496",https://photos.zillowstatic.com/p_e/IS3nm3okk946z40000000000.jpg
+$1.78M,"3227 Watsons Bnd, Milton, GA 30004",6,9,"10,112",https://photos.zillowstatic.com/p_e/ISzfquswwa3rvw1000000000.jpg
+"$290,000","1050 Delmont Ter, Roswell, GA 30075",2,2,"1,236",https://photos.zillowstatic.com/p_e/ISzbndyhowo6ni1000000000.jpg
+"$543,000","3363 Bachelor St, East Point, GA 30344",4,4,"3,144","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$207,000","2956 Stream Vw, College Park, GA 30349",4,3,"2,530","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$155,900","2141 Red Oak Cir #21, Union City, GA",4,2,"1,322","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$155,900","2145 Red Oak Cir #23, Union City, GA",3,2,"1,427","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$154,400","2143 Red Oak Cir #22, Union City, GA 30291",4,2,"1,322","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$208,000","3777 Peachtree Rd NE APT 1117, Brookhaven, GA 30319",1,1,919,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$365,000","974 Grant St SE, Atlanta, GA 30315",3,2,"1,221",N/A
+"$195,000","7106 Stonington Dr NE, Atlanta, GA 30328",3,3,"1,794","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$274,900","33 Ponce De Leon Ave NE, Atlanta, GA 30308",1,1,896,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$329,900","2498 Perry Blvd NW, Atlanta, GA 30318",3,4,"1,608","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$275,000","923 Peachtree St NE UNIT 2029, Atlanta, GA 30309",1,1,668,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$215,000","612 Abingdon Way, Sandy Springs, GA 30328",2,2,"1,330","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$100,000","100 Burbank Dr SW, Atlanta, GA 30314",6,2,"1,286","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.20M,"4337 Town Commons Cir NE, Atlanta, GA 30319",5,6,"3,757","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$217,500","1333 Kenilworth Dr SW, Atlanta, GA 30310",3,2,960,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$242,000","1340 Wichita Dr SW, Atlanta, GA 30311",3,2,"1,800","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$250,000","1387 Avon Ave SW, Atlanta, GA 30310",3,2,"1,629","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$799,000","1422 Hanover West Dr NW, Atlanta, GA 30327",5,3,"2,760","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$160,000","2528 Ryne St NW, Atlanta, GA 30318",3,2,"1,022","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$202,500","7750 Roswell Rd APT 6D, Atlanta, GA 30350",3,3,"1,470","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$350,000","9945 Lake Forest Way, Roswell, GA 30076",3,3,"2,034","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$473,000","6010 Claiborne Cv, Roswell, GA 30075",5,4,"4,216","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$225,000","45 Nesbit Pl, Johns Creek, GA 30022",2,2.5,"1,560","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$558,000","564 Branyan Trl, Milton, GA 30004",6,5,"3,799",N/A
+"$225,000","45 Nesbit Pl #45, Alpharetta, GA 30022",2,3,"1,560","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$369,350","2025 Goldenrod Rd #13, Roswell, GA 30076",4,4,"2,295","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$185,000","4404 Gladewood Run, Union City, GA 30291",4,3,"1,933","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$100,000","1577 Jonesboro Rd SE, Atlanta, GA 30315",2,1,"1,212",N/A
+"$230,400","793 Pillar Hall, Fairburn, GA 30213",4,3,"2,759","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$310,000","200 River Vista Dr UNIT 536, Sandy Springs, GA 30339",2,2,"1,310","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$195,000","7106 Stonington Dr, Sandy Springs, GA 30328",3,2.5,"1,794",N/A
+"$591,000","18 Veridian Lane, Alpharetta, GA 30009",4,4,"2,800",N/A
+"$473,500","20052 Windalier, Roswell, GA 30076",4,4,"3,000",N/A
+"$140,000","5205 Gladden Rd, Fairburn, GA 30213",3,2,"1,074",N/A
+"$380,000","2151 Collins Dr NW, Atlanta, GA 30318",3,2,"1,518",https://photos.zillowstatic.com/p_e/ISf8v5clhld2ij0000000000.jpg
+"$154,840","6069 Oakley Rd #58, Union City, GA 30291",3,3,--,https://photos.zillowstatic.com/p_e/ISzrj99igc3fw51000000000.jpg
+"$171,900","2565 Centennial Cv, Atlanta, GA 30349",3,3,"1,712",https://photos.zillowstatic.com/p_e/ISyvy7pmsvcrxr0000000000.jpg
+"$164,990","5646 Union Pointe Dr, Union City, GA 30291",3,3,"1,477",https://photos.zillowstatic.com/p_e/ISjjejhn0p1b2c0000000000.jpg
+"$62,500","3104 Latona Dr SW, Atlanta, GA 30354",3,1,875,N/A
+"$258,000","5788 Harrier Ln, Atlanta, GA 30349",5,3,"3,206",https://photos.zillowstatic.com/p_e/ISv8iceiwj8smx1000000000.jpg
+"$162,000","4076 Robin Cir, Atlanta, GA 30349",3,3,"1,784","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$135,500","511 Creel Ln, Atlanta, GA 30349",3,3,"1,372","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$175,000","4652 Ravenwood Loop, Union City, GA 30291",3,3,"1,848","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$171,900","2565 Centennial Cv #94, Atlanta, GA 30349",3,3,"1,712","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$232,000","5400 Roswell Rd UNIT M11, Sandy Springs, GA 30342",2,2,"1,039","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$130,000","335 3rd St NE, Atlanta, GA 30308",1,1,435,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$155,000","2333 Beecher St SW, Atlanta, GA 30311",3,1,"1,445","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$185,000","1365 Richland Rd SW, Atlanta, GA 30310",3,1,"1,279","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$207,000","420/422 Atwood St, Atlanta, GA 30310",Studio,--,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$210,000","2309 Pine Heights Dr NE, Atlanta, GA 30324",2,2,"1,249","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.35M,"831 Longwood Dr NW, Atlanta, GA 30305",6,6,"5,035","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$155,000","2333 Beecher Rd SW, Atlanta, GA 30311",3,1,"1,445","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$3.23M,"3498 Paces Valley Rd NW, Atlanta, GA 30327",6,8,"7,180","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$310,000","375 Highland Ave NE UNIT 108, Atlanta, GA 30312",2,3,"1,478","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$30,000","879 Smith St SW, Atlanta, GA 30310","3,789",N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$286,000","244 Peters St SW UNIT 29, Atlanta, GA 30313",2,1,"1,232","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$562,500","235 Centennial Trce, Roswell, GA 30076",4,5,"3,180","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$193,000","3103 Queen Anne Ct, Sandy Springs, GA 30350",2,3,"1,160",N/A
+"$696,875","2535 Hopewell Rd, Milton, GA 30004",3,3,"2,846","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$345,000","760 Ullswater Cv, Johns Creek, GA 30022",5,4,"2,534","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$445,000","120 Elaine Dr, Roswell, GA 30075",4,3,"1,708","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$635,000","780 Gates Mill Way, Milton, GA 30004",5,5.5,"3,395",N/A
+"$699,900","200 Milestone Trl, Milton, GA 30004",6,6,"5,500","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$635,000","1060 Creek Ridge Pointe, Alpharetta, GA 30005",6,5,"5,977","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$160,000","6940 Roswell Rd UNIT 17A, Sandy Springs, GA 30328",2,2,"1,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$199,900","803 Brighton Point, Sandy Springs, GA 30328",2,3,"1,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$880,000","4245 Glengary Ct NE, Atlanta, GA 30342",5,4,"2,251","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$546,500","1634 Duncan Dr NW, Atlanta, GA 30318",4,4,"3,500","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$139,900","1150 Collier Rd NW APT K6, Atlanta, GA 30318",--,--,--,N/A
+"$630,000","2045 Bluffton Way, Roswell, GA 30075",5,5,"2,911","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$85,000","355 Winding River Dr UNIT D, Atlanta, GA 30350",2,2,"1,408","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$142,000","2560 South Hls #B13, Riverdale, GA 30296",4,3,"1,936",https://photos.zillowstatic.com/p_e/ISvgwc6u9j3vzc1000000000.jpg
+"$249,644","6628 Sky Leaf Ln #34, Fairburn, GA 30213",3,3,--,https://photos.zillowstatic.com/p_e/ISjjm9f9397v6n0000000000.jpg
+"$325,000","399 Rivertown Rd, Fairburn, GA 30213",4,3,"3,792",https://photos.zillowstatic.com/p_e/ISrl50pyytcd1z0000000000.jpg
+"$205,000","120 Apian Way, Palmetto, GA 30268",4,3,"2,184",https://photos.zillowstatic.com/p_e/IS3bpptx97cexm0000000000.jpg
+"$110,000","2211 Bigwood Trl, Atlanta, GA 30349",2,3,"1,574",https://photos.zillowstatic.com/p_e/ISv4fzypm0uhg50000000000.jpg
+"$192,000","7581 Parkland Bnd, Fairburn, GA 30213",3,3,"2,020",https://photos.zillowstatic.com/p_e/IS376o8c1uzb7q1000000000.jpg
+"$210,000","1635 Mcclelland Ave, East Point, GA 30344",3,2,"1,522",https://photos.zillowstatic.com/p_e/IS7yhmtjpk5fb31000000000.jpg
+"$203,150","2446 Gilbert Dr SW, Atlanta, GA 30331",4,3,"2,745",https://photos.zillowstatic.com/p_e/ISzzlk57fhqwj11000000000.jpg
+"$225,600","4589 Creekside Cv, Atlanta, GA 30349",5,3,"2,371",https://photos.zillowstatic.com/p_e/ISzjx27oqifz1h1000000000.jpg
+"$114,000","6374 Rockaway Rd #18, Atlanta, GA 30349",2,3,"1,424","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$249,644","6628 Sky Leaf Ln, Fairburn, GA 30213",3,3,"2,235","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$76,000","3933 Bonnie Ln SE, Hapeville, GA 30354",3,1,"1,075","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$315,800","3435 Kingsboro Rd NE, Atlanta, GA 30326",2,2,"1,680","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$378,000","680 Fraser St SE #74, Atlanta, GA 30315",2,2,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.50M,"3795 Dumbarton Rd NW, Atlanta, GA 30327",4,3,"3,024","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$238,500","2255 Peachtree Rd NE UNIT 323, Atlanta, GA 30309",1,1,887,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$737,500","982 Cumberland Rd NE, Atlanta, GA 30306",3,3,"1,957","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$185,000","390 17th St NW UNIT 2067, Atlanta, GA 30363",1,1,770,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$242,000","3777 Peachtree Rd NE APT 1601, Brookhaven, GA 30319",2,2,"1,160","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$535,000","7225 Hunters Branch Dr, Sandy Springs, GA 30328",4,3,"2,392","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$2.60M,"7 Vernon Rd NW, Atlanta, GA 30305",5,5,"5,568","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$294,000","9 Independence Pl NW, Atlanta, GA 30318",2,3,"1,320","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$75,000","3791 Adkins Rd NW, Atlanta, GA 30331",3,2,950,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$2.00M,"30 Inman Cir NE, Atlanta, GA 30309",4,5,"3,400","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$969,000","663 Longwood Dr NW, Atlanta, GA 30305",4,3,"2,337","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.75M,"685 Edinboro Rd NW, Atlanta, GA 30327",5,6,"6,775","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.49M,"927 Amsterdam Ave NE, Atlanta, GA 30306",6,5,"4,827","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$310,000","923 Peachtree St NE UNIT 1533, Atlanta, GA 30309",1,1,867,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$955,000","3707 Peachtree Rd NE, Atlanta, GA 30319",4,5,"4,400","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$267,327","747 Ralph Mcgill Blvd NE UNIT 327, Atlanta, GA 30312",1,1,782,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$429,000","195 14th St NE UNIT 2907, Atlanta, GA 30309",2,2,"1,146","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$450,000","2053 Village Crest Dr NW, Atlanta, GA 30318",5,4,"3,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$482,000","1065 Penny Ln, Roswell, GA 30076",4,5,"2,551","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$565,000","10530 Honey Brook Cir, Johns Creek, GA 30097",6,5,"5,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$569,000","12613 Lecoma Trce, Milton, GA 30004",4,4,"3,300","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$345,900","5215 Coacoochee Ter, Johns Creek, GA 30022",4,3,"2,745","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$560,000","105 Hydrangea Ct, Johns Creek, GA 30005",4,4.5,"6,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$534,000","425 Findley Way, Johns Creek, GA 30097",5,4,"3,228","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$455,000","490 Powers Court Ave, Milton, GA 30004",4,4,"3,286","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$310,000","940 Melody Ln, Roswell, GA 30075",3,2,"1,584","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$569,000","12613 Lecoma Trce, Milton, GA 30004",4,4,"3,300",https://photos.zillowstatic.com/p_e/ISjz2x4fhd1slh0000000000.jpg
+"$235,000","9155 Nesbit Ferry Rd UNIT 96, Alpharetta, GA 30022",4,3,"1,512",https://photos.zillowstatic.com/p_e/ISrpkmrwn8ryjd0000000000.jpg
+"$345,900","5215 Coacoochee Ter, Johns Creek, GA 30022",4,3,"2,745",https://photos.zillowstatic.com/p_e/ISnaibka95qbgs0000000000.jpg
+"$332,000","1060 Wellers Ct, Roswell, GA 30076",3,2,"1,826",https://photos.zillowstatic.com/p_e/ISnqer6x5hqhbi0000000000.jpg
+"$894,000","510 Ardsley Pl, Alpharetta, GA 30005",5,7,"6,630",https://photos.zillowstatic.com/p_e/ISfo3zwg6dpx551000000000.jpg
+"$479,000","130 Milton Park Ct, Alpharetta, GA 30022",5,5,"4,750",https://photos.zillowstatic.com/p_e/ISrxi6khucbddj0000000000.jpg
+"$693,000","3865 Grey Abbey Dr, Alpharetta, GA 30022",5,4,"4,195",https://photos.zillowstatic.com/p_e/ISzfex297rfdg10000000000.jpg
+"$715,000","473 Hamilton St SE, Atlanta, GA 30316",4,4,"2,832",https://photos.zillowstatic.com/p_e/IS337eam4lothe1000000000.jpg
+"$688,755","6680 Avis Walk #25, Alpharetta, GA 30005",3,3,"2,765",https://photos.zillowstatic.com/p_e/ISjrog468tctrd0000000000.jpg
+"$345,920","610 Augusta Dr, Fairburn, GA 30213",4,4,"3,876","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$340,000","4296 Bellwood Cir, College Park, GA 30349",5,4,"2,850","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$239,500","3936 Lake Manor Way, Atlanta, GA 30349",4,3,"1,802","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$192,000","5393 Rock Lake Dr, Atlanta, GA 30349",4,3,"2,208","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$430,000","989 Moores Mill Rd NW, Atlanta, GA 30327",3,3,"1,824","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.15M,"755 Juniper #502, Atlanta, GA 30308",3,4,"1,980",N/A
+"$560,000","780 Starlight Ln, Sandy Springs, GA 30342",5,3,"3,334","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.32M,"4767 Riverview Rd, Sandy Springs, GA 30327",4,7,"7,126","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.75M,"44 Barbara Ln, Sandy Springs, GA 30327",6,7,"6,900","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$595,000","168 Powell St SE, Atlanta, GA 30316",3,2,"1,036","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$490,000","2368 Defoors Ferry Rd NW, Atlanta, GA 30318",4,4,"3,125","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$220,000","923 Peachtree St NE, Atlanta, GA 30309",1,1,556,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$665,000","7850 Landowne Dr, Sandy Springs, GA 30350",5,5,"4,968","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$640,000","512 Bismark Rd NE, Atlanta, GA 30324",3,3,"2,160","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$135,000","425 Tarragon Way SW, Atlanta, GA 30331",Studio,--,"1,984","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$416,000","715 Amberidge Trl, Sandy Springs, GA 30328",3,2,"1,731",N/A
+"$290,000","1446 Akridge St NW, Atlanta, GA 30314",4,4,"2,100","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$315,000","655 Mead St SE UNIT 4, Atlanta, GA 30312",2,3,"1,800","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$261,000","326 Nelson St SW UNIT 303, Atlanta, GA 30313",2,1,"1,087","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$340,000","625 Stilwell Ct, Milton, GA 30004",2.97,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$205,000","2135 Newport Lndg, Alpharetta, GA 30009",2,2,"1,208","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$370,000","1028 Township Sq, Alpharetta, GA 30022",4,4,"2,363","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$842,500","16565 Quayside Dr, Milton, GA 30004",5,7,"6,012","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$330,000","1602 Sweet Apple Cir, Alpharetta, GA 30004",2,2,"1,550","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$750,000","510 Meadows Creek Dr, Johns Creek, GA 30005",5,5.5,"7,150",N/A
+"$783,000","545 Glen National Dr, Milton, GA 30004",5,6,"5,611",N/A
+"$391,000","11255 Calypso Dr, Alpharetta, GA 30009",4,4,"2,900",N/A
+"$269,999","2776 Wander Ln, Alpharetta, GA 30022",2,2,"1,400","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$915,000","400 Bodium Ct, Milton, GA 30004",6,8,"8,545","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$570,000","105 Blakewood Dr, Roswell, GA 30075",5,5,"4,319","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$581,000","6519 Creek View, Johns Creek, GA 30097",4,4,"3,200",N/A
+"$359,900","5735 Ashwind Trce, Johns Creek, GA 30005",5,4,"2,694",N/A
+"$205,000","2135 Newport Lndg, Alpharetta, GA 30009",2,2,"1,208",https://photos.zillowstatic.com/p_e/ISjvnedsb3emlh0000000000.jpg
+"$385,000","1155 Lyndhurst Way, Roswell, GA 30075",4,3,"2,292",https://photos.zillowstatic.com/p_e/ISjfb62zxlbhes0000000000.jpg
+"$915,000","400 Bodium Ct, Milton, GA 30004",6,8,"8,545",https://photos.zillowstatic.com/p_e/ISnicoo4o6qz890000000000.jpg
+"$267,500","587 Virginia Ave NE APT 806, Atlanta, GA 30306",2,2,800,https://photos.zillowstatic.com/p_e/ISbxntbpv8iuyc1000000000.jpg
+"$950,000","2098 Belvedere Dr NW, Atlanta, GA 30318",4,4,"4,246",N/A
+"$435,000","1768 Marietta Rd NW, Atlanta, GA 30318",0.36,N/A,N/A,https://photos.zillowstatic.com/p_e/ISq5l5vlpcqjuh0000000000.jpg
+"$300,500","2049 Highview Rd SW, Atlanta, GA 30311",5,4,"2,500",https://photos.zillowstatic.com/p_e/IS7y5h58sxmt790000000000.jpg
+"$637,000","525 Dunnally Ct, Johns Creek, GA 30022",6,5,"5,864",https://photos.zillowstatic.com/p_e/ISv82ootru94011000000000.jpg
+"$180,000","134 Park Ave SE, Atlanta, GA 30315",4,3,"1,662","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$237,635","501 Jefferson Chase St #3306, Atlanta, GA 30354",3,3,"1,891","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$265,000","5869 Harrier Ln #50, Atlanta, GA 30349",4,3,"3,276","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$315,000","7307 Parkland Bnd, Fairburn, GA 30213",5,4,"4,462","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$190,495","4963 Elm Brook Dr #180, Atlanta, GA 30349",3,3,"1,467","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$130,000","1397 Mcclelland Ave, East Point, GA 30344",3,2,"1,094","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$265,000","1831 Lakewood Ave SE, Atlanta, GA 30315",4,3,"2,012",N/A
+"$73,000","2500 Butner Rd SW, Atlanta, GA 30331",5,4,"3,702","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$226,000","1861 Sylvan Rd SW, Atlanta, GA 30310",3,1,"1,081","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$148,000","3084 Broadleaf Trl, Fairburn, GA 30213",3,3,"1,588","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$229,000","2735 SW The Fontainbleau #13, Atlanta, GA 30331",3,2,"1,540","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$234,000","5516 Babbling Vw, Fairburn, GA 30213",4,3,"3,194","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$173,990","7420 Faith St, Union City, GA 30213",3,3,"1,603","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$249,900","4905 Promenade Dr SW, Atlanta, GA 30331",3,3,"2,595",N/A
+"$210,000","4033 Princeton Lakes Pass SW, Atlanta, GA 30331",3,3,"1,986","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$265,000","5869 Harrier Ln, Atlanta, GA 30349",4,3,"3,276","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$273,500","1317 Mercer Ave, East Point, GA 30344",3,3,"1,624","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$166,000","3970 Jeffrey Dr, College Park, GA 30349",3,3,"2,095","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$227,490","6501 Beaver Creek Trl #61, Atlanta, GA 30349",5,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$245,000","210 Jennah Walk, Union City, GA 30291",4,3,"2,128","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$229,000","2735 The Fontainebleau SW, Atlanta, GA 30331",3,2,"1,540","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$161,500","820 Murrow Ct, Fairburn, GA 30213",3,3,"1,710","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$113,500","422 Dorsey Rd, Hapeville, GA 30354",3,2,"1,152","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$130,000","1405 Maple Valley Ct, Union City, GA 30291",3,3,"1,668","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$311,000","821 Ralph Mcgill Blvd NE, Atlanta, GA 30306",2,2,"1,049","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$90,000","238 Ormond St SW, Atlanta, GA 30315",2,1,750,N/A
+"$173,000","1280 W Peachtree St NW APT 1004, Atlanta, GA 30309",1,1,645,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$450,000","5578 High Point Rd, Atlanta, GA 30342",3,3,"2,572","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$259,900","1197 Liberty Pkwy NW, Atlanta, GA 30318",3,3.5,"1,326","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$140,000","2081 Bethel Dr NW, Atlanta, GA 30314",3,3,"1,628","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.10M,"5560 Glen Errol Rd, Sandy Springs, GA 30327",4,3.5,"4,535","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$225,000","2632 Peachtree Rd NW APT A104, Atlanta, GA 30305",2,2,"1,580",https://photos.zillowstatic.com/p_e/ISn2ggsryzo5xm1000000000.jpg
+"$224,500","795 Hammond Dr APT 1107, Atlanta, GA 30328",2,2,"1,106",https://photos.zillowstatic.com/p_e/ISzvmqn0xmlum90000000000.jpg
+"$975,000","2092 Timball Rd NW, Atlanta, GA 30318",4,6,"4,535",https://photos.zillowstatic.com/p_e/ISfcmd71sczbbq1000000000.jpg
+"$136,000","999 Arden Ave SW, Atlanta, GA 30310",Studio,--,"1,800",https://photos.zillowstatic.com/p_e/ISny06ft3yxz3k1000000000.jpg
+"$450,000","5578 High Point Rd, Atlanta, GA 30342",3,3,"2,572",https://photos.zillowstatic.com/p_e/ISr5hasz0gyqm30000000000.jpg
+"$173,000","1280 W Peachtree St NW APT 1004, Atlanta, GA 30309",1,1,645,https://photos.zillowstatic.com/p_e/IS7ab1qhh1p4j30000000000.jpg
+"$657,500","260 18th St NW #10326, Atlanta, GA 30363",3,3,"2,088",https://photos.zillowstatic.com/p_e/ISvspfxja5bjf90000000000.jpg
+"$740,000","2851 Mornington Dr NW, Atlanta, GA 30327",3,2,"2,214",https://photos.zillowstatic.com/p_e/ISbdgakmu8c9t20000000000.jpg
+"$216,000","3306 Annelaine Dr SW, Atlanta, GA 30311",4,3,"1,770",https://photos.zillowstatic.com/p_e/ISfs2pf1l1oyn50000000000.jpg
+"$408,000","3324 Peachtree Rd NE UNIT 1902, Atlanta, GA 30326",2,2,"1,245","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$545,000","850 Piedmont Ave #3126, Atlanta, GA 30308",2,3,"1,704","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$329,500","1354 Miller Reed Ave SE, Atlanta, GA 30315",3,2,"1,300","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$242,000","400 17th St NW UNIT 2109, Atlanta, GA 30363",2,2,"1,155","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$275,000","115 Peachtree Memorial Dr NW, Atlanta, GA 30309",2,1,"1,077",N/A
+"$469,900","860 Peachtree St NE UNIT 2814, Atlanta, GA 30308",2,2,"1,211","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$199,000","1100 Piedmont Ave NE APT 5, Atlanta, GA 30309",1,2,800,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$337,000","735 Chickadee Ct SW, Atlanta, GA 30311",4,3,"1,590","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$410,000","3 Gilbert Trl NE, Atlanta, GA 30308",3,3,"1,700","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$765,000","1080 Peachtree St NE UNIT 1803, Atlanta, GA 30309",2,3,"1,505","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$155,000","647 Alfred Rd NW, Atlanta, GA 30331",3,3,"1,025","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$550,000","808 Kirkwood Ave SE, Atlanta, GA 30316",2,3,"1,700","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$289,500","3 Market Square Pl NW, Atlanta, GA 30318",2,3,"1,320","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$535,000","690 Mabry Rd, Sandy Springs, GA 30328",4,4,"4,794","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$90,000","238 Ormond St SW, Atlanta, GA 30315",2,1,750,N/A
+"$93,000","1321 Plaza Ave SW, Atlanta, GA 30310",3,1,925,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$142,250","6520 Roswell Rd UNIT 22, Sandy Springs, GA 30328",2,2,"1,392","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$255,000","1449 Funston Ave SE, Atlanta, GA 30315",2,2,"1,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$650,000","527 Boulevard Pl NE, Atlanta, GA 30308",4,3,"2,271","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$425,000","2195 Parkview Ct NW, Atlanta, GA 30318",4,4,"2,634","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$140,000","2081 Bethel Dr NW, Atlanta, GA 30314",3,3,"1,628","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$295,000","2245 Ashton Dr, Roswell, GA 30076",3,3,"1,316","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$635,000","810 Dockbridge Way, Milton, GA 30004",6,6,"4,848","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$898,900","160 Horizon Hl, Milton, GA 30004",5,5,"4,269","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$239,000","13300 Morris Rd UNIT 129, Milton, GA 30004",3,3,"1,642","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$585,000","940 Autumn Close, Milton, GA 30004",5,4,"3,791","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$485,000","12180 Wexford Club Dr, Roswell, GA 30075",4,3,"3,362","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$175,000","1690 Redd Rd LOT 10, Alpharetta, GA 30004",2.3,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$410,000","1030 Legacy Ln, Milton, GA 30004",4,4,"3,578","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$730,000","5220 Briarstone Ridge Way, Alpharetta, GA 30022",5,5,"5,011","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$350,000","160 Lyndhurst Ct, Roswell, GA 30075",4,3,"2,416","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$485,000","12180 Wexford Club Dr, Roswell, GA 30075",4,3,"3,362",https://photos.zillowstatic.com/p_e/IS3v8ycw128x021000000000.jpg
+"$450,000","4375 Mossbrook, Alpharetta, GA 30004",5,4,--,https://photos.zillowstatic.com/p_e/ISf4sskfhp7me40000000000.jpg
+"$480,000","670 Peace Creek Trce, Alpharetta, GA 30005",5,4,"3,962",https://photos.zillowstatic.com/p_e/ISvslcgl4zixe21000000000.jpg
+"$410,000","1030 Legacy Ln, Milton, GA 30004",4,4,"3,578",https://photos.zillowstatic.com/p_e/ISrtryo10602ro1000000000.jpg
+"$575,000","8945 Laurel Way, Johns Creek, GA 30022",4,5,"3,356",https://photos.zillowstatic.com/p_e/ISrpo1uflsbs8s0000000000.jpg
+"$410,000","12700 Morningpark Cir, Milton, GA 30004",4,3,"2,514",https://photos.zillowstatic.com/p_e/ISvsl8d0rypso20000000000.jpg
+"$730,000","5220 Briarstone Ridge Way, Alpharetta, GA 30022",5,5,"5,011",https://photos.zillowstatic.com/p_e/ISzvu0hc0q9q1b1000000000.jpg
+"$525,000","12030 Brookmill Point, Alpharetta, GA 30004",4,2,"3,046",https://photos.zillowstatic.com/p_e/ISjf3omwkn59ks0000000000.jpg
+"$359,900","2885 Georgian Manor Dr, Johns Creek, GA 30022",3,3,"2,284",https://photos.zillowstatic.com/p_e/ISfs2lcgvfy4kb0000000000.jpg
+"$334,900","100 Colony Ridge Dr, Johns Creek, GA 30022",3,4,"3,376","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$760,000","690 Richmond Glen Dr, Milton, GA 30004",6,5,"6,700","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$898,900","160 Horizon Hl, Milton, GA 30004",5,5,"4,269","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$345,000","515 Nottingham Ct, Alpharetta, GA 30005",4,3,"2,070","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$449,500","259 Water Oak Pl, Milton, GA 30009",4,4,"2,746","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$45,000","1092 Constitution Rd SE, Atlanta, GA 30315",Studio,--,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$395,000","175 Olivia Run, Atlanta, GA 30349",6,5,"5,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$45,000","1092 Constitution Rd SE LOT 3, Atlanta, GA 30315",2.9,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$44,000","0 Terry Rd, Fairburn, GA 30213",6.3,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$200,000","115 W Peachtree Pl NW UNIT 404, Atlanta, GA 30313",1,1,952,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$339,500","1080 Peachtree St NE UNIT 916, Atlanta, GA 30309",1,1,879,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.62M,"60 Bill Lucas Dr SE, Atlanta, GA 30315",2,4,"1,241","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$525,000","5 White St NW, Atlanta, GA 30318",3,2,"1,790","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$320,000","969 Oak St SW, Atlanta, GA 30310",3,3,"1,646","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.38M,"814 Wellesley Dr NW, Atlanta, GA 30305",4,5,"4,812","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$789,000","2259 Fairhaven Cir NE, Atlanta, GA 30305",4,4,"2,574","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$140,000","984 Palmetto Ave SW, Atlanta, GA 30314",4,2,"1,920",N/A
+"$187,000","2626 Peachtree Rd NW UNIT 1706, Atlanta, GA 30305",1,1,652,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$499,000","157 Powell St SE, Atlanta, GA 30316",2,2,"1,197",N/A
+"$349,000","2059 W Cedar Ln SW, Atlanta, GA 30311",4,3,"1,930","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$585,000","145 E Meadows Ct, Johns Creek, GA 30005",5,5,"7,746","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$440,000","962 Moda Dr, Atlanta, GA 30316",3,4,"1,992","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$555,000","2005 Shallowford Park Mnr, Roswell, GA 30075",4,4,"4,359","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$130,000","5190 Bethlehem Rd, Fairburn, GA 30213",3,2,"1,512","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$285,000","5864 Harrier Ln, Atlanta, GA 30349",5,4,"4,232","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$239,744","6636 Sky Leaf Ln, Fairburn, GA 30213",3,3,"2,235","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$234,900","336 Tonawanda Dr SE #5, Atlanta, GA 30315",4,2,"2,207","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$245,000","4220 Valley Lake Ter, College Park, GA 30349",5,3,"3,800","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$196,000","3828 Stephanie Dr SW, Atlanta, GA 30331",4,3,"2,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$149,340","6036 Oakley Rd #47, Union City, GA 30291",3,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$234,900","336 Tonawanda Dr SE, Atlanta, GA 30315",4,2,"2,207","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$130,000","5190 Bethlehem Rd, Fairburn, GA 30213",3,2,"1,512",https://photos.zillowstatic.com/p_e/ISzbrohzssllme1000000000.jpg
+"$183,150","2784 Bayrose Cir, East Point, GA 30344",3,3,"1,488",https://photos.zillowstatic.com/p_e/ISvg4b24wrbd7h1000000000.jpg
+"$50,000","1247 Gus Thornhill Jr Dr, East Point, GA 30344",3,1,939,https://photos.zillowstatic.com/p_e/ISrd70wuwielfw1000000000.jpg
+"$239,900","784 Piller Hall, South Fulton, GA 30213",4,3,"2,091",https://photos.zillowstatic.com/p_e/ISzrrfnrggn9nd1000000000.jpg
+"$234,900","336 Tonawanda Dr SE #5, Atlanta, GA 30315",4,2,"2,207",https://photos.zillowstatic.com/p_e/ISfg1844bwnnm81000000000.jpg
+"$350,000","3355 Bachelor St, East Point, GA 30344",3,3,"2,550",https://photos.zillowstatic.com/p_e/ISr5tjrmt6l3i20000000000.jpg
+"$285,000","5864 Harrier Ln, Atlanta, GA 30349",5,4,"4,232",https://photos.zillowstatic.com/p_e/ISrx2yubp32dz31000000000.jpg
+"$127,000","1095 Regent St SW, Atlanta, GA 30310",3,2,"1,232",https://photos.zillowstatic.com/p_e/ISvclpdy9xxcjb1000000000.jpg
+"$185,000","2120 Enon Rd SW, Atlanta, GA 30331",5,3,"1,604",https://photos.zillowstatic.com/p_e/ISrxev4zfr05190000000000.jpg
+"$245,000","4220 Valley Lake Ter, College Park, GA 30349",5,3,"3,800","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$234,900","336 Tonawanda Dr SE, Atlanta, GA 30315",4,2,"2,207","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.04M,"3930 Peachtree Dunwoody Rd NE, Atlanta, GA 30342",5,6,"6,629","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$280,000","860 Peachtree St NE UNIT 1311, Atlanta, GA 30308",1,1,745,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.90M,"1429 Wessyngton Rd NE, Atlanta, GA 30306",5,6,"4,405","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$135,000","377 Ralph Mcgill Blvd NE, Atlanta, GA 30312",2,1,790,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$525,000","1621 Gilstrap Ln NW, Atlanta, GA 30318",4,4,"3,389","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$182,500","889 Custer Ave SE, Atlanta, GA 30316",3,1,"1,078","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$571,000","775 E Powderhorn Rd NE, Atlanta, GA 30342",4,3,"1,932","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.08M,"3963 Statewood Rd NE, Atlanta, GA 30342",5,5,"4,525","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$952,500","5320 Green Hill Pl NE, Atlanta, GA 30342",5,5,"4,232","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$150,000","1305 Westboro Dr SW #5, Atlanta, GA 30310",3,1,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$2.69M,"479 Argonne Dr NW, Atlanta, GA 30305",5,7,"5,275","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$615,000","1111 Kirkwood Ave SE #B, Atlanta, GA 30316",4,3,"1,936","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$337,000","1101 Juniper St NE, Atlanta, GA 30309",2,1,"1,008","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$175,000","3046 Westwood Way, Alpharetta, GA 30004",2,2,"1,306","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$430,000","390 Crossville Ct, Roswell, GA 30076",4,3,"1,551","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$600,500","420 Windswept Ct, Roswell, GA 30075",5,5,"3,810","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$504,000","830 Oakhaven Dr, Roswell, GA 30075",4,5,"2,704","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$549,900","200 Lake Pines Pointe, Alpharetta, GA 30005",3,3,"2,438","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$118,000","3559 Sherbrooke Way SW, Atlanta, GA 30331",3,2,932,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$249,000","1611 Belmont Ave SW, Atlanta, GA 30310",3,2,"1,516","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$185,000","6851 Roswell Rd UNIT M21, Sandy Springs, GA 30328",3,2,"1,469","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$585,000","4387 W Club Dr NE LOT 2, Atlanta, GA 30319",0.46,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$580,000","1735 Peachtree St NE UNIT 610, Atlanta, GA 30309",2,3,"3,508","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$425,000","1374 Stirling Cir NW, Atlanta, GA 30318",2,3,"1,983","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$185,000","6851 Roswell Rd NE #M21, Atlanta, GA 30328",3,2,"1,469","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$155,000","672 Cascade Ave SW, Atlanta, GA 30310",4,2,"2,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$210,000","9155 Nesbit Ferry Rd UNIT 45, Alpharetta, GA 30022",3,3,"1,386","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$331,000","210 Blue Heron Ln, Alpharetta, GA 30009",3,2,"1,466","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$232,105","7617 Rudder Cir, Fairburn, GA 30213",--,--,--,N/A
+$1.23M,"221 Chastain Park Dr NE, Atlanta, GA 30342",5,5,"3,721",https://photos.zillowstatic.com/p_e/ISb5qs6h27zcz81000000000.jpg
+"$198,000","200 River Vista Dr UNIT 227, Atlanta, GA 30339",1,1,850,https://photos.zillowstatic.com/p_e/IS37m095vtzuvc1000000000.jpg
+"$390,000","5710 Ashwind Trce, Johns Creek, GA 30005",4,3,"3,294",https://photos.zillowstatic.com/p_e/ISrx2im6zp8rgj0000000000.jpg
+"$142,000","456 Teal Ct, Roswell, GA 30076",2,2,900,https://photos.zillowstatic.com/p_e/ISr1ywtrk71yna1000000000.jpg
+"$125,100","5100 Erin Rd SW, Atlanta, GA 30331",3,3,"1,708",https://photos.zillowstatic.com/p_e/IS3vk39i46d04n1000000000.jpg
+"$130,000","2996 Jonesboro Rd SE APT G, Atlanta, GA 30354",3,3,"1,744",https://photos.zillowstatic.com/p_e/ISr55dqic4jxes0000000000.jpg
+"$247,819","6632 Sky Leaf Ln #35, Fairburn, GA 30213",4,3,--,https://photos.zillowstatic.com/p_e/IS3v4zac0u7btr0000000000.jpg
+"$293,000","605 Greyhawk Way, Fairburn, GA 30213",5,4,"3,479",https://photos.zillowstatic.com/p_e/IS3bl6gnw65uzg0000000000.jpg
+"$167,490","2205 Creel Rd #163, Atlanta, GA 30349",4,3,"1,800",https://photos.zillowstatic.com/p_e/ISfk884ne4fj9k1000000000.jpg
+"$180,000","8400 Milam Loop, Fairburn, GA 30213",4,3,"1,963",N/A
+"$225,490","6542 Beaver Creek Trl #30, Atlanta, GA 30349",5,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$150,000","2491 Stone Rd, East Point, GA 30344",4,2,"1,772","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$317,145","3313 Wolf Cub Cir, Atlanta, GA 30349",5,4,"2,711","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$315,990","67 Somerset Hls, Fairburn, GA 30213",5,4,"2,981","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$60,000","4959 Campbellton Rd SW, Atlanta, GA 30331",2,1,900,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$120,000","890 Old Rocky Rd, College Park, GA 30349",3,2,"1,315","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$167,490","2205 Creel Rd, Atlanta, GA 30349",4,2.5,"2,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$247,819","6632 Sky Leaf Ln, Fairburn, GA 30213",4,3,"2,235","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$85,000","574 Foundry St NW LOT 0, Atlanta, GA 30314","3,310",N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$165,000","87 Howell Dr SW, Atlanta, GA 30331",3,3,"2,864","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$85,000","574 Foundry St NW, Atlanta, GA 30314","3,310",N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$283,000","390 17th St NW UNIT 3005, Atlanta, GA 30363",2,2,"1,263","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$415,000","192 Degress Ave NE, Atlanta, GA 30307",Studio,--,"1,842","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$226,000","899 Society Cir SW #360, Atlanta, GA 30331",4,4,"1,685","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$121,000","870 Mayson Turner Rd NW UNIT 1006, Atlanta, GA 30314",2,2,"1,157","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$565,000","513 Boulevard Se, Atlanta, GA 30312",4,4,"2,600","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$168,000","6818 Glenridge Dr, Sandy Springs, GA 30328",2,2,"1,060","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$185,000","1150 Collier Rd NW #A7, Atlanta, GA 30318",2,2,"1,073","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$245,000","847 Moreland Ave SE, Atlanta, GA 30316",2,1,"1,050","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$925,000","459 Carolwood Ln, Sandy Springs, GA 30342",4,4,"4,031","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$240,000","1002 Welch St SW, Atlanta, GA 30310",3,2,"1,313","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$237,000","3324 Peachtree Rd NE UNIT 2303, Atlanta, GA 30326",1,1,655,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$339,000","640 Glen Iris Dr NE, Atlanta, GA 30308",1,1,961,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$175,000","306 Granville Ct, Sandy Springs, GA 30328",2,2,"1,032","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$415,000","1341 Stirling Ct NW, Atlanta, GA 30318",2,3,"1,984","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$365,000","195 14th St NE UNIT 2203, Atlanta, GA 30309",2,2,"1,122","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$190,000","976 Dunning St SE, Atlanta, GA 30315","6,185",N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$690,000","868 Rosedale Rd NE, Atlanta, GA 30306",3,3,"2,650","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$516,500","12245 Asbury Park Dr, Roswell, GA 30075",4,4,"4,784","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$396,400","3501 Peacock Rd, Milton, GA 30004",4,4,"2,394","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$372,500","9105 Brockham Way, Johns Creek, GA 30022",3,3,"2,200",https://photos.zillowstatic.com/p_e/ISvkr7abq0tmcs0000000000.jpg
+"$285,000","3251 Serenade Ct, Milton, GA 30004",3,2.5,"1,768",https://photos.zillowstatic.com/p_e/ISj7tajeypsh1t1000000000.jpg
+$1.01M,"145 Stone Orchard Ct #10, Alpharetta, GA 30004",7,8,"7,076",https://photos.zillowstatic.com/p_e/ISzvmy93sgzvjd0000000000.jpg
+$1.01M,"145 Stone Orchard Ct, Milton, GA 30004",7,8,"7,109",https://photos.zillowstatic.com/p_e/ISrhyjwa87zzqm1000000000.jpg
+"$273,460","540 Dutchview Dr, South Fulton, GA 30349",--,--,--,N/A
+"$133,000","375 Ralph Mcgill Blvd NE APT 708, Atlanta, GA 30312",1,1,566,https://photos.zillowstatic.com/p_e/ISfovcu9z4ue2y1000000000.jpg
+"$750,000","1883 Ardmore Rd NW, Atlanta, GA 30309",4,3,"2,280",https://photos.zillowstatic.com/p_e/ISfk41knq1c8fc1000000000.jpg
+"$605,000","53 Honour Ave NW, Atlanta, GA 30305",3,3.5,"2,290",https://photos.zillowstatic.com/p_e/ISywxwb4x9tsir.jpg
+"$336,000","890 Memorial Dr SE, Atlanta, GA 30316",2,2,"1,037",N/A
+"$720,000","3165 Peachtree Dr NE, Atlanta, GA 30305",3,2,"2,315","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$571,000","775 E Powderhorn Rd, Sandy Springs, GA 30342",4,3,"1,932","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$128,500","509 River Mill Cir, Roswell, GA 30075",1,1,988,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$945,000","90 Academy St, Alpharetta, GA 30009",4,5,"3,400","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$339,900","6014 Manchester Cir, Roswell, GA 30075",4,4,"2,475","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$197,660","6131 Centennial Run #83, Atlanta, GA 30349",3,3,"1,759","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$247,000","7499 Saint David St, Fairburn, GA 30213",4,4,"4,707","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$490,000","1114 Lawton Pl SW, Atlanta, GA 30310","7,250",N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$537,100","1130 Hardee St NE, Atlanta, GA 30307",3,2,"1,509","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$770,000","330 Marjean Way, Alpharetta, GA 30009",3,4,"3,096","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$175,000","730 White Bird Way, Fairburn, GA 30213",4,3,"2,072","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$229,330","6062 Barrington Cir #60, Union City, GA 30291",4,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$273,460","540 Dutchview Dr #29, Atlanta, GA 30349",4,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$232,000","516 Lake Dr, Hapeville, GA 30354",3,2,"1,104","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$160,000","113 Creel Way, Atlanta, GA 30349",3,3,"1,606","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$306,025","3221 Camden Ct, Atlanta, GA 30349",5,3,"2,680","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$151,000","3507 Parc Cir SW, Atlanta, GA 30311",3,3,"1,742","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$355,000","8600 Serenbe Rd #B2, Chattahoochee Hills, GA 30268",6.84,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$189,000","6242 Waverly Ln, Fairburn, GA 30213",3,3,"2,284","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$355,000","8600 Serenbe Rd, Chattahoochee Hills, GA 30268",6.84,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$233,000","739 Florigen Ln, Fairburn, GA 30213",5,3,"3,064","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$899,000","696 Cumberland Rd NE, Atlanta, GA 30306",3,3,"2,440","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$725,000","818 Highland Green Way NE #818, Atlanta, GA 30306",3,4,"2,100","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$527,000","1118 Saint Louis Pl NE, Atlanta, GA 30306",4,2,"1,880",N/A
+"$186,300","24212 Plantation Dr NE, Atlanta, GA 30324",1,1,816,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$725,000","818 Highland Green Way NE, Atlanta, GA 30306",3,4,"1,950","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$420,000","976 Arthur Ln NW, Atlanta, GA 30318",3,3,"2,108","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$312,000","3636 Habersham Rd NW APT 1207, Atlanta, GA 30305",2,2,"1,183","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$385,000","1791 Beecher St SW, Atlanta, GA 30310",6,5,"4,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$188,000","2409 River Green Dr NW, Atlanta, GA 30327",1,1,820,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$230,000","808 Greenwood Ave NE, Atlanta, GA 30306",2,1,705,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$420,000","976 Arthur Ln NW, Atlanta, GA 30318",3,3,"2,108",https://photos.zillowstatic.com/p_e/ISf40zetbe2t5o1000000000.jpg
+"$385,000","1791 Beecher St SW, Atlanta, GA 30310",6,5,"4,200",https://photos.zillowstatic.com/p_e/ISzvqlmrm06hq71000000000.jpg
+"$499,900","785 Martina Dr NE, Atlanta, GA 30305",2,1,"1,168",https://photos.zillowstatic.com/p_e/ISb957fa1ofpl21000000000.jpg
+"$600,000","575 Linwood Ave NE, Atlanta, GA 30306",2,2,"1,435",https://photos.zillowstatic.com/p_e/ISrpodjndpm9rq1000000000.jpg
+"$725,000","818 Highland Green Way NE, Atlanta, GA 30306",3,4,"1,950",https://photos.zillowstatic.com/p_e/IS7itk7xufppt21000000000.jpg
+"$250,000","LOT 28 Honors Cir LOT 28, Alpharetta, GA 30004",2.51,N/A,N/A,https://photos.zillowstatic.com/p_e/ISr5xeu8qhh30i0000000000.jpg
+"$700,000","7932 Amawalk Cir, Johns Creek, GA 30097",7,5,"6,268",https://photos.zillowstatic.com/p_e/ISj3u0hd2rmlce0000000000.jpg
+"$170,000","224 Streamside Dr #224, Roswell, GA 30076",2,2,"1,249",https://photos.zillowstatic.com/p_e/ISnq2mi5kst3u20000000000.jpg
+"$805,000","300 Stanyan Pl, Alpharetta, GA 30022",6,9,"6,441",https://photos.zillowstatic.com/p_e/ISvgwwpqvvyza71000000000.jpg
+"$372,000","3223 Buck Way, Milton, GA 30004",4,4,"2,800","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$170,000","224 Streamside Dr, Roswell, GA 30076",2,2,"1,249","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$255,000","16070 Freemanville Rd LOT 0, Alpharetta, GA 30004",2.35,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$340,000","295 Snowgoose Ct, Alpharetta, GA 30022",4,3.5,"2,266","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$203,000","1111 Glendale Dr, East Point, GA 30344",Studio,--,"1,600","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$249,900","1777 Meadow Ln SW, Atlanta, GA 30315",3,3,"1,634","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$309,000","1782 Walker Ave, College Park, GA 30337",3,3,"1,864",N/A
+"$245,000","2057 Walker Ave, College Park, GA 30337",3,2,"2,117","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$595,000","186 Le Brun Rd NE, Atlanta, GA 30342",5,4,"3,649","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$880,000","109 Wakefield Dr NE, Atlanta, GA 30309",3,3,"2,386","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$245,000","553 Brownlee Rd SW, Atlanta, GA 30311",3,3,"1,581","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$380,000","680 Greenwood Ave NE APT 405, Atlanta, GA 30306",1,2,"1,185","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$950,000","301 Beverly Rd NE, Atlanta, GA 30309",4,4,"3,100","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$235,000","791 Wylie St SE APT 905, Atlanta, GA 30316",1,1,724,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$530,000","1913 Maritime Way NW, Atlanta, GA 30318",4,4,"2,354","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$232,000","3324 Peachtree Rd NE UNIT 1111, Atlanta, GA 30326",1,1,798,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.37M,"1173 Virginia Ave NE, Atlanta, GA 30306",9,5,"6,100","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$670,000","720 Fawn Ridge Ct, Roswell, GA 30075",7,6,"6,907","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$255,000","4720 Carversham Way #85, Alpharetta, GA 30022",3,2,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$466,000","1040 Martins Lake Close, Roswell, GA 30076",4,4,"3,344",N/A
+"$540,000","10084 Innisfree Dr, Alpharetta, GA 30022",6,4,"3,944","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$685,475","5240 Briarstone Ridge Way, Alpharetta, GA 30022",5,5,"4,521","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$508,000","985 Windwalk Ct, Roswell, GA 30076",4,4,"4,234","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$540,000","155 Windover Ct, Roswell, GA 30075",4,4,"3,400","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$429,900","290 Wexford Overlook Dr, Roswell, GA 30075",5,4,"3,005","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$104,210","2412 Forrest Park Rd SE, Atlanta, GA 30315",3,1,"1,025","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$555,000","6405 Bridgewood Valley Rd, Sandy Springs, GA 30328",5,3,"2,675","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$186,000","562 Mcgill Pl NE, Atlanta, GA 30312",1,1,813,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$505,000","6369 Cherry Tree Ln, Sandy Springs, GA 30328",3,2,"1,841","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.27M,"10 S Prado NE, Atlanta, GA 30309",5,3,"3,431","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$191,074","2892 Bayrose Cir, East Point, GA 30344",3,3,"1,488","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$123,000","2520 Lake Royale Dr, Riverdale, GA 30296",3,3,"1,654",https://photos.zillowstatic.com/p_e/ISn243q7374r1h1000000000.jpg
+"$204,000","470 Canyon Way SW, Atlanta, GA 30349",4,2,"1,686",https://photos.zillowstatic.com/p_e/ISn6vyvnj9ljrm0000000000.jpg
+"$225,000","890 Fellowship Rd, Fairburn, GA 30213",5,3,"2,920",https://photos.zillowstatic.com/p_e/IS7y9skmryeopj1000000000.jpg
+"$100,000","749 Casplan St SW, Atlanta, GA 30310",4,2,"1,471",https://photos.zillowstatic.com/p_e/ISb1zkv4kzcafo0000000000.jpg
+"$42,000","709 Casplan St SW, Atlanta, GA 30310",Studio,--,700,https://photos.zillowstatic.com/p_e/ISb1z4zc8z8svp1000000000.jpg
+"$187,900","2786 Bayrose Cir, East Point, GA 30344",3,3,"1,488",https://photos.zillowstatic.com/p_e/ISf01hmu5095fh1000000000.jpg
+"$280,000","3110 Garden Walk SW, Atlanta, GA 30331",5,4,"3,600",https://photos.zillowstatic.com/p_e/ISzvmm4vk7i94g1000000000.jpg
+"$126,000","20 Pine Canyon Dr SW UNIT 4, Atlanta, GA 30331",3,3,"1,600",https://photos.zillowstatic.com/p_e/ISvcpci4ps3fri1000000000.jpg
+"$162,990","5809 Union Walk Dr, Union City, GA 30291",3,3,"1,477",https://photos.zillowstatic.com/p_e/ISb1j4c6a3kbs40000000000.jpg
+"$187,900","2786 Bayrose Cir #86, East Point, GA 30344",3,3,"1,488","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$257,865","3620 Princeton Ave #503, Atlanta, GA 30337",2,4,"1,830","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$191,074","2892 Bayrose Cir #92, East Point, GA 30344",3,3,"1,488","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$279,900","7135 Glaspie Way, Atlanta, GA 30349",6,4,"2,680","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$149,900","5672 Liberty Rd, Union City, GA 30291",4,3,"1,930","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$175,820","1048 Saint Charles Ave NE, Atlanta, GA 30306",1,1,720,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$246,500","400 W Peachtree St NW UNIT 1005, Atlanta, GA 30308",1,1,743,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$674,000","4454 Paces Battle NW, Atlanta, GA 30327",3,4,"2,768","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$581,250","2317 Strathmore Dr NE, Atlanta, GA 30324",3,2,"1,748","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$330,000","1065 Berne St SE, Atlanta, GA 30316",2,2,"1,268","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.16M,"2631 W Wesley Rd NW, Atlanta, GA 30327",5,5,"5,105","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.00M,"3844 Wieuca Rd NE, Atlanta, GA 30342",3,2,"2,995","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$975,000","5300 Green Hill Pl NE, Atlanta, GA 30342",5,5,"4,356","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$530,000","1913 Maritime Way #140, Atlanta, GA 30318",4,4,"2,354","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.15M,"115 E Wesley Rd NE, Atlanta, GA 30305",4,5,"3,693","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$121,000","1446 Childress Dr SW, Atlanta, GA 30311",3,2,"2,217","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$540,000","760 Terry St SE, Atlanta, GA 30315",4,3,"2,491","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$597,500","2210 Fairhaven Cir NE, Atlanta, GA 30305",2,2,"1,758","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$505,000","5512 Glenridge Dr, Atlanta, GA 30342",4,5,"4,046","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$258,000","5160 Chemin De Vie, Sandy Springs, GA 30342",2,3,"1,602","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$363,500","980 Longley Ave NW, Atlanta, GA 30318",3,2,"1,444","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$170,000","3777 Peachtree Rd NE APT 724, Brookhaven, GA 30319",1,1,903,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$238,000","955 Juniper St NE UNIT 1115, Atlanta, GA 30309",1,1,754,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$680,000","859 Stovall Blvd NE, Atlanta, GA 30342",3,2,"1,464","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$439,900","260 18th St NW UNIT 10222, Atlanta, GA 30363",2,2,"1,608","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$875,000","3855 Wieuca Ter NE, Atlanta, GA 30342",4,5,"3,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$675,000","475 Ansley Ct NE, Atlanta, GA 30324",3,4,"2,212","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$250,000","6822 Glenridge Dr NE #F, Atlanta, GA 30328",2,3,"1,580","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$780,000","672 Darlington Rd NE, Atlanta, GA 30305",3,3,"1,928","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$7.30M,"1145 W Paces Ferry Rd NW, Atlanta, GA 30327",6,11,"12,766","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$535,000","11970 Brookfield Club Dr, Roswell, GA 30075",4,4,"3,758","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$675,000","475 Ansley Ct NE, Atlanta, GA 30324",3,4,"2,212",https://photos.zillowstatic.com/p_e/ISrl1l2oewrgvh1000000000.jpg
+"$230,000","1025 Whitshire Way, Milton, GA 30004",2,3,"1,750",https://photos.zillowstatic.com/p_e/ISb5iitt046ono1000000000.jpg
+"$255,000","4720 Carversham Way, Johns Creek, GA 30022",3,2,924,N/A
+$1.20M,"1050 Bay Pointe Xing, Alpharetta, GA 30005",5,6,"7,645",https://photos.zillowstatic.com/p_e/ISnepfr5iiko040000000000.jpg
+"$627,500","3945 Schooner Rdg, Alpharetta, GA 30005",5,4,"4,052",https://photos.zillowstatic.com/p_e/IS3fo7ylfp9zhw1000000000.jpg
+"$535,000","11970 Brookfield Club Dr, Roswell, GA 30075",4,4,"3,758",https://photos.zillowstatic.com/p_e/ISrtf1zhlfbxa71000000000.jpg
+"$334,000","10808 Ellicot Way, Johns Creek, GA 30022",3,4,"2,000",https://photos.zillowstatic.com/p_e/ISniwzqhzc9z1e0000000000.jpg
+"$405,000","370 Chaffin Rd, Roswell, GA 30075",4,3,"1,280",https://photos.zillowstatic.com/p_e/ISr9kvlgpa68fu1000000000.jpg
+"$525,000","305 Aston Ct, Johns Creek, GA 30022",5,5,"2,992",https://photos.zillowstatic.com/p_e/ISrdjdml9qd5pm1000000000.jpg
+"$350,000","9980 Feather Sound Ct, Johns Creek, GA 30022",4,3,"2,722","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$557,500","15200 Highgrove Rd, Milton, GA 30004",4,4,"3,964","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$164,000","804 Vicksburg Pl, Sandy Springs, GA 30350",3,2,"1,380","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$740,000","120 Taylor Valley Ct, Milton, GA 30004",5,6,"5,300","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$555,000","5015 Eves Pl, Roswell, GA 30076",4,5,"3,344","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$323,250","1100 Delmont Ter, Roswell, GA 30075",Studio,--,"1,344","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$498,800","345 Arbor Creek Trl, Roswell, GA 30076",5,5,"4,036","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$423,000","720 Glen Royal Dr, Roswell, GA 30076",6,5,"3,109","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$330,000","11255 Jones Bridge Rd, Johns Creek, GA 30022",3,2,"1,631","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$340,000","3396 Archgate Ct, Milton, GA 30004",4,3,"2,567","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$546,990","209 Arpeggio Way, Alpharetta, GA 30009",4,4,"3,050","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$337,000","1352 Mercer Ave, East Point, GA 30344",3,3,"1,950","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$490,000","1191 Composer Ln, Johns Creek, GA 30022",5,4,"3,423","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$490,000","1191 Composer Ln, Johns Creek, GA 30022",5,4,--,N/A
+"$267,186","138 Kiram Terrace Sw, Atlanta, GA 30331",3,4,"2,080",N/A
+"$170,000","7850 Bluefin Trl, Union City, GA 30291",3,2,"1,514","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$96,500","2000 Marvin Ln SW, Atlanta, GA 30311",3,1,988,N/A
+"$308,000","536 Wolf Pack Ln, Atlanta, GA 30349",5,3,"2,885","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$318,000","545 Longview Ln, Atlanta, GA 30349",5,3,"3,539","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$639,000","105 Grogans Lndg, Sandy Springs, GA 30350",5,5,"4,167","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$220,000","3040 Peachtree Rd NW, Atlanta, GA 30305",1,1,800,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$235,000","390 17th St NW UNIT 2036, Atlanta, GA 30363",2,2,"1,166","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$59,000","2351 Carver Dr NW, Atlanta, GA 30314",4,2,800,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$610,000","1788 Monroe Dr NE, Atlanta, GA 30324",3,2,"1,712","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$105,000","355 Chilton Dr NW, Atlanta, GA 30318",3,1,816,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$59,000","2343 Carver Dr NW, Atlanta, GA 30314",3,2,720,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$261,000","390 17th St NW UNIT 2036, Atlanta, GA 30363",2,2,"1,166","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$361,000","3635 E Paces Cir NE UNIT 1416, Atlanta, GA 30326",2,2,"1,270","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$199,000","361 17th St NW UNIT 1405, Atlanta, GA 30363",1,1,695,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$215,000","3220 Ardley Rd SW, Atlanta, GA 30311",3,2,"1,522","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$515,000","710 Granbury Way, Johns Creek, GA 30022",5,5,"5,660","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$418,350","8865 Glen Ferry Dr, Johns Creek, GA 30022",4,4,"4,037",https://photos.zillowstatic.com/p_e/ISf8f5hol7d9031000000000.jpg
+"$465,000","310 Rosalie Ct, Alpharetta, GA 30022",4,4,"2,985",https://photos.zillowstatic.com/p_e/IS3n2kvduozawj0000000000.jpg
+"$432,500","10825 Tuxford Dr, Alpharetta, GA 30022",4,4,"3,182",https://photos.zillowstatic.com/p_e/ISzfm74ntie5fu1000000000.jpg
+"$515,000","710 Granbury Way, Johns Creek, GA 30022",5,5,"5,660",https://photos.zillowstatic.com/p_e/ISfgdt8fzzof611000000000.jpg
+"$440,000","3000 Birchdale Dr, Milton, GA 30004",4,4,"3,789",https://photos.zillowstatic.com/p_e/ISzz9v9oj448g41000000000.jpg
+$1.92M,"9660 Almaviva Dr, Johns Creek, GA 30022",5,6,"7,000",https://photos.zillowstatic.com/p_e/ISbhnaoorpj7ro1000000000.jpg
+"$425,000","340 Barkshire Ln, Roswell, GA 30076",4,4,"2,096",https://photos.zillowstatic.com/p_e/ISnysjg951ee920000000000.jpg
+"$305,000","200 Renaissance Pkwy NE APT 215, Atlanta, GA 30308",2,2,"1,673",https://photos.zillowstatic.com/p_e/ISz7cu0pa5iiz81000000000.jpg
+"$504,000","354 Hascall Rd NW, Atlanta, GA 30309",2,2,"1,512",https://photos.zillowstatic.com/p_e/IS7uys2vcsupiv1000000000.jpg
+"$238,000","3675 Peachtree Rd NE APT 1, Atlanta, GA 30319",2,2,"1,090","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$185,000","2232 Dunseath Ave NW, Atlanta, GA 30318",2,2,950,N/A
+"$670,000","325 Forest Hills Dr, Sandy Springs, GA 30342",4,3,"2,502",N/A
+"$525,000","905 Charleston Ct, Roswell, GA 30075",6,4,"3,965","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$410,000","355 Arbor Creek Trl, Roswell, GA 30076",4,3,"2,576","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$350,000","3454 New Fawn Ln, Milton, GA 30004",4,4,"2,327","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$66,000","4701 Flat Shoals Rd APT 48D, Union City, GA 30291",3,3,"1,300","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$190,000","2768 Live Oak Trl, College Park, GA 30349",4,3,"1,980","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$150,000","7578 Avalon Blvd, Fairburn, GA 30213",3,3,"1,566","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$255,000","8650 Tatum Rd, Palmetto, GA 30268",3,2,"1,676","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$150,000","7578 Avalon Blvd #201, Fairburn, GA 30213",3,3,"1,566","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$215,000","5089 Rapahoe Trail, Atlanta, GA 30349",3,3,"1,978","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$200,000","1059 Osborne St SW, Atlanta, GA 30310",3,2,"1,223","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$175,990","7408 Faith St, Union City, GA 30213",3,3,"1,602","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$195,000","7058 Spruce Cir, Fairburn, GA 30213",3,3,"1,845","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$228,960","522 Princeton Cir, Palmetto, GA 30268",4,3,"2,408","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$356,000","542 Oak Dr, Hapeville, GA 30354",4,3,"2,308","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$535,000","2790 Ridgemore Rd NW, Atlanta, GA 30318",3,2,"1,728","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$61,500","2201 Pansy St NW, Atlanta, GA 30314",2,1,675,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$217,500","1407 Byrere Ter SW, Atlanta, GA 30310",4,2,"1,802","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$300,000","2 Surry County Pl NW, Atlanta, GA 30318",2,3,"1,320","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$192,000","1280 W Peachtree St NW APT 2408, Atlanta, GA 30309",1,1,813,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$292,500","3047 Lenox Rd NE APT 1201, Atlanta, GA 30324",2,2,"1,452","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$57,900","3013 Delmar Ln NW, Atlanta, GA 30311",2,1,980,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$555,000","2175 Mckinley Rd NW, Atlanta, GA 30318",4,2,"2,093","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$185,000","2232 Dunseath Ave NW, Atlanta, GA 30318",2,2,950,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$2.94M,"229 15th St NE, Atlanta, GA 30309",5,7,"5,446","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$454,000","2910 Coles Way, Sandy Springs, GA 30350",5,5,"5,058","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.65M,"4605 Meadow Valley Dr, Sandy Springs, GA 30342",5,6,"4,880","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$270,000","1341 Liberty Pkwy NW, Atlanta, GA 30318",3,4,"1,626","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$530,000","285 Elden Dr, Sandy Springs, GA 30342",3,2,"1,886","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$174,000","20 Marietta St NW APT 14B, Atlanta, GA 30303",1,2,"1,150",https://photos.zillowstatic.com/p_e/IS3bt4ggot9c7q0000000000.jpg
+"$217,500","1407 Byrere Ter SW, Atlanta, GA 30310",4,2,"1,802",https://photos.zillowstatic.com/p_e/ISrl93iidutfmo1000000000.jpg
+"$292,500","3047 Lenox Rd NE APT 1201, Atlanta, GA 30324",2,2,"1,452",https://photos.zillowstatic.com/p_e/IS3zrb36idy6630000000000.jpg
+"$165,000","329 Ard Pl NW, Atlanta, GA 30331",3,2,"1,050",https://photos.zillowstatic.com/p_e/ISbdsvskncpk980000000000.jpg
+"$300,000","2 Surry County Pl NW, Atlanta, GA 30318",2,3,"1,320",https://photos.zillowstatic.com/p_e/ISvw4mjiwl48re0000000000.jpg
+"$548,500","3548 Roswell Rd NW #3548, Atlanta, GA 30305",3,4,"2,150",https://photos.zillowstatic.com/p_e/ISrl1lex9o1hj21000000000.jpg
+"$510,000","4037 Arden Way NE, Atlanta, GA 30342",3,2,"1,288",https://photos.zillowstatic.com/p_e/ISnm30ja5pzdfh0000000000.jpg
+"$451,500","170 Boulevard SE APT E319, Atlanta, GA 30312",2,2,"1,855",https://photos.zillowstatic.com/p_e/IS3rhijcnppvkd1000000000.jpg
+"$425,000","464 Ansley Walk Ter NE, Atlanta, GA 30309",2,2,"1,403",https://photos.zillowstatic.com/p_e/ISfksj2lzoywgh1000000000.jpg
+"$239,000","620 Peachtree St NE APT 1004, Atlanta, GA 30308",3,2,"1,344","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$192,000","1280 W Peachtree St NW APT 2408, Atlanta, GA 30309",1,1,813,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$195,000","6900 Roswell Rd APT A4, Atlanta, GA 30328",2,3,"1,324","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$297,500","480 John Wesley Dobbs Ave NE UNIT 616, Atlanta, GA 30312",2,1,"1,025","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$410,000","176 Ormond St SE, Atlanta, GA 30315",3,2,"1,393","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$230,000","2390 Baker Rd NW, Atlanta, GA 30318",4,3,"2,025","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$2.68M,"3885 Parian Ridge Rd NW, Atlanta, GA 30327",6,10,"8,091","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$208,000","2657 Lenox Rd NE #14A, Atlanta, GA 30324",2,2,949,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$149,000","2250 Cheshire Bridge Rd NE UNIT 320, Atlanta, GA 30324",2,1,815,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$555,000","2175 Mckinley Rd NW, Atlanta, GA 30318",4,2,"2,093","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$57,900","3013 Delmar Ln NW, Atlanta, GA 30311",2,1,980,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$138,500","455 Bolton Rd NW, Atlanta, GA 30331",3,2,875,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$202,000","115 W Peachtree Pl NW, Atlanta, GA 30313",1,1,863,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$454,000","2910 Coles Way, Sandy Springs, GA 30350",5,5,"5,058","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$186,000","91 Verlaine Pl NW, Atlanta, GA 30327",1,2,753,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$185,000","2232 Dunseath Ave NW, Atlanta, GA 30318",2,2,950,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.65M,"4605 Meadow Valley Dr, Sandy Springs, GA 30342",5,6,"4,880","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$202,000","115 W Peachtree Pl NW UNIT 301, Atlanta, GA 30313",1,1,897,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$829,000","1009 Amsterdam Ave NE, Atlanta, GA 30306",4,2,"2,245","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$944,000","13550 Providence Rd, Milton, GA 30009",6,5,"5,127","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$692,000","450 Galloway Ct, Milton, GA 30004",6,6,"5,698","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$342,777","150 Shaker Holw, Johns Creek, GA 30022",3,3,"2,131","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$170,000","398 Karen Dr, Alpharetta, GA 30009",3,1.5,"1,272",N/A
+"$645,000","400 Winn Park Ct, Roswell, GA 30075",6,6,"4,328","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$140,000","245 Winding River Dr UNIT D, Atlanta, GA 30350",2,2,"1,090","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$759,950","15735 Burdette Ct, Milton, GA 30004",3,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$710,000","400 Concord St, Alpharetta, GA 30009",3,5,"3,197","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$670,000","14405 Wood Rd., Milton, GA 30004",5.45,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$252,999","912 Sandringham Dr, Milton, GA 30004",3,3,"2,006","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$200,000","0 Eves Rd LOT 0, Roswell, GA 30076",4.4,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$265,000","3319 Lathenview Ct, Milton, GA 30004",2,4,"1,412","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$592,000","345 Wheatridge Dr, Roswell, GA 30075",5,5,"4,603",https://photos.zillowstatic.com/p_e/ISzr3d1qij6fiv0000000000.jpg
+"$240,000","1752 Melrose Dr SW, Atlanta, GA 30310",3,1,"1,505",https://photos.zillowstatic.com/p_e/IS7mk8jkasoya80000000000.jpg
+"$315,000","959 Harte Dr SW, Atlanta, GA 30310",3,2,"1,345",https://photos.zillowstatic.com/p_e/ISbtgltmy1dvqa1000000000.jpg
+"$103,000","1991 Turner Rd SE, Atlanta, GA 30315",3,1,"1,039",https://photos.zillowstatic.com/p_e/IS2jbkumxw1hes1000000000.jpg
+"$375,000","4620 Wieuca Rd NE APT 69, Atlanta, GA 30342",2,3,"1,944",https://photos.zillowstatic.com/p_e/ISni0r6vq0dvxf1000000000.jpg
+"$22,000","659 Griffin St NW, Atlanta, GA 30318","2,178",N/A,N/A,https://photos.zillowstatic.com/p_e/ISnayzhtiiuqao0000000000.jpg
+"$195,000","520 Park Ave SE UNIT 6, Atlanta, GA 30312",2,1,875,https://photos.zillowstatic.com/p_e/ISrdj5gncqmu7s1000000000.jpg
+"$279,900","400 New Jersey Ave NW, Atlanta, GA 30314",3,3,"1,664",https://photos.zillowstatic.com/p_e/ISbp5qegle0w1j1000000000.jpg
+"$599,900","120 Ashland Dr NE, Atlanta, GA 30307",2,2,"1,118",https://photos.zillowstatic.com/p_e/ISfcq8uub4ruum0000000000.jpg
+$1.32M,"1650 Nottingham Way NE, Atlanta, GA 30309",4,4,"4,391","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$183,000","1 Biscayne Dr NW #807, Atlanta, GA 30309",1,1,820,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$404,000","1048 Merrivale Chase, Roswell, GA 30075",3,4,"2,722","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$480,000","2080 Abbey Rd, Roswell, GA 30076",4,5,"2,551","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$699,000","3325 Switchbark Ln, Johns Creek, GA 30022",6,5,"5,924","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$340,000","115 Sea Holly Cir, Roswell, GA 30076",3,2,"1,942","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$380,000","12455 Briar Rose Dr, Alpharetta, GA 30004",3,4,"2,389","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$335,000","925 Winthrope Chase Ct, Alpharetta, GA 30009",4,3,"2,240","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$339,900","545 Tammany Pointe, Alpharetta, GA 30004",4,3,"2,232","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$190,000","7887 Rock Rose Ln, Fairburn, GA 30213",3,3,"1,800","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.22M,"250 Chastain Park Dr NE, Atlanta, GA 30342",5,5,"3,800","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$214,000","130 Elysian Way NW, Atlanta, GA 30327",2,2,"1,093","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$281,000","250 Pharr Rd NE, Atlanta, GA 30305",1,1,897,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$131,000","3007 Wingate Way, Sandy Springs, GA 30350",1,1,730,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$227,290","6554 Beaver Creek Trl #27, Atlanta, GA 30349",5,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$180,000","6975 Butner Rd, College Park, GA 30349",4,3,"2,649","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$182,000","6199 Lamp Post Pl, College Park, GA 30349",4,3,"2,118","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$205,490","6509 Beaver Creek Trl #63, Atlanta, GA 30349",4,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$244,907","1826 Laurel Green Way, Atlanta, GA 30344",3,3,"1,886","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$365,000","376 Ashwood Ave SW, Atlanta, GA 30315",3,3,"2,100","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$175,000","4634 Greenleaf Cir SW, Atlanta, GA 30331",3,2,"1,219","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$252,500","4630 Irish Red Ct, Union City, GA 30291",6,4,"4,726","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$338,145","2147 Colvin Ct NW UNIT 27, Atlanta, GA 30318",3,4,"1,952","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$195,500","3472 Fairlane Dr NW, Atlanta, GA 30331",3,2,875,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$3.00M,"976 Swathmore Dr NW, Atlanta, GA 30327",6,9,"8,361","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.32M,"30 Old Maryland Chase, Sandy Springs, GA 30327",4,4,"4,533","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$210,000","401 10th St NW UNIT B106, Atlanta, GA 30318",1,1,710,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$165,000","795 Hammond Dr APT 1504, Sandy Springs, GA 30328",1,1,699,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$350,000","170 Boulevard SE APT E408, Atlanta, GA 30312",1,1,"1,220","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$325,000","1142 Arlington Ave SW, Atlanta, GA 30310",4,3,"1,912","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$216,000","1447 Kenilworth Dr SW, Atlanta, GA 30310",3,2,"1,326","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$153,000","898 Oak St SW UNIT 1422, Atlanta, GA 30310",2,2,"1,035",https://photos.zillowstatic.com/p_e/ISb13454emijxe0000000000.jpg
+"$325,000","1142 Arlington Ave SW, Atlanta, GA 30310",4,3,"1,912",https://photos.zillowstatic.com/p_e/ISj3yrkxax7cjq1000000000.jpg
+"$210,000","401 10th St NW UNIT B106, Atlanta, GA 30318",1,1,710,https://photos.zillowstatic.com/p_e/ISvkbfh1optp3l1000000000.jpg
+"$546,000","6840 Lisa Ln, Sandy Springs, GA 30338",4,4,"3,370",https://photos.zillowstatic.com/p_e/ISnqmd59q77n9l1000000000.jpg
+"$490,000","5020 Nesbit Ferry Ln, Sandy Springs, GA 30350",4,3,"2,824",https://photos.zillowstatic.com/p_e/ISesiddwbyep9p0000000000.jpg
+"$292,000","370 Cherokee Ave SE #A, Atlanta, GA 30312",2,2,"1,414",https://photos.zillowstatic.com/p_e/ISn67gtaxlqhva1000000000.jpg
+$1.32M,"30 Old Maryland Chase, Sandy Springs, GA 30327",4,4,"4,533",https://photos.zillowstatic.com/p_e/IS7arp78u3irpj0000000000.jpg
+"$165,000","795 Hammond Dr APT 1504, Sandy Springs, GA 30328",1,1,699,https://photos.zillowstatic.com/p_e/ISf8zku46dufxt1000000000.jpg
+"$350,000","170 Boulevard SE APT E408, Atlanta, GA 30312",1,1,"1,220",https://photos.zillowstatic.com/p_e/ISn6b3e9pgeh3v0000000000.jpg
+$1.70M,"638 Allen Ct NW, Atlanta, GA 30327",6,6,"6,933","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$490,000","151 Woodfield Ln, Alpharetta, GA 30009",3,3,"2,300","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$600,000","10690 Centennial Dr, Alpharetta, GA 30022",6,6,"5,112","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$335,000","110 Neel Reid Dr, Roswell, GA 30075",3,3,"1,970","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$295,000","1195 Trailmore Dr, Roswell, GA 30076",3,3,"1,901","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$340,000","110 Thatching Ln, Johns Creek, GA 30022",4,2.5,"2,175","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$830,000","508 Butler National Dr, Johns Creek, GA 30097",5,5,"5,275","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.24M,"620 Glenover Dr, Milton, GA 30004",6,8,"8,300","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$375,000","5050 Foxberry Ln, Roswell, GA 30075",4,3,"2,328","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$365,000","325 Breechblock Dr, Roswell, GA 30076",4,3,"2,106","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$205,000","6025 Birdseye Trl, College Park, GA 30349",4,3,"2,658","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$92,000","217 Beckman St, Palmetto, GA 30268",3,2,"1,054","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$189,315","6297 Rockaway Rd, Atlanta, GA 30349",3,3,"2,027","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$313,000","4115 Dinmont Chase, Atlanta, GA 30349",5,4,"3,358","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$266,000","3015 Butner Rd SW, Atlanta, GA 30331",3,3,"1,800","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$240,000","205 Wavetree Dr, Roswell, GA 30075",0.68,N/A,N/A,N/A
+"$161,000","1101 Lake Pointe Cir, Roswell, GA 30075",2,2,"1,157","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$629,000","13 Revival St, Roswell, GA 30075",5,6,"3,566","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$585,000","9839 Talisman Dr, Johns Creek, GA 30022",5,5,"5,067","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$370,000","5010 Baywood Dr, Roswell, GA 30076",4,3,"2,500","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$360,000","5622 Laurel Ridge Dr, Johns Creek, GA 30005",4,2.5,"2,666",N/A
+"$336,000","5650 Wake Forrest Run, Johns Creek, GA 30097",4,4,"3,231","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$420,000","2075 Walnut Creek Xing, Alpharetta, GA 30005",5,5,"3,246","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$336,000","5650 Wake Forrest Run, Johns Creek, GA 30097",4,4,"3,231",N/A
+"$205,000","3280 Tiara Cir SW, Atlanta, GA 30311",3,3,"2,398","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$77,500","2233 Delowe Dr, East Point, GA 30344",3,1,"1,048","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$640,000","1081 Lee Cir NE, Atlanta, GA 30324",4,4,"2,253","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$139,000","3069 Chastain Park Ct NE, Atlanta, GA 30342",1,1,690,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$358,900","1733 Hardin Ave, College Park, GA 30337",3,3,"1,716","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$317,500","4845 Ralin Ct, Atlanta, GA 30331",5,4,"4,010","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$135,000","2306 Polar Rock Ter SW, Atlanta, GA 30315",3,1,936,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$360,000","216 Preston Ln SW, Atlanta, GA",4,4,"2,444",https://photos.zillowstatic.com/p_e/ISf4wf1f3foy330000000000.jpg
+"$135,000","2306 Polar Rock Ter SW, Atlanta, GA 30315",3,1,936,https://photos.zillowstatic.com/p_e/IS33zrv9htcg0u0000000000.jpg
+"$229,900","5520 Valley Loop, Fairburn, GA 30213",4,3,"2,091",https://photos.zillowstatic.com/p_e/ISvwcsh3z0928e0000000000.jpg
+"$505,000","11185 Serenbe Ln, Chattahoochee Hills, GA 30268",2,3,"1,583",https://photos.zillowstatic.com/p_e/ISfg1w2bibxzlr0000000000.jpg
+"$358,900","1733 Hardin Ave, College Park, GA 30337",3,3,"1,716",https://photos.zillowstatic.com/p_e/ISv8mj290kmh400000000000.jpg
+"$1,640","195 14th St NE UNIT 309, Atlanta, GA 30309",1,1,700,https://photos.zillowstatic.com/p_e/ISrpo5xodye89c0000000000.jpg
+"$302,000","250 Pharr Rd NE, Atlanta, GA 30305",1,1,797,https://photos.zillowstatic.com/p_e/ISv4fnhgqf0v920000000000.jpg
+"$435,000","285 Centennial Olympic Park Dr NW, Atlanta, GA 30313",2,2,"1,359",https://photos.zillowstatic.com/p_e/ISfk845xz6pmth0000000000.jpg
+"$568,200","1266 Moores Mill Rd NW, Atlanta, GA 30327",5,4,"2,080",https://photos.zillowstatic.com/p_e/IS3vc55u1volfw0000000000.jpg
+"$889,000","831 Yorkshire Rd NE, Atlanta, GA 30306",4,3,"2,575","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$599,990","4015 Eamont Ln, Atlanta, GA 30328",3,3.5,"3,024","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$573,000","348 Hascall Rd NW, Atlanta, GA 30309",3,2,"2,006","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$595,000","500 Mountain Way NE, Atlanta, GA 30342",3,3,"2,115","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$440,000","394 Oakland Ave SE, Atlanta, GA 30312",2,2,"1,575","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$625,000","160 Worth Dr LOT 11, Atlanta, GA 30327",0.85,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$206,156","947 Ambient Way SW #339, Atlanta, GA 30331",2,3,"1,451","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$278,000","860 Peachtree St NE UNIT 2410, Atlanta, GA 30308",1,1,796,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$677,500","547 Ansley Cir NE #609, Atlanta, GA 30324",3,4,"2,212","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$295,000","3101 Howell Mill Rd NW, Atlanta, GA 30327",1,1,815,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$172,200","4540 Boise Trl SW, Atlanta, GA 30331",3,3,"1,799","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$445,000","949 Samples Ln NW, Atlanta, GA 30318",3,3,"2,517","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$108,000","5562 Kingsport Dr, Atlanta, GA 30342",3,2,"1,284","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$215,000","134 Weatherly Way, Alpharetta, GA 30009",3,3,"1,411",N/A
+"$418,350","8865 Glen Ferry Dr, Johns Creek, GA 30022",5,4,"4,037","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$527,283","213 Arpeggio Way, Alpharetta, GA 30009",4,4,"3,050","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$350,000","6000 Pattingham Dr, Roswell, GA 30075",3,3,"1,940","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$700,000","1205 Greatwood Mnr, Alpharetta, GA 30005",4,4,"4,325","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$755,000","1100 Mosspointe Dr, Roswell, GA 30075",5,5,"4,500",N/A
+"$221,500","13420 Providence Rd, Milton, GA 30009",4,3,"1,488","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$449,000","10310 Willeo Creek Trce, Roswell, GA 30075",4,3,"2,546","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$263,000","3131 Commonwealth Way, Milton, GA 30004",3,3,"1,364","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$360,000","5622 Laurel Ridge Dr, Johns Creek, GA 30005",4,3,"2,666","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$272,000","2953 Commonwealth Cir, Milton, GA 30004",3,3,"1,390","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$880,000","15420 Little Stone Way, Milton, GA 30004",5,6,"6,752","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$518,000","5895 Hershinger Close, Johns Creek, GA 30097",5,5,"3,549","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$193,000","121 Teal Ct, Roswell, GA 30076",2,2,"1,353","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$354,000","1110 Primrose Dr, Roswell, GA 30076",3,3,"2,247","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$205,900","407 Park Pl, Fairburn, GA 30213",3,3,"2,191","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$116,000","2562 Rocky Ct, College Park, GA 30349",2,3,"1,308","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$730,000","1639 Musket Rdg NW, Atlanta, GA 30327",4,4,"2,617",N/A
+"$520,000","1080 Peachtree St NE UNIT 804, Atlanta, GA 30309",2,2,"1,213",https://photos.zillowstatic.com/p_e/ISjb0fu4uqrgs40000000000.jpg
+$1.50M,"5370 High Point Mnr, Sandy Springs, GA 30342",6,7,"7,446",https://photos.zillowstatic.com/p_e/ISfgl3q99jtu351000000000.jpg
+"$772,000","819 Wildwood Rd NE, Atlanta, GA 30324",3,2,"2,259",https://photos.zillowstatic.com/p_e/IS7qbwacsrm55s1000000000.jpg
+"$231,050","2475 Forrest Ave NW, Atlanta, GA 30318",2,1,"1,068",https://photos.zillowstatic.com/p_e/ISfksjeyt00lvv0000000000.jpg
+"$638,000","1230 Old Woodbine Rd, Sandy Springs, GA 30319",4,3,"3,000",https://photos.zillowstatic.com/p_e/IS3vcdfbge00kz0000000000.jpg
+"$730,000","1639 Musket Rdg NW, Atlanta, GA 30327",4,4,"2,617",N/A
+"$375,000","650 Neel Reid Dr, Roswell, GA 30075",3,4,"2,572",https://photos.zillowstatic.com/p_e/ISj7pbpgzq3cvk0000000000.jpg
+"$390,000","1100 Primrose Dr, Roswell, GA 30076",4,4,"2,890",https://photos.zillowstatic.com/p_e/ISjfflsoo5zi440000000000.jpg
+"$385,000","10580 Timberstone Rd, Johns Creek, GA 30022",4,3,"2,720",https://photos.zillowstatic.com/p_e/ISnmzsuzx09lft0000000000.jpg
+"$340,000","1604 Sweet Apple Cir, Alpharetta, GA 30004",3,2,"1,700","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$740,000","320 Broad Leaf Ct, Johns Creek, GA 30022",5,5,"3,861","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$190,000","3481 Lakeside Dr NE, Atlanta, GA 30326",1,1,750,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$220,000","106 Ardmore Pl NW, Atlanta, GA 30309",2,1,850,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$190,000","3481 Lakeside Dr NE APT 804, Atlanta, GA 30326",1,1,750,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$237,209","7799 Canterbury Ct #290, Fairburn, GA 30213",3,3,"1,875","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$368,000","309 Lowell St, Atlanta, GA 30331",6,4,"4,152","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$170,000","8675 Valley Lakes Ln, Union City, GA 30291",3,3,"1,470","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$138,000","3289 N Whitney Ave, Hapeville, GA 30354",3,2,"1,438","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$258,000","1011 Shadow Glen Dr, Fairburn, GA 30213",4,3,"2,335","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$319,990","3370 Wolf Cub Cir, Atlanta, GA 30349",4,4,"2,890","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$175,000","5224 Alexander St, Union City, GA 30291",4,2,"1,344","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$138,000","3289 N Whitney Ave #0098, Hapeville, GA 30354",3,2,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$285,000","1127 Jefferson Ave, East Point, GA 30344",3,2,"1,800","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$779,000","11170 Serenbe Ln, Chattahoochee Hills, GA 30268",3,3,"2,180","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$187,990","7416 Faith St, Union City, GA 30213",4,3,"2,009","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$170,000","141 Rivertown Rd, Fairburn, GA 30213",3,3,"1,856","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$320,000","3135 Esplanade Cir SW, Atlanta, GA 30311",5,3,"2,383","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$75,000","7500 Cascade Palmetto Hwy, Palmetto, GA 30268",5,2,"1,948","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$84,000","1476 Andrews St NW, Atlanta, GA 30314",3,2,"1,196","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$279,000","1004 Redbud Ln SW, Atlanta, GA 30311",4,3,"3,620","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$185,000","1150 Collier Rd NW APT G2, Atlanta, GA 30318",2,2,"1,072","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$335,000","2516 Edwards Dr NW, Atlanta, GA 30318",3,2,"1,534",N/A
+"$590,000","194 Central Park Cir NE, Atlanta, GA 30312",3,4,"2,709","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$239,900","1172 Mcdaniel St SW, Atlanta, GA 30310",4,3,"2,856","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$215,000","2694 W Main St NW, Atlanta, GA 30318",3,2,"1,058","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.09M,"2543 Westminster Heath NW, Atlanta, GA 30327",5,5,"5,166","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$560,000","2795 Peachtree Rd NE UNIT 1202, Atlanta, GA 30305",2,3,"1,794","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$450,000","5005 Nesbit Ferry Ln, Sandy Springs, GA 30350",4,3,"2,662","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$248,500","2105 Claude St NW, Atlanta, GA 30318",3,1,"1,090","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$423,570","775 Juniper St NE #526, Atlanta, GA 30308",1,1,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"

@@ -1,0 +1,801 @@
+price,address,bds,ba,sqft,image
+"$446,500","273 Holland, Powder Springs, GA 30127",4,4,"2,994",N/A
+"$450,000","4403 Cove Island Dr NE, Marietta, GA 30067",3,3,"2,441",https://photos.zillowstatic.com/p_e/ISvo6ifznprzzb0000000000.jpg
+"$358,020","2835 Loftview Sq, Atlanta, GA 30339",3,4,"2,184",https://photos.zillowstatic.com/p_e/ISrhmu86hxn21p0000000000.jpg
+"$557,500","3220 Collier Gate Ct SE, Smyrna, GA 30080",5,5,"4,846",https://photos.zillowstatic.com/p_e/ISnmvd0f02i0i70000000000.jpg
+"$149,200","1923 Shenandoah Valley Ln SE #4, Smyrna, GA 30080",2,2,--,N/A
+"$265,000","2366 Towneview Ct SE, Atlanta, GA 30339",3,4,"1,963",https://photos.zillowstatic.com/p_e/ISzvegq9rmu1z00000000000.jpg
+"$269,000","4132 Chanticleer Dr NW #30, Kennesaw, GA 30152",4,3,"2,013",https://photos.zillowstatic.com/p_e/IS3bdoofz1qao11000000000.jpg
+"$200,000","4799 Davenport Trce NW, Acworth, GA 30101",3,2,"1,256",https://photos.zillowstatic.com/p_e/ISjvvs1jqyrmka1000000000.jpg
+"$230,000","3630 Lavilla Dr, Powder Springs, GA 30127",4,3,"1,752",https://photos.zillowstatic.com/p_e/ISvoe85rl7igq10000000000.jpg
+"$233,500","2639 Shaw Rd NE, Marietta, GA 30066",3,2,"1,688","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$339,000","2875 Boone Dr NW, Kennesaw, GA 30144",--,N/A,N/A,N/A
+"$196,500","4475 Twin Creek Dr NE, Kennesaw, GA 30144",4,3,"1,380","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$335,000","1860 Annwicks Dr, Marietta, GA 30062",4,3,"1,976","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$339,000","3980 Lake Dr SE, Smyrna, GA 30082",6,3,"1,740","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$230,000","531 Kennesaw Dr SE, Smyrna, GA 30080",3,1,"1,305","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$369,500","1262 Clipper Bay Ct, Powder Springs, GA 30127",5,3,"3,512","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$400,000","64 Vinings Lake Dr SW, Mableton, GA 30126",4,4,"3,542","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$465,000","3837 Fenway Xing, Marietta, GA 30062",4,3,"3,678",N/A
+"$388,000","1309 Benbrooke Ln NW, Acworth, GA 30101",4,4,"4,420","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$339,000","2875 Boone Dr NW #22, Kennesaw, GA 30144",3,4,"2,183","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$335,000","3182 Holly Mill Run, Marietta, GA 30062",4,3,"2,779","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$78,000","3528 Hopkins Ct, Powder Springs, GA 30127",3,3,"1,364","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$264,900","4822 Helga Way NE, Woodstock, GA 30188",4,3,"2,165","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$184,000","975 Brackett Rd, Marietta, GA 30066",2,1,960,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$318,000","3979 Lagrone St, Powder Springs, GA 30127",4,3,"2,251","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$258,000","6422 Queens Court Trce #7, Mableton, GA 30126",3,3,"1,680","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$125,000","398 Promenade Ct SW, Marietta, GA 30064",2,2,"1,080","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$397,000","5706 Vinings Place Dr SE, Mableton, GA 30126",4,3,"2,794",N/A
+"$265,000","118 Lucia Dr SE, Smyrna, GA 30082",3,2,"1,309","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$155,000","747 Polk St NW, Marietta, GA 30064",0.38,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$336,100","343 Niles Ct #24, Marietta, GA 30060",3,3,"1,805","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$315,000","481 Smithstone Rd SE, Marietta, GA 30067",4,4,"2,370","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$527,000","4206 Barnes Meadow Rd SW, Smyrna, GA 30082",5,5,"5,276","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$241,000","3279 Clearview Dr SW, Marietta, GA 30060",4,3,"2,240","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$334,900","2894 Blackberry Ln, Marietta, GA 30068",3,2,"1,436","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$678,000","3317 Cranmore Chase, Marietta, GA 30066",6,5,"5,229","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$389,900","4350 Nesbin Dr NE, Kennesaw, GA 30144",5,16,"5,246","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$166,900","4309 Thorngate Ln, Acworth, GA 30101",2,3,"1,176","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$640,000","4004 Charrwood Trce, Marietta, GA 30062",4,5,"4,320","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$468,000","2108 Sonoma Dr SE, Smyrna, GA 30080",3,4,"2,128","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$227,000","4695 Bennett St, Austell, GA 30106",3,2,"1,408",https://photos.zillowstatic.com/p_e/ISn635mamvtxrc0000000000.jpg
+"$530,000","3340 Brookview Dr, Marietta, GA 30068",4,4,"2,628",https://photos.zillowstatic.com/p_e/ISa40fzkzh19cz.jpg
+"$580,000","3642 Summit Oaks Drive, Marietta, GA 30075",6,5,"4,546",N/A
+"$358,000","676 Maple Grove Way, Marietta, GA 30066",5,3,"3,195",https://photos.zillowstatic.com/p_e/ISbphrrw3ryzbh0000000000.jpg
+"$176,000","25 Highoak Dr NE, Marietta, GA 30066",3,3,"1,410",https://photos.zillowstatic.com/p_e/ISzn8qrp9fqw5h1000000000.jpg
+"$350,000","2630 Spencers Trce NE, Marietta, GA 30062",4,3,"2,566",https://photos.zillowstatic.com/p_e/ISb9xwlipfg6ii1000000000.jpg
+"$334,000","3378 Woodrun Trl, Marietta, GA 30062",3,3,"2,717",https://photos.zillowstatic.com/p_e/ISbp1zmx109tr50000000000.jpg
+"$535,000","2120 Cheyanne Dr SE, Smyrna, GA 30080",4,4,"3,296",https://photos.zillowstatic.com/p_e/IS3ny0a1y5xtwy0000000000.jpg
+"$445,000","6147 Queens River Dr, Mableton, GA 30126",5,4,"4,010",N/A
+"$230,000","4183 Irish Highland Dr, Powder Springs, GA 30127",3,3,"2,404","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$294,000","5339 Concordia Pl SE, Mableton, GA 30126",3,4,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$432,500","1581 Bentcreek Dr, Marietta, GA 30062",4,3,"3,049","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$305,000","860 Trailside Ln SW, Marietta, GA 30064",3,2,"1,965","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$223,000","4972 Turtle Rock Dr, Marietta, GA 30066",3,2,"1,308","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$160,000","3045 Hacienda Ct, Marietta, GA 30066",3,2,"1,056","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$210,000","602 Dover St, Marietta, GA 30066",4,2,"1,536","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$495,000","511 Park Ln SE, Marietta, GA 30067",4,3,"3,130","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$295,000","1024 Parsons Greene Dr, Powder Springs, GA 30127",4,3,"2,554","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$198,500","1015 Azalea Cir, Marietta, GA 30062",3,2,925,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$322,000","733 Evelyn Ln, Marietta, GA 30008",4,3,"3,294",N/A
+"$278,000","4845 Dartford Dr, Powder Springs, GA 30127",4,3,"2,692","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$330,000","3021 Stoneridge Ct NW, Marietta, GA 30064",3,3,"2,856","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$374,000","2945 Vine Grove St, Powder Springs, GA 30127",4,4,"2,800","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$274,900","1162 Meadow Oaks Dr NW, Acworth, GA 30102",4,3,"3,029","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$439,000","5191 Catalpa Knls NW, Acworth, GA 30101",4,4,"3,153","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$178,480","2855 Lakemont Dr SW, Marietta, GA 30060",Studio,--,"2,220","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$300,000","304 Holbrook Rd #11, Smyrna, GA 30082",3,4,"2,356","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$137,000","2109 Kennesaw Way SE, Smyrna, GA 30080",3,1,"1,126","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$210,000","6050 Water Oaks Dr #97, Austell, GA 30106",4,3,"1,930","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$332,000","1165 Chestnut Hill Cir SW, Marietta, GA 30064",3,3,"2,426","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$175,000","72 Kilgore Dr SE, Mableton, GA 30126",3,2,"1,358","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$179,000","1173 Caprice Dr, Powder Springs, GA 30127",3,2,"1,308","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$175,000","5341 Memorial Ln, Powder Springs, GA 30127",3,2,"1,260","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$220,000","763 Frasier Cir SE, Marietta, GA 30060",3,2,"1,356","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$210,000","6050 Water Oaks Dr, Austell, GA 30106",4,3,"1,930","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$252,000","1637 Samantha Pl SW, Marietta, GA 30008",3,3,"2,190","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$650,000","2382 New Salem Trce, Marietta, GA 30064",4,6,"4,498","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$347,500","1970 Glenroy Pl SE, Smyrna, GA 30080",3,2,"1,258","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$238,900","3631 Stonewall Dr SE, Atlanta, GA 30339",3,3,"1,680",N/A
+"$465,000","3884 Stone Lake Dr NW, Kennesaw, GA 30152",5,4,"3,477","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$179,000","1173 Caprice Dr, Powder Springs, GA 30127",3,2,"1,308",https://photos.zillowstatic.com/p_e/ISvspjwt05mxzr0000000000.jpg
+"$210,000","6050 Water Oaks Dr #97, Austell, GA 30106",4,3,"1,930",https://photos.zillowstatic.com/p_e/IS7i1rxfi3hvmf0000000000.jpg
+"$665,000","4642 Gilhams Rd NE, Roswell, GA 30075",5,5,"3,666",https://photos.zillowstatic.com/p_e/ISnqunu1wajq5t0000000000.jpg
+"$227,000","5012 Olde Mill Dr, Marietta, GA 30066",3,2,"1,591",https://photos.zillowstatic.com/p_e/ISnex5tex0ilwb1000000000.jpg
+"$234,900","1773 San Andra Dr, Marietta, GA 30062",4,3,"2,062",https://photos.zillowstatic.com/p_e/ISxbjifjrihenn1000000000.jpg
+"$220,000","767 Shadybrook Dr NE, Marietta, GA 30066",5,3,"3,266",https://photos.zillowstatic.com/p_e/ISbtwtehkd8ud90000000000.jpg
+"$275,000","2352 Proctor Creek Enclave, Acworth, GA 30101",4,3,"2,406",https://photos.zillowstatic.com/p_e/ISjb0bj1posdtm1000000000.jpg
+"$201,800","4029 Cottage Oaks Dr, Acworth, GA 30101",2,2,"1,588",https://photos.zillowstatic.com/p_e/ISxbn1lz7pi2w10000000000.jpg
+"$352,000","487 Briarfield Xing, Marietta, GA 30066",5,3,"3,014",https://photos.zillowstatic.com/p_e/IS76gu087f2vwp1000000000.jpg
+$1.20M,"1392 Torpin Hill Ct NW #36, Kennesaw, GA 30152",6,6,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.20M,"1392 Torpin Hill Ct NW, Kennesaw, GA 30152",6,6,"6,643","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$486,000","5477 Brookstone Dr NW, Acworth, GA 30101",6,5,"4,385","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$405,000","4680 Glenforest Dr NE, Roswell, GA 30075",4,2,"2,604","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$650,000","2382 New Salem Trce, Marietta, GA 30064",--,--,--,N/A
+"$130,000","5850 Miller Rd, Austell, GA 30106",3,1,"1,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$182,000","4500 Caleb Xing, Powder Springs, GA 30127",2,2,"1,316","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$210,000","396 Floyd St SE, Smyrna, GA 30082",3,1,816,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$575,000","179 Manget St SE, Marietta, GA 30060",4,3,"3,635","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$787,374","4914 Lisburn Ln, Powder Springs, GA 30127",4,4,"5,403","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$115,000","2350 Old Spring Rd SE, Smyrna, GA 30080",3,1,984,N/A
+"$275,000","2085 Harold Ave SE, Smyrna, GA 30080",3,2,"2,093","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$170,000","1490 Cloverdale Dr SE, Marietta, GA 30067",3,1,"1,087","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$333,000","569 Mirrormont Dr SE, Smyrna, GA 30080",3,4,"1,687","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$316,000","1451 Echo Mill Dr, Powder Springs, GA 30127",4,3,"3,049","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$457,000","3025 Greenfield Dr, Marietta, GA 30068",4,4,"3,652","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$500,000","441 Willowbrook Dr SE, Smyrna, GA 30082",5,4,"4,828","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$335,000","3309 Concord Cir SE, Smyrna, GA 30080",3,2,"1,195","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$594,000","99 Midway Rd NW, Marietta, GA 30064",5,5,"6,427","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.11M,"2728 Long Grove Dr, Marietta, GA 30062",7,6.5,"7,317","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$825,000","2946 Windstone Cir, Marietta, GA 30062",5,5,"4,340","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$255,000","3646 Autumn Ridge Pkwy, Marietta, GA 30066",4,3,"2,451","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$228,500","2287 Flora Dr, Marietta, GA 30066",3,2,"1,350","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$630,000","2991 Bonaire Gln, Marietta, GA 30066",5,4,"4,557","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$169,900","679 Gettysburg Trl NE, Kennesaw, GA 30144",3,2,"1,344","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$267,000","2012 Cobblewood Dr NW, Kennesaw, GA 30152",5,3,"1,946","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$421,500","4254 Taylor St, Acworth, GA 30101",4,4,"2,733","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$230,000","2651 Lake Park Bnd, Acworth, GA 30101",3,3,"1,444","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$166,000","1119 Shiloh Ln NW, Kennesaw, GA 30144",2,3,"1,373","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$610,000","2722 Ellery Way NE, Marietta, GA 30062",4,4,"3,077","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$381,000","3739 Summit Dr NW, Acworth, GA 30101",6,4,"3,751","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$630,000","2991 Bonaire Gln, Marietta, GA 30066",5,4,"4,557",https://photos.zillowstatic.com/p_e/ISv8exve8pwxn70000000000.jpg
+"$230,000","14 Jekyll Dr #31, Marietta, GA 30066",3,3,"1,776",https://photos.zillowstatic.com/p_e/IS7euuk9b4vlg10000000000.jpg
+"$166,000","1119 Shiloh Ln NW, Kennesaw, GA 30144",2,3,"1,373",https://photos.zillowstatic.com/p_e/ISr9kft3kclum90000000000.jpg
+"$610,000","2722 Ellery Way NE, Marietta, GA 30062",4,4,"3,077",https://photos.zillowstatic.com/p_e/ISfk4xcn6xv2t41000000000.jpg
+"$160,000","3561 Ridgecrest Dr, Powder Springs, GA 30127",3,2,"1,284",https://photos.zillowstatic.com/p_e/IS72dlgegbw3631000000000.jpg
+"$505,000","2777 Mathews St SE, Smyrna, GA 30080",4,4,"2,458",https://photos.zillowstatic.com/p_e/ISnmf5jzcijkg81000000000.jpg
+"$835,000","4005 Highfield Way, Marietta, GA 30062",6,6,"6,342",https://photos.zillowstatic.com/p_e/IS3vknc61xusva1000000000.jpg
+"$249,600","1845 Creat Trl SE, Smyrna, GA 30080",3,2,"1,363",https://photos.zillowstatic.com/p_e/ISzr3xsghk3mlu1000000000.jpg
+"$136,000","937 Mill Stone Dr, Marietta, GA 30062",2,3,"1,232",https://photos.zillowstatic.com/p_e/ISvgomo8y81a4b0000000000.jpg
+"$167,500","7070 Blairs View Dr #5, Austell, GA 30168",3,3,"1,680","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$210,000","4809 Clove Dr SW, Mableton, GA 30126",3,3,"2,334","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$384,900","2315 Magaw Ln, Powder Springs, GA 30127",5,4,"3,651","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$312,000","313 Niles Ct #29, Marietta, GA 30060",3,3,"1,805","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$310,000","325 Niles Ct #27, Marietta, GA 30060",3,3,"1,800","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$250,000","2315 Paces Ferry Rd SE, Smyrna, GA 30080",3,2,"1,181","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$242,900","155 Covington Ave NE, Marietta, GA 30060",3,2,"1,240","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$307,000","80 Mount Calvary Rd NW, Marietta, GA 30064",3,2,"1,683","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$529,000","2487 Reed St SE, Smyrna, GA 30080",4,3,"2,610","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$18,000","0 Lynne Cir, Mableton, GA 30126",0.63,N/A,N/A,N/A
+"$275,000","1815 Dunrobin Dr SE, Smyrna, GA 30082",2,3,"1,864","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$290,000","2550 Glendale Cir SE, Smyrna, GA 30080",3,2,"1,153","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$418,000","1272 Colony Dr, Marietta, GA 30068",4,3,"2,350","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$255,000","4168 Integrity Way, Powder Springs, GA 30127",4,4,"2,031","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$359,900","106 Fender Walk, Marietta, GA 30060",4,3,"2,462",N/A
+"$270,000","2276 Goodwood Blvd SE, Smyrna, GA 30080",3,3,"1,337","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$314,115","939 Hewitt Dr SE, Mableton, GA 30126",--,N/A,N/A,N/A
+"$149,380","3560 Valley Dr, Powder Springs, GA 30127",4,4,"3,348","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$325,000","3590 W Hampton Dr NW, Marietta, GA 30064",4,3,"3,205","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$435,000","429 Frasier St SE, Marietta, GA 30060",4,4,"3,040","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$170,000","1490 Cloverdale Dr SE #56, Marietta, GA 30067",3,1,"1,086","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$298,000","4878 Brown Leaf Dr, Powder Springs, GA 30127",5,4,"3,700","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$543,000","1550 Sophia Ln SE, Smyrna, GA 30082",6,4,"3,430","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$375,000","3710 Wisteria Ln SE, Smyrna, GA 30082",4,3,"1,435","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$114,000","6911 Gallant Cir SE #16, Mableton, GA 30126",3,3,"1,212","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$636,000","4732 Ivy Ridge Dr #4732, Smyrna, GA 30080",3,3,"3,806","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$209,000","2313 Baker Station Dr, Acworth, GA 30101",3,3,"1,846","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$200,000","3237 Blue Springs Trce NW, Kennesaw, GA 30144",3,3,"1,596","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$280,000","3500 Faulkland Ct NW, Kennesaw, GA 30144",3,3,"1,930","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$280,000","4395 Sugar Maple Dr NW, Acworth, GA 30101",4,3,"2,328","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$385,000","2245 Saluda Ln NW, Acworth, GA 30101",5,3,"4,251","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$363,000","3190 Vickery Dr NE, Marietta, GA 30066",4,3,"2,494",https://photos.zillowstatic.com/p_e/ISb56x4z72b5zo0000000000.jpg
+"$265,000","4880 Wigley Rd NE, Marietta, GA 30066",4,2,"1,800",https://photos.zillowstatic.com/p_e/IS7msqenaf177b1000000000.jpg
+"$458,000","2615 Chase Rdg, Kennesaw, GA 30144",5,3,"2,852",https://photos.zillowstatic.com/p_e/IS3zvmy4opkdmm1000000000.jpg
+"$250,000","4632 Jamerson Forest Pkwy, Marietta, GA 30066",4,3,"2,476",https://photos.zillowstatic.com/p_e/ISvoe4ym6isrl90000000000.jpg
+"$172,000","4038 E Spring Meadow Dr, Acworth, GA 30101",4,2,"1,996",https://photos.zillowstatic.com/p_e/ISzfqewg67t97b1000000000.jpg
+"$209,000","2313 Baker Station Dr, Acworth, GA 30101",3,3,"1,846",https://photos.zillowstatic.com/p_e/ISn2001nqszopr0000000000.jpg
+"$352,000","2059 Paran Ct, Marietta, GA 30062",4,3,"2,261",https://photos.zillowstatic.com/p_e/ISvw4yw8jxu1db0000000000.jpg
+"$420,000","3444 Old Suttons Way, Marietta, GA 30062",5,3,"3,264",https://photos.zillowstatic.com/p_e/ISzj5dkbwgzo9c0000000000.jpg
+"$229,000","1922 Lake Heights Cir NW, Kennesaw, GA 30152",3,3,"1,986",https://photos.zillowstatic.com/p_e/ISrxeb5ew9gqq50000000000.jpg
+"$474,500","2597 Bartleson Dr NW, Kennesaw, GA 30152",5,4,"3,300","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$379,000","2408 Mirrabeau Ct, Marietta, GA 30066",Studio,--,"2,975","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$385,000","2245 Saluda Ln NW, Acworth, GA 30101",5,3,"4,251","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$265,000","4501 Silver Pointe, Acworth, GA 30101",3,4,"2,476","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$280,000","4395 Sugar Maple Dr NW, Acworth, GA 30101",4,3,"2,328","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$520,000","3153 Sawyer Ct NE, Marietta, GA 30066",5,5,"4,471","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$272,000","3085 Kirkwood Dr NW, Kennesaw, GA 30144",3,2.5,"2,185","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$309,000","2312 Leacroft Way, Marietta, GA 30062",3,3,"2,331","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$175,000","1948 Stancrest Trce NW, Kennesaw, GA 30152",2,3,"1,240","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$327,000","308 Summit Village Dr, Marietta, GA 30066",4,3,"1,986","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$310,000","1006 Housley Rd, Marietta, GA 30066",3,2,"1,600","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$284,900","4457 Black Hills Dr NW, Acworth, GA 30101",4,3,"2,306","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$130,000","4396 Overlook Dr, Acworth, GA 30101",2,2,"1,080","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$280,000","3500 Faulkland Ct NW, Kennesaw, GA 30144",3,3,"1,930","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$416,000","4213 Rockpoint Dr NW, Kennesaw, GA 30152",5,5,"4,600","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$570,000","2411 Black Swan Ln NW, Acworth, GA 30101",5,6,"5,753","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$337,800","2100 Kinridge Rd, Marietta, GA 30062",4,3,"2,976","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$266,000","1101 Kearney Ln, Powder Springs, GA 30127",3,3,"1,964","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$224,800","3621 Vinings Slope SE UNIT 2425, Atlanta, GA 30339",1,1,"1,021","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$210,000","4966 Meadow Ln, Marietta, GA 30068",3,3,"1,560","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$290,000","112 Yancy Dr SE, Marietta, GA 30067",3,2,"1,125","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$2.45M,"506 Gramercy Dr NE, Marietta, GA 30068",6,9,"10,610","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$183,000","4911 Robinson Square Dr NW, Acworth, GA 30101",3,3,"1,672","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$279,000","3003 Waterdance Dr NW, Kennesaw, GA 30152",4,3,"2,296","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$410,000","4703 Pine St SE, Smyrna, GA 30080",3,4,"3,033","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$389,900","1065 Kirkland Cir, Smyrna, GA 30080",--,--,--,N/A
+"$247,500","5624 Whispering Pines Rd SW, Mableton, GA 30126",4,2,"1,512","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$389,900","1065 Kirkland Cir SE, Smyrna, GA 30080",3,3,"1,663","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$330,000","1878 Shiloh Valley Way NW, Kennesaw, GA 30144",4,3,"2,857","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$115,000","4906 Willow Ln, Austell, GA 30106",4,2,"1,677","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$526,500","347 Kirkpatrick Dr SW, Marietta, GA 30064",3,4,"2,557","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$690,000","2121 Cheyanne Dr SE, Smyrna, GA 30080",4,5,"5,453",https://photos.zillowstatic.com/p_e/ISnul7vt454ntx0000000000.jpg
+"$529,000","1122 Colony Dr, Marietta, GA 30068",4,3,"2,996",https://photos.zillowstatic.com/p_e/ISn63t8kz579tk0000000000.jpg
+"$315,000","1101 Dayton Dr, Smyrna, GA 30082",3,3,"2,178",https://photos.zillowstatic.com/p_e/ISvgw8jpzqvgjh0000000000.jpg
+"$468,000","308 Senna St, Marietta, GA 30064",4,4,"3,060",https://photos.zillowstatic.com/p_e/ISzvqts9fiv9s50000000000.jpg
+"$414,500","1209 Colony Cir, Marietta, GA 30068",4,3,"2,326",https://photos.zillowstatic.com/p_e/ISvg4jg01h7qza1000000000.jpg
+"$515,900","308 Conner Cir, Smyrna, GA 30082",4,4,"2,994",https://photos.zillowstatic.com/p_e/ISzr3p6y1wrgjh0000000000.jpg
+"$295,000","24 Trammell St SW, Marietta, GA 30064",2,2,"1,064",https://photos.zillowstatic.com/p_e/ISnmrmoc43mt110000000000.jpg
+"$311,110","935 Hewitt Dr SE, Mableton, GA 30126",--,N/A,N/A,N/A
+"$245,000","1067 Brownstone Dr #23, Marietta, GA 30008",3,3,"1,958",https://photos.zillowstatic.com/p_e/IS3vwwb9atfta61000000000.jpg
+"$115,000","4906 Willow Ln, Austell, GA 30106",4,2,"1,677","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$384,900","271 Lamplighter Ln SE, Marietta, GA 30067",4,3,"2,228","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$287,500","2594 Little John Trl SE, Marietta, GA 30067",3,2,"2,091","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$695,000","3589 Tuckers Farm SE, Marietta, GA 30067",5,5,"5,514","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$760,000","2598 Lulworth Ln, Marietta, GA 30062",5,5,"5,700","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$450,000","1806 Nemours Ct NW, Kennesaw, GA 30152",5,4,"3,744","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$339,000","1547 Cambridge Pl, Marietta, GA 30062",3,4,"2,563","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$828,888","4176 Avid Park NE #7, Marietta, GA 30062",4,4,"3,333","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$277,500","735 Jamie Way NE, Woodstock, GA 30188",4,3,"2,322","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$307,000","4387 Sugar Maple Dr NW, Acworth, GA 30101",5,3,"3,361","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$330,000","1878 Shiloh Valley Way #35, Kennesaw, GA 30144",4,3,"2,857","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$860,000","2017 Winsted Way, Marietta, GA 30062",5,5,"5,189","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$197,000","5021 Ridgewald Ct NE, Kennesaw, GA 30144",4,3,"2,003","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$130,000","1032 Kennesborough Rd NW, Kennesaw, GA 30144",2,3,988,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$490,000","815 Fairfield Dr, Marietta, GA 30068",4,3,"2,192","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$250,000","2304 Arbor Forest Way SW, Marietta, GA 30064",4,4,"2,300","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$507,000","3425 Belridge Dr SE, Smyrna, GA 30080",5,6,"3,680","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$165,000","3152 Ridgecrest Dr, Powder Springs, GA 30127",3,2,"1,056","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$305,000","5891 Buckner Creek Dr, Mableton, GA 30126",5,3,"2,462","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$309,900","1869 Canoe Rdg NW, Kennesaw, GA 30152",4,3,"2,686","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$440,000","3265 Millwood Trl SE, Smyrna, GA 30080",4,3,"2,748","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$357,000","946 Fairlong Dr NW, Acworth, GA 30101",5,4,"3,146","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$166,000","2356 Shire Ct, Austell, GA 30106",3,2,"1,812","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$137,500","1807 Augusta Dr SE, Marietta, GA 30067",2,1,"1,097","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$60,000","7251 Crestside Dr, Austell, GA 30168",2,3,"1,200",N/A
+"$175,000","468 White Oak Dr SW, Marietta, GA 30060",4,2,"1,900","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$110,000","715 Shiloh Rd NW, Kennesaw, GA 30144",3,1,"1,056",N/A
+"$380,000","5604 Forkwood Dr NW, Acworth, GA 30101",4,4,"3,291","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$375,000","5841 Brookstone Overlook NW, Acworth, GA 30101",5,3,"3,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$225,000","1837 Shillings Rd NW, Kennesaw, GA 30152",2,2,"1,336","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$255,000","3204 Juniper Dr NW, Kennesaw, GA 30144",3,3,"1,964","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$225,000","1837 Shillings Rd NW, Kennesaw, GA 30152",2,2,"1,336",https://photos.zillowstatic.com/p_e/ISjv7qbuba4pd71000000000.jpg
+"$110,000","715 Shiloh Rd NW, Kennesaw, GA 30144",3,1,"1,056",N/A
+"$340,000","1651 Wehunt Pl UNIT 12, Smyrna, GA 30082",3,4,"2,382",https://photos.zillowstatic.com/p_e/ISrxyu5zydwlle0000000000.jpg
+"$340,000","4744 Cheviot Way SE, Smyrna, GA 30080",3,4,"2,256",https://photos.zillowstatic.com/p_e/ISvwsg7gypqgnu1000000000.jpg
+"$225,000","1243 Grampian Pass #11, Marietta, GA 30008",3,3,"2,035",https://photos.zillowstatic.com/p_e/ISfciet7jpdn3y0000000000.jpg
+"$182,000","23 Middleton Ct SE, Smyrna, GA 30080",2,2,"1,250",https://photos.zillowstatic.com/p_e/ISb91kimpbpdke0000000000.jpg
+"$199,500","1017 Willow Crest Lndg, Austell, GA 30168",3,3,"1,672",https://photos.zillowstatic.com/p_e/IS7u2sk7fk2acj1000000000.jpg
+"$365,000","2900 Strathmoor Rd SE, Smyrna, GA 30080",4,2,"1,824",https://photos.zillowstatic.com/p_e/IS3vk3ljpgkwxy0000000000.jpg
+"$361,900","2427 Barrett Preserve Ct SW, Marietta, GA 30064",3,3,"2,582",https://photos.zillowstatic.com/p_e/IS37m44g3pe9jd1000000000.jpg
+"$137,000","1197 Ashborough Dr SE APT B, Marietta, GA 30067",3,2,"1,344","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$255,000","964 Crest Ridge Dr SW, Marietta, GA 30060",4,3,"1,460","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$507,000","693 Lawton Bridge Rd SW, Smyrna, GA 30082",5,4,"3,844","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$274,500","601 Oriole Dr SE, Marietta, GA 30067",3,1,"1,126","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$265,000","2900 Masonwood Dr NW, Kennesaw, GA 30152",3,3,"2,203","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$262,500","3339 Mcever Park Cir, Acworth, GA 30101",4,3,"2,270","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$450,000","4468 Dallas St, Acworth, GA 30101",7,4,"3,053","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$160,000","2049 Twelve Oaks Cir NW, Kennesaw, GA 30144",3,2,"1,500","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$240,000","2154 Nottley Dr, Marietta, GA 30066",3,3,"1,780","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$275,000","2723 Whitehurst Dr NE, Marietta, GA 30062",4,3,"2,320",N/A
+"$230,000","4703 Jamerson Forest Cir, Marietta, GA 30066",3,2,"1,498","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$358,000","2743 Tritt Springs Dr NE, Marietta, GA 30062",5,3,"2,171","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$371,500","2348 Bray Ct NE, Marietta, GA 30066",4,3,"3,532","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$511,000","4795 Converse Ct, Marietta, GA 30062",5,2.5,"2,825","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$320,000","4778 Cemetery Rd, Acworth, GA 30101",6,5,"4,016","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$242,000","3584 Plum Creek Trl NW, Kennesaw, GA 30152",3,3,"1,802","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$734,900","4375 Edna Ln NE, Marietta, GA 30062",5,4,"3,500","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$684,400","1805 Blue Granite Ct, Marietta, GA 30066",5,5,"4,104",N/A
+"$285,000","3996 Hardee Dr NW, Kennesaw, GA 30152",4,3,"2,469",N/A
+"$375,000","2150 Jockey Hollow Dr NW, Kennesaw, GA 30152",6,4,"4,438","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$200,000","2028 Hoods Fort Cir NW UNIT 19, Kennesaw, GA 30144",2,3,"1,626","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$262,500","1611 Canton Hills Cir, Marietta, GA 30062",3,3,"2,358","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$400,000","1515 Walker St SE, Smyrna, GA 30080",3,2,"1,550","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$387,500","4854 Hiram Lithia Springs Rd, Powder Springs, GA 30127",3,2,"2,230","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$590,000","183 Manget St SE, Marietta, GA 30060",4,5,"4,400","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$370,000","1405 Amberton Way, Powder Springs, GA 30127",5,4,"3,285","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$657,300","6201 Arnall Ct NW, Acworth, GA 30101",6,7,"9,359","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$345,000","676 Oakledge Dr NW, Marietta, GA 30060",3,3,"2,590","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$336,008","589 Lullingstone Dr SE, Marietta, GA 30067",3,3,"2,775","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$235,620","1360 Lamont Dr SW, Mableton, GA 30126",4,3,"2,884","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$440,100","4420 Oakdale Vinings Lndg SE, Smyrna, GA 30080",4,4,"3,627","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$230,000","4764 Quail Hunt Ct, Powder Springs, GA 30127",3,2,"1,450",https://photos.zillowstatic.com/p_e/ISb9d5jiriiddu1000000000.jpg
+"$546,000","5147 Vinings Estates Way SE, Mableton, GA 30126",5,5,"4,957",https://photos.zillowstatic.com/p_e/ISzv6uzjp5zdsr0000000000.jpg
+"$440,100","4420 Oakdale Vinings Lndg SE, Smyrna, GA 30080",4,4,"3,627",https://photos.zillowstatic.com/p_e/ISzfepcf05bci81000000000.jpg
+"$170,000","911 James St NW, Marietta, GA 30060",3,2,"1,257",https://photos.zillowstatic.com/p_e/ISrlty7rgqtzih1000000000.jpg
+"$235,620","1360 Lamont Dr SW, Mableton, GA 30126",4,3,"2,884",https://photos.zillowstatic.com/p_e/ISzvesjgxyhvhv0000000000.jpg
+"$240,000","6625 Saint Abernathy Dr SE, Mableton, GA 30126",3,2.5,"1,987",https://photos.zillowstatic.com/p_e/ISjjym9fyv31h01000000000.jpg
+"$350,000","961 Oakview Dr SE, Smyrna, GA 30080",3,2,"1,500",https://photos.zillowstatic.com/p_e/ISnuxs7zlh9hwh0000000000.jpg
+"$292,000","5305 Concordia Pl SE, Mableton, GA 30126",3,4,"2,254",https://photos.zillowstatic.com/p_e/ISzfet3fher10w0000000000.jpg
+"$437,000","1175 Jasmine Green Trl SW, Marietta, GA 30064",8,5,"2,942",https://photos.zillowstatic.com/p_e/IS7u2kygtzkze91000000000.jpg
+"$205,000","3085 Barrett Ct, Powder Springs, GA 30127",4,2,"2,050","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$235,620","1360 Lamont Dr SW, Smyrna, GA 30126",4,3,"2,475","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$245,000","2277 Freydale Rd SE, Marietta, GA 30067",4,2,"2,155","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$227,000","2908 Auburn Ct SW, Marietta, GA 30064",4,3,"2,310","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$277,500","4462 Spring Mountain Ln, Powder Springs, GA 30127",4,3,"2,420","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$250,000","2970 Milford Trl SW, Marietta, GA 30008",4,3,"3,589","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$134,000","1531 Thunderwood Ln SW, Mableton, GA 30126",3,1,"1,375","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$699,900","2725 Ellery Way NE, Marietta, GA 30062",4,4,"3,167","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$429,000","1135 Cockrell Ct NW, Kennesaw, GA 30152",5,5,"4,170","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.63M,"3285 Craggy Point, Agoura Hills, GA 91301",6,7,"6,620","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.00M,"820 Creek Trl NW, Kennesaw, GA 30144",4,2,"1,714",N/A
+"$245,000","6181 Autumn View Cv NW, Acworth, GA 30101",4,3,"2,222","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$315,000","3111 Skyview Ln, Marietta, GA 30066",4,4,"2,340","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$320,000","4119 Mcever Woods Dr NW, Acworth, GA 30101",5,4,"3,619","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$334,900","385 Summit Village Dr, Marietta, GA 30066",3,3,"2,680","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$505,561","4050 Jordan Lake Dr, Marietta, GA 30062",4,4,"3,783","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$222,000","3940 Cyrus Crest Cir NW, Kennesaw, GA 30152",3,3,"1,552","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$415,000","5724 Vinings Place Dr SE, Mableton, GA 30126",5,4,"4,358","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$295,000","2458 Whiteoak Run SE, Smyrna, GA 30080",3,3,"1,916","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$126,000","6073 Oak Hill Dr, Austell, GA 30168",3,2,"2,340","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$326,900","4006 Saddlebrook Creek Dr, Marietta, GA 30060",4,3,"3,456","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$360,000","2374 Westport Cir SW, Marietta, GA 30064",4,3,"2,623","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$557,485","880 Rolling Hl NW, Kennesaw, GA 30152",4,4,"3,342","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$252,000","3150 Woodwalk Dr SE UNIT 1209, Atlanta, GA 30339",3,2,"1,593","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$177,000","3117 Fern Valley Dr SW, Marietta, GA 30008",3,2,"1,273","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$213,000","355 Booth Cir SW, Marietta, GA 30008",Studio,--,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$510,000","1701 Clay Brooke Ct SE, Smyrna, GA 30082",4,4,"4,204","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$259,900","4752 Ivy Ridge Dr SE BUILDING 1, Smyrna, GA 30339",2,2,"2,040","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$450,000","1596 Stoddard Ct NW, Kennesaw, GA 30152",4,4,"5,100","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$710,000","6198 Talmadge Run NW, Acworth, GA 30101",5,6,"7,102","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$305,000","4705 Reann Way NE, Kennesaw, GA 30144",4,2,"3,252","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$450,000","1596 Stoddard Ct NW, Kennesaw, GA 30152",4,4,"5,100",https://photos.zillowstatic.com/p_e/ISzztyhgs6uit30000000000.jpg
+"$710,000","6198 Talmadge Run NW, Acworth, GA 30101",5,6,"7,102",https://photos.zillowstatic.com/p_e/ISrdrjkeylhmku0000000000.jpg
+"$500,000","4220 Chimney Lake Dr NE, Roswell, GA 30075",5,4,"2,840",https://photos.zillowstatic.com/p_e/ISjrcrwpidizvj1000000000.jpg
+"$334,000","3695 Bozeman Lake Rd NW, Kennesaw, GA 30144",4,3,"2,436",https://photos.zillowstatic.com/p_e/ISjf7rfkmizwnj0000000000.jpg
+"$510,000","4529 Sterling Pointe Dr NW, Kennesaw, GA 30152",5,4,"4,363",https://photos.zillowstatic.com/p_e/ISzzl4tewgayp51000000000.jpg
+"$217,700","288 Castleair Dr NE, Kennesaw, GA 30144",4,2,"1,946",N/A
+"$3,200","1110 Stillington Way, Kennesaw, GA 30152",3,3,"2,825",https://photos.zillowstatic.com/p_e/ISv8ygkm859i1b0000000000.jpg
+"$710,000","6198 Talmadge Run NW, Acworth, GA 30101",5,6,"7,102",N/A
+"$257,000","321 Crabtree Ct, Marietta, GA 30068",4,3,"2,420",https://photos.zillowstatic.com/p_e/ISbd066wn032yg1000000000.jpg
+"$224,900","3614 Hollyhock Way NW, Kennesaw, GA 30152",3,2,"1,248","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$283,000","3791 Kirkwood Run NW, Kennesaw, GA 30144",4,3,"2,512","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$273,000","4096 Hubert Dr NE, Marietta, GA 30066",3,2,"1,398","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$227,000","1368 Bexley Pl NW, Kennesaw, GA 30144",2,3,"1,793","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$280,000","1810 Ascot Cv NW, Acworth, GA 30102",4,3,"2,489","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$207,000","2166 Trailwood Dr SE #7, Smyrna, GA 30080",3,2,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$123,500","507 Mill Pond Ct SE, Smyrna, GA 30082",1,1,"1,005","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$398,185","183 Golden Banner Ave, Marietta, GA 30060",4,4,"2,604","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$140,000","2853 Spring Villa Ln SE #2, Smyrna, GA 30080",3,3,"1,452","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$105,000","6276 Lobelia Rd SW, Mableton, GA 30126",3,1,"1,080",N/A
+"$420,000","212 Easy Pines Way #42, Marietta, GA 30060",3,4,"2,250","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$545,500","3950 Obryant Circle, Smyrna, GA 30082",4,4,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$199,000","2869 Red Haven Ct, Powder Springs, GA 30127",3,2,"1,627","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$285,000","3466 Whisperwood Ct NW, Marietta, GA 30064",4,3,"2,067","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$189,900","3213 Valley View St, Powder Springs, GA 30127",3,2,"2,468","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$383,000","1860 Azure Grove Ct, Marietta, GA 30008",5,3,"3,016","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$225,000","1243 Grampian Pass, Marietta, GA 30008",3,3,"1,900","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$295,000","338 Robin Ln SE, Marietta, GA 30067",4,2,"1,976","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$169,000","3680 Lavilla Dr, Powder Springs, GA 30127",3,2,"1,320","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$170,000","2880 Old Lost Mountain Rd, Powder Springs, GA 30127",Studio,--,"1,652","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$365,000","3300 Windy Ridge Pkwy SE UNIT 1312, Atlanta, GA 30339",2,2,"1,478","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$510,000","4806 Cross Creek Ct NW, Kennesaw, GA 30152",4,5,"3,769","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$545,500","3950 Obryant Cir SE, Smyrna, GA 30082",5,4,"3,019","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$650,000","600 W Sandtown Rd SW, Marietta, GA 30064",Studio,--,"4,005","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$247,000","2510 Hampton Valley Dr SW, Marietta, GA 30008",4,3,"2,244","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$230,000","3945 Hiram Lithia Springs Rd, Powder Springs, GA 30127",3,4,"2,301","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$449,000","5318 Tally Green Dr, Marietta, GA 30068",4,3,"3,361","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$360,000","6239 Braidwood Way NW, Acworth, GA 30101",5,4,"3,586","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$492,500","2103 Monhegan Way SE, Smyrna, GA 30080",3,5,"4,126",N/A
+"$557,485","880 Rolling Hl NW #3, Kennesaw, GA 30152",4,4,"3,342","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$103,000","6966 Gallant Cir SE #24, Mableton, GA 30126",3,3,"1,212","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$350,000","2145 Heritage Trace Dr, Marietta, GA 30062",4,3,"2,200",https://photos.zillowstatic.com/p_e/ISbhv06uy92j3c1000000000.jpg
+"$290,000","1344 Treewood Trl, Marietta, GA 30062",3,3,"2,228",N/A
+"$256,000","2604 Marleigh Farm Rd NW, Kennesaw, GA 30152",3,2,"3,400",https://photos.zillowstatic.com/p_e/ISblyp6n8er3581000000000.jpg
+"$750,000","4720 Cambridge Approach Cir NE, Roswell, GA 30075",5,6,"4,792",https://photos.zillowstatic.com/p_e/ISnqi6l18ihlvb1000000000.jpg
+"$310,000","2112 November Ct NW, Acworth, GA 30102",5,4,"3,632",https://photos.zillowstatic.com/p_e/IS7eylkaat9gww1000000000.jpg
+"$239,900","3925 Maxanne Ct NW, Kennesaw, GA 30144",4,2,"1,548",https://photos.zillowstatic.com/p_e/ISr9wow9ipv8bn1000000000.jpg
+"$227,000","1368 Bexley Pl NW #52, Kennesaw, GA 30144",2,3,"1,793",https://photos.zillowstatic.com/p_e/ISnqqkld3ahehk0000000000.jpg
+"$750,000","4720 Cambridge Approach Cir NE #10, Roswell, GA 30075",5,6,"4,792",https://photos.zillowstatic.com/p_e/IS7qfb1qx47gde0000000000.jpg
+"$260,000","3707 Anna Ct NW, Kennesaw, GA 30144",5,3,"1,388",https://photos.zillowstatic.com/p_e/ISfs64mnrt41jq1000000000.jpg
+"$510,000","3441 Mark Hall Dr NE, Marietta, GA 30062",5,4,"3,413","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$268,500","5019 Shannon Way SW, Mableton, GA 30126",4,2,"2,242","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$242,000","3131 Chase Ct SW, Marietta, GA 30008",3,3,"1,828","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$260,000","939 Tranquil Dr, Austell, GA 30106",4,3,"1,975","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$319,000","39 Shadowlawn Rd SE, Marietta, GA 30067",3,2,"1,898","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.23M,"1513 Bullard Rd, Powder Springs, GA 30127",5,6,"9,562","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$320,000","6259 Park Swing Ln, Mableton, GA 30126",3,4,"1,945","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$299,000","444 Campbell Hill St NW, Marietta, GA 30060",1,1,990,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$372,000","2955 Vine Grove St, Powder Springs, GA 30127",4,4,"2,800","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$343,000","4199 Laurel Creek Ct SE #8, Smyrna, GA 30080",4,4,"2,761","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$299,900","3362 Griffin Ter SE, Smyrna, GA 30082",4,2,"2,079","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$675,000","535 Ridgewater Dr, Marietta, GA 30068",5,4,"3,702","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$449,000","801 Village Greene NW, Marietta, GA 30064",4,5,"4,385","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$245,000","4314 Sorrells Dr, Powder Springs, GA 30127",4,4,"2,522","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$465,000","2797 Avington Ln SE, Smyrna, GA 30080",4,4,"3,175","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$228,000","2198 Tyrone Ct SW, Marietta, GA 30008",3,3,"1,853","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$204,000","3200 Seven Pines Ct UNIT 103, Atlanta, GA 30339",2,2,"1,156","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$323,140","3030 Patriot Sq SW, Marietta, GA 30064",3,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$268,000","1650 N Milford Creek Ln SW, Marietta, GA 30008",3,2.5,"2,162",N/A
+"$418,000","405 Rockford Pass SW, Marietta, GA 30064",4,4,"2,899","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$537,000","1579 Petal Point NW, Kennesaw, GA 30152",4,5,"4,700","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$600,000","3318 Keenland Rd, Marietta, GA 30062",6,5,"4,793","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$472,741","3178 Encore Cir NW, Kennesaw, GA 30152",3,2,"1,999","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$320,000","1483 Pine Mountain Dr, Marietta, GA 30066",4,3,"3,536","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$241,500","1127 Mountain Springs Dr NW, Kennesaw, GA 30144",3,2,"1,968","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$180,000","2633 Saint Charles Ln NW #60, Kennesaw, GA 30144",3,2,"1,003","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$487,500","4215 Loch Highland Pass NE, Roswell, GA 30075",5,4,"3,209","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$300,000","1832 Chasewood Park Dr, Marietta, GA 30066",3,3,"2,728","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$230,000","5129 Acworth Landing Dr, Acworth, GA 30101",3,3,"2,111","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$255,000","5195 Centennial Hill Dr NW, Acworth, GA 30102",4,3,"1,983","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$263,000","1741 Treverton Trce, Powder Springs, GA 30127",5,3,"1,993","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$263,000","1741 Treverton Trce, Powder Springs, GA 30127",5,3,"1,993",https://photos.zillowstatic.com/p_e/ISnqa0784q0oly0000000000.jpg
+"$185,000","1405 Dillon Rd, Austell, GA 30168",2,2,"1,350",https://photos.zillowstatic.com/p_e/ISv0suc287dgzw1000000000.jpg
+"$154,500","1826 Martin Rd SW, Marietta, GA 30008",3,1,"1,000",N/A
+"$200,000","1250 Parkwood Cir SE UNIT 2201, Atlanta, GA 30339",2,2,"1,375",https://photos.zillowstatic.com/p_e/ISvkfyiqo66et90000000000.jpg
+"$339,900","3843 Westwick Way NW, Kennesaw, GA 30152",4,3,"3,246",https://photos.zillowstatic.com/p_e/ISfovsugtatu6x0000000000.jpg
+"$345,500","4733 Stridemore Ct, Mableton, GA 30126",3,3,"2,282",https://photos.zillowstatic.com/p_e/IS7a371c2izurk1000000000.jpg
+"$335,000","1060 Banner Sq, Powder Springs, GA 30127",5,3,"3,002",https://photos.zillowstatic.com/p_e/ISf01l1xwnqzd41000000000.jpg
+"$267,500","232 Angla Dr SE, Smyrna, GA 30082",3,2,"1,564",https://photos.zillowstatic.com/p_e/ISrltqlcoylmsp1000000000.jpg
+"$232,000","4429 Caleb Xing, Powder Springs, GA 30127",3,2,"1,680",https://photos.zillowstatic.com/p_e/ISfw1nkgo9joub0000000000.jpg
+"$299,900","337 Niles Ct #25, Marietta, GA 30060",--,N/A,N/A,N/A
+"$514,475","1293 Crestwind Rd NW, Kennesaw, GA 30152",5,3,"3,264","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$323,140","3030 Patriot Sq SW, Marietta, GA 30064",3,3,"2,113","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$244,000","407 Alexander Cir SE, Marietta, GA 30060",3,1,"1,148","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$130,000","1198 Ashborough Ter SE APT E, Marietta, GA 30067",3,2,"1,404","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$238,400","3300 Windy Ridge Pkwy SE UNIT 1403, Atlanta, GA 30339",1,1,770,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$150,000","1010 Huntington Trce SE, Smyrna, GA 30082",2,3,"1,292","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$492,500","2103 Monhegan Way SE #13, Smyrna, GA 30080",3,5,"4,126","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.64M,"867 Club Moss Ct, Marietta, GA 30068",7,8,"9,346","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$350,000","2029 Nancy Cir SE, Smyrna, GA 30080",3,2,"1,800","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$410,320","613 Russetwood Ln, Powder Springs, GA 30127",4,3,"3,145","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$359,000","625 Aunt Lucy Ln SW SUITE 3, Smyrna, GA 30082",3,2,"2,104","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$350,000","4654 Biscayne Cir, Powder Springs, GA 30127",3,2,"1,974","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$220,000","40 Stroud Dr SE, Mableton, GA 30126",4,3,"2,180","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$183,000","5090 Deer Brook Trl, Austell, GA 30106",3,2,"1,500","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$372,000","2955 Vine Grove St #19, Powder Springs, GA 30127",4,4,"2,800","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$515,000","2839 Tanner Lake Trl NW, Marietta, GA 30064",4,5,"3,191","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$91,500","909 Joseph Club Dr SW, Mableton, GA 30126",2,2,"1,044","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$239,000","317 Foxfire Dr SW, Smyrna, GA 30082",3,2,"1,392","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$150,000","1424 Pair St SE, Marietta, GA 30008",3,1,840,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$193,000","3904 Brianna Dr, Powder Springs, GA 30127",3,2,"2,238","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$430,000","3123 Woodwalk Trce SE #10, Atlanta, GA 30339",4,4,"3,482","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$395,000","4918 Durley Ln SE, Smyrna, GA 30082",4,3,"2,749","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.15M,"881 Gordon Combs Rd NW, Marietta, GA 30064",6,7,"5,396","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$268,000","1650 N Milford Creek Ln SW, Marietta, GA 30008",4,3,"2,455","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$362,500","3149 Ann Rd SE, Smyrna, GA 30080",5,3,"2,340","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$249,900","137 Courtland Cir, Powder Springs, GA 30127",3,3,"1,617","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$170,000","2150 River Heights Ct SE, Marietta, GA 30067",2,2,"1,017","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$325,000","744 Evelyn Ln, Marietta, GA 30008",4,3,"2,984","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$349,999","315 Benson Manor Cir SE, Smyrna, GA 30082",4,3,"2,282","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$270,000","1552 Milford Creek Ln SW, Marietta, GA 30008",3,2,"2,492","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$232,000","4429 Caleb Xing, Powder Springs, GA 30127",3,2,"1,680",https://photos.zillowstatic.com/p_e/ISfw1nkgo9joub0000000000.jpg
+"$412,000","3330 Hill Forest Trl NW, Acworth, GA 30101",3,3,"3,162",https://photos.zillowstatic.com/p_e/ISj71hlak0akhv1000000000.jpg
+"$288,300","2104 Longford Walk NE, Marietta, GA 30066",4,2,"2,954",https://photos.zillowstatic.com/p_e/ISrt3owx1exvfq0000000000.jpg
+"$300,000","2055 Mars Hill Rd NW, Acworth, GA 30101",3,3,"2,074",https://photos.zillowstatic.com/p_e/ISn6bvnj53wlc90000000000.jpg
+"$293,000","1848 Chasewood Park Dr, Marietta, GA 30066",3,3,"2,412",https://photos.zillowstatic.com/p_e/ISn28ulxaasasr1000000000.jpg
+"$225,000","1866 Hamby Place Dr NW, Acworth, GA 30102",3,3,"1,819",https://photos.zillowstatic.com/p_e/ISni8hgymy8w2e1000000000.jpg
+"$709,900","4628 Karls Gate Dr, Marietta, GA 30068",6,5,"3,806",https://photos.zillowstatic.com/p_e/IS7a37hspfrz771000000000.jpg
+"$565,377","1995 Clovercroft Rd NW, Acworth, GA 30101",5,5,"3,878",https://photos.zillowstatic.com/p_e/ISjf7vi5sgxx1i0000000000.jpg
+"$218,000","3943 Hardee Dr NW, Kennesaw, GA 30152",3,2,"1,424",https://photos.zillowstatic.com/p_e/IS3vw4ad6ke5x11000000000.jpg
+"$225,000","4507 High Grove Ct NW, Acworth, GA 30102",3,3,"1,420","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$405,000","4550 Welshfield Ct NW, Kennesaw, GA 30152",4,5,"4,799","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$245,000","3420 Winfair Pl, Marietta, GA 30062",3,2,"1,878","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$463,500","1595 Stoddard Ct NW, Kennesaw, GA 30152",4,4,"3,380","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$361,000","1839 Wilkenson Xing, Marietta, GA 30066",4,3,"2,748","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$279,000","1900 Groover Rd, Marietta, GA 30062",3,3,"2,033","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$287,500","1786 Apple Blvd, Marietta, GA 30066",3,4,"2,441","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$237,000","4009 Maxanne Dr NW, Kennesaw, GA 30144",4,3,"3,254","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$195,000","2072 Cherokee Ridge Trl NW, Kennesaw, GA 30144",3,2,"1,527","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$330,000","3029 Holly Mill Run, Marietta, GA 30062",4,3,"2,512","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$478,000","78 Parkside Cir, Marietta, GA 30068",4,4,"3,504","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$228,500","3975 Saint George Ter SW, Powder Springs, GA 30127",3,2,"1,674","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$320,000","684 King Sword Ct SE, Mableton, GA 30126",4,3,"2,686","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$283,000","6142 Lakeshore Dr SE, Mableton, GA 30126",4,3,"3,365","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$187,000","910 Wynnes Ridge Cir SE, Marietta, GA 30067",2,2,"1,529","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$607,500","345 Lands Ml SE, Marietta, GA 30067",5,5,"4,931","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$391,000","2965 Vine Grove St, Powder Springs, GA 30127",5,4,"3,051","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$191,000","4608 Vinings Central Run SE, Atlanta, GA 30339",2,2,"1,270","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$391,000","2965 Vine Grove St #20, Powder Springs, GA 30127",5,4,"3,051","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$315,000","3187 Sail Winds Dr NW, Acworth, GA 30101",4,3,"2,933","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$229,000","3998 Verbena Dr NW, Kennesaw, GA 30144",3,3,"1,594","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$258,000","6432 Ivey Chase S.e, Mableton, GA 30126",3,3,"2,200",N/A
+"$655,000","80 Old Mountain Rd, Powder Springs, GA 30127",5,4,"4,450","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$277,000","4316 Sentinel Pl NW, Kennesaw, GA 30144",4,3,"2,292","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$355,000","3255 Devaughn Dr NE, Marietta, GA 30066",4,3,"2,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$200,000","2919 Lexington Trace Dr SE, Smyrna, GA 30080",2,3,"1,292","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$325,000","3789 Fisher Dr SW, Smyrna, GA 30082",3,2,"2,228","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$367,000","1293 Parkview Ln NW, Kennesaw, GA 30152",4,3,"3,199","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$475,000","4647 Ivygate Cir SE, Atlanta, GA 30339",4,5,"4,300","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$191,000","4608 Vinings Central Run SE UNIT 135, Atlanta, GA 30339",2,2,"1,270","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$207,500","151 Silver Mine Trl, Austell, GA 30168",3,3,"1,902","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$248,000","1818 Dunrobin Dr SE #35, Smyrna, GA 30082",3,3,"1,840",https://photos.zillowstatic.com/p_e/ISjzmkwnnu2ebf1000000000.jpg
+"$207,500","151 Silver Mine Trl, Austell, GA 30168",3,3,"1,902",https://photos.zillowstatic.com/p_e/ISnexh2yv1x3b81000000000.jpg
+"$218,000","1750 Nan Ct, Austell, GA 30168",4,3,"2,058",https://photos.zillowstatic.com/p_e/ISvkfm5kxwy6cg1000000000.jpg
+"$325,000","3789 Fisher Dr SW, Smyrna, GA 30082",3,2,"2,228",https://photos.zillowstatic.com/p_e/ISjrcv36jzozje0000000000.jpg
+"$200,485","2919 Lexington Trace Dr SE, Smyrna, GA 30080",2,3,"1,292",https://photos.zillowstatic.com/p_e/ISzjdb8vwia3c20000000000.jpg
+"$367,000","1293 Parkview Ln NW, Kennesaw, GA 30152",4,3,"3,199",https://photos.zillowstatic.com/p_e/IS3jnpqowwaefs1000000000.jpg
+"$475,000","4647 Ivygate Cir SE, Atlanta, GA 30339",4,5,"4,300",https://photos.zillowstatic.com/p_e/ISr9gso9y36bhp0000000000.jpg
+"$520,000","2171 Unity Trl NW, Marietta, GA 30064",5,5,"5,133",https://photos.zillowstatic.com/p_e/IS7m4wqp0rcoqw1000000000.jpg
+"$263,500","1474 Barrier Rd, Marietta, GA 30066",3,2,"1,616",https://photos.zillowstatic.com/p_e/IS72lv9e27sm101000000000.jpg
+"$449,900","4326 N Smoke Ridge Ct NE, Roswell, GA 30075",4,4,"3,370","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$341,610","2873 Boone Dr NW #23, Kennesaw, GA 30144",3,4,"2,183","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$335,000","1689 Whitlock Rd, Marietta, GA 30066",3,3,"2,614","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$341,000","1693 Stilesboro Ridge Dr NW, Kennesaw, GA 30152",5,4,"3,800","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$300,000","2287 Holden Way NW, Kennesaw, GA 30144",5,3,"2,492","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$369,000","2366 Nottinghill Dr NW, Kennesaw, GA 30152",5,3,"2,902","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$51,600","2875 Loring Rd NW LOT 16, Kennesaw, GA 30152",0.77,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$190,000","953 Old Farm Walk, Marietta, GA 30066",3,4,"1,626","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$221,900","6444 Mountain, Mableton, GA 30126",3,2,"1,432",N/A
+"$182,500","681 Toliver St NE, Marietta, GA 30060",3,1,992,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$438,000","674 Red Sunset Cir, Powder Springs, GA 30127",5,5,"4,960","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$355,000","1060 Regal Hills Ln, Mableton, GA 30126",4,4,"3,221",N/A
+"$360,000","4604 Planters Hill Dr, Powder Springs, GA 30127",4,3,"2,798","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,350","2845 Appling Way NW, Kennesaw, GA 30152",3,2,"1,424","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$530,000","1555 Menlo Dr NW, Kennesaw, GA 30152",6,5,"3,760","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$705,000","1381 Kings Park Dr NW, Kennesaw, GA 30152",4,5,"3,378","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$300,000","2026 Rocky Point Blf NW, Kennesaw, GA 30152",4,3,"2,361","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$405,000","2706 Harper Woods Dr, Marietta, GA 30062",5,3,"3,130","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$785,000","30 Heatherleigh Ct, Marietta, GA 30068",7,5,"7,060","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$239,900","1632 Kimble Dr SW, Marietta, GA 30064",3,2,"1,378","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$312,900","5827 Cobblestone Creek Cir, Mableton, GA 30126",4,3,"2,569","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$765,000","4035 Southdown Ln, Kennesaw, GA 30152",5,5,"3,800","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$437,500","1359 Echo Mill Ct, Powder Springs, GA 30127",5,5,"3,790","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$490,000","3928 Bridgewater Ln NW, Acworth, GA 30101",4,4,"2,400","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$427,290","1504 Slopeside Loop, Smyrna, GA 30082",4,4,"2,488","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$229,000","6631 Marlin Dr, Austell, GA 30168",5,3,"2,910","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$319,900","301 Niles Ct #31, Marietta, GA 30060",--,N/A,N/A,N/A
+"$186,879","238 Aviation Rd SE, Marietta, GA 30060",3,1,"1,064","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$617,000","870 Birds Ml SE #87, Marietta, GA 30067",5,5,"4,459","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$765,000","4035 Southdown Ln NW, Kennesaw, GA 30152",5,4.5,"3,900","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$289,900","5425 Alanis Pl SE #16, Mableton, GA 30126",3,4,"2,232","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$389,155","1901 Hanwoo Ln, Powder Springs, GA 30127",4,3,"2,908",N/A
+"$186,900","3320 Raes Creek Rd #42, Marietta, GA 30008",2,2,"1,480",https://photos.zillowstatic.com/p_e/ISj7pzfdpnnjnh0000000000.jpg
+"$229,000","6631 Marlin Dr, Austell, GA 30168",5,3,"2,910",https://photos.zillowstatic.com/p_e/ISbhbx5guy5q731000000000.jpg
+"$154,900","77 Gramling St SE, Marietta, GA 30008",Studio,--,"1,650",https://photos.zillowstatic.com/p_e/ISvom26emoaz410000000000.jpg
+"$242,500","3150 Woodwalk Dr SE UNIT 3301, Atlanta, GA 30339",3,2,"1,593",https://photos.zillowstatic.com/p_e/ISvoqdp396sthb0000000000.jpg
+"$319,900","301 Niles Ct #31, Marietta, GA 30060",--,N/A,N/A,N/A
+"$765,000","4035 Southdown Ln NW, Kennesaw, GA 30152",5,4.5,"3,900",https://photos.zillowstatic.com/p_e/IS3v044r9jxu0n0000000000.jpg
+"$247,000","1564 Milford Creek Ln SW, Marietta, GA 30008",3,3,"1,996",https://photos.zillowstatic.com/p_e/ISrx6p2jmdghea0000000000.jpg
+"$140,000","559 Picketts Bend Ct, Marietta, GA 30008",3,2,"1,454",https://photos.zillowstatic.com/p_e/ISbhvguzzsc3b20000000000.jpg
+"$289,900","5425 Alanis Pl SE #16, Mableton, GA 30126",3,4,"2,232","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$380,000","2072 Greenridge St, Smyrna, GA 30080",3,3,"2,012","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$285,000","4060 Elsdon Dr, Austell, GA 30106",4,4,"2,364","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$186,400","238 Aviation Rd SE, Marietta, GA 30060",3,1,"1,064","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$617,000","870 Birds Ml SE #87, Marietta, GA 30067",5,5,"4,459","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$319,900","3820 Baltimore Pl, Acworth, GA 30101",4,3,"2,098","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$247,500","4674 Jamerson Creek Dr, Marietta, GA 30066",3,2,"1,356","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$445,000","3131 Mountain Laurel St NE, Roswell, GA 30075",4,3,"2,622","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$286,000","4486 Glenforest Dr NE, Roswell, GA 30075",4,3,"1,800","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$259,900","2502 Kenneth St, Marietta, GA 30066",2,2,"1,301","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$385,000","2395 Sumter Lake Dr, Marietta, GA 30062",5,3,"2,906","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$405,000","2732 Innsbruck Ln, Marietta, GA 30062",4,3,"3,784","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$559,900","4865 Rockwood Dr, Marietta, GA 30066",5,3,"3,028","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$295,000","1763 Clayhill Pointe SW, Marietta, GA 30064",4,3,"2,492","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$175,000","6214 Queen Meadow Dr SE, Mableton, GA 30126",3,3,"1,522",N/A
+"$350,000","4965 Manna Ln, Powder Springs, GA 30127",5,3,"3,212","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$555,000","560 Glen Eagles Cir SE, Marietta, GA 30067",3,2,"2,262","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$379,500","524 Micayne Cir SE, Smyrna, GA 30082",4,4,"2,756","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$145,000","6257 Austin Dr SW, Mableton, GA 30126",3,1,"1,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$295,000","1763 Clayhill Ct SW, Marietta, GA 30064",4,2.5,"2,462","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$333,000","1309 Echo Mill Ct, Powder Springs, GA 30127",5,4,"2,908","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$290,000","677 Highland Ct, Marietta, GA 30068",4,4,"3,300","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$260,800","4236 Abington Walk NW, Kennesaw, GA 30144",4,4,"2,173","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$204,000","4217 Mastic Pointe BUILDING 22, Acworth, GA 30101",2,3,"1,520","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$174,503","4500 Mars Ct NW, Acworth, GA 30101",3,2,"1,638","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$489,000","3068 Oak Chase Dr NE, Roswell, GA 30075",5,5,"4,600","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$143,000","445 N Sessions St NW #2108, Marietta, GA 30060",1,1,640,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$220,000","254 Norton Cir SE, Smyrna, GA 30082",3,1,"1,100","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$359,900","5816 Vinings Retreat Ct SW, Mableton, GA 30126",4,3,"2,744","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$259,000","1740 Basswood Ct, Marietta, GA 30066",3,2,"1,716","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$530,000","2216 Austin Lake Dr SE, Smyrna, GA 30082",4,4,"3,085","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$417,810","1516 Slopeside Loop, Smyrna, GA 30082",4,4,"2,370",https://photos.zillowstatic.com/p_e/IS3bphnv9igj2s1000000000.jpg
+"$183,000","4024 Lindley Way, Powder Springs, GA 30127",3,2,"2,396",https://photos.zillowstatic.com/p_e/ISjjebznyihq2b0000000000.jpg
+"$150,000","4893 Duncan Dr, Powder Springs, GA 30127",3,2,"1,638",https://photos.zillowstatic.com/p_e/IS7qbosc6wjtw00000000000.jpg
+"$219,800","4816 Winding Ln, Powder Springs, GA 30127",3,3,"1,830",https://photos.zillowstatic.com/p_e/ISfs6kuggkchds0000000000.jpg
+"$425,000","1520 Slopeside Loop, Smyrna, GA 30082",4,4,"2,370",https://photos.zillowstatic.com/p_e/ISnmjog1d06icy0000000000.jpg
+"$530,000","2216 Austin Lake Dr SE, Smyrna, GA 30082",4,4,"3,085",https://photos.zillowstatic.com/p_e/ISbtozhh8c2kga1000000000.jpg
+"$425,000","515 Vinings Estates Dr SE, Mableton, GA 30126",4,5,"2,902",N/A
+"$350,000","4029 Dorchester Walk NW, Kennesaw, GA 30144",5,4,"4,019",https://photos.zillowstatic.com/p_e/ISrt3ocu9y06t40000000000.jpg
+"$350,000","2830 Missy Dr, Marietta, GA 30062",5,4,"2,200",https://photos.zillowstatic.com/p_e/ISbhzbxx9q4pnz0000000000.jpg
+"$420,000","3632 Lone Indian Trl, Marietta, GA 30066",4,4,"3,473","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$555,000","2560 Old Orchard Trl, Marietta, GA 30062",4,3,"2,580","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$351,100","2094 Dayron Cir, Marietta, GA 30062",4,3,"2,920","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$320,000","3292 Standing Peachtree Trl NW, Kennesaw, GA 30152",5,3,"3,843","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$205,000","2503 Brooks Dr, Austell, GA 30106",5,3,"2,250","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$866,900","2033 Anderson Dr SE, Smyrna, GA 30080",6,6,"5,873","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$240,000","67 Trammell St SW, Marietta, GA 30064",2,1,976,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$465,000","3405 Belridge Dr SE, Smyrna, GA 30080",5,4,"3,479","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$219,900","4660 Lost Mountain Dr, Powder Springs, GA 30127",3,2,"1,664","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$450,000","135 Collins Lake Cir, Mableton, GA 30126",6,5,"4,711","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$140,500","2551 Park Rd SE, Smyrna, GA 30080",2,3,"1,536","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.23M,"4619 Woodland Brook Dr SE, Atlanta, GA 30339",6,6,"6,002","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$525,000","2657 Chimney Springs Dr, Marietta, GA 30062",5,4,"3,516","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$387,000","4491 Windsor Trce, Marietta, GA 30066",3,3,"2,516","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$243,500","2141 Summerville Ct, Marietta, GA 30062",3,2,"1,456","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$374,000","2057 Sanderlings Dr NW, Kennesaw, GA 30152",5,4,"3,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$329,900","318 Rockmoor Trl, Marietta, GA 30066",4,3,"2,560","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$279,000","3812 Seattle Pl NW, Kennesaw, GA 30144",3,3,"2,435","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$375,000","301 Berkeley Ct SE, Smyrna, GA 30080",4,4,"2,856","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$209,000","218 Parkview Dr SE, Marietta, GA 30060",3,2,988,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$505,000","5078 Old Mountain Trl, Powder Springs, GA 30127",6,6,"3,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$287,000","3987 Covey Flush Ct SW, Smyrna, GA 30082",3,4,"2,007","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$269,550","29 Burrus Ln SW, Mableton, GA 30126",4,3,"2,548","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$230,000","260 Manning Rd SW UNIT 61, Marietta, GA 30064",3,4,"2,172","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$332,000","991 Shirley St, Smyrna, GA 30082",3,3,"12,080","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$142,000","1132 Pontiac Cir, Austell, GA 30168",3,1,"1,056","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$499,999","2861 Watchtower Approach NW, Marietta, GA 30064",5,5,"3,946","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$210,000","109 Spring Heights Ln SE #1109, Smyrna, GA 30080",2,2,"1,382","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$205,000","2355 Horseshoe Bend Rd SW, Marietta, GA 30064",4,3,"1,980","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$170,000","1233 Angelia Dr SW, Mableton, GA 30126",3,2,"1,895","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$206,500","1109 Langrage Dr SW, Marietta, GA 30008",3,3,"1,449","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$450,000","135 Collins Lake Cir #135, Mableton, GA 30126",--,--,--,N/A
+"$282,685","28 Burrus Ln, Mableton, GA 30126",4,3,--,https://photos.zillowstatic.com/p_e/ISnupyy9qq62pw1000000000.jpg
+"$117,000","1814 Ashborough Rd SE APT D, Marietta, GA 30067",3,2,"1,310",https://photos.zillowstatic.com/p_e/ISvwgb3gfd1fzx0000000000.jpg
+"$205,000","2355 Horseshoe Bend Rd SW, Marietta, GA 30064",4,3,"1,980",https://photos.zillowstatic.com/p_e/ISbhfwv6xg96ds0000000000.jpg
+"$210,000","109 Spring Heights Ln SE #1109, Smyrna, GA 30080",2,2,"1,382",https://photos.zillowstatic.com/p_e/ISfwl220inccf81000000000.jpg
+"$499,999","2861 Watchtower Approach NW, Marietta, GA 30064",5,5,"3,946",https://photos.zillowstatic.com/p_e/ISvslkish6kmf21000000000.jpg
+"$480,000","4667 Jefferson Township Ln, Marietta, GA 30066",5,3,"4,479",https://photos.zillowstatic.com/p_e/IS37ixvd911ddb0000000000.jpg
+"$255,000","4973 Braeburn Trce NW, Acworth, GA 30102",3,3,"1,902",https://photos.zillowstatic.com/p_e/ISf40jm02yserx0000000000.jpg
+"$845,000","3950 Straton Hall Way, Marietta, GA 30066",6,5,"5,206",https://photos.zillowstatic.com/p_e/IS7eanhqdhdvv70000000000.jpg
+"$295,000","4706 Reann Way NE, Kennesaw, GA 30144",4,3,"3,478",N/A
+"$365,000","150 Dickson Rd, Marietta, GA 30066",4,5,"3,958","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$142,500","1042 Plantation Way NW, Kennesaw, GA 30144",2,3,"1,164","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$332,000","2879 Manitoba Ct, Marietta, GA 30062",4,3,"2,199","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$375,000","2651 Ravenoaks Pl, Marietta, GA 30062",3,3,"2,384","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$165,000","3494 Lee Ct NW, Kennesaw, GA 30144",2,3,"1,162","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$570,000","205 Rippling Dr NW, Marietta, GA 30064",6,5,"5,165","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$303,500","5164 Heritage Oaks Ct SW, Powder Springs, GA 30127",5,3,"4,007","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$282,000","1609 Bellchase Dr SW, Marietta, GA 30064",3,2,"2,240","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$525,000","5053 Belair Bluff Ct SE, Mableton, GA 30126",4,4,"3,347","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$325,000","2622 Octavia Ln, Marietta, GA 30062",3,2,"2,500","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$280,000","2967 Sandy Ln SE, Smyrna, GA 30082",3,2,"1,340","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$352,000","1848 Eveningside Way NW, Kennesaw, GA 30152",5,3,"3,390","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$375,000","3930 Pheasant Cir SE, Marietta, GA 30067",4,3,"2,656","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$207,300","317 Phillips Dr SE, Marietta, GA 30060",2,1,"1,056","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$352,500","3185 Jay Ln SE, Smyrna, GA 30080",3,2,"1,657","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$525,000","1021 Grey Village Way, Marietta, GA 30068",4,4,"2,526","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$137,000","852 Bonnie Glen Dr SE, Marietta, GA 30067",1,2,"1,048","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$238,000","3097 Nectar Dr, Powder Springs, GA 30127",4,3,"2,112","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$239,900","2070 Dundee Dr SE, Smyrna, GA 30080",3,2,"1,100","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$203,000","4155 Brookwood Dr, Austell, GA 30106",3,2,"1,325","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$293,000","173 Woods Dr NE, Marietta, GA 30060",3,2,"1,448","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$515,000","3279 Millwood Trl SE, Smyrna, GA 30080",4,3,"2,890","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$225,000","2638 Foxglove Dr SW, Marietta, GA 30064",3,3,"2,309","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$190,700","38 Tatum St SW, Marietta, GA 30060",3,2,"1,100","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$295,000","4181 Deerwood Pkwy SE, Smyrna, GA 30082",3,2,"2,500","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$199,900","1949 Lakeshore Overlook Cir NW, Kennesaw, GA 30152",2,3,"1,696","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$310,000","3758 Mashie Ct NW, Acworth, GA 30101",4,3,"2,650","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$467,000","4963 Leifs Lndg, Marietta, GA 30068",4,3,"4,202","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$543,500","2996 Clary Hill Ct NE, Roswell, GA 30075",5,4,"3,307","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$318,000","4375 Rolling Oaks Ct NW, Kennesaw, GA 30152",5,3,"3,491","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$440,000","2119 Tigger Trce NE, Marietta, GA 30066",5,4,"4,304",https://photos.zillowstatic.com/p_e/ISjf3gogromi9e0000000000.jpg
+"$275,750","2929 Alberta Dr, Marietta, GA 30062",3,2,"1,807",https://photos.zillowstatic.com/p_e/ISnquvkfebh0xz0000000000.jpg
+"$221,500","313 Niblewill Pl #29, Marietta, GA 30066",3,3,"1,700",https://photos.zillowstatic.com/p_e/ISrp4mwrhzm3a01000000000.jpg
+"$677,000","3220 Sundew Dr NW, Acworth, GA 30101",6,5,"6,579",https://photos.zillowstatic.com/p_e/ISfkklultg374w0000000000.jpg
+"$280,000","3788 Kirkwood Run NW, Kennesaw, GA 30144",3,2.5,"2,140",https://photos.zillowstatic.com/p_e/ISyzzjd2f4g61v.jpg
+"$350,000","4187 Arbor Spring Dr, Marietta, GA 30066",3,3,"2,358",https://photos.zillowstatic.com/p_e/ISrha1ulwji1o81000000000.jpg
+"$527,000","5008 Rathwood Cir SW, Powder Springs, GA 30127",3,3,"3,200",https://photos.zillowstatic.com/p_e/ISfg9uqandyizb0000000000.jpg
+"$310,000","2310 Old Orchard Dr, Marietta, GA 30068",4,4,"3,150",https://photos.zillowstatic.com/p_e/IS72dtq3x9r3d50000000000.jpg
+"$336,900","4736 Wehunt Trl SE, Smyrna, GA 30082",3,4,"2,382",https://photos.zillowstatic.com/p_e/ISniswpv9iqxix0000000000.jpg
+"$387,000","3530 Oconee Trl, Marietta, GA 30062",4,3,"2,680","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$217,000","4223 Zephyrhills Dr NW, Acworth, GA 30101",3,3,"1,248","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$348,000","1350 Linley Trce NE, Marietta, GA 30066",5,3.5,"3,500","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$225,000","3980 Riverlook Pkwy SE UNIT 104, Marietta, GA 30067",2,2,"1,236","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$273,000","3375 Landrum Dr SE, Smyrna, GA 30082",3,2,"1,700","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$120,000","886 Lake Hollow Blvd SW #5, Marietta, GA 30064",3,3,"1,839","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$367,300","4741 Stridemore Ct, Mableton, GA 30126",4,4,"2,621","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$745,500","460 Summit Club Dr, Marietta, GA 30068",6,4,"4,375","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$154,000","3270 Mustang Dr, Powder Springs, GA 30127",5,2,"1,568","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$416,500","239 Millbrook Farm Rd, Marietta, GA 30068",4,3,"2,864","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$580,000","3281 Belmont Glen Dr SE, Marietta, GA 30067",4,4,"3,796","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$390,000","2734 Parkwood Rd SE, Smyrna, GA 30080",3,2,"2,391","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$412,339","557 Onyx Lndg, Marietta, GA 30064",4,4,"2,550","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$220,000","1068 Creatwood Cir SE, Smyrna, GA 30080",2,2.5,"1,510","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$515,000","5330 Tallgrass Way NW, Kennesaw, GA 30152",5,4,"2,800","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$130,000","6915 Gallant Cir SE #12, Mableton, GA 30126",3,3,"1,212","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$595,000","195 Jackson Heights Ln, Kennesaw, GA 30064",4,4,"3,848","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$204,900","6095 Venetian Way SW, Mableton, GA 30126",4,3,"1,764","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$265,000","3812 Stonewall Ter SE, Atlanta, GA 30339",3,3,"1,936","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$205,000","210 Bonnes Dr, Austell, GA 30168",4,3,"2,090","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$279,900","2002 Devonhurst Dr, Powder Springs, GA 30127",4,3,"2,804","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$382,000","430 Berrypatch Ln SE, Marietta, GA 30067",3,3,"2,208","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$370,000","3009 Devoncroft St SE, Smyrna, GA 30080",3,4,"1,989","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$255,000","4100 Paces Walk SE UNIT 3301, Atlanta, GA 30339",2,2,"1,371","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$320,000","202 Wyndham Woods Trl, Powder Springs, GA 30127",3,3,"2,180","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$240,000","5547 Burgess Dr SW, Mableton, GA 30126",3,3,"1,652","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$198,000","1531 Springleaf Cv SE, Smyrna, GA 30080",2,3,"1,386","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$520,000","4431 Crestoak Dr, Smyrna, GA 30082",6,5,"4,850","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$335,000","4204 Laurel Creek Ct SE #6, Smyrna, GA 30080",3,4,"2,513","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$290,000","1558 Vine Leaf Dr, Powder Springs, GA 30127",4,3,"2,224","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$615,000","3656 Sope Creek Farm SE, Marietta, GA 30067",5,5,"4,733","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$273,000","3375 Landrum Dr SE, Smyrna, GA 30082",3,2,"1,700",https://photos.zillowstatic.com/p_e/ISvouog7wt20170000000000.jpg
+"$595,000","195 Jackson Heights Ln, Kennesaw, GA 30064",4,4,"3,848",https://photos.zillowstatic.com/p_e/IS3fsi5adrzimj0000000000.jpg
+"$520,000","4431 Crestoak Dr, Smyrna, GA 30082",6,5,"4,850",https://photos.zillowstatic.com/p_e/ISfsyhrewrf0z71000000000.jpg
+"$204,900","6095 Venetian Way SW, Mableton, GA 30126",4,3,"1,764",https://photos.zillowstatic.com/p_e/ISbdk5bvgvp3x70000000000.jpg
+"$335,000","4204 Laurel Creek Ct SE #6, Smyrna, GA 30080",3,4,"2,513",https://photos.zillowstatic.com/p_e/ISj71dqv0ga3lf1000000000.jpg
+"$369,900","2244 Saluda Ln NW, Acworth, GA 30101",4,4,"4,447",https://photos.zillowstatic.com/p_e/ISfsm0m9z3uzeu1000000000.jpg
+"$599,900","970 W Point Dr, Marietta, GA 30068",5,5,"3,628",https://photos.zillowstatic.com/p_e/ISnmvhnj6tcwkg0000000000.jpg
+"$325,000","4301 Alison Jane Dr NE, Kennesaw, GA 30144",4,3,"2,534",https://photos.zillowstatic.com/p_e/ISv4jissgz37zd1000000000.jpg
+"$345,007","3431 Camelot Dr, Marietta, GA 30062",4,2,"2,300",https://photos.zillowstatic.com/p_e/IS33z78ygm5r910000000000.jpg
+"$815,000","3778 Sweat Creek Run, Marietta, GA 30062",6,6,"5,318","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$309,900","2903 Carrollton Ct, Marietta, GA 30066",4,3,"2,899","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$540,000","4571 Brigade Ct NE, Roswell, GA 30075",5,5,"4,928","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$265,500","3582 Ridings Ct NW, Kennesaw, GA 30144",3,2,"1,553","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$450,000","3290 Lantern Coach Ln NE, Roswell, GA 30075",4,3,"4,244","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$660,000","3156 Denton Pl NE, Roswell, GA 30075",5,6,"5,934","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$175,000","2507 Thorngate Dr, Acworth, GA 30101",2,3,"1,232","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$220,000","3925 Manhattan Dr NE, Kennesaw, GA 30144",3,2,"1,491","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$305,000","4523 Hunting Hound Ln, Marietta, GA 30062",5,3,"3,856","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$430,000","1731 Millhouse Run, Marietta, GA 30066",6,4,"5,130","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$369,900","3909 Rivaridge Ct, Marietta, GA 30062",4,3,"3,300","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$205,000","954 Ballew Dr, Marietta, GA 30066",3,3,"1,652","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$230,000","1695 E Lake Dr, Marietta, GA 30062",7,3,"1,602","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$355,368","2871 Boone Dr NW #24, Kennesaw, GA 30144",3,4,"2,183","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$242,000","2537 Hedgerow Dr NE, Marietta, GA 30066",3,3,"1,615","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$317,000","4285 Grand Oaks Dr NW, Kennesaw, GA 30144",5,3,"2,487","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$795,000","3492 Nettle Ln NE, Roswell, GA 30075",6,6,"5,430","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$295,000","1064 Brackett Rd, Marietta, GA 30066",4,3,"2,061","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$775,000","2078 Kilbirnie Ct NW, Kennesaw, GA 30152",6,6,"5,318","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$810,000","4797 Old Timber Ridge Rd NE, Marietta, GA 30068",6,6,"5,883","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$249,000","4958 Braeburn Trce NW, Acworth, GA 30102",4,3,"2,786","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$726,250","1968 Lasalle Way, Marietta, GA 30062",5,5,"4,910","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$257,000","1302 Parkaire Xing, Marietta, GA 30068",3,4,"2,286",N/A
+"$132,000","2940 Hall Dr SE, Smyrna, GA 30082",2,1,768,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$419,800","6467 Century Park Pl SE, Mableton, GA 30126",6,5,"4,220","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$302,000","413 Doeskin Ln SE, Smyrna, GA 30082",3,2,"1,332","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$150,000","1741 Seayes Rd, Austell, GA 30106",3,2,"2,080",N/A
+"$189,000","6890 William Rd, Austell, GA 30168",3,2,"1,232","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$725,000","4712 Talleybrook Dr NW, Kennesaw, GA 30152",4,5,"5,304","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$430,000","5635 Bay Island Cay NW, Acworth, GA 30101",3,2,"1,868","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$269,000","4505 Silver Pointe, Acworth, GA 30101",4,4,"2,630","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$269,000","4505 Silver Pointe, Acworth, GA 30101",4,4,"2,630",https://photos.zillowstatic.com/p_e/ISj7lgm21s1xyb0000000000.jpg
+"$360,000","4461 Mclain Cir, Acworth, GA 30101",4,3,"2,680",https://photos.zillowstatic.com/p_e/ISfcmdfv8al6zk0000000000.jpg
+"$180,000","4723 Liberty Square Dr, Acworth, GA 30101",2,3,"1,619",https://photos.zillowstatic.com/p_e/IS3zf674niyq5r0000000000.jpg
+"$266,000","4550 Queen Anne Ct SE, Mableton, GA 30126",3,3,"1,884",https://photos.zillowstatic.com/p_e/ISzb32kj83giu31000000000.jpg
+"$229,000","3090 Clifton Rd SE, Smyrna, GA 30080",3,2,"1,175",https://photos.zillowstatic.com/p_e/ISv0gld75tsfdb0000000000.jpg
+"$300,420","26 Burrus Ln, Mableton, GA 30126",5,4,"3,004",https://photos.zillowstatic.com/p_e/ISnmraj45ynem20000000000.jpg
+"$125,000","6268 Florrie Dr SW, Mableton, GA 30126",3,1.5,"1,125",https://photos.zillowstatic.com/p_e/ISfksjuy0x1u941000000000.jpg
+"$126,000","6526 Arbor Gate Dr SW, Mableton, GA 30126",3,3,"1,430",https://photos.zillowstatic.com/p_e/ISf48lttpw0zzd0000000000.jpg
+"$300,420","26 Burrus Ln SW, Mableton, GA 30126",5,4,"3,004",https://photos.zillowstatic.com/p_e/ISnmjsje87frfh1000000000.jpg
+"$195,000","4533 Vinings Central Trce SE UNIT 84, Atlanta, GA 30339",2,2,"1,350","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$165,000","5622 Austell Powder Springs Rd, Austell, GA 30106",3,2,"1,150","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$335,000","3758 Ashwood Dr SE, Smyrna, GA 30080",3,2,"1,686","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$256,000","5047 Sunbrook Dr NW, Acworth, GA 30101",3,2,"2,196","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$370,000","2087 Kincaid Cv, Marietta, GA 30066",4,3,"2,944","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$556,000","2399 Black Swan Ln NW, Acworth, GA 30101",7,6,"5,633","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$490,000","5873 Wildlife Trl NW, Acworth, GA 30101",4,5,"3,483","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$272,500","2657 Green Meadow Ln NE, Marietta, GA 30066",4,3,"1,980","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$499,000","3691 Forest Peak Lndg, Marietta, GA 30066",5,5,"3,740","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$269,000","4505 Silver Pointe Point, Acworth, GA 30101",4,4,"2,630","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$345,000","149 Parkstone Way, Marietta, GA 30066",5,3,"2,872","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$330,000","3800 Kemp Ridge Rd NW, Acworth, GA 30101",3,2,"1,794","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$457,000","1461 Mountain Reserve Dr NW, Kennesaw, GA 30152",5,5,"4,463","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$341,000","25 Vinings Lake Dr SW, Mableton, GA 30126",4,3,"2,763","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$231,500","5954 Vinings Vintage Cir Se, Mableton, GA 30126",4,4,"2,500",N/A
+"$427,900","701 Braidwood Rdg NW, Acworth, GA 30101",4,4,"4,090","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$259,000","2700 Sanibel Ln SE, Smyrna, GA 30082",5,3,"1,608","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$280,000","2316 Estapa Dr, Powder Springs, GA 30127",4,2.5,"2,242",N/A
+"$180,000","2585 Overlake Dr, Powder Springs, GA 30127",3,2,"1,381","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$290,000","1178 Oakview Dr SE, Smyrna, GA 30080",3,1,"1,420",N/A
+"$281,000","3986 Covey Flush Ct SW #19, Smyrna, GA 30082",4,4,"2,299","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$350,000","3087 Prestwick Pl SE, Smyrna, GA 30080",3,2,"1,400","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$645,000","3332 Keenland Rd, Marietta, GA 30062",6,5,"4,564","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$339,900","3253 Rangers Gate, Marietta, GA 30062",4,4,"3,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$237,000","1451 Ebb Ct NE, Marietta, GA 30066",3,2,"1,601","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$825,000","2408 Winter Garden Pl, Marietta, GA 30064",5,6,"7,421","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$360,000","2201 E Lee Rd SE, Smyrna, GA 30080",3,3,"2,442","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$755,000","342 Lands Ml SE, Marietta, GA 30067",6,5,"5,685","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$725,000","3071 Farmington Ln SE, Atlanta, GA 30339",3,2,"2,443","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$368,500","5631 Vinings Place Trl, Mableton, GA 30126",4,3,"3,047","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$220,600","2185 Trailwood Dr SE, Smyrna, GA 30080",4,2,"1,125","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$475,000","242 Freyer Dr NE, Marietta, GA 30060",3,3,"1,996",https://photos.zillowstatic.com/p_e/ISvkzpdobtix5i1000000000.jpg
+"$211,000","794 Pine Lake Dr NW, Marietta, GA 30064",3,2,"1,304",https://photos.zillowstatic.com/p_e/ISf05kbz5cpfyl1000000000.jpg
+"$200,000","1689 Grist Mill Dr, Marietta, GA 30062",2,3,"1,880",https://photos.zillowstatic.com/p_e/ISjji2j8el0jjw0000000000.jpg
+"$500,000","458 Pegamore Creek Dr, Powder Springs, GA 30127",5,5,"5,088",N/A
+"$243,000","3161 Woods Ln SW, Marietta, GA 30060",3,2,"1,216",https://photos.zillowstatic.com/p_e/ISne5oskuai8120000000000.jpg
+"$232,000","3180 Woods Ln SW, Marietta, GA 30060",3,2,"1,129",https://photos.zillowstatic.com/p_e/ISjzuu54993jpj0000000000.jpg
+"$250,000","1510 Wilson Cir SW, Marietta, GA 30064",3,2,"1,650",https://photos.zillowstatic.com/p_e/ISfseie1vyqe8q1000000000.jpg
+"$390,970","1897 Hanwoo Ln, Powder Springs, GA 30127",5,3,"3,310",https://photos.zillowstatic.com/p_e/ISjj2edvbzyrfx1000000000.jpg
+"$267,000","4826 Longcourt Dr SE UNIT 3, Atlanta, GA 30339",3,4,"2,328",https://photos.zillowstatic.com/p_e/IS7uigaot939wx1000000000.jpg
+"$206,000","1084 Azalea Cir, Marietta, GA 30062",3,2,"1,334","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$216,000","3327 Country Creek Dr NW, Kennesaw, GA 30152",3,2,"1,446","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$218,500","1946 Lake Heights Cir NW #17, Kennesaw, GA 30152",3,3,"1,981","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$167,000","2391 Woodland Dr NW, Kennesaw, GA 30152",3,2,"1,100","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$237,500","3702 Abbott Ct #10, Powder Springs, GA 30127",3,2,"1,796","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$450,000","1179 Drewsbury Ct SE, Smyrna, GA 30080",4,3,"2,680","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$105,000","6882 Gallant Cir SE, Mableton, GA 30126",2,3,"1,216","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$210,000","3325 Brookfield Dr, Austell, GA 30106",5,3,"1,412","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$225,000","808 Vinings Forest Ln SE, Smyrna, GA 30080",3,3,"1,786","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$169,500","61 Yvette Ct NE, Kennesaw, GA 30144",3,2,"1,131","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$355,000","1959 Westover Ln NW, Kennesaw, GA 30152",5,4,"4,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$370,000","3430 Pebble Hill Dr, Marietta, GA 30062",4,3,"2,696","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$247,000","4358 Inverary Walk NE, Roswell, GA 30075",4,3,"3,640","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$207,500","1001 Marina Trace Dr, Acworth, GA 30101",3,2,"1,229","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$312,000","4322 Martingale Ln, Acworth, GA 30101",4,3,"3,123","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$360,000","2701 Prado Ln, Marietta, GA 30066",3,3,"2,683","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$499,900","4827 Registry Dr NW, Kennesaw, GA 30152",5,5,"4,556","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$435,000","3611 High Green Dr, Marietta, GA 30068",4,4,"2,392","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$485,000","4930 Durley Ln SE, Smyrna, GA 30082",5,4,"4,289","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$325,000","1213 Comet View Trl SE, Smyrna, GA 30082",3,4,"3,065","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$265,000","1073 Sugar Springs Dr SW, Marietta, GA 30008",3,3,"1,833","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$215,000","478 Benson Hurst Dr SW, Mableton, GA 30126",3,2,"1,652","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$354,900","1936 Tristan Dr SE, Smyrna, GA 30080",3,3,"2,973","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$265,000","1073 Sugar Springs Dr SW #8, Marietta, GA 30008",3,4,"1,833","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$378,000","224 Mayfair Pl NW, Marietta, GA 30064",4,4,"2,749","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$380,000","3968 Ridgewood Dr SE, Smyrna, GA 30080",4,3,"2,897","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$170,000","36 Springhedge Ct SE, Smyrna, GA 30080",2,2,"1,436","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$322,500","2097 Halfmoon Blf NW, Kennesaw, GA 30152",4,3,"3,085","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$235,000","4917 October Way NW, Acworth, GA 30102",3,2,"1,366","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$390,000","1618 Longmoor Ln SE, Smyrna, GA 30080",3,4,"2,666","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$350,000","5016 Ridgemont Walk, Atlanta, GA 30339",4,4,"2,345","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"

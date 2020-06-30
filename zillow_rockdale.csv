@@ -1,0 +1,761 @@
+price,address,bds,ba,sqft,image
+"$325,000","1559 Hi Roc Rd NE, Conyers, GA 30012",4,3,"4,800",https://photos.zillowstatic.com/p_e/ISvknsfuv4okpa0000000000.jpg
+"$170,000","1474 Bourdon Bell Dr SE, Conyers, GA 30013",3,2,"2,331",https://photos.zillowstatic.com/p_e/ISzzp7adusdmx10000000000.jpg
+"$165,000","1242 Pine Knoll Ln NE, Conyers, GA 30013",3,3,"2,062",https://photos.zillowstatic.com/p_e/ISr1mf8m0znz8m0000000000.jpg
+"$122,555","1477 Revel Cove Dr SW, Conyers, GA 30094",3,2,"1,196",N/A
+"$203,000","1707 Little Brook Dr SW, Conyers, GA 30094",3,2,"1,683",https://photos.zillowstatic.com/p_e/ISvk78xt5wskct1000000000.jpg
+"$250,140","1329 Brookstone Lake Dr NE, Conyers, GA 30012",4,3,"2,356",https://photos.zillowstatic.com/p_e/ISjr499t4m4zh30000000000.jpg
+"$250,140","1329 Brookstone Lake Dr #70, Conyers, GA 30012",4,3,--,https://photos.zillowstatic.com/p_e/ISjrcff41effo00000000000.jpg
+"$429,900","179 Barclay Dr #69, Mcdonough, GA 30252",4,5,--,https://photos.zillowstatic.com/p_e/IS764h6e5fcg6z0000000000.jpg
+"$179,000","3320 Coach House Ct, Conyers, GA 30013",3,3,"2,012",https://photos.zillowstatic.com/p_e/ISrlxlc5mxy71p1000000000.jpg
+"$25,000","2036 Carr Rd NE, Conyers, GA 30012",2,1,768,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$391,000","1971 Eagle Ridge Dr SW, Conyers, GA 30094",5,4,"4,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$264,100","2324 Deerfield Chase SE, Conyers, GA 30013",4,3,"2,378","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$198,000","2105 Lost Forest Ln SW, Conyers, GA 30094",3,2,"2,559","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$110,000","1680 Holmes Dr SW, Conyers, GA 30094",5,4,"2,091","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$198,950","1665 Valley View Rd, Covington, GA 30016",3,2,"2,538","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$420,400","1408 Kings Point Way SW, Conyers, GA 30094",5,4,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$180,000","2346 Jennas Way SE, Conyers, GA 30013",3,2,"1,731","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$198,000","2105 Lost Forest Ln SW #20, Conyers, GA 30094",3,2,"2,559","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$244,977","2260 Annes Lake Cir #33, Lithonia, GA 30058",4,3,"2,135","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$146,360","0 Chandler Rd NE, Conyers, GA 30012",13.97,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$239,900","2410 Twin Branches Ln, Conyers, GA 30013",4,3,"2,599","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$233,300","105 Shadow Lake Dr, Conyers, GA 30094",4,2,"2,345","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$274,900","576 Clubland Cir SE, Conyers, GA 30094",6,4,"3,607","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$360,000","2000 Ebenezer Rd SW, Conyers, GA 30094",3,3,"3,682","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$205,000","3897 Hunters Chase SW, Conyers, GA 30094",4,3,"2,516","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$245,000","1900 Bent Oak Way, Conyers, GA 30013",5,3,"2,790","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$332,000","2381 Lost Valley Trl SE, Conyers, GA 30094",5,4,"5,118","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$360,000","1860 Mcdaniel Mill Rd SW, Conyers, GA 30094",3,3,"2,126","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$359,900","1305 Ruth Ln SW, Conyers, GA 30094",4,1,--,N/A
+"$169,000","520 Sugar Valley Ln SE, Conyers, GA 30094",4,3,"2,062","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$139,000","1937 Paces Landing Ct NW, Conyers, GA 30012",4,3,"2,092","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$113,000","1149 Crestview Cir NE, Conyers, GA 30012",3,1,"1,040","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$260,000","2931 Revere Cv NE, Conyers, GA 30012",5,4,"3,623","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$138,000","1712 Sigman Rd NW, Conyers, GA 30012",3,2,"1,249","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$175,500","1193 Maple St SE, Conyers, GA 30013",3,2,"1,816","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$300,000","2051 Irwin Bridge Rd NW, Conyers, GA 30012",4,4,"4,120","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$137,000","1608 Picadilly Ct NE, Conyers, GA 30013",3,2,"1,500","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$146,000","3292 Old Salem Rd SE, Conyers, GA 30013",3,2,"1,883","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$237,000","1310 N Brandy Shls SE, Conyers, GA 30013",4,4,"3,142","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$138,000","1712 Sigman East Dr NW, Conyers, GA 30012",3,2,"1,249","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$389,800","316 Dovehouse St #44, Mcdonough, GA 30252",5,5,--,https://photos.zillowstatic.com/p_e/IS3fwp17zrtlo60000000000.jpg
+"$157,000","600 Kingston Ln NW, Conyers, GA 30012",3,2,"21,218",https://photos.zillowstatic.com/p_e/ISb5m5e0ff545y0000000000.jpg
+"$245,334","2342 Annes Lake Cir #23, Lithonia, GA 30058",3,3,"2,125",https://photos.zillowstatic.com/p_e/ISb1zomo8mpi1u1000000000.jpg
+"$277,850","7719 Hansel Ln, Lithonia, GA 30058",4,3,"2,544",https://photos.zillowstatic.com/p_e/ISjbckutxw7xe40000000000.jpg
+"$165,000","1361 Stoneleigh Dr, Conyers, GA 30094",3,2,"1,674",https://photos.zillowstatic.com/p_e/ISrxene12tu30y0000000000.jpg
+"$160,000","900 Sage Ln NW, Conyers, GA 30012",3,2,"2,206",https://photos.zillowstatic.com/p_e/ISzzhh0qeo6eop1000000000.jpg
+"$429,900","3206 Letha Woods Dr #75, Conyers, GA 30094",5,4,--,N/A
+"$300,000","2123 Farmdale Ct, Conyers, GA 30012",5,3,"2,775",https://photos.zillowstatic.com/p_e/IS3jjuvomo740w1000000000.jpg
+"$89,900","1744 Ridge Ct SE, Loganville, GA 30013",2,2.5,"1,170",https://photos.zillowstatic.com/p_e/IS7ua2uf2jhy280000000000.jpg
+"$309,000","1741 Carissa Dr #48, Conyers, GA 30094",5,3,"3,238","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$298,000","2827 Highway 20 NE, Conyers, GA 30012",5,3,"3,100","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$309,000","1741 Carissa Dr, Conyers, GA 30094",5,3,"3,238","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$115,000","1114 W Adrian Cir SW, Conyers, GA 30094",3,2,"1,056","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$332,060","2600 Ginger Mist Way NE, Conyers, GA 30013",5,4,"2,981","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$250,000","3266 Boulder Dr SW, Stockbridge, GA 30281",3,4,"1,440","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$92,500","1418 Eastmont Dr NW, Conyers, GA 30012",3,3,"1,344","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$248,640","1217 Brookstone Cir, Conyers, GA 30012",4,3,"2,356","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$212,000","6476 Bellevue Dr SW, Conyers, GA 30094",7,4,"4,150","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$332,060","2600 Ginger Mist Way NE #71, Conyers, GA 30013",5,4,"2,984","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$459,165","3230 Ashmore Ct SW, Conyers, GA 30094",5,4,"4,100","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$230,000","5132 Brentwood Ln SE, Conyers, GA 30094",4,3,"3,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$161,900","1448 Steam Engine Way NE #42, Conyers, GA 30013",3,3,"1,810","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$248,640","1217 Brookstone Cir NE, Conyers, GA 30012",4,3,"2,356","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$199,800","3535 Harper Rd, Mcdonough, GA 30252",5,3,"2,080",N/A
+"$610,000","3130 Buck Branch Rd SW, Conyers, GA 30094",3,--,"2,508","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$608,837","3730 Highway 155 SW, Stockbridge, GA 30281",4,4,"3,390",N/A
+"$233,105","2266 Annes Lake Cir #32, Lithonia, GA 30058",3,3,"2,135","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$249,534","2354 Annes Lake Cir #21, Lithonia, GA 30058",3,3,"2,135","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$145,900","2339 Rock Mill Ln NE, Conyers, GA 30013",3,2,"1,488","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$73,500","1029 Mountain View Rd NW, Conyers, GA 30012",3,1,"1,075","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$186,000","1669 Village Place Cir NE, Conyers, GA 30012",4,3,"1,821","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$162,000","788 Cedar Lake Dr SE, Conyers, GA 30094",4,3,"2,400","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$380,900","3353 Bartlett Ave #296, Conyers, GA 30013",5,4,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$265,000","1501 Saint George Pl, Conyers, GA 30012",5,3,"3,295","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$695,000","1616 Palmilla Way SW, Stockbridge, GA 30281",5,6,"4,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$198,000","1775 Holmes Dr SW, Conyers, GA 30094",5,3,"2,066","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$379,990","128 Standford Dr #8, Mcdonough, GA 30252",5,4,"3,797","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$275,541","1321 Brookstone Lake Dr, Conyers, GA 30012",5,4,"2,968","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$8,000","1019 Almand St NW LOT 0, Conyers, GA 30012","7,840",N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$9,000","2245 Hi Roc Cir NE, Conyers, GA 30012",0.42,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$442,000","1873 Kings Row, Conyers, GA 30012",5,5,--,https://photos.zillowstatic.com/p_e/ISnmnn6ooup05q1000000000.jpg
+"$425,000","1832 Christopher Dr #9, Conyers, GA 30094",5,4,--,https://photos.zillowstatic.com/p_e/ISfk8cvigr7v0v0000000000.jpg
+"$184,000","2840 Stone Bridge Trl SW, Conyers, GA 30094",3,3,"2,961",https://photos.zillowstatic.com/p_e/ISb52uzxj3hu3p0000000000.jpg
+"$425,000","1832 Christopher Dr, Conyers, GA 30094",5,4,--,https://photos.zillowstatic.com/p_e/IS729qlarui7ty0000000000.jpg
+"$240,000","1004 Alexandria Ln, Conyers, GA 30094",5,3,"2,551",https://photos.zillowstatic.com/p_e/ISrl1hr45aberh0000000000.jpg
+"$36,250","2014 Harvest Mill Run, Conyers, GA 30012",4,3,--,https://photos.zillowstatic.com/p_e/ISvoi7v9eueby40000000000.jpg
+"$230,000","2561 Oakridge Dr, Conyers, GA 30094",3,2,"2,098",https://photos.zillowstatic.com/p_e/IS37abtibsks3v0000000000.jpg
+"$10,500","2241 Carr Rd NE, Conyers, GA 30012",--,--,--,N/A
+"$10,500","2231 Carr Rd NE, Conyers, GA 30012",--,--,--,N/A
+"$27,000","3489 Carlisle Ct SE, Conyers, GA 30013",1,N/A,N/A,N/A
+"$579,654","3324 Steeple Chase Way SW, Conyers, GA 30094",--,--,--,N/A
+"$300,000","1408 Hadlow Ct, Conyers, GA 30094",5,5,"4,568","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$221,000","2100 Blueberry Ln, Conyers, GA 30013",4,3,"2,367","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$175,000","562 Smyrna Rd SW, Conyers, GA 30012",3,1.5,"1,380",N/A
+"$186,900","2770 Lake Capri Dr, Conyers, GA 30012",3,2,"2,272","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$125,000","4778 Cedar Lake Dr SE, Conyers, GA 30094",3,2,"1,494","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$374,650","1508 N Point Ct SW, Conyers, GA 30094",4,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$45,000","3205 Lucky Pl, Conyers, GA 30013",--,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$75,000","1314 Farmer Rd NW, Conyers, GA 30012",10,1,"1,592",N/A
+"$90,000","3382 Salem East Dr SE, Conyers, GA 30013",3,2,"2,088",N/A
+"$270,000","1702 River Mill Trl NE, Conyers, GA 30012",6,4,"3,009","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$125,000","3172 N Oak Ct, Conyers, GA 30094",3,3,"1,599",N/A
+"$374,650","1508 N Point Ct SW #27, Conyers, GA 30094",4,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$270,000","1702 River Mill Trl NE #86, Conyers, GA 30012",6,4,"4,409","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$225,000","1354 Hill Dr SW, Conyers, GA 30094",5,4,"3,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$155,000","4028 River Garden Cir, Covington, GA 30016",3,2,"1,596","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$421,000","1808 Kings Row, Conyers, GA 30012",5,5,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$421,000","1808 Kings Row #3, Conyers, GA 30012",5,5,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$219,400","2206 Chase Way SE, Conyers, GA 30013",3,2,"2,465","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$110,000","2090 Lost Forest Ln SW, Conyers, GA 30094",4,3,"1,971","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$159,900","2821 Sunday Rd, Stockbridge, GA 30281",3,2,"1,952","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$167,000","903 Curry Cir SE, Conyers, GA 30094",3,2,"1,330","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$450,000","3109 Trafalgar Ct #10, Conyers, GA 30094",5,4,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$450,000","3109 7th Century Row SW, Conyers, GA 30094",0.66,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$200,000","4773 Cedar Lake Dr SE, Conyers, GA 30094",3,2,"1,831","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$412,900","1300 Ruth Ln SW #59, Conyers, GA 30094",5,5,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$660,000","2385 White Rd NE, Conyers, GA 30012",4,4,"3,831","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$412,900","1300 Ruth Ln SW, Conyers, GA 30094",5,5,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$145,000","4831 Navajo Trl SE, Conyers, GA 30094",3,2,"1,250","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$334,550","2117 Ginger Estates Dr NE, Conyers, GA 30013",5,4,"2,984","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$240,000","5360 Tanager Ter SW #78, Conyers, GA 30094",4,4,"2,271",https://photos.zillowstatic.com/p_e/ISb95v107tpyp81000000000.jpg
+"$185,000","3382 Berkshire Bnd SE, Conyers, GA 30013",3,3,"2,151",https://photos.zillowstatic.com/p_e/ISfkgqj15pc6u21000000000.jpg
+"$300,000","1758 Bob White Ln SE, Conyers, GA 30013",10,12,"5,404",https://photos.zillowstatic.com/p_e/ISzngori10glme1000000000.jpg
+"$371,900","3602 Camille Ave, Conyers, GA 30013",5,4,--,https://photos.zillowstatic.com/p_e/ISr5593eiulg7c0000000000.jpg
+"$185,000","3228 Quincey Xing, Conyers, GA 30013",3,3,"1,865",https://photos.zillowstatic.com/p_e/ISbpxjk2b147rl1000000000.jpg
+"$300,000","2121 Torbay Dr, Conyers, GA 30013",5,4,"3,084",https://photos.zillowstatic.com/p_e/ISb9h84swm6otl0000000000.jpg
+"$432,500","2694 Harvest Dr SE, Conyers, GA 30013",5,5,"6,458",https://photos.zillowstatic.com/p_e/ISbly96kt6gmp40000000000.jpg
+"$165,900","2052 Wildflower Way, Conyers, GA 30012",3,3,"1,421",https://photos.zillowstatic.com/p_e/ISfcqg0liixr9v1000000000.jpg
+"$210,000","2561 Union Church Rd SW, Stockbridge, GA 30281",3,2,"2,028",https://photos.zillowstatic.com/p_e/ISnud9r996g4h61000000000.jpg
+"$254,970","1322 Brookstone Lake Dr, Conyers, GA 30012",5,3,"2,533","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$13,000","4046 Union Church Rd SW, Stockbridge, GA 30281",--,--,--,N/A
+"$163,900","2048 Wildflower Way, Conyers, GA 30012",3,3,"1,421","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$164,000","1116 Plantation Dr SE, Conyers, GA 30094",3,2,"1,598","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$238,070","2254 Annes Lake Cir #34, Lithonia, GA 30058",3,3,"2,135","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$142,500","749 S Pine St, Conyers, GA 30012",3,2,"1,376","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$100,000","1314 S Hicks Cir, Conyers, GA 30012",3,2,988,N/A
+"$237,000","3494 Pebble Brook Ln, Stockbridge, GA 30281",4,3,"2,397",N/A
+"$365,000","3210 Old Church Cv NE, Conyers, GA 30012",3,4,"4,638","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$325,460","301 Charlotte Frances Ln, Mcdonough, GA 30252",--,--,--,N/A
+"$100,000","1314 NW South Hicks Cir, Conyers, GA 30012",3,2,988,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$178,000","1402 Silver Summit Dr SE, Conyers, GA 30094",2,2,"1,775",N/A
+"$16,900","2826 Philadelphia Rd NE, Conyers, GA 30012",0.66,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$199,900","3463 Spring Creek Dr SE, Conyers, GA 30013",4,3,"2,072","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$135,000","673 Almand Branch Rd SE, Conyers, GA 30094",3,2,"1,460","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$74,000","1553 Park St NE, Conyers, GA 30012",2,1,"1,226","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$149,900","620 Hunters Xing NW, Conyers, GA 30012",3,2,"1,212","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$105,000","845 Sherbrooke Dr SE, Conyers, GA 30094",4,3,"2,188","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$142,500","749 S Pine St NE, Conyers, GA 30012",3,2,"1,376","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$226,000","4821 W Lake Dr SE, Conyers, GA 30094",3,3,"4,390","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$318,090","2708 Potters Walk #84, Conyers, GA 30012",5,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$318,490","2710 Potters Walk #85, Conyers, GA 30012",4,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$160,000","1757 Millstream Holw, Conyers, GA 30012",3,3,"1,938","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$45,000","2241 August Ct SW, Conyers, GA 30094",3,2,"1,615","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$169,900","2075 Wildflower Way #10, Conyers, GA 30012",3,3,"1,422","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$318,000","2708 Potters Walk, Conyers, GA 30012",--,--,--,N/A
+"$247,990","2736 Potters Walk #98, Conyers, GA 30012",4,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$37,500","2108 Rock View Ln NE, Conyers, GA 30012",3,2,"1,012","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$290,490","2706 Potters Walk, Conyers, GA 30012",--,--,--,N/A
+"$169,900","2075 Wildflower Way, Conyers, GA 30012",3,3,"1,421","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$195,000","3901 Pointers Way SW, Conyers, GA 30094",4,3,"2,275","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$195,000","3901 Pointers Way SW, Conyers, GA 30094",4,3,"2,275",https://photos.zillowstatic.com/p_e/ISfkwisr2qdkvk0000000000.jpg
+"$245,431","2366 Annes Lake Cir #19, Lithonia, GA 30058",4,3,"2,125",https://photos.zillowstatic.com/p_e/ISjze2p71cddce0000000000.jpg
+"$425,000","2730 N Lakeview Dr SW, Conyers, GA 30094",3,4,"3,392",https://photos.zillowstatic.com/p_e/ISzrf6w2oel1lg1000000000.jpg
+"$150,000","806 Jefferson Dr SW, Conyers, GA 30094",3,2,"1,535",https://photos.zillowstatic.com/p_e/ISf4couzqt4a5r1000000000.jpg
+"$515,000","1848 Christopher Dr, Conyers, GA 30094",6,5,"4,981",https://photos.zillowstatic.com/p_e/ISb173fmr2cvnn1000000000.jpg
+"$166,900","2071 Wildflower Way, Conyers, GA 30012",2,3,"1,422",https://photos.zillowstatic.com/p_e/ISv8e1fw9ao9zq0000000000.jpg
+"$317,608","116 Annis Berrye Trce, Mcdonough, GA 30252",--,--,--,N/A
+"$170,000","2900 Klondike Rd SW, Conyers, GA 30094",4,2,"1,431",https://photos.zillowstatic.com/p_e/IS37e2hm8u09sp0000000000.jpg
+"$129,900","652 Ralph Rd SE, Conyers, GA 30094",3,2,"1,593",https://photos.zillowstatic.com/p_e/ISfk884b98ds150000000000.jpg
+"$25,000","Mcdaniel Mill Rd SW, Conyers, GA 30094",--,--,--,N/A
+"$25,000","1514 Mcdaniel Mill Rd SW, Conyers, GA 30094",1.67,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$135,000","1299 Springwood Dr NW, Conyers, GA 30012",3,2,"1,520","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$135,000","1299 Springwood Dr NW, Conyers, GA 30012",--,--,--,N/A
+"$62,000","815 Cedar Lake Dr SE, Conyers, GA 30094",3,2,"1,377",N/A
+"$47,000","1298 Irwin Bridge Rd NW, Conyers, GA 30012",2,1,"1,164","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$190,000","3400 Bonds Lake Rd NW, Conyers, GA 30012",3,3,"2,185",N/A
+"$275,000","959 Sundew Dr SE, Conyers, GA 30013",6,4,"3,800","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$200,000","2630 Brushy Nob Ln, Stockbridge, GA 30281",3,2,"2,090","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$75,000","1799 Green St NE, Conyers, GA 30012",3,3,"1,647",N/A
+"$144,200","947 Sweet Briar Trl SE, Conyers, GA 30094",3,2,"1,912",N/A
+"$169,900","2047 Wildflower Way, Conyers, GA 30012",3,3,"1,421","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$2.95M,"2271 Flat Shoals Rd SE, Conyers, GA 30013",--,--,"5,522","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$98,000","1202 Pinedale Cir NW, Conyers, GA 30012",3,4,"1,324","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$173,900","2040 Wildflower Way, Conyers, GA 30012",3,3,"1,421","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$185,000","1810 Holmes Dr SW, Conyers, GA 30094",3,3,"2,672","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$322,000","3116 Brombley Dr SE, Conyers, GA 30013",6,4,"3,056","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$147,000","1618 Picadilly Ct NE, Conyers, GA 30013",4,2,"1,528","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$322,000","3116 Brombley Dr SE #86, Conyers, GA 30013",6,4,--,N/A
+"$98,000","1200 Pinedale Cir NW, Conyers, GA 30012",3,3,"1,324","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$247,990","2736 Potters Walk, Conyers, GA 30012",--,--,--,N/A
+"$173,900","2040 Wildflower Way #17, Conyers, GA 30012",3,3,"1,421",N/A
+"$289,900","4302 Talley Trl, Conyers, GA 30013",4,3,"1,934","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$66,399","3834 Maggie Dr SE, Conyers, GA 30013",3,1.5,"1,440",N/A
+"$15,000","2214 Lakewood Trl, Conyers, GA 30012",3,2,840,N/A
+"$515,000","2281 Flat Shoals Rd SE, Conyers, GA 30013",5,4,"4,493",N/A
+"$312,158","205 Lilla Ct, Mcdonough, GA 30252",--,--,--,N/A
+"$233,000","2508 Wisdom Ct, Conyers, GA 30013",5,4,"2,370","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$190,000","970 Waterside Dr SE, Conyers, GA 30013",4,3,"1,824","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$140,000","913 Doeskin Dr NW, Conyers, GA 30012",3,2,"1,245","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$150,000","2956 Valley Ct NE, Conyers, GA 30012",3,2,"1,274","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$255,305","1252 Brookstone Cir NE, Conyers, GA 30012",4,3,"2,690",https://photos.zillowstatic.com/p_e/ISb9l7q3la1nws0000000000.jpg
+"$254,195","2154 Blueberry Ln, Conyers, GA 30013",--,--,--,N/A
+"$155,000","1459 Steam Engine Way NE, Conyers, GA 30013",4,3,"1,691",https://photos.zillowstatic.com/p_e/ISfse6liza8lkt0000000000.jpg
+$1.90M,"2539 Old Covington Hwy SW, Conyers, GA 30012",4,2,"1,777",N/A
+$1.90M,"2481 Old Covington Hwy SW, Conyers, GA 30012",3,2,"1,568",N/A
+"$150,000","1216 Dressage Rdg NE, Conyers, GA 30013",3,2,"1,383",https://photos.zillowstatic.com/p_e/ISf8bqi0zh21ma0000000000.jpg
+"$87,500","3977 Woodland Cir SE, Conyers, GA 30013",3,2,"1,267",https://photos.zillowstatic.com/p_e/IS3vkf2xs36dsy0000000000.jpg
+$1.90M,"2565 SW Lake Rockaway Rd, Conyers, GA 30012",3,2,"1,715",N/A
+"$165,000","4710 Hull Rd SE, Conyers, GA 30094",3,2,"1,500",https://photos.zillowstatic.com/p_e/ISvoaproqyqv2o1000000000.jpg
+"$96,000","1740 Amberbrook Ct SW, Conyers, GA 30094",3,2,"2,912",N/A
+"$191,000","3797 Clubhouse Way SE, Conyers, GA 30094",4,3,"2,485",N/A
+"$430,000","1647 Madison Ln SE, Conyers, GA 30013",5,5,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$75,000","2195 Wilson Rd NW, Conyers, GA 30012",1,1,500,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$279,900","4306 Talley Trl, Conyers, GA 30013",--,--,--,N/A
+"$45,000","2560 Pattington Way NE, Conyers, GA 30013",0.7,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$244,000","2238 Exchange Pl SE, Conyers, GA 30013",5,3,"3,148","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$430,000","1647 Madison Ln SE #19, Conyers, GA 30013",5,5,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$245,500","1799 Wiggins Cir SW, Conyers, GA 30094",5,3,"2,790","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$55,803","1695 Winchester Way SE, Conyers, GA 30013",2,2,"1,220",N/A
+"$145,000","2411 Lakeshore Dr NE, Conyers, GA 30012",2,2,"1,451","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$396,030","3231 Ashmore Ct, Conyers, GA 30094",4,4,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$194,000","4680 W Lake Dr SE, Conyers, GA 30094",3,2,"1,981","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$195,000","4970 Bridlewood Cir SE, Conyers, GA 30094",4,2,"2,255","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$257,373","2372 Annes Lake Cir #18, Lithonia, GA 30058",4,3,"2,506","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$204,000","2716 Isle Of Pines Cir, Conyers, GA 30012",3,2.5,"1,952",N/A
+"$295,000","3137 Hammock Creek Ct, Conyers, GA 30012",4,3,"1,552","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$30,000","2684 Harvest Dr SE, Conyers, GA 30013",0.61,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$210,000","4905 Lake Forest Dr SE, Conyers, GA 30094",3,3,"2,400","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$162,900","2044 Wildflower Way, Conyers, GA 30012",2,3,"1,422","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$7,500","1611 Smyrna Rd SW, Conyers, GA 30094",--,--,--,N/A
+"$106,000","3491 Flat Shoals Rd SW, Conyers, GA 30094",Studio,--,"2,033","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$110,000","1019 Barn Oak Ct NE, Conyers, GA 30012",Studio,--,"1,932","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$279,000","2076 Millstone Dr SW, Conyers, GA 30094",5,4,"2,996","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$365,000","136 Barclay Dr, Mcdonough, GA 30252",--,--,--,N/A
+"$240,000","1752 Hayes Ct, Conyers, GA 30094",4,3,"2,629","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$490,898","3251 Ashmore Ct SW, Conyers, GA 30094",5,5,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$155,000","1500 Marshall Ln SE, Conyers, GA 30094",3,3,"1,780","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$127,000","1308 Woodbridge Dr NE, Conyers, GA 30012",3,2,"1,757",N/A
+"$157,000","1261 Pine Knoll Ln NE, Conyers, GA 30013",4,2,"2,004","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$455,000","1232 Avignon Dr SW, Conyers, GA 30094",5,5,"4,213","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$134,400","1295 Corley Rd NW, Conyers, GA 30012",3,2,"1,742",N/A
+"$100,000","40 Bethel Rd NW, Conyers, GA 30012",1,1,916,https://photos.zillowstatic.com/p_e/ISy56bwhdjge5f.jpg
+"$252,000","1908 Bridgestone Cir, Conyers, GA 30012",5,3,"3,193",https://photos.zillowstatic.com/p_e/ISj7pfsxlj9b4x0000000000.jpg
+"$135,500","1320 Milstead Ave NE, Conyers, GA 30012",3,2,"1,226",https://photos.zillowstatic.com/p_e/ISvoaxdfsd4khf0000000000.jpg
+"$195,000","986 Waterside Dr SE, Conyers, GA 30013",3,3,"1,714",https://photos.zillowstatic.com/p_e/ISvslwjtc8uc9o0000000000.jpg
+"$268,500","222 Lilla Ct, Mcdonough, GA 30252",--,--,--,N/A
+"$109,500","1867 Brandy Ln SE, Conyers, GA 30013",3,2,"1,551",https://photos.zillowstatic.com/p_e/ISvsda16uzomt71000000000.jpg
+"$650,000","1612 Palmilla Way SW, Stockbridge, GA 30281",1.05,N/A,N/A,https://photos.zillowstatic.com/p_e/ISd0x1ct49243i0000000000.jpg
+"$114,000","2212 Heritage Xing SW, Conyers, GA 30094",3,2,"1,278",N/A
+"$251,000","5531 Turnstone Dr SW, Conyers, GA 30094",3,2,"2,009","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$235,000","3818 Willow Bend Dr, Stockbridge, GA 30281",4,3,"2,922","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$324,260","218 Lilla Ct, Mcdonough, GA 30252",--,--,--,N/A
+"$195,000","521 Mccain Trl, Stockbridge, GA 30281",4,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$324,260","218 Lilla Ct #11, Mcdonough, GA 30252",5,3,"3,150","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$291,900","1225 Twin Ponds Ct, Conyers, GA 30094",5,3.5,"5,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$290,000","3146 E Fairview Rd, Mcdonough, GA 30252",3,3,"2,780","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$200,010","3000 Milton Ct SE, Conyers, GA 30013",3,3,"2,547","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$235,166","4443 New Fangle Rd #113, Tucker, GA 30058",3,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$284,900","2350 Benji Blvd SE, Conyers, GA 30013",4,4,"3,125","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$630,000","3795 Dial Mill Rd NE, Conyers, GA 30013",3,2,"2,214","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$180,000","2660 Club Forest Ct SE, Conyers, GA 30013",4,3,"2,373","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$260,790","2560 White Rd NE, Conyers, GA 30012",3,3,"2,437","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$162,900","1617 Honeysuckle Path, Conyers, GA 30012",3,3,"1,421","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$187,000","2880 Union Church Rd SW, Stockbridge, GA 30281",4,2,"1,701","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$346,000","2401 Fairhaven Cv NE, Conyers, GA 30012",5,4,"3,400","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$630,000","3815 Dial Mill Rd NE, Conyers, GA 30013",20.52,N/A,N/A,N/A
+"$280,000","1641 Canterbury Pointe SE, Conyers, GA 30013",4,3,"2,644","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$324,900","2524 Glendale Ct NE, Conyers, GA 30013",5,5,"3,602","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$269,740","1319 Brookstone Lake Dr, Conyers, GA 30012",4,4,"2,812","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$345,000","2541 Sycamore Dr, Conyers, GA 30094",4,4,"3,293","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$165,000","2365 Brentmoore Point, Conyers, GA 30013",4,2.5,"2,600","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$251,953","1333 Brookstone Lake Dr, Conyers, GA 30012",5,3,"2,533","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$465,000","2520 Pattington Way NE, Conyers, GA 30013",1.49,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$221,400","2504 Wisdom Ct, Conyers, GA 30013",4,3,"2,367","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$130,000","2343 Lakeshore Dr NE, Conyers, GA 30012",3,2,"1,213",N/A
+"$200,000","4984 Richardson Rd SW, Stockbridge, GA 30281",2,2,"1,557","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$164,900","3815 Union Church Rd SW, Stockbridge, GA 30281",3,2,"1,893","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$175,000","1439 Steam Engine Way NE, Conyers, GA 30013",4,3,"1,320","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$133,970","1426 Steam Engine Way NE, Conyers, GA 30013",4,2,"1,201","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$174,999","3325 Squire Ln SE, Conyers, GA 30094",3,2,"1,968","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$229,000","1319 River Club Dr NE, Conyers, GA 30012",4,3,"2,411",https://photos.zillowstatic.com/p_e/ISna2r1ih2zfdw0000000000.jpg
+"$199,900","1335 Hill Dr SW, Conyers, GA 30094",3,2,"1,956",https://photos.zillowstatic.com/p_e/IS7az7jb99apex0000000000.jpg
+"$260,000","2791 Owens Rd SW, Conyers, GA 30094",4,4,"2,278",https://photos.zillowstatic.com/p_e/IS37i5qq5nqqc11000000000.jpg
+"$379,900","2947 Ash Grove Dr, Conyers, GA 30094",5,3,--,https://photos.zillowstatic.com/p_e/ISzz9nrop0bko51000000000.jpg
+"$290,000","5113 Fawn Ln SW, Conyers, GA 30094",6,4,"2,830",https://photos.zillowstatic.com/p_e/IS7m4oggkd8h9v1000000000.jpg
+"$295,900","217 Lilla Ct #09, Mcdonough, GA 30252",5,3,"2,700",https://photos.zillowstatic.com/p_e/ISfsyxj72bj0jk0000000000.jpg
+"$379,900","2947 Ash Grove Dr #52, Conyers, GA 30094",5,3,--,https://photos.zillowstatic.com/p_e/ISfglj69o0fiz31000000000.jpg
+"$119,999","2139 Fieldstone View Ct SE APT A, Conyers, GA 30013",2,3,"2,360",https://photos.zillowstatic.com/p_e/ISmepnl2ud2ir61000000000.jpg
+"$264,900","213 Lilla Ct, Mcdonough, GA 30252",--,--,--,N/A
+"$295,900","217 Lilla Ct, Mcdonough, GA 30252",5,3,"2,700","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$330,000","2800 Wintercrest Ct, Conyers, GA 30094",4,3,"2,766","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$286,400","209 Lilla Ct, Mcdonough, GA 30252",--,--,--,N/A
+"$286,400","209 Lilla Ct #7, Mcdonough, GA 30252",5,3,"2,700","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$119,999","2139 Fieldstone View Ct SE APT A, Conyers, GA 30013",2,3,"1,540","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$145,000","2070 Christian Cir SE, Conyers, GA 30013",3,2,"1,454","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$381,000","2818 Village Ct NE, Conyers, GA 30013",5,3,"3,150","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$90,200","2655 Abbey Ridge Rd SW, Conyers, GA 30094",4,2,"2,574",N/A
+"$170,000","1441 Latta Dr NW, Conyers, GA 30012",3,2,"1,902","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$300,000","938 Lost Valley Dr SE, Conyers, GA 30094",4,4,"2,524","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$35,000","3400 Talking Creek Ct, Conyers, GA 30094",--,--,--,N/A
+"$50,000","1588 Elm St NE, Conyers, GA 30012",2,1,"1,054","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$155,000","1613 Cherry Hill Ln SW, Conyers, GA 30094",3,2,"1,402","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$179,500","724 Sugar Hill Ln SE, Conyers, GA 30094",3,2,"2,175","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$137,000","149 Ellis Dr, Conyers, GA 30012",3,3,"1,496","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$300,490","2710 Potters Walk, Conyers, GA 30012",--,--,--,N/A
+"$107,500","956 Sage Ln NW, Conyers, GA 30012",--,--,--,N/A
+"$158,000","680 Kirkus Dr SE, Conyers, GA 30094",3,2,"1,980","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$125,000","1414 Oak Knoll Dr NE, Conyers, GA 30012",3,3,"1,346","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$170,000","3238 Old Salem Rd SE, Conyers, GA 30013",4,2,"2,039","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$107,500","954 Sage Ln NW, Conyers, GA 30012",4,2,"1,260","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$117,000","1795 Rocky Ridge Dr NW, Conyers, GA 30012",3,2,"1,308","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$163,900","2056 Wildflower Way #16, Conyers, GA 30012",3,3,"1,421","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$163,900","2056 Wildflower Way, Conyers, GA 30012",2,3,"1,422","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$234,859","2335 Annes Lake Cir #25, Lithonia, GA 30058",3,3,"2,135","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$244,584","2406 Annes Lake Cir #14, Lithonia, GA 30058",3,3,"2,035","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$155,000","1284 Green St, Conyers, GA 30084",Studio,1,900,N/A
+"$283,000","5029 W Shore Dr, Conyers, GA 30094",4,3,"2,992","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$185,000","1505 Callaway Loop, Conyers, GA 30012",4,3,"2,561","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$287,000","2052 Evergreen Dr SE, Conyers, GA 30013",5,3,"3,221","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$446,575","3225 SW Ashmore Ct, Conyers, GA 30094",5,5,"3,400","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$446,575","3225 Ashmore Ct, Conyers, GA 30094",5,5,"3,400",https://photos.zillowstatic.com/p_e/IS37i9hq2r6dd71000000000.jpg
+"$259,900","5550 Turnstone Dr SW #3/1, Conyers, GA 30094",4,4,"3,436",https://photos.zillowstatic.com/p_e/ISn6zlc7l68g6h0000000000.jpg
+"$185,000","1505 Callaway Loop #47, Conyers, GA 30012",4,3,"2,561",https://photos.zillowstatic.com/p_e/ISfsuaz8uh4kna1000000000.jpg
+"$259,900","5550 Turnstone Dr SW, Conyers, GA 30094",4,4,"3,436",https://photos.zillowstatic.com/p_e/ISvkn4p9jkpgb20000000000.jpg
+"$235,000","1725 River Mill Trl NE, Conyers, GA 30012",4,2.5,"3,036",https://photos.zillowstatic.com/p_e/ISrt7jzr8mcj6p0000000000.jpg
+"$124,900","1857 Rockbridge Rd NW, Conyers, GA 30012",3,2,"1,356",https://photos.zillowstatic.com/p_e/IS3vw0v2pymh1b1000000000.jpg
+"$130,000","610 Camary Ct SE, Conyers, GA 30094",3,2,"1,734",https://photos.zillowstatic.com/p_e/IS33rh6dkq7kb81000000000.jpg
+"$283,000","5029 W Shore Dr SW, Conyers, GA 30094",4,3,"2,992",https://photos.zillowstatic.com/p_e/ISjvnelityyuks1000000000.jpg
+"$257,800","1317 Brookstone Lake Dr, Conyers, GA 30012",4,3,"2,690",https://photos.zillowstatic.com/p_e/IS33j3q88ear6k1000000000.jpg
+"$139,900","1251 Lakeview Dr NW, Conyers, GA 30012",3,2,"1,092","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$250,390","1256 Brookstone Cir NE, Conyers, GA 30012",4,3,"2,356","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$89,200","2166 Iris Dr SW, Conyers, GA 30094",3,2,"1,250","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$290,000","1910 Post Oak Ct SW, Conyers, GA 30094",4,4,"3,774","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$260,000","132 Clear Springs Dr, Mcdonough, GA 30252",4,3,"2,508","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$150,000","2169 Kings Forest Dr SE, Conyers, GA 30013",3,2,"1,704","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$364,900","2000 Kilburn Cir, Conyers, GA 30094",4,4,"3,784","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,000","Irwin Bridge Rd NW, Conyers, GA 30012",--,--,--,N/A
+"$35,000","3366 Branch Valley Trl, Conyers, GA 30094",0.59,N/A,N/A,N/A
+"$230,000","1202 Wellspring Way SE, Conyers, GA 30094",3,2.5,"3,088","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$185,000","609 Glenridge Ct SE, Conyers, GA 30094",4,3,"2,129","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$115,000","1507 Hillside Dr SE, Conyers, GA 30094",3,3,"1,854","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$87,000","877 Oakland Ln SE, Conyers, GA 30012",2,1,"1,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$330,000","2650 Wellington Way SE, Conyers, GA 30013",6,5,"4,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$250,000","2312 Deeside SE, Conyers, GA 30013",5,5.5,"3,146","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$162,000","2854 Highway 20 NE, Conyers, GA 30012",3,2,"1,602","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$185,000","1505 Humphries Rd NW, Conyers, GA 30012",3,2,"1,446","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$102,090","1707 Colonial South Dr SW, Conyers, GA 30094",3,2,"1,731","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$299,900","2771 Saddle Trl NE, Conyers, GA 30013",4,4,"2,900","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$112,000","1480 Revel Cove Dr SW, Conyers, GA 30094",3,2,"1,476","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$85,000","2808 Briar Hill Ln SE #B, Conyers, GA 30013",2,2,"1,146",N/A
+"$140,000","1730 Riverchase Cir NE, Conyers, GA 30013",3,2,"1,520","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$75,000","1472 Pine Log Rd NE APT B, Conyers, GA 30012",3,3,"1,232","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$166,000","3800 Eden Glen Dr SE, Conyers, GA 30013",3,2,"1,505","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$85,000","2808 2808 B Se Briar Hill Ln, Conyers, GA 30013",2,2,"1,146","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$97,460","2715 Kinslow Rdg SE, Conyers, GA 30094",5,3,"2,854","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$280,000","3052 Brighton Ct, Conyers, GA 30094",4,4,"3,028",N/A
+"$190,000","4000 Camary Dr SE, Conyers, GA 30094",3,2,"1,798","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$220,000","1528 Paceville Ct, Conyers, GA 30012",5,3,"3,424","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$248,000","804 Hollyhawk Way SE, Conyers, GA 30094",4,3,"2,159","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$478,645","3243 Ashmore Ct, Conyers, GA 30094",5,5,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$478,645","3243 Ashmore Ct, Conyers, GA 30094",5,5,--,https://photos.zillowstatic.com/p_e/ISnmf5f0ffka1k0000000000.jpg
+"$478,645","3243 Ashmore Ct SW, Conyers, GA 30094",5,5,--,https://photos.zillowstatic.com/p_e/ISv0oj5q3ewws11000000000.jpg
+"$170,000","4560 N Woodlake Ln SE, Conyers, GA 30013",3,2,"1,294",https://photos.zillowstatic.com/p_e/IS7e68zqch9bc70000000000.jpg
+"$110,000","201 Old Mill Trl SW, Conyers, GA 30094",3,2,"1,950",https://photos.zillowstatic.com/p_e/ISbton433irul71000000000.jpg
+"$269,000","1381 Revel Cove Dr SW, Conyers, GA 30094",5,3,"3,523",https://photos.zillowstatic.com/p_e/ISb9dh4zrcjnpq0000000000.jpg
+"$425,000","3301 Glencree, Conyers, GA 30012",5,3,"3,546",https://photos.zillowstatic.com/p_e/ISr5tz3fkt7s8i1000000000.jpg
+"$167,400","2068 Wildflower Way, Conyers, GA 30012",3,2.5,"1,421",https://photos.zillowstatic.com/p_e/ISjfzg2thkf6hn0000000000.jpg
+"$221,000","2173 Blueberry Ln, Conyers, GA 30013",--,--,--,N/A
+"$125,900","318 Cindy Dr SE, Conyers, GA 30094",3,2,"1,143",https://photos.zillowstatic.com/p_e/ISrldelvzunujc0000000000.jpg
+"$158,000","1707 Conductor Ln NE, Conyers, GA 30013",3,2,"1,500","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$258,800","2492 Bear Mountain St #136, Lithonia, GA 30058",4,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$133,000","1758 Yellow St NW, Conyers, GA 30012",3,2,"1,300","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$137,000","941 Cochise Trl SE, Conyers, GA 30094",3,2,"1,682","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$190,000","1898 Smyrna Rd SW, Conyers, GA 30094",3,2,"2,010","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$291,000","2940 Weatherstone Cir SE, Conyers, GA 30094",5,4,"5,181","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$155,000","1847 Brandy Woods Dr SE, Conyers, GA 30013",3,2,"1,611","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$295,000","2406 Brisbane Dr, Conyers, GA 30013",5,4,"3,843","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$185,000","726 Colt Ln NW, Conyers, GA 30012",3,2,"2,162","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$250,000","420 Goode Rd, Conyers, GA 30094",3,3,"2,485","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$55,000","1145 Old Covington Hwy SE, Conyers, GA 30012",2,2,"1,080",N/A
+"$133,000","2400 Lakeshore Dr NE, Conyers, GA 30012",2,2,816,N/A
+"$169,000","2122 Arlin St NE, Conyers, GA 30012",3,2,"1,335","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$226,000","1420 White Rocks Way, Conyers, GA 30012",4,3,"2,754","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$215,000","2030 Gleaton Rd NE, Conyers, GA 30013",4,3,"2,910","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$135,000","1011 Barn Oak Ct NE, Conyers, GA 30012",Studio,--,"1,026","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$388,700","168 Lavender Way LOT 36, Mcdonough, GA 30252",5,5,"3,862","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$225,000","1586 Highway 212 SW, Conyers, GA 30094",3,3,"2,220","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$90,000","1697 Salem Woods Dr SE, Conyers, GA 30013",2,1.5,"1,200",N/A
+"$50,000","2618 High St SW, Conyers, GA 30094",0.64,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$82,500","4904 Cedar Ct SE, Conyers, GA 30094",3,2.5,"1,326",N/A
+"$445,900","1865 Kings Row #21, Conyers, GA 30012",5,5,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$277,000","2001 Eagle Ridge Dr SW, Conyers, GA 30094",4,4,"2,755","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$190,000","1002 Riverclift Dr, Covington, GA 30016",3,2,"1,800","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$120,000","2616 Shore Wood Ct NE #18, Conyers, GA 30013",2,2,"1,188",N/A
+"$217,250","643 Honey Creek Rd SE, Conyers, GA 30094",5,3,"2,238","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$249,000","3219 Haleys Way SE, Conyers, GA 30013",5,3,"2,542","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$445,900","1865 Kings Row, Conyers, GA 30012",5,5,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$205,000","3908 Pointers Way SW, Conyers, GA 30094",3,2,"1,958","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$229,000","739 Lynn Milam Ln, Conyers, GA 30094",4,3,"2,311","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$142,000","2206 Patriot Ct SW, Conyers, GA 30094",3,2,"1,427","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$299,000","3506 Clear View Trl, Conyers, GA 30281",5,3,"2,800",https://photos.zillowstatic.com/p_e/ISjrokjks9j9vq1000000000.jpg
+"$200,000","2615 Valleydale Dr NW, Conyers, GA 30012",4,3,"3,250",https://photos.zillowstatic.com/p_e/ISbxb0x43vsbw70000000000.jpg
+"$550,000","2503 Loch View Ct SW, Conyers, GA 30094",5,7,"4,991",https://photos.zillowstatic.com/p_e/IS3vcdbs224zd11000000000.jpg
+"$423,500","175 Barclay Dr, Mcdonough, GA 30252",5,5,--,https://photos.zillowstatic.com/p_e/ISvkrzbv465h4l1000000000.jpg
+"$269,000","385 Piedmont Cir, Conyers, GA 30016",--,4,"3,270",N/A
+"$118,000","3050 Stone Bridge Trl SW, Conyers, GA 30094",4,3,"1,980",https://photos.zillowstatic.com/p_e/ISz7cug1nxd4dy0000000000.jpg
+"$169,900","1624 Honeysuckle Path, Conyers, GA 30012",3,3,"1,938",N/A
+"$126,000","2015 Highway 20 NE, Conyers, GA 30012",3,2,"1,476",https://photos.zillowstatic.com/p_e/ISbdga46r6ivbd0000000000.jpg
+"$423,500","175 Barclay Dr #68, Mcdonough, GA 30252",5,5,--,https://photos.zillowstatic.com/p_e/IS3bxbggzqp4mw1000000000.jpg
+"$151,900","1384 Country Lane Way NE, Conyers, GA 30012",3,2,"1,842","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$107,324","1791 Big Horn Ct SE, Conyers, GA 30013",3,2,"1,093","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$458,900","1651 Madison Ln SE, Conyers, GA 30013",5,5,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$220,000","2257 Morrison Rd SW, Conyers, GA 30094",--,--,--,N/A
+"$458,900","1651 Madison Ln SE #18, Conyers, GA 30013",5,5,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$220,000","2207 Tucker Mill Rd SW, Conyers, GA 30094",4,2,"1,839",N/A
+"$215,000","2430 Amberbrook Dr SW, Conyers, GA 30094",3,3,"2,144","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$115,900","1860 Flat Shoals Rd SE, Conyers, GA 30013",3,3,"1,575","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$200,000","1033 Plantation Blvd SE, Conyers, GA 30094",3,3,"2,680","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$239,900","2675 Lakeside Dr SW #26, Conyers, GA 30094",5,4,"3,260","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$239,900","2675 Lakeside Dr SW, Conyers, GA 30094",5,3.5,"2,260","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$215,000","667 Clubhouse Dr SE, Conyers, GA 30094",4,3,"2,853","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$368,660","2912 Centennial Dr NE, Conyers, GA 30013",--,--,--,N/A
+"$52,500","1262 Old Covington Hwy SE, Conyers, GA 30012",2,1,784,N/A
+"$310,000","1032 Sundew Dr SE, Conyers, GA 30013",4,4,"2,792","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$151,000","592 Almand Branch Rd SE, Conyers, GA 30094",3,2,"1,660","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$119,900","2135 Hickory Bnd SE APT A, Conyers, GA 30013",2,2,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$169,900","1571 Walnut St SE, Conyers, GA 30013",4,3,"2,448","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$169,900","1566 Walnut St SE, Conyers, GA 30013",--,--,--,N/A
+"$58,900","2200 Brandon Ln SW, Conyers, GA 30094",3,2,"2,107",N/A
+"$215,000","4823 Camden Dr SW, Conyers, GA 30094",4,2,"2,230","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$318,000","2712 Potters Walk #86, Conyers, GA 30012",5,4,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$78,000","1276 Lakeview Dr NW, Conyers, GA 30012",2,3,"1,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$58,500","2220 Carr Rd NE, Conyers, GA 30012",3,2,"1,860",N/A
+"$155,000","2154 Rolling Acres Dr SW, Conyers, GA 30094",4,3,"2,802",N/A
+"$318,915","2611 Glenbrook Ln, Conyers, GA 30012",--,--,--,N/A
+"$175,000","3111 Irwin Bridge Rd NW, Conyers, GA 30012",4,2,"1,824","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$497,000","1825 Kings Row, Conyers, GA 30012",5,5,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$192,300","1632 Village Place Cir NE, Conyers, GA 30012",4,2.5,"2,806",N/A
+"$249,980","1215 Brookstone Cir, Conyers, GA 30012",5,3,"2,633","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$238,490","2732 Potters Walk, Conyers, GA 30012",--,--,--,N/A
+"$92,309","2471 Nugget Dr SW, Conyers, GA 30094",4,2,"1,542",https://photos.zillowstatic.com/p_e/IS7i1jzzwwn9dg1000000000.jpg
+"$497,000","1825 Kings Row #34, Conyers, GA 30012",5,5,--,https://photos.zillowstatic.com/p_e/ISrxa8s2fn5gl10000000000.jpg
+"$255,500","2474 Overlook, Lithonia, GA 30058",4,3,"2,618",https://photos.zillowstatic.com/p_e/ISvoi3o53ad8kh0000000000.jpg
+"$217,741","2702 Kemp Ct, Conyers, GA 30094",3,3,"1,708",https://photos.zillowstatic.com/p_e/ISzj9synkiacio1000000000.jpg
+"$380,000","405 English Elm Ct, Conyers, GA 30012",4,2,"3,328",https://photos.zillowstatic.com/p_e/ISz31f22kgjwfj0000000000.jpg
+"$139,000","2444 Stanton Rd SE, Conyers, GA 30094",3,2,"1,098",https://photos.zillowstatic.com/p_e/IS3n28q14gxzap0000000000.jpg
+"$260,000","4625 Bryant Rd, Snellville, GA 30039",3,3,"1,862",https://photos.zillowstatic.com/p_e/ISzztavy0yjxe70000000000.jpg
+"$267,900","1206 Dover Pl SE, Conyers, GA 30013",4,3,"3,698",https://photos.zillowstatic.com/p_e/IS3fojfzycur6k0000000000.jpg
+"$160,000","806 Colt Ln NW, Conyers, GA 30012",3,2,"1,728",https://photos.zillowstatic.com/p_e/ISz7wlzxsowj8v1000000000.jpg
+"$294,000","1532 Kathryns Gln SE, Conyers, GA 30013",4,4,"3,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$225,000","2560 Paces Landing Dr NW, Conyers, GA 30012",5,4,"2,842","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$450,000","1912 Sloane Ct, Conyers, GA 30094",5,6,"4,831","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$45,900","2061 Evergreen Dr SE, Conyers, GA 30013",0.41,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$157,000","1800 Millstream Holw, Conyers, GA 30012",3,3,"2,124","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$291,000","5165 Rockford Ln, Stockbridge, GA 30281",3,4,"3,034","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$136,000","1720 Overlook Way SW, Conyers, GA 30094",3,2,"1,560","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$260,000","1001 Mccoy Dr, Conyers, GA 30094",5,3,"2,966","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$10.8M,"1214 Summer Cir NW, Conyers, GA 30012",--,--,1,N/A
+"$318,490","2712 Potters Walk, Conyers, GA 30012",--,--,--,N/A
+"$80,000","4661 Bristol Dr SE, Conyers, GA 30094",3,2,"1,244","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$164,900","5190 Wendwood Rd SW, Conyers, GA 30094",2,2,"1,968","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$359,900","2417 Cainwood Ct, Conyers, GA 30094",5,4,"3,107","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$330,413","2876 Havenwood Dr, Conyers, GA 30094",--,--,--,N/A
+"$159,900","3008 River Garden Rd, Covington, GA 30016",3,2,"1,678",N/A
+"$220,000","2643 Westchester Pkwy SE, Conyers, GA 30013",3,3,"3,074","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$180,000","1787 Holmes Dr SW, Conyers, GA 30094",4,2,"2,351","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$199,000","3483 Honeycomb Dr SE, Conyers, GA 30094",3,3,"2,218","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$40,000","3284 Highway 138 SW, Conyers, GA 30094",2,2,"1,568","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$129,900","2479 Highway 138 SW, Conyers, GA 30094",3,1,"1,260",N/A
+"$199,500","1495 Saint George Pl, Conyers, GA 30012",4,3,"2,043","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$389,800","1412 Kings Point Way SW, Conyers, GA 30094",5,5,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$180,000","2708 Hatteras Ct, Conyers, GA 30013",4,3,"1,777","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$90,000","2586 Oneal Rd SW, Conyers, GA 30094",4,2,"1,542","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$60,000","1811 Spring St NE, Conyers, GA 30012",2,1,899,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$220,000","2749 Fieldstone Dr SE, Conyers, GA 30013",4,3,"2,664","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$160,000","2444 Windridge Dr NE, Conyers, GA 30013",4,3,"2,270",N/A
+"$242,500","3301 Justin Way SE, Conyers, GA 30013",5,3,"3,118","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$201,500","3090 Stone Bridge Trl SW, Conyers, GA 30094",3,2,"1,949","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$160,000","2440 Windridge Dr NE, Conyers, GA 30013",3,2,"2,049","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$408,900","3201 Lucky Pl, Conyers, GA 30013",0.46,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$408,900","3201 Lucky Pl, Conyers, GA 30013",0.46,N/A,N/A,https://photos.zillowstatic.com/p_e/ISv4z6qbamn3fl1000000000.jpg
+$1.24M,"3131 Dennard Rd NE, Conyers, GA 30013",--,--,"2,552",N/A
+"$374,400","3303 Bartlett Ave, Conyers, GA 30013",5,5,--,https://photos.zillowstatic.com/p_e/ISb5urcwqc168d1000000000.jpg
+"$76,000","514 Greenview Ave SE, Conyers, GA 30094",3,2,"1,950",https://photos.zillowstatic.com/p_e/ISlywenunvo18o0000000000.jpg
+"$299,900","2391 Fairhaven Cv NE, Conyers, GA 30012",4,4,"3,300",https://photos.zillowstatic.com/p_e/ISrpcglxc3vpon0000000000.jpg
+"$234,900","2103 Highland Club Dr SE, Conyers, GA 30013",4,3,"3,222",https://photos.zillowstatic.com/p_e/ISf8nrjvoip85d1000000000.jpg
+"$397,000","2780 Wellington Way SE, Conyers, GA 30013",6,5,"4,716",https://photos.zillowstatic.com/p_e/ISrdf62ymscggm0000000000.jpg
+"$244,700","3150 E Fairview Rd, Mcdonough, GA 30252",3,2,"2,164",https://photos.zillowstatic.com/p_e/ISzjh24p7rr43m0000000000.jpg
+"$148,000","731 Robin Dr SE, Conyers, GA 30094",3,2,"1,465",https://photos.zillowstatic.com/p_e/ISf0hxp8tabfuv0000000000.jpg
+"$163,900","1578 Larkspur Trl, Conyers, GA 30012",2,3,"1,422","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$100,000","1597 Picadilly Ct NE, Conyers, GA 30013",3,2.5,"1,876",N/A
+"$167,000","2192 Hampton Trl SE, Conyers, GA 30013",4,3,"2,179","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$220,000","1636 Brentwood Xing SE, Conyers, GA 30013",4,3,"2,135","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$170,000","1485 Country Lane Dr NE, Conyers, GA 30012",3,2,"1,565","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$15,000","1400 Windy Ridge Ct SE, Conyers, GA 30013",0.51,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$45,000","596 Lakeridge Dr SE, Conyers, GA 30094",4,2,"2,254","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$155,000","1945 Smyrna Ln SW, Conyers, GA 30094",3,2,"1,565","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$149,000","3412 Deer Trce SW, Conyers, GA 30094",3,3.5,"2,120",N/A
+"$190,000","517 Sugar Valley Ln SE, Conyers, GA 30094",3,2,"1,618","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$150,000","2036 Appaloosa Way, Conyers, GA 30012",3,3,"1,561","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$240,000","5032 Northshore Ct SW, Conyers, GA 30094",4,4,"2,402","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$123,000","140 Odyssey Turn, Conyers, GA 30012",3,3,"1,384","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$269,900","4201 Lindsey Way, Conyers, GA 30013",4,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$205,000","1053 Milstead Ave NE, Conyers, GA 30012",3,3,"2,024","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$43,000","1738 Yellow St NW, Conyers, GA 30012",3,2,"1,120",N/A
+"$387,000","1721 Mcdaniel Mill Rd SW, Conyers, GA 30094",5,4,"4,074","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$36,000","1820 Christopher Dr, Conyers, GA 30094",0.46,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$127,000","1377 Peggy Ln NW, Conyers, GA 30012",3,2,"1,300","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$2.00M,"2961 Parkmoor Dr, Conyers, GA 30094",4,2.5,"2,442","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$293,500","3104 Mccart Landing Dr, Conyers, GA 30013",5,5,"3,614","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$150,000","2435 Windridge Dr NE, Conyers, GA 30013",3,3,"1,360","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$538,520","2568 Pattington Way NE, Conyers, GA 30013",5,6,"4,300","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$188,400","2246 Exchange Pl SE, Conyers, GA 30013",3,3,"2,194","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$48,000","2600 Pineridge Dr NE, Conyers, GA 30012",3,2,"1,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$394,000","3119 Wild Plum Pl, Conyers, GA 30094",5,4,"4,145","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$450,000","1549 Bordeaux Ln, Conyers, GA 30094",5,5,"4,856","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$121,000","1539 Mountain View Cir NW, Conyers, GA 30012",3,1,"1,170","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$124,000","114 Hawkeye Ln, Conyers, GA 30012",3,3,"1,440","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$273,500","1404 Pickets Ct SE, Conyers, GA 30013",5,4,"3,843","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$380,000","2321 Bethel Rd NE, Conyers, GA 30012",3,3,"1,976","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$419,900","3409 Talking Creek Ct, Conyers, GA 30094",5,4,--,https://photos.zillowstatic.com/p_e/ISzj1qnrridxes1000000000.jpg
+"$132,000","5294 E Shore Dr SW, Conyers, GA 30094",3,2,"1,885",https://photos.zillowstatic.com/p_e/ISvgsdswxi2arl0000000000.jpg
+"$168,500","3865 Pointers Way SW, Conyers, GA 30094",3,2,"1,863",https://photos.zillowstatic.com/p_e/ISb9x0x1vmmzm10000000000.jpg
+"$142,000","1629 Cherry Hill Rd SW, Conyers, GA 30094",3,2,"1,338",https://photos.zillowstatic.com/p_e/ISbdsb1a5ldi5w0000000000.jpg
+"$152,000","2342 Rock Mill Ln NE, Conyers, GA 30013",3,2,"1,878",https://photos.zillowstatic.com/p_e/ISzj599kc7hban1000000000.jpg
+"$159,900","1772 Millstream Holw, Conyers, GA 30012",3,3,"2,124",https://photos.zillowstatic.com/p_e/ISb1jcu50gp7040000000000.jpg
+"$177,000","3619 Golfbrook Ct SE, Conyers, GA 30094",3,2.5,"1,878",https://photos.zillowstatic.com/p_e/ISrtnfjhs7zht01000000000.jpg
+"$206,000","5340 Starboard Ct SW, Conyers, GA 30094",3,2,"2,229",https://photos.zillowstatic.com/p_e/ISrdn0n0lv48w91000000000.jpg
+"$147,000","4610 Cedar Brook Dr SE, Conyers, GA 30094",4,2,"1,852",https://photos.zillowstatic.com/p_e/ISj71dmw2lx76h0000000000.jpg
+"$80,000","4604 Highway 20 NE, Conyers, GA 30012",15.46,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$125,000","1980 Palerno Way, Conyers, GA 30012",3,2,"1,570","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$225,000","1445 Queenie Smith Rd NE, Conyers, GA 30012",4,3,"2,834","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$230,875","1702 Woodstone Cv SE, Conyers, GA 30013",4,3,"2,591","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$162,400","1744 Rocky Ridge Dr NW, Conyers, GA 30012",3,2,"1,950","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$238,000","4811 Habersham Way SE, Conyers, GA 30094",4,3,"2,292","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$73,500","659 Lakeridge Dr SE, Conyers, GA 30094",3,2,984,N/A
+"$159,900","1788 Millstream Holw, Conyers, GA 30012",3,3,"2,124","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$410,650","176 Barclay Dr, Mcdonough, GA 30252",--,--,--,N/A
+"$190,000","401 Hidden Valley Dr SE, Conyers, GA 30094",3,2,"1,609","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$115,900","3400 Salem Mill Trl SE, Conyers, GA 30013",3,2.5,"1,805","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$169,900","1289 Lakewood Dr NE, Conyers, GA 30013",4,3,"2,068","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$190,000","200 Silver Summit Dr SE, Conyers, GA 30094",2,2,"1,775","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$296,490","2728 Potters Walk, Conyers, GA 30012",--,--,--,N/A
+"$165,000","1529 Woodcrest Dr NE, Conyers, GA 30012",3,2,"1,554","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$184,000","3006 Milton Ct SE, Conyers, GA 30013",4,4,"2,482","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$285,000","2213 Jessowen Way SE, Conyers, GA 30013",5,4,"3,271","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$194,900","1517 River Song Way, Conyers, GA 30012",3,2,"1,924","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$264,489","3131 Buck Branch Rd SW, Conyers, GA 30094",3,2,"2,094","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$200,000","2690 Club Forest Dr SE, Conyers, GA 30013",3,3,"2,603","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$334,825","3327 Bartlett Ave, Conyers, GA 30013",--,N/A,N/A,N/A
+"$141,000","680 Almand Branch Rd SE, Conyers, GA 30094",3,2,"1,402",N/A
+"$127,000","158 Ellis Dr, Conyers, GA 30012",2,3,"1,342","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$100,000","2832 Almand Rd NW, Conyers, GA 30012",7.79,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$185,000","3508 Blackberry Ln SE, Conyers, GA 30094",3,2,"1,969","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$188,500","1390 Northside Dr NW, Conyers, GA 30012",3,2,"1,922","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$293,490","172 Lavender Way LOT 40, Mcdonough, GA 30252",5,3,"2,525","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$133,000","2323 Rock Mill Ln NE, Conyers, GA 30013",3,2,"1,642",N/A
+"$150,000","1963 Wilson Rd NW, Conyers, GA 30012",3,1,"1,064",N/A
+"$10,000","2146 Carr Rd NE, Conyers, GA 30012",3,2,"1,372",N/A
+"$150,000","2160 Carr Rd NE, Conyers, GA 30012",3,2,"1,992",N/A
+"$133,000","2323 Rock Mill Ln NE, Conyers, GA 30013",3,2,"1,642",N/A
+"$515,000","2548 Pattington Way NE, Conyers, GA 30013",1.1,N/A,N/A,https://photos.zillowstatic.com/p_e/IS-1utcmlymhyvkt.jpg
+"$118,000","1630 Sugarmaple Dr SW, Conyers, GA 30094",3,2,"2,369",https://photos.zillowstatic.com/p_e/ISzjp04usmuxwu0000000000.jpg
+"$430,000","2606 Bosworth Ct NE, Conyers, GA 30013",5,6,"4,300",https://photos.zillowstatic.com/p_e/IS3337ux3zftdo0000000000.jpg
+"$150,000","1963 Wilson Rd NW, Conyers, GA 30012",3,1,"1,064",N/A
+"$144,000","611 Greenview Ave SE, Conyers, GA 30094",3,2,"1,459",https://photos.zillowstatic.com/p_e/ISzvyffopvao4u1000000000.jpg
+"$196,000","2415 Overlook Dr SW, Conyers, GA 30094",3,3,"1,856",https://photos.zillowstatic.com/p_e/IS3v4vnbhx9srk0000000000.jpg
+"$319,000","2512 Sycamore Dr, Conyers, GA 30094",4,3,"2,826",https://photos.zillowstatic.com/p_e/ISr98i77mlanqd1000000000.jpg
+"$169,900","2060 Wildflower Way, Conyers, GA 30012",3,3,"1,421",https://photos.zillowstatic.com/p_e/ISzzlsz7a2hx9v1000000000.jpg
+"$99,540","1316 White Oak Ct SE, Conyers, GA 30013",4,3,"1,592","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$170,000","3231 Lindas Cir SE, Conyers, GA 30013",4,2.5,"2,557","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$45,000","3353 Bartlett Ave, Conyers, GA 30013",5,4,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$174,999","215 Smile Dr SE, Conyers, GA 30094",4,2,"2,161","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$228,000","421 Shadow Oak Dr SE, Conyers, GA 30094",5,4,"2,080","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$119,900","3025 Raintree Dr SE, Conyers, GA 30094",4,3,"1,222","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$27,000","2901 Cliff View Ct, Conyers, GA 30094",--,--,--,N/A
+"$349,900","3297 Creekside Ct SE, Conyers, GA 30094",6,3,"4,578","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$365,000","971 Hewlett St SW, Conyers, GA 30012",Studio,--,"4,888","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$148,500","1418 Steam Engine Way NE, Conyers, GA 30013",3,2,"1,567","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$150,000","1229 Pinedale Cir NW, Conyers, GA 30012",2,2,"1,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$167,900","1625 Honeysuckle Path, Conyers, GA 30012",3,3,"1,421","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$155,000","2202 Palomino Ln, Conyers, GA 30012",3,2,"1,612",N/A
+"$399,900","2813 Lind Rd NE, Conyers, GA 30013",5,3,"4,223",N/A
+"$155,000","2202 Palomino Ln #74, Conyers, GA 30012",3,3,"1,612","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$3.60M,"1608 Golden Creek Ct SW, Conyers, GA 30094",5,9,"14,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$90,000","1660 Almand Creek Dr SW, Conyers, GA 30094",3,2,"1,736","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$360,000","1340 Winesap Ct SE, Conyers, GA 30013",4,4,"4,661","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$169,900","5179 W Shore Dr, Conyers, GA 30094",4,3,"4,221","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$53,149","939 Bryant St SW, Conyers, GA 30012",3,3,"1,664","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$195,500","3596 Cherry Creek Dr SE, Conyers, GA 30013",3,2,"1,865","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$59,900","2347 Oakdale Rd NE, Conyers, GA 30012",4,3,"1,732","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$129,900","1739 Old Camp Trl NW, Conyers, GA 30012",4,3,"1,824","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$147,000","1610 Coal Shovel Trl NE, Conyers, GA 30013",3,2,"1,400","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$269,000","385 Piedmont Cir, Covington, GA 30016",6,3,"3,720","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$186,000","2413 Highway 20 SE, Conyers, GA 30013",3,4,"2,386","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$119,000","1022 Highland Cir SE, Conyers, GA 30012",3,2,"1,701","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$181,200","1152 Stepping Stone Ln, Conyers, GA 30012",5,3,"3,548","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$162,500","342 Bridgewood Dr SE, Conyers, GA 30094",3,2,"1,955","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$238,000","101 Shadow Lake Dr, Conyers, GA 30094",4,2,"2,224","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$320,000","3187 Jackson Creek Dr, Stockbridge, GA 30281",5,3,"2,634","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$150,000","796 Jefferson Dr SW, Conyers, GA 30094",3,2,"1,358",N/A
+"$227,000","2512 Union Church Rd SW, Stockbridge, GA 30281",3,2,"1,870",https://photos.zillowstatic.com/p_e/ISjv7eqhaq1hrk1000000000.jpg
+"$158,000","1794 Rocky Ridge Dr NW, Conyers, GA 30012",4,3,"1,920",https://photos.zillowstatic.com/p_e/ISnqiez10wac6b1000000000.jpg
+"$105,822","3336 Henson Ln, Stockbridge, GA 30281",3,2,"1,564",https://photos.zillowstatic.com/p_e/ISrh6ed6ifwzdk1000000000.jpg
+"$194,900","1041 Thornwood Cir, Covington, GA 30016",3,3,"1,944",https://photos.zillowstatic.com/p_e/ISj3ew6aozsx801000000000.jpg
+"$400,000","2801 Spicetree Trl SE, Conyers, GA 30094",5,5,"4,135",N/A
+"$200,000","1226 Lambeth Way SE, Conyers, GA 30013",3,2,"2,000",https://photos.zillowstatic.com/p_e/ISrp8h748pdlnr1000000000.jpg
+"$164,900","1614 Larkspur Trl, Conyers, GA 30012",3,3,"1,421",https://photos.zillowstatic.com/p_e/ISaxzmyjx0hhk70000000000.jpg
+"$188,000","2136 Lake Rockaway Rd NW, Conyers, GA 30012",3,3,"2,342",https://photos.zillowstatic.com/p_e/ISrdjlcvc0umii1000000000.jpg
+"$223,000","1388 Caritas Ct SE, Conyers, GA 30013",3,2,"2,257","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$188,000","2136 Lake Rockaway Rd NW, Conyers, GA 30012",3,2.5,"2,342",N/A
+"$204,000","2505 Amalfi Dr, Conyers, GA 30012",4,2,"2,049","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$136,500","1624 Cherry Hill Rd SW, Conyers, GA 30094",3,2,"1,376","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$230,000","2254 Tucker Mill Rd SW, Conyers, GA 30094",4,2,"3,583","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$196,000","814 Cambridge Creek Dr SW, Conyers, GA 30094",3,3,"2,073","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$50,000","2341 Lucas Dr NE, Conyers, GA 30012",3,1,"1,046","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$93,000","1581 Sugar Plum Dr SW, Conyers, GA 30094",4,3,"1,164","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$223,000","1915 Crescent Moon Dr NE, Conyers, GA 30012",3,2,"1,910","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$2.27M,"1235 Woodland Ct SE, Conyers, GA 30013",3,2,"1,350","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$101,000","1781 Lindy Ct NW, Conyers, GA 30012",3,2,"1,232","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$2.27M,"1521 Chelsea Downs Dr NE, Conyers, GA 30013",3,2,"1,268","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$2.27M,"623 Lakeridge Cir SE, Conyers, GA 30094",3,2,"1,344","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$2.27M,"4640 Cedar Brook Dr SE, Conyers, GA 30094",3,2,"1,429","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$2.27M,"1101 W Adrian Cir SW, Conyers, GA 30094",3,1.5,"1,344","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$766,000","2214 Chase Way SE, Conyers, GA 30013",6,4,"3,994","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$160,000","4415 Flat Bridge Rd SW, Stockbridge, GA 30281",3,2,"1,912",N/A
+$2.27M,"868 Cochise Trl SE, Conyers, GA 30094",3,2,"1,746","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$48,000","2573 Pattington Way NE, Conyers, GA 30013",1.06,N/A,N/A,N/A
+"$147,500","1830 Brandy Dr SE, Conyers, GA 30013",4,2.5,"1,806","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$2.27M,"705 Briarwood Rd SW, Conyers, GA 30094",4,2,"1,564","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$2.27M,"2831 Stone Bridge Trl SW, Conyers, GA 30094",4,2.5,"2,649","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$154,000","448 Sweet Water Trl SE, Conyers, GA 30094",3,2,"2,028","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$22,500","1211 Scenic Brook Trl SW, Conyers, GA 30094",1.5,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$2.27M,"2136 Amherst Trl SE, Conyers, GA 30094",4,2.5,"2,414","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$2.27M,"3022 River Garden Rd, Covington, GA 30016",3,2,"1,596","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$2.27M,"3889 Pointers Way SW, Conyers, GA 30094",3,2,"1,910","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$164,000","1300 Bedford Ln NE, Conyers, GA 30013",4,2,"1,630","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$422,083","1301 Stone Bridge Ct SW, Conyers, GA 30094",3,3.5,"2,154","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$290,946","4132 Sweet Water Ln SE, Conyers, GA 30094",3,2,"1,800","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$422,083","1890 Brandy Woods Trl SE, Conyers, GA 30013",3,2,"1,748","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$95,000","2391 Corigan Cir NE, Conyers, GA 30012",4,2,"2,164",https://photos.zillowstatic.com/p_e/ISz3to4ojt9zgj1000000000.jpg
+"$290,946","325 Morris Ct SE, Conyers, GA 30094",3,2,"1,256",https://photos.zillowstatic.com/p_e/ISttvtmc4ol7s3.jpg
+"$122,000","1631 Holmes Dr SW, Conyers, GA 30094",4,2,"2,472",https://photos.zillowstatic.com/p_e/ISnmbq8m6zlfh30000000000.jpg
+"$213,000","2584 Highland Golf Course Dr SE, Conyers, GA 30013",3,4,"2,453",https://photos.zillowstatic.com/p_e/ISzzdaos9w00bf1000000000.jpg
+"$235,000","2857 Bridle Creek Dr SW, Conyers, GA 30094",3,2,"2,355",https://photos.zillowstatic.com/p_e/ISjnt5kl50gi441000000000.jpg
+"$136,000","2631 Rolling Hills Way SE, Conyers, GA 30094",3,2,"1,178",https://photos.zillowstatic.com/p_e/IS3jrsf5mgug0i1000000000.jpg
+"$309,000","2636 Harvest Dr SE, Conyers, GA 30013",5,3,"3,369",https://photos.zillowstatic.com/p_e/IS7i1v8rxoibos1000000000.jpg
+"$176,500","2588 Fieldstone Dr SE, Conyers, GA 30013",4,3,"2,631",https://photos.zillowstatic.com/p_e/ISzzdebly9sqg60000000000.jpg
+"$147,740","3881 Hunters Chase SW, Conyers, GA 30094",3,2,"1,778",https://photos.zillowstatic.com/p_e/ISv0wp7yuwol4u0000000000.jpg
+"$389,900","2721 Pitlochry St SW, Conyers, GA 30094",6,5,"4,500","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$83,000","4115 Sweet Water Ln SE, Conyers, GA 30094",3,2,"1,725","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$481,505","3316 Westborough Ln, Conyers, GA 30094",5,5,"3,400","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$222,100","1228 Saxony Dr SE, Conyers, GA 30013",4,3,"2,777","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$155,000","3768 Windy Hill Dr SE, Conyers, GA 30013",3,2.5,"1,392",N/A
+"$199,000","4781 Northbrook Ct, Conyers, GA 30094",4,2,"2,006","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$369,550","1903 Liz Ct, Conyers, GA 30094",5,4,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$252,000","1541 Evergreen Hollow Ln, Conyers, GA 30012",6,5,"3,605","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$99,000","2556 Casablanca Dr, Conyers, GA 30012",4,3,"1,810","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$138,000","1756 Salem Woods Dr SE, Conyers, GA 30013",Studio,--,"1,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$210,000","3309 Sams Way SE, Conyers, GA 30013",4,3,"2,700","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$172,500","541 Greenview Ave SE, Conyers, GA 30094",3,3,"2,132","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$416,900","1443 Kings Point Way SW #29, Conyers, GA 30094",5,4,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$395,900","1415 Kings Point Way SW #10, Conyers, GA 30094",5,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$200,000","1400 Stone Bridge Ln SW, Conyers, GA 30094",4,3,"2,389","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$205,000","3470 Sandstone Trl SE, Conyers, GA 30013",4,3,"1,876","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$90,000","1082 Pine St NE, Conyers, GA 30012",4,2,"2,420",N/A
+"$31,500","1561 Flat Shoals Rd SE, Conyers, GA 30013",--,--,--,N/A
+"$369,550","1903 Liz Ct #29, Conyers, GA 30094",5,4,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$31,500","2215 Kings Forest Dr SE, Conyers, GA 30013",--,--,--,N/A
+"$31,500","2225 Kings Forest Dr SE, Conyers, GA 30013",--,--,--,N/A
+"$31,500","2235 Kings Forest Dr SE, Conyers, GA 30013",--,--,--,N/A
+"$31,500","2245 King Forest Dr SE, Conyers, GA 30013",--,--,--,N/A
+"$31,500","2266 Kings Forest Dr SE, Conyers, GA 30013",--,--,--,N/A
+"$31,500","2258 Kings Forest Dr SE, Conyers, GA 30013",--,--,--,N/A
+"$31,500","2246 King Forest Dr SE, Conyers, GA 30013",--,--,--,N/A
+"$157,000","3456 Richmond Dr SE, Conyers, GA 30094",3,4,"1,792","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$395,900","1415 Kings Point Way SW, Conyers, GA 30094",5,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$155,000","3238 Spring Way SE, Conyers, GA 30013",3,2,"1,964","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$63,000","0 SE Kings Forest Dr, Conyers, GA 30013",--,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$237,081","2400 Annes Lake Cir #15, Lithonia, GA 30058",3,3,"2,135","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$237,081","2400 Annes Lake Cir #15, Lithonia, GA 30058",3,3,"2,135",https://photos.zillowstatic.com/p_e/IS7mob8piwxgg20000000000.jpg
+"$293,000","2643 Brittany Ct SE, Conyers, GA 30013",3,3,"3,117",https://photos.zillowstatic.com/p_e/IS3b99ana5ib350000000000.jpg
+"$222,000","3800 Cameron Trl SE, Conyers, GA 30013",4,3,"2,432",https://photos.zillowstatic.com/p_e/IS3vsdia7qqoak1000000000.jpg
+"$165,000","1407 Hillside Pl SE, Conyers, GA 30094",3,2,"1,672",https://photos.zillowstatic.com/p_e/ISne9jztfrq6ud1000000000.jpg
+"$89,600","620 Fern Ter SE, Conyers, GA 30094",3,2,"1,434",https://photos.zillowstatic.com/p_e/IS9li5kr3y6f9w1000000000.jpg
+"$12,500","2331 Lake Trl NE, Conyers, GA 30012",3,2,"1,528",N/A
+"$187,500","2881 Stone Bridge Trl SW #39, Conyers, GA 30094",4,4,"3,050",https://photos.zillowstatic.com/p_e/ISrd3pw8memtb10000000000.jpg
+"$90,000","1148 Beth Ln NW, Conyers, GA 30012",3,1.5,"1,175",N/A
+"$100,000","1133 Scott St SE, Conyers, GA 30012",2,1,"2,036",https://photos.zillowstatic.com/p_e/IS1hs71wbju37hf.jpg
+"$264,900","117 Annis Berrye Trce, Mcdonough, GA 30252",--,--,--,N/A
+"$187,500","2881 Stone Bridge Trl SW, Conyers, GA 30094",4,3.5,"2,050",N/A
+"$80,200","1852 Farmer Rd NW, Conyers, GA 30012",3,1,"1,334","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$159,120","568 Clubland Cir SE, Conyers, GA 30094",3,2,"1,935","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$170,000","2438 Windridge Dr NE, Conyers, GA 30013",4,3,"1,188","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$416,900","1443 Kings Point Way SW, Conyers, GA 30094",5,4,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$45,000","2809 Lind Rd NE, Conyers, GA 30013",0.62,N/A,N/A,N/A
+"$21,000","6 Horseshoe Springs Dr LOT 6A, Covington, GA 30013",1.62,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$45,900","2123 Boar Tusk Rd NE, Conyers, GA 30012",1,1,832,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$195,000","5170 E Shore Dr SW, Conyers, GA 30094",3,2.5,"1,950",N/A
+"$166,900","1605 Honeysuckle Path, Conyers, GA 30012",3,3,"1,421","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$48,000","1849 Christopher Dr, Conyers, GA 30094",--,--,--,N/A
+"$385,900","1204 Avignon Dr SW #2, Conyers, GA 30094",4,3,"4,169","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$58,000","1697 Hunting Creek Dr SE, Conyers, GA 30013",2,3,"1,008","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$170,000","2352 Highway 138 SW, Conyers, GA 30094",4,3,"2,556","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$385,900","1204 Avignon Dr SW, Conyers, GA 30094",5,4,"4,169",N/A
+"$221,060","2804 Ellis Pointe Ave, Conyers, GA 30094",3,3,"1,708","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$150,000","560 Mount Zion Rd NW, Conyers, GA 30012",3,2,"1,459","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$329,490","173 Lavender Way LOT 33, Mcdonough, GA 30252",5,3,"2,890","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$219,900","3000 Kesmond Dr, Conyers, GA 30094",4,3,"2,062","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$243,000","1300 Vineyard Dr SE, Conyers, GA 30013",4,4,"3,302","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$14,000","2039 Jessica Way, Conyers, GA 30012","2,003",N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$225,000","1677 Hunting Creek Dr SE, Conyers, GA 30013",2,2.5,"1,008",N/A
+"$284,400","4236 Lindsey Way, Conyers, GA 30013",4,3,"1,934","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$125,000","1060 Adrian Cir SW, Conyers, GA 30094",3,2,"1,152","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$158,900","3355 Squire Ln SE, Conyers, GA 30094",3,3,"2,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$133,104","2571 Highland Golf Course Dr SE, Conyers, GA 30013",4,2.5,"2,470","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$162,500","2326 Rock Mill Ln NE, Conyers, GA 30013",4,2,"1,858","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$373,675","3331 Branch Valley Trl, Conyers, GA 30094",5,5,"3,359","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$270,000","1405 Hadlow Ct #TWO, Conyers, GA 30094",5,4,"3,153","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$429,900","2808 Lind Rd NE, Conyers, GA 30013",5,5,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$256,000","355 Golfcrest Dr SE, Conyers, GA 30094",3,2,"3,555",https://photos.zillowstatic.com/p_e/ISblq3gpk4zaec0000000000.jpg
+"$162,500","2326 Rock Mill Ln NE, Conyers, GA 30013",4,2,"1,858",https://photos.zillowstatic.com/p_e/ISzfqa9km64os61000000000.jpg
+"$221,000","2143 Green Way Cir SE, Conyers, GA 30013",4,3,"2,711",N/A
+"$128,000","2573 Hill Cir NE, Conyers, GA 30012",3,2,"1,370",https://photos.zillowstatic.com/p_e/ISjntp3es80rd41000000000.jpg
+"$241,900","5370 Starboard Ct SW, Conyers, GA 30094",3,3,"2,430",https://photos.zillowstatic.com/p_e/ISjzanmwpu7prk1000000000.jpg
+"$162,900","1582 Larkspur Trl, Conyers, GA 30012",3,2.5,"1,421",https://photos.zillowstatic.com/p_e/ISrp8lmyg573wk1000000000.jpg
+"$158,900","3355 Squire Ln SE, Conyers, GA 30094",3,3,"2,200",https://photos.zillowstatic.com/p_e/ISbpxzkp9dnn4j0000000000.jpg
+"$259,000","1340 Wild Rose Dr SE, Conyers, GA 30013",3,2,"2,146",https://photos.zillowstatic.com/p_e/IS3j3a5i6l3m5k0000000000.jpg
+"$78,000","910 Park Pl NE, Conyers, GA 30012",2,2,"1,183",https://photos.zillowstatic.com/p_e/IS7yl5jj2poaj41000000000.jpg
+"$165,900","2635 Lake Capri Dr, Conyers, GA 30012",2,2,"1,701","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$312,000","1103 Jimson Cir SE, Conyers, GA 30013",5,3,"2,776","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$375,000","2156 Tucker Mill Rd SW, Conyers, GA 30094",5,5,"3,435","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$355,620","2921 Centennial Dr NE #5, Conyers, GA 30013",5,5,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$355,620","2921 Centennial Dr NE, Conyers, GA 30013",5,5,"3,361","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$138,500","4836 Navajo Trl SE, Conyers, GA 30094",3,2,"1,404","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$220,000","3306 Sams Way SE, Conyers, GA 30013",3,3,"2,564","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$135,000","4824 Navajo Trl SE, Conyers, GA 30094",3,2,"1,258","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$691,806","3201 Highpoint Way SW, Conyers, GA 30094",--,--,--,N/A
+"$169,900","2055 Wildflower Way, Conyers, GA 30012",3,3,"1,421","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$429,000","2705 Ratby Ln NE, Conyers, GA 30013",0.66,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$127,000","2389 Rolling Acres Dr SW, Conyers, GA 30094",4,2,"1,872","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$66,500","3144 Goode Rd, Conyers, GA 30094",2,2,"1,416","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$31,000","1071 Oakland Ave SE APT C, Conyers, GA 30012",2,2,936,N/A
+"$341,000","2734 Harvest Dr SE, Conyers, GA 30013",5,4,"3,921","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$374,200","1829 Christopher Dr, Conyers, GA 30094",5,4,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$269,900","323 Charlotte Frances Ln, Mcdonough, GA 30252",4,3,"2,150","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$48,000","1873 Christopher Dr, Conyers, GA",5,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$369,990","124 Standford Dr, Mcdonough, GA 30252",--,--,--,N/A
+"$155,000","1202 Cardinal Rd NE, Conyers, GA 30012",3,2,"1,825","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$385,000","3321 Bartlett Ave, Conyers, GA 30013",5,5,"3,762","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$369,990","124 Standford Dr #7, Mcdonough, GA 30252",4,4,"3,213","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$150,000","1038 Duke Dr SE, Conyers, GA 30013",3,2,"2,148","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$270,000","1405 Hadlow Ct, Conyers, GA 30094",5,4,"3,153","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$14,800","3825 Martingale Dr SE, Conyers, GA 30094",1.49,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$130,000","1631 Pinedale Cir NW, Conyers, GA 30012",4,2,"1,972","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$95,000","635 Lakeridge Cir SE, Conyers, GA 30094",3,3,"1,344","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$155,000","2436 Black Forest Dr, Conyers, GA 30012",3,2.5,"1,556","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$10,000","2425 Wild Oak Ct, Stockbridge, GA 30281",6,5,"4,316","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$221,000","3400 Sandstone Trl SE, Conyers, GA 30013",4,3,"2,650","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$156,000","1500 Cherry Hill Rd SW, Conyers, GA 30094",4,3,"1,588","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"

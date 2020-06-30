@@ -1,0 +1,801 @@
+price,address,bds,ba,sqft,image
+"$180,000","3153 Bobolink Dr, Decatur, GA 30032",4,2,"1,803",https://photos.zillowstatic.com/p_e/ISfsq3zg9cf61d0000000000.jpg
+"$196,000","4293 Nelby Dr, Stone Mountain, GA 30083",3,2,"1,364",https://photos.zillowstatic.com/p_e/IS7m8v43tsj58c0000000000.jpg
+"$570,000","3105 Brick Ln, Decatur, GA 30033",4,3,"2,873",https://photos.zillowstatic.com/p_e/ISzvqtgc9uy1dw1000000000.jpg
+"$710,000","1426 Cortez Ln NE, Brookhaven, GA 30319",4,4,"3,305",https://photos.zillowstatic.com/p_e/ISjnt9f0t9ju8f1000000000.jpg
+"$405,000","2762 Wilcshire Ct, Tucker, GA 30084",3,3,"2,099",https://photos.zillowstatic.com/p_e/ISnqebmqugne0l1000000000.jpg
+$1.23M,"124 Superior Ave, Decatur, GA 30030",5,4,"5,247",https://photos.zillowstatic.com/p_e/ISz701em6ivzn91000000000.jpg
+"$168,000","1850 Cotillion Dr UNIT 2221, Dunwoody, GA 30338",1,1,752,https://photos.zillowstatic.com/p_e/ISvwsoxd8vsgp90000000000.jpg
+"$557,500","1878 Skyfall Cir NE #80, Brookhaven, GA 30319",4,4,"2,626",https://photos.zillowstatic.com/p_e/ISblq7vn8hw22s1000000000.jpg
+"$334,000","3110 Nottaway Ct, Atlanta, GA 30341",3,2,"2,430",https://photos.zillowstatic.com/p_e/ISfsydskq627cy0000000000.jpg
+"$232,500","4605 Park Dr, Pine Lake, GA 30072",1,1,784,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$580,000","1077 Shady Valley Pl NE, Atlanta, GA 30324",4,4,"2,755","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$345,000","1661 La France St NE UNIT 423, Atlanta, GA 30307",2,2,"1,476","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$141,800","5004 Sheila Ln, Stone Mountain, GA 30083",3,2,"1,296","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$167,500","4315 Newcastle Cir, Lithonia, GA 30038",4,3,"2,700",N/A
+"$525,000","3907 Lawrenceville Hwy, Tucker, GA 30084",Studio,2,"6,100",N/A
+"$490,000","1903 River Birch Ln, Atlanta, GA 30316",4,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$515,000","5115 Corners Dr, Atlanta, GA 30338",4,3,"3,160","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$477,500","1465 Wembley Ct NE, Atlanta, GA 30329",4,5,"3,761","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$63,000","4103 Par Three Way, Lithonia, GA 30038",3,2,"1,202","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$149,900","4598 Latchwood Dr, Lithonia, GA 30038",3,3,"1,527","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$125,000","3438 Ivys Walk BUILDING E, Atlanta, GA 30340",2,2,"1,196","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$175,000","501 Allana Dr, Stone Mountain, GA 30087",3,2,"1,623","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$295,000","1236 Francine Ct, Decatur, GA 30033",4,3,"2,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$220,000","1492 Oakridge Cir, Decatur, GA 30033",2,2,"1,460","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$510,000","1680 Hosea Williams Dr SE, Atlanta, GA 30317",3,2,"1,662","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$265,000","7419 Ivory Oak Ln, Lithonia, GA 30058",6,4,"4,868","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$300,000","1480 Briaroaks Trl NE, Atlanta, GA 30329",2,2,"1,649","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$540,000","1748 Fairway Hill Dr SE, Atlanta, GA 30317",3,2,"1,976","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$241,000","1837 Rosewood Rd, Decatur, GA 30032",3,2,"1,294","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$105,000","2502 Bradford Sq NE, Atlanta, GA 30345",3,2,"1,320","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$125,000","1485 Peachcrest Ct, Decatur, GA 30032",3,2,"1,094","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$302,000","4607 Shire Dr, Lithonia, GA 30038",5,4,"3,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$445,000","72 Lakeview Dr NE, Atlanta, GA 30317",3,2,"1,300","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$378,500","4637 Lionshead Cir, Lithonia, GA 30038",6,5,"4,923","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$397,661","961 Rittenhouse Way SE, Atlanta, GA 30316",3,3,"2,198","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$245,000","4652 Mayer Trce, Ellenwood, GA 30294",4,3,"3,136","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$265,000","222 Ashford Cir #222, Atlanta, GA 30338",2,2,"1,234","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$500,000","1293 Peachtree Vw NE, Brookhaven, GA 30319",3,4,"2,143","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$294,500","232 Carlyle Park Dr NE, Atlanta, GA 30307",2,2,"1,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$121,000","4009 Woodridge Way, Tucker, GA 30084",2,2,"1,182","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$535,000","1652 Harts Mill Rd NE, Brookhaven, GA 30319",3,3,100,https://photos.zillowstatic.com/p_e/ISv8qi8k9r8yeq1000000000.jpg
+"$423,000","4566 Amberly Ct S, Dunwoody, GA 30360",5,3,"2,893",https://photos.zillowstatic.com/p_e/ISbp1z2mjgbpxh1000000000.jpg
+"$271,500","3144 Vine Cir, Decatur, GA 30033",3,1,"1,333",https://photos.zillowstatic.com/p_e/IS7artm6ycw1lg0000000000.jpg
+"$284,900","1661 La France St NE, Atlanta, GA 30307",1,2,"1,056",https://photos.zillowstatic.com/p_e/IS3v0cqhbi26zc1000000000.jpg
+"$375,000","2288 Hunting Valley Dr, Decatur, GA 30033",2,2,"1,342",https://photos.zillowstatic.com/p_e/ISvwg3p3apyebi0000000000.jpg
+"$265,000","222 Ashford Cir #222, Atlanta, GA 30338",2,2,"1,234",https://photos.zillowstatic.com/p_e/ISrtjk0blkr03i0000000000.jpg
+"$423,500","92 Roseclair Dr SE, Atlanta, GA 30317",3,2,"1,738",N/A
+"$87,000","8874 Pleasant Hill Rd LOT 0, Lithonia, GA 30058",3.4,N/A,N/A,https://photos.zillowstatic.com/p_e/ISbdweu5hvxzh90000000000.jpg
+"$935,000","3509 Hillstone Ct NE, Brookhaven, GA 30319",6,5,"5,386",https://photos.zillowstatic.com/p_e/ISnyw2e7ak5f3l0000000000.jpg
+"$580,000","1463 Meadowcreek Ct, Atlanta, GA 30338",4,3,"2,274","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$455,000","218 Jefferson Pl, Decatur, GA 30030",3,2,"1,314","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$540,000","1689 Manhasset Pl, Dunwoody, GA 30338",4,4,"3,507","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$87,000","8874 Pleasant Hill Rd, Lithonia, GA 30058",3.4,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$360,000","3829 Oxford Cir, Doraville, GA 30340",--,--,--,N/A
+"$401,000","1825 Colt Dr, Chamblee, GA 30341",2,2,"1,242","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$225,000","4127 Kingship Dr, Ellenwood, GA 30294",4,3,"2,498","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$154,000","4813 Buchli Ln, Lithonia, GA 30038",4,2,"1,488","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$219,000","3172 Evans Mill Rd, Lithonia, GA 30038",3,2,"3,889","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$385,000","1823 Belle Meade Ct, Stone Mountain, GA 30087",4,5,"3,594","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$232,500","1128 Smith St, Clarkston, GA 30021",4,3,"1,617","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$132,600","3400 Lark Ln, Decatur, GA 30032",3,2,"1,343","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$230,000","253 Lamon Ave SE, Atlanta, GA 30316",3,1,"1,192","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$242,500","1364 Weatherstone Way NE, Atlanta, GA 30324",2,2,"1,344","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$269,900","2035 Lilac Ln, Decatur, GA 30032",3,2,"1,312","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$499,990","1374 Oldfield Rd, Decatur, GA 30030",4,3,"2,174","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$270,000","2829 Blue Grass Ln, Decatur, GA 30034",5,3,"2,880","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$380,000","1955 Shalimar Dr NE, Atlanta, GA 30345",4,2,"2,050","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$45,000","2039 Oak Park Ln, Decatur, GA 30032",3,3,"1,726","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$667,500","1031 Fielding Park Ct NE, Brookhaven, GA 30319",5,5,"3,384","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$386,500","3562 Castlehill Ct, Tucker, GA 30084",4,3,"2,805","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$249,900","1270 Weatherstone Dr NE, Atlanta, GA 30324",2,2,"1,344","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$179,900","419 Raven Springs Ct, Stone Mountain, GA 30087",3,2,"1,654","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$370,000","1651 Beacon Hill Blvd NE, Atlanta, GA 30329",3,1,"1,442","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$111,500","4328 Idlewood Ln, Tucker, GA 30084",3,3,"1,594","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$307,000","2265 Tanglewood Cir NE, Atlanta, GA 30345",4,2,"1,566","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$217,000","1485 Oakridge Ct, Decatur, GA 30033",2,2,"1,140","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.17M,"1637 Wayland Cir NE, Brookhaven, GA 30319",6,5,"4,130","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$620,000","2646 Hawthorne Pl NE, Atlanta, GA 30345",4,4,"3,041","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$138,800","605 Hillandale Park Dr, Lithonia, GA 30058",3,3,"1,604","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$180,000","2712 Hillvale Cove Dr, Lithonia, GA 30058",3,2,"1,938","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$170,000","514 Mount Vista Rd, Stone Mountain, GA 30087",4,2,"1,450",https://photos.zillowstatic.com/p_e/ISrll04fnkagsb0000000000.jpg
+"$267,000","3077 Francine Dr, Decatur, GA 30033",3,2,"1,120",https://photos.zillowstatic.com/p_e/IS3b1reki0m93l0000000000.jpg
+"$190,000","4037 Creek Station Ln, Stone Mountain, GA 30083",3,3,"2,082",https://photos.zillowstatic.com/p_e/ISb1raqzpq2p8f1000000000.jpg
+"$232,500","1208 Thomas Rd, Decatur, GA 30030",2,1,"1,049",https://photos.zillowstatic.com/p_e/ISvgwsefg8u3lq1000000000.jpg
+"$240,000","7076 Brook Side Lndg, Stone Mountain, GA 30087",3,2,"1,923",https://photos.zillowstatic.com/p_e/IS33jf7aex6cbi0000000000.jpg
+"$225,000","1189 Old Greystone Dr, Lithonia, GA 30058",4,3,"2,780",https://photos.zillowstatic.com/p_e/IS33bpp4v54ffv0000000000.jpg
+"$162,999","6380 Edenfield Dr, Lithonia, GA 30058",4,3,"2,110",https://photos.zillowstatic.com/p_e/ISv4v3dcif3cd01000000000.jpg
+"$115,000","4354 Idlewood Ln, Tucker, GA 30084",3,3,"1,594",https://photos.zillowstatic.com/p_e/ISb13ok5pisjup1000000000.jpg
+"$389,000","3060 Glendale Ct, Decatur, GA 30032",3,3,"1,900",https://photos.zillowstatic.com/p_e/ISv0ov6fdrbq3b1000000000.jpg
+"$215,000","1501 Clairmont Rd APT 2015, Decatur, GA 30033",2,2,"1,523","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$153,950","1010 Scott Blvd APT D8, Decatur, GA 30030",2,2,"1,014","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$245,000","3271 Hampton Green Way, Doraville, GA 30340",2,3,"1,692","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$724,900","5388 Trowbridge Pl, Atlanta, GA 30338",5,5,"4,575","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$241,000","1369 Diamond Ave SE, Atlanta, GA 30316",2,2,948,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$175,000","5389 Ridge Forest Dr, Stone Mountain, GA 30083",3,2,"1,388","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$724,900","5388 Trowbridge Dr, Dunwoody, GA 30338",4,4,"4,379","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.33M,"1261 University Dr NE, Atlanta, GA 30306",5,5,"6,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$425,000","4089 Ivey Gate, Atlanta, GA 30341",3,3.5,"2,400","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.21M,"1118 Adams St, Decatur, GA 30030",5,5,"4,039","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$435,000","883 Winfield Ave SE, Atlanta, GA 30316",3,2,"2,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$179,900","839 Churchill Ct, Stone Mountain, GA 30083",4,3,"1,599","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$262,000","1661 La France St NE UNIT 216, Atlanta, GA 30307",1,1.5,929,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$262,000","1661 La France St NE, Atlanta, GA 30307",1,2,929,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$175,000","6328 Lake Valley Point, Lithonia, GA 30058",3,2,"1,506","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$445,000","270 Ivy Glen Cir, Avondale Estates, GA 30002",4,4,"3,248","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$259,850","1661 La France St NE, Atlanta, GA 30307",1,2,929,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$560,000","1399 N Druid Hills Rd NE, Brookhaven, GA 30319",4,4,"2,900","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$585,000","4355 Berkford Cir NE, Brookhaven, GA 30319",4,3,"2,187",N/A
+"$338,500","3105 Turman Cir, Decatur, GA 30033",3,4,"1,856","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$467,575","3168 Quinn Pl, Chamblee, GA 30341",4,4,"2,404","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$530,000","115 Leslie St SE, Atlanta, GA 30317",3,3,"2,394","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$109,900","4363 Indian Forest Rd, Stone Mountain, GA 30083",Studio,--,"1,250","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$310,000","1325 Arnold Ave NE, Atlanta, GA 30324",2,2,"1,357","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$156,000","2825 Northeast Expy #A3, Atlanta, GA 30345",2,3,"1,363","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$400,500","2439 Wood Trail Ln, Decatur, GA 30033",3,2,"1,292","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$127,000","447 Sherwood Cir, Stone Mountain, GA 30087",3,2,"1,382","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$535,000","5067 Mount Vernon Way, Atlanta, GA 30338",4,3,"2,733","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$265,000","2109 Shady Ln, Tucker, GA 30084",3,2,"2,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$365,000","2461 Harrington Dr, Decatur, GA 30033",3,2,"1,276","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$165,000","6488 Chestnut Lake Xing, Lithonia, GA 30038",4,3,"1,965","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$285,000","5409 Winding Glen Dr, Lithonia, GA 30038",5,3,"3,783",https://photos.zillowstatic.com/p_e/IS7qrs6b3m62tg0000000000.jpg
+"$169,900","3629 Burlingham Dr, Lithonia, GA 30038",4,3,"1,952",https://photos.zillowstatic.com/p_e/ISnetqilisqgeh0000000000.jpg
+"$165,000","6488 Chestnut Lake Xing, Lithonia, GA 30038",4,3,"1,965",https://photos.zillowstatic.com/p_e/IS3rdrb9d2yyt81000000000.jpg
+"$45,000","8103 Fairington Village Dr, Lithonia, GA 30038",3,2,"1,292",https://photos.zillowstatic.com/p_e/IS33jzyw5od5yb0000000000.jpg
+"$117,000","3671 Harvest Dr, Decatur, GA 30034",2,3,"1,460",https://photos.zillowstatic.com/p_e/ISfof8gnffjuo41000000000.jpg
+"$185,000","3862 Chimney Mill Ct, Ellenwood, GA 30294",4,3,"2,068",https://photos.zillowstatic.com/p_e/ISr12keyyedp7a1000000000.jpg
+"$385,000","5184 Beechwood Forest Dr, Lithonia, GA 30038",5,4,"5,085",https://photos.zillowstatic.com/p_e/IS3r5xqqyd02vg1000000000.jpg
+"$154,870","2467 Piering Dr, Lithonia, GA",3,3,"1,455",https://photos.zillowstatic.com/p_e/ISrtv55ubfxuph0000000000.jpg
+"$85,000","3603 Cobble Mill Ln, Clarkston, GA 30021",2,4,"1,182",N/A
+"$265,000","1031 Forrest Blvd, Decatur, GA 30030",2,1,"1,166","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$390,000","1122 Perimeter Walk #1122, Atlanta, GA 30338",3,4,"2,156","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$295,000","2235 Brunswick Ave, Decatur, GA 30032",4,2,"1,502","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$180,000","1441 Carter Rd, Decatur, GA 30030",4,3,"1,723","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$200,000","310 Patterson Ave SE, Atlanta, GA 30316",3,2,"1,166","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$167,500","2825 NE Expy NE, Atlanta, GA 30345",4,5,"2,726","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$600,000","1680 Chartwell Trce, Smoke Rise, GA 30087",5,7,"4,762","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$664,500","1076 Central Park Rd, Decatur, GA 30033",4,4,"2,700","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$284,500","2633 Old Norcross Rd, Tucker, GA 30084",3,2,"1,616","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$155,500","3992 Carlinswood Way, Stone Mountain, GA 30083",3,3,"1,681","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$194,900","1190 Old Greystone Dr, Lithonia, GA 30058",3,3,"2,492","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$405,000","22 Vinson Dr SE, Atlanta, GA 30317",3,3,"2,084","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$585,000","1290 Brook Forest Dr NE, Atlanta, GA 30324",3,2,"1,617","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$165,000","910 Park West Ln, Stone Mountain, GA 30088",4,3,"1,932","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$41,000","4363 Timberlake, Stone Mountain, GA 30083",2,2,940,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$175,000","3501 Tulip Dr, Decatur, GA 30032",4,2,"1,978","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$970,000","552 Oakdale Rd NE, Atlanta, GA 30307",5,4,"3,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$495,000","144 Campbell St SE, Atlanta, GA 30317",3,2,"1,600","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$654,750","5168 Lakesprings Dr, Atlanta, GA 30338",6,5,"4,241","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$293,000","408 Sycamore Dr, Decatur, GA 30030",2,3,"1,364","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$147,000","1061 Cherokee Hts, Stone Mountain, GA 30083",3,2,"1,618","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$220,000","2914 Lowrance Dr, Decatur, GA 30033",3,1,"1,022","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$215,000","5265 Essex Farms Ct, Stone Mountain, GA 30088",4,2,"2,152","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$510,417","2443 Skyland Way NE #77, Brookhaven, GA 30319",4,4,"2,524","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$635,000","4950 Village Terrace Dr, Atlanta, GA 30338",5,4,"3,448","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$375,000","3637 Prince Way, Tucker, GA 30084",4,3,"3,400","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$410,000","3288 Embry Hills Dr, Atlanta, GA 30341",4,3,"3,249","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$46,000","759 Windchase Ln #759, Stone Mountain, GA 30083",3,2,"1,060","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$238,500","7508 Crescent Bend Cv, Stone Mountain, GA 30087",3,4,"2,568","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$649,000","205 Northern Ave, Decatur, GA 30030",3,3,"2,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$192,000","332 Navarre Dr, Stone Mountain, GA 30087",3,2,"1,896","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$46,000","759 Windchase Ln #759, Stone Mountain, GA 30083",3,2,"1,060",https://photos.zillowstatic.com/p_e/ISzbb00hqfdudp1000000000.jpg
+"$560,000","110 N 4th Ave N, Decatur, GA 30030",3,2,"1,420",https://photos.zillowstatic.com/p_e/IS7ixfanuz14kq1000000000.jpg
+"$175,000","3501 Tulip Dr, Decatur, GA 30032",4,2,"1,978",https://photos.zillowstatic.com/p_e/ISzfqm2bo2p0yp0000000000.jpg
+"$180,000","1441 Carter Rd, Decatur, GA 30030",4,3,"1,723",https://photos.zillowstatic.com/p_e/IS3jvr97w8f0b70000000000.jpg
+"$600,000","1680 Chartwell Trce, Smoke Rise, GA 30087",5,7,"4,762",https://photos.zillowstatic.com/p_e/ISzvmmwg8ozi240000000000.jpg
+"$500,000","2953 Sylvan Ramble Rd NE, Atlanta, GA 30345",3,3,"2,504",https://photos.zillowstatic.com/p_e/ISzzxlqtzvs1hb1000000000.jpg
+"$467,575","3168 Quinn Pl #85, Atlanta, GA 30341",3,4,"2,407",https://photos.zillowstatic.com/p_e/ISfw17sb52osta1000000000.jpg
+"$635,000","180 Murray Hill Ave NE, Atlanta, GA 30317",4,3,"2,673",https://photos.zillowstatic.com/p_e/ISb9dtd6drlv3l0000000000.jpg
+"$510,417","2443 Skyland Way NE #77, Brookhaven, GA 30319",4,4,"2,524",https://photos.zillowstatic.com/p_e/ISzr7kl1odys8t0000000000.jpg
+"$413,000","2264 Seaman Cir, Atlanta, GA 30341",3,2,"1,445","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$165,000","910 Park West Ln, Stone Mountain, GA 30088",4,3,"1,932","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$194,900","1190 Old Greystone Dr, Lithonia, GA 30058",3,3,"2,492","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$495,000","144 Campbell St SE, Atlanta, GA 30317",3,2,"1,600","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$410,000","3288 Embry Hills Dr, Atlanta, GA 30341",4,3,"3,249","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$85,000","3603 Cobble Mill Ln, Clarkston, GA 30021",2,4,"1,182",N/A
+"$220,000","2914 Lowrance Dr, Decatur, GA 30033",3,1,"1,022","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$130,000","5257 Mountain Village Ct, Stone Mountain, GA 30083",3,2,"1,562","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$187,000","3405 River Mill Ln, Ellenwood, GA 30294",4,3,"2,716","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$161,000","3317 Rockmill Dr, Ellenwood, GA 30294",3,3,"2,008","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$455,000","1280 Verdon Dr, Dunwoody, GA 30338",4,3,"2,505","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$109,000","6235 Apa Ln, Lithonia, GA 30058",3,2,"1,200",N/A
+"$569,500","1116 Haven Glen Ln NE, Brookhaven, GA 30319",3,3,"2,323","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$430,000","4555 Chadwell Ln, Atlanta, GA 30338",4,3,"2,613","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$529,000","2243 Pinecliff Dr NE, Atlanta, GA 30345",4,3,"2,225","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$385,000","2994 Northbrook Dr, Atlanta, GA 30340",3,3,"1,960","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$190,000","575 Flat Shoals Ave SE APT 7, Atlanta, GA 30316",2,1,750,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$540,000","3787 Harts Mill Ln NE, Brookhaven, GA 30319",4,3,"2,322","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$825,000","3208 Lynwood Dr NE, Brookhaven, GA 30319",5,4,"3,600","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$175,000","4227 Cedar Valley Ln, Conley, GA 30288",3,2,"1,634","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$430,000","2785 Hawaii Ct, Decatur, GA 30033",3,2,"1,730","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$146,500","6907 Mahonia Pl, Lithonia, GA 30038",3,3,"1,583","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$153,870","2494 Piering Dr #99, Lithonia, GA 30038",2,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$44,000","6020 Regent Mnr, Lithonia, GA 30058",3,3,"1,512",N/A
+"$225,000","4884 Topsfield Trl, Lithonia, GA 30038",5,5,"3,767","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$158,000","4099 River Mist Ct, Lithonia, GA 30038",3,3,"1,536","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$149,900","4004 Hancock Cir, Atlanta, GA 30340",2,3,"1,470","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$118,000","3995 Snapfinger Cir, Decatur, GA 30035",3,1,"1,003","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.62M,"843 Springdale Rd NE, Atlanta, GA 30306",4,4,56,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$540,000","2954 Surrey Ln, Atlanta, GA 30341",4,2,"1,968",N/A
+"$262,000","1692 Brantford Dr, Tucker, GA 30084",4,3,"1,980","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.62M,"843 Springdale Rd NE, Atlanta, GA 30306",4,4,56,https://photos.zillowstatic.com/p_e/ISfwl612qjahmf1000000000.jpg
+"$149,900","4004 Hancock Cir, Atlanta, GA 30340",2,3,"1,470",https://photos.zillowstatic.com/p_e/ISnut5r7qjr5q90000000000.jpg
+"$169,900","5219 Rockbridge Rd, Stone Mountain, GA 30088",4,4,"1,196",https://photos.zillowstatic.com/p_e/IS7mc21wf7io6h1000000000.jpg
+"$262,000","1692 Brantford Dr, Tucker, GA 30084",4,3,"1,980",https://photos.zillowstatic.com/p_e/IS7mk0l4119vkx0000000000.jpg
+"$540,000","2954 Surrey Ln, Atlanta, GA 30341",4,2,"1,968",N/A
+"$223,500","2339 Castle Keep Way SE, Atlanta, GA 30316",3,3,"1,572",https://photos.zillowstatic.com/p_e/IS3b9l3m2xhvhv1000000000.jpg
+"$685,000","2552 Knox St NE, Atlanta, GA 30317",4,3,"2,150",https://photos.zillowstatic.com/p_e/ISr9cx5fsnjg7p0000000000.jpg
+"$265,000","610 S Hairston Rd, Stone Mountain, GA 30088",4,4,"1,652",https://photos.zillowstatic.com/p_e/ISbx75emegckyp0000000000.jpg
+$1.31M,"523 E Lake Dr, Decatur, GA 30030",5,4,"4,102",https://photos.zillowstatic.com/p_e/ISece7t3dx9e3v0000000000.jpg
+"$499,900","1708 Barkston Ct, Chamblee, GA 30341",5,4,"2,757","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$375,000","3648 London Rd, Atlanta, GA 30341",3,1.5,"1,248",N/A
+"$675,000","1989 E Roxboro Rd NE, Atlanta, GA 30324",4,4,"3,250","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$337,665","2775 White Oak Ln #22, Decatur, GA",3,4,"2,428","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$275,000","1867 Glenhaven Cir, Decatur, GA 30035",4,3,"2,114","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$185,000","2129 Clanton Ter, Decatur, GA 30034",3,2,"1,300","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$215,000","3158 Wesley Chapel Rd, Decatur, GA 30034",5,2,"1,814","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$370,000","3630 Henley Park Ct, Atlanta, GA 30340",4,3,"2,518","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$495,000","2200 Drew Valley Rd NE, Brookhaven, GA 30319",4,3,"2,378","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$335,400","2678 Northview Ave, Decatur, GA 30032",3,2,"1,498","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$85,000","6822 Timbers East Dr, Lithonia, GA 30058",3,2,"1,670","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$226,000","1575 Rogers Crossing Dr, Lithonia, GA 30058",4,3,"3,001","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$395,000","1857 Meadow Ln, Decatur, GA 30032",4,3,"2,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$380,000","1661 La France St NE, Atlanta, GA 30307",2,3,"1,680","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$94,500","5717 Wells Cir, Stone Mountain, GA 30087",2,3,"1,160","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$896,500","1355 Emory Rd NE, Atlanta, GA 30306",Studio,--,"1,471","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$215,000","1454 Hunters Frd, Stone Mountain, GA 30088",4,4,"2,040","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$441,500","1461 Brianwood Rd, Decatur, GA 30033",3,3,"2,232","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$222,000","1787 Boulder Cv, Lithonia, GA 30058",4,3,"1,969","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$955,000","1768 Santa Cruz Dr, Decatur, GA 30032",Studio,--,"1,600","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$445,000","2693 Drew Valley Rd NE, Brookhaven, GA 30319",3,2,"1,408","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$129,500","7146 Brecken Pl, Lithonia, GA 30058",3,2,"1,460","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$137,000","701 Stratford Grn, Avondale Estates, GA 30002",3,3,"1,494","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$345,000","2167 Capehart Pl NE, Atlanta, GA 30345",3,3,"1,545","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$170,000","1616 Creek Pond Cv, Decatur, GA 30032",2,3,"1,508","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$70,000","3784 London Dr, Decatur, GA 30032",3,3,"1,544","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$579,000","117 Mckoy St, Decatur, GA 30030",3,3,"1,994","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$405,000","3317 Embry Hills Dr, Atlanta, GA 30341",3,2,"2,358","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$585,500","1811 Leiden Ct, Atlanta, GA 30338",5,3,"2,827","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$271,600","3130 Lavista Rd, Decatur, GA 30033",4,3,"1,732","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$441,000","3599 Hildon Cir, Atlanta, GA 30341",3,2,"1,209","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$160,000","3432 Hollow Tree Dr, Decatur, GA 30034",4,2,"2,104",https://photos.zillowstatic.com/p_e/IS7avg7xn2am5n1000000000.jpg
+"$216,000","2575 Raindrop Ct, Decatur, GA 30034",4,3,"1,876",https://photos.zillowstatic.com/p_e/ISvs9fyz1b11080000000000.jpg
+"$154,900","1244 Mill Lake Cir, Stone Mountain, GA 30088",3,3,"1,396",https://photos.zillowstatic.com/p_e/ISf8nvqjzbhsr21000000000.jpg
+"$434,000","3615 Ashford Creek Dr NE, Brookhaven, GA 30319",3,4,"2,396",https://photos.zillowstatic.com/p_e/IS3n282zx0hi7o0000000000.jpg
+"$212,000","948 Palmer Rd, Lithonia, GA 30058",4,3,"2,499",https://photos.zillowstatic.com/p_e/ISzr3t9n6eanoa0000000000.jpg
+"$160,000","2388 Lawrenceville Hwy, Decatur, GA 30033",3,2,"1,334",https://photos.zillowstatic.com/p_e/ISbhnyudq0c4tq1000000000.jpg
+"$86,000","6071 Chupp Way Ln, Lithonia, GA 30038",2,3,"1,206",https://photos.zillowstatic.com/p_e/ISrpsc9ewxjaq61000000000.jpg
+"$209,900","3890 Lehigh Laural Ct, Decatur, GA 30034",4,3,"1,890",https://photos.zillowstatic.com/p_e/ISb5aoglfd63kp0000000000.jpg
+"$349,000","2897 Salmon Ave SE, Atlanta, GA 30317",3,2,"1,509",https://photos.zillowstatic.com/p_e/ISv8a25ah7svc31000000000.jpg
+"$163,000","683 Durham Xing, Stone Mountain, GA 30083",4,2,"1,694","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$80,000","3601 Woodbriar Cir APT F, Tucker, GA 30084",3,2,"1,242","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$230,000","1861 Lomita Rd SE, Atlanta, GA 30316",3,1,804,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$221,000","3777 Peachtree Rd NE APT 327, Brookhaven, GA 30319",1,1,919,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$305,000","3242 Clairmont North NE, Brookhaven, GA 30329",3,3,"2,158","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$385,000","2355 Woodcreek Ct, Tucker, GA 30084",4,3,"2,221","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$465,000","1334 Mile Post Dr, Atlanta, GA 30338",4,3,"3,563","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$244,000","4972 Penscot Way, Stone Mountain, GA 30088",5,4,"3,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$295,000","101 Johnson Ct, Decatur, GA 30030",2,3,"1,309","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$148,900","5207 Walker Rd, Stone Mountain, GA 30088",4,3,"2,164","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$239,760","7943 Union Grove Rd, Lithonia, GA 30058",5,4,"2,789","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$445,000","5157 Patriot Dr, Smoke Rise, GA 30087",5,4,"3,179","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$445,000","1654 Emory Place Dr NE, Atlanta, GA 30329",4,4,"2,639","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$382,000","53 Wiltshire Dr, Avondale Estates, GA 30002",3,2,"1,347","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$205,000","3601 Brookcrest Cir, Decatur, GA 30032",3,2,"1,353","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$294,900","3495 Kensington Parc Cir, Avondale Estates, GA 30002",3,3,"1,422","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$133,000","10 Perimeter Summit Blvd NE APT 3402, Brookhaven, GA 30319",1,1,648,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$500,000","224 Greenwood Cir, Decatur, GA 30030",2,2,"1,258","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$750,000","1596 Emory Rd NE, Atlanta, GA 30306",6,4,"3,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$258,000","2937 Judylyn Dr, Decatur, GA 30033",3,1,"1,176","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$138,500","3995 Woodridge Way, Tucker, GA 30084",2,2,"1,182","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$545,000","202 Glenlake Commons Dr, Decatur, GA 30030",4,3,"2,200",N/A
+"$569,900","534 Flat Shoals Ave SE, Atlanta, GA",3,4,"1,910","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$250,000","2892 Hollywood Dr, Decatur, GA 30033",3,2,"1,282","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$417,000","1492 Cortez Ln NE, Brookhaven, GA 30319",3,1,"1,023",N/A
+"$565,000","1651 Tichenor Ct, Atlanta, GA 30338",4,3,"2,982","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$268,000","6260 Southland Trce, Stone Mountain, GA 30087",4,3,"2,679","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$402,000","1257 Ashford Creek Park NE, Brookhaven, GA 30319",2,3,"1,803","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$175,000","662 Shore Dr, Lithonia, GA 30058",3,2,"1,437","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$152,000","536 Crestridge Ct, Stone Mountain, GA 30083",3,3,"1,558","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$158,000","1206 Hillwood Ct SE, Atlanta, GA 30316",3,1,"1,070","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$158,000","1206 Hillwood Ct SE, Atlanta, GA 30316",3,1,"1,070",https://photos.zillowstatic.com/p_e/ISnaus9ffdep3i1000000000.jpg
+"$57,000","13303 Fairington Ridge Cir, Lithonia, GA 30038",3,2,"1,292",https://photos.zillowstatic.com/p_e/ISnqen7zkddnuf0000000000.jpg
+"$120,000","2649 Williams Grant Reynolds Dr, Lithonia, GA 30058",3,3,"1,540",https://photos.zillowstatic.com/p_e/IS3bxrs4bv42dj0000000000.jpg
+"$510,405","2445 Skyland Way NE #78, Brookhaven, GA 30319",4,4,"2,516",https://photos.zillowstatic.com/p_e/ISnycviuasvsnl1000000000.jpg
+"$231,000","1849 Demilio Dr, Lithonia, GA 30058",5,3,"2,962",https://photos.zillowstatic.com/p_e/ISnu5zdaq11se21000000000.jpg
+"$330,250","3212 Creole Ln, Decatur, GA 30032",3,4,"2,045",https://photos.zillowstatic.com/p_e/ISj32fpbszz30y0000000000.jpg
+"$122,000","4652 Hairston Crossing Way, Stone Mountain, GA 30083",3,1,"1,028",https://photos.zillowstatic.com/p_e/ISn6rvi0x8hkn51000000000.jpg
+"$342,500","4893 Tilly Mill Rd, Dunwoody, GA 30360",4,3,"2,650",https://photos.zillowstatic.com/p_e/IS7uykoqdafnvf0000000000.jpg
+"$105,000","3943 W Wood Path, Stone Mountain, GA 30083",3,2,"1,284",https://photos.zillowstatic.com/p_e/IS3fcy2qmxuy1b0000000000.jpg
+"$175,000","5897 Giles Rd, Lithonia, GA 30058",3,3,"1,625","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$315,000","1281 Snapfinger Rd, Decatur, GA 30032",5,3,"2,346","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$649,900","1605 Paxon St SE, Atlanta, GA 30317",5,5,"3,775","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$150,000","2502 Northlake Ct NE, Atlanta, GA 30345",3,3,"1,728","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$156,000","4709 Hairston Crossing Rd, Stone Mountain, GA 30083",3,2,"1,414","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.18M,"2603 Camille Dr NE, Brookhaven, GA 30319",5,5,"4,100","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$245,000","2695 Midway Rd, Decatur, GA 30030",3,1,"1,254","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$202,300","1594 Cobbs Creek Cv, Decatur, GA 30032",3,2,"1,340","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$676,500","1699 Arrowhead Trl NE, Atlanta, GA 30345",5,3,"3,123","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$650,000","1609 Paxon St SE, Atlanta, GA 30317",5,5,"3,775","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$338,000","1981 Jordan Ter NE, Atlanta, GA 30345",3,2,"1,260","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$960,000","1374 Pasadena Ave NE, Atlanta, GA 30306",5,4,"3,089","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$132,000","5943 Dart Dr, Lithonia, GA 30058",3,2,"1,176","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$380,000","1470 Linkwood Ln, Decatur, GA 30033",3,2,"1,672","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$235,000","2869 Rockcliff Rd SE, Atlanta, GA 30316",3,2,"1,108","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$140,000","3773 Flakes Mill Rd, Decatur, GA 30034",3,3,"1,371","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$231,000","1020 Scott Blvd APT C1, Decatur, GA 30030",2,2,"1,102","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$215,000","5089 Club Vista Point, Stone Mountain, GA 30088",4,3,"2,484","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.00M,"2757 Oak Glen Manor Rd, Decatur, GA 30033",5,4,"4,110","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$490,000","2641 N Thompson Rd NE, Brookhaven, GA 30319",2,1,960,N/A
+"$399,900","2255 N Shallowford Rd, Atlanta, GA 30341",3,3,"1,988",N/A
+"$493,000","1201 Dunwoody Village Dr, Dunwoody, GA 30338",4,4,"3,255","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$255,000","2112 Keheley Dr, Decatur, GA 30032",3,2,"1,150","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$222,500","335 W Ponce De Leon Ave UNIT 505, Decatur, GA 30030",1,1,1,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$336,000","811 N Parkwood Rd, Decatur, GA 30030",0.3,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.08M,"1823 Indiana Ave NE, Atlanta, GA 30307",5,4,"3,709","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$174,000","1408 Knights Trl, Stone Mountain, GA 30083",3,4,"1,983","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$425,000","130 Battlefield Ave SE, Atlanta, GA 30317",2,2,"1,249","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$585,000","1429 Brenton Dr NE, Brookhaven, GA 30319",4,3,"2,738","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$547,000","1573 Paxon St SE, Atlanta, GA 30317",4,3,10,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$435,000","1575 Tryon Rd NE, Brookhaven, GA 30319",3,2,"1,606",N/A
+"$255,000","2112 Keheley Dr, Decatur, GA 30032",3,2,"1,150",https://photos.zillowstatic.com/p_e/ISrdfaparz4m1s1000000000.jpg
+"$410,900","391 Pratt Dr SE UNIT 707, Atlanta, GA 30315",2,2,"1,710",https://photos.zillowstatic.com/p_e/ISvk7wrdkgh08s0000000000.jpg
+"$264,000","3043 Stirrup Ln SE, Atlanta, GA 30316",3,2,"1,615",https://photos.zillowstatic.com/p_e/IS3bla3wd1hno01000000000.jpg
+"$218,900","954 Vineyard Cir, Stone Mountain, GA 30083",3,2,"2,011",https://photos.zillowstatic.com/p_e/ISn2gs5mwgbilg1000000000.jpg
+"$400,000","2157 Weldonberry Dr NE, Brookhaven, GA 30319",3,4,"1,845",https://photos.zillowstatic.com/p_e/IS72pmd2ihwdxm1000000000.jpg
+"$196,000","4027 Kingsbrook Blvd, Decatur, GA 30034",4,3,"2,070",https://photos.zillowstatic.com/p_e/ISn6z50noqz4j11000000000.jpg
+"$150,000","2851 River Ridge Hl, Decatur, GA 30034",4,3,"2,448",https://photos.zillowstatic.com/p_e/ISz3togdrbqh1g1000000000.jpg
+"$240,000","3680 Citation Dr, Decatur, GA 30034",4,3,"2,200",https://photos.zillowstatic.com/p_e/IS3jbo5m3htsyk0000000000.jpg
+"$215,000","4350 Wesleyan Pointe, Decatur, GA 30034",4,4,"3,934",https://photos.zillowstatic.com/p_e/ISf8zw3ok81x6p1000000000.jpg
+"$180,000","3930 Valpariso Cir, Decatur, GA 30034",4,2,"1,560","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$100,000","3042 Fields Dr, Lithonia, GA 30038",3,3,"1,348","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$293,000","1552 Boulderwoods Dr SE, Atlanta, GA 30316",3,4,"1,335","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$199,900","2618 Penders Ridge Trl, Ellenwood, GA 30294",3,2,"2,044",N/A
+"$419,900","1011 Katie Kerr Dr #14, Decatur, GA 30030",3,3,"1,657","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$220,000","4034 Elm St, Atlanta, GA 30341",2,3,"1,312","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$330,000","3226 Chutney Ct, Decatur, GA 30032",3,4,"2,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$460,000","2805 Pineland Ave, Atlanta, GA 30340",4,3,"2,563","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$154,100","1280 To Lani Farm Rd, Stone Mountain, GA 30083",3,3,"1,516","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$484,500","1034 Grant Park Rd, Decatur, GA 30033",4,4,"2,330","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$850,000","3025 E Ramble Ln, Decatur, GA 30033",5,4,"3,108","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$599,900","390 Maynard Ter, Atlanta, GA 30316",4,3,"2,700","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$167,000","864 Meadow Rock Way, Stone Mountain, GA 30083",3,2,"1,983","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$234,000","467 S Howard St SE, Atlanta, GA 30317",4,2,"1,451","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$575,000","1839 Braeburn Cir SE, Atlanta, GA 30316",4,3,"2,976","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$450,000","461 Durand Dr NE, Atlanta, GA 30307",3,2,"1,632","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$222,500","335 W Ponce De Leon Ave UNIT 505, Decatur, GA 30030",1,1,756,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$339,000","2508 Joiner Ct, Decatur, GA 30033",3,2,"1,204","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$147,000","477 Carillon Ct, Stone Mountain, GA 30083",3,2,"1,332","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$345,000","2491 Joiner Ct, Decatur, GA 30033",2,2,"1,232","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$175,000","4154 Brenda Dr, Decatur, GA 30035",3,2,816,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$147,000","3234 Henderson Mill Rd UNIT 3, Atlanta, GA 30341",2,2,"1,205","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$233,105","2266 Annes Lake Cir, Lithonia, GA 30058",3,3,"2,135","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$600,000","1680 Chartwell Trce, Stone Mountain, GA 30087",5,7,"6,943","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$299,900","4128 Cedar Knoll Dr, Tucker, GA 30084",4,3,"2,512","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$465,000","2790 Payton Rd NE, Atlanta, GA 30345",4,3,"1,740","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$485,000","78 Vannoy St SE, Atlanta, GA 30317",3,2,"1,560","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$584,500","3023 Frazier Way, Decatur, GA 30033",5,4,"3,224","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$169,500","593 Arbor Ridge Dr, Stone Mountain, GA 30087",3,3,"1,650","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$175,500","3825 Lavista Rd APT V1, Tucker, GA 30084",2,2,"1,413","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$343,000","3084 Embry Ct, Atlanta, GA 30341",4,3,"2,496","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$115,000","1265 Keys Lake Dr NE, Brookhaven, GA 30319",1,1,810,https://photos.zillowstatic.com/p_e/IS3rp4q28ai3ts1000000000.jpg
+"$850,000","3025 E Ramble Ln, Decatur, GA 30033",5,4,"3,108",https://photos.zillowstatic.com/p_e/ISrdzh0o5mnsq20000000000.jpg
+"$373,000","1967 Bencal Dr SE, Atlanta, GA 30316",4,3,"2,494",https://photos.zillowstatic.com/p_e/IS3jzipcxmzf4e0000000000.jpg
+"$187,000","2566 Flagstone Dr SE, Atlanta, GA 30316",3,2,"1,170",https://photos.zillowstatic.com/p_e/ISvwgfq02uxe8d0000000000.jpg
+"$330,000","3226 Chutney Ct, Decatur, GA 30032",3,4,"2,200",https://photos.zillowstatic.com/p_e/IS3nextmeinlmb0000000000.jpg
+"$339,000","2508 Joiner Ct, Decatur, GA 30033",3,2,"1,204",https://photos.zillowstatic.com/p_e/ISn2ctfvxn8eix1000000000.jpg
+"$419,900","1011 Katie Kerr Dr #14, Decatur, GA 30030",3,3,"1,657",https://photos.zillowstatic.com/p_e/ISrllkfxwpvt0h1000000000.jpg
+"$97,000","4083 Woodridge Way, Tucker, GA 30084",1,1,924,https://photos.zillowstatic.com/p_e/IS76klsisr58dc1000000000.jpg
+"$431,000","1098 Greenbriar Cir, Decatur, GA 30033",4,3,"2,700",https://photos.zillowstatic.com/p_e/ISvkfyev54awly0000000000.jpg
+"$529,000","2449 Manor Walk, Decatur, GA 30030",4,4,"3,984","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$233,105","2266 Annes Lake Cir, Lithonia, GA 30058",3,3,"2,135","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$550,000","2724 Kelly Lake Rd, Decatur, GA 30032",9,6,"2,870","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$270,000","312 Ashford Cir, Atlanta, GA 30338",2,2,"1,234","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$147,000","3234 Henderson Mill Rd UNIT 3, Atlanta, GA 30341",2,2,"1,205","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$343,000","3084 Embry Ct, Atlanta, GA 30341",4,3,"2,496","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$160,000","1362 Wylie St SE LOT 0, Atlanta, GA 30317","8,712",N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$148,000","2275 Shamrock Dr, Decatur, GA 30032",3,1,"2,088","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$175,000","4154 Brenda Dr, Decatur, GA 30035",3,2,816,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$325,100","2536 Lavista Rd, Decatur, GA 30033",3,2,"1,833","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$888,000","2672 Ashford Rd NE, Brookhaven, GA 30319",4,3,"2,707","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$600,000","1680 Chartwell Trce, Stone Mountain, GA 30087",5,7,"6,943","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$175,500","3825 Lavista Rd APT V1, Tucker, GA 30084",2,2,"1,413","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$459,900","1907 River Birch Ln, Atlanta, GA 30316",3,3,--,N/A
+$1.19M,"1149 Antioch Dr NE, Brookhaven, GA 30319",6,6,"5,455","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$570,000","1334 Fernwood Cir NE, Brookhaven, GA 30319",4,4,"2,869","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$266,000","5258 Oxbow Rd, Stone Mountain, GA 30087",4,4,"2,637","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$345,000","1351 Faraday Pl, Decatur, GA 30033",3,2,"1,220","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$509,250","2435 Skyland Way NE, Brookhaven, GA 30319",4,4,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$192,800","5792 Woodside Xing, Lithonia, GA 30038",--,--,"1,470",N/A
+"$365,000","2136 Briarwood Blf NE, Brookhaven, GA 30319",3,4,"2,355","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$249,534","2354 Annes Lake Cir, Lithonia, GA 30058",3,3,"2,135","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$348,000","2681 Oak Village Trl, Decatur, GA 30032",3,3,"2,192","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$275,000","3417 Hunters Hill Dr, Lithonia, GA 30038",5,4,"2,971",N/A
+"$63,000","6203 Par Four Way, Lithonia, GA 30038",3,2,"1,202","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$250,000","7570 Star Magnolia Dr, Lithonia, GA 30038",5,3,"2,992",N/A
+"$210,000","7508 Stone Creek Path, Lithonia, GA 30038",3,3,"1,929","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$190,000","3953 Veracruz Ct, Decatur, GA 30034",4,3,"2,022","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$305,000","1164 Greenbriar Cir, Decatur, GA 30033",3,2,"1,326","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$208,500","4426 Chowning Way, Atlanta, GA 30338",2,1,"1,212","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$16,000","2509 Alford Rd, Lithonia, GA 30058",3,3,"2,312","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$305,000","1164 Greenbriar Cir, Decatur, GA 30033",3,2,"1,326",https://photos.zillowstatic.com/p_e/ISf48dnznrxob71000000000.jpg
+"$242,500","2059 Rosewood Rd, Decatur, GA 30032",3,2,"1,277",https://photos.zillowstatic.com/p_e/IS3zns5oh6izxb1000000000.jpg
+"$149,900","1514 Tunbridge Wells Cres, Lithonia, GA 30058",3,3,"1,686",https://photos.zillowstatic.com/p_e/ISbp959dgjjk3l0000000000.jpg
+"$785,000","6801 Crescendo Ct #244, Atlanta, GA 30328",3,5,"3,868",https://photos.zillowstatic.com/p_e/ISzjlxigc9vtwo1000000000.jpg
+"$157,000","811 Kilkenny Cir, Lithonia, GA 30058",3,3,"1,713",https://photos.zillowstatic.com/p_e/IS33fceeadft4e1000000000.jpg
+"$179,900","1597 Cutters Mill Dr, Lithonia, GA 30058",3,3,"1,947",https://photos.zillowstatic.com/p_e/ISf0ty2lc70p070000000000.jpg
+"$208,500","4426 Chowning Way, Atlanta, GA 30338",2,1,"1,212",https://photos.zillowstatic.com/p_e/ISne93nl0bk2em0000000000.jpg
+"$175,000","4842 Wilkins Station Dr, Decatur, GA 30035",4,3,"1,838",https://photos.zillowstatic.com/p_e/ISb5yqmyz0wmyk1000000000.jpg
+"$196,907","3304 Irish Ln, Decatur, GA 30032",2,2,"1,344",https://photos.zillowstatic.com/p_e/ISvkvm0tywndir0000000000.jpg
+"$398,000","817 Mclendon Dr, Scottdale, GA 30079",3,3,"2,036","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$85,000","3172 Chapel St, Scottdale, GA 30079","5,227",N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$500,000","1192 Citadel Dr NE, Atlanta, GA 30324",3,2,"2,384","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$449,900","3512 Castleridge Dr, Tucker, GA 30084",5,4,"2,750","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$230,000","75 Vannoy St SE, Atlanta, GA 30317",1,1,"1,222","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$115,500","2018 Shawn Wayne Cir SE, Atlanta, GA 30316",3,3,"1,302","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$335,000","1400 Juneau Ct, Tucker, GA 30084",5,3,"2,024",N/A
+"$423,000","1415 Orange Blossom Ter SE, Atlanta, GA 30316",3,3,"1,814","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$260,000","683 Sunstede Dr, Decatur, GA 30033",2,1,910,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,350","5300 Peachtree Rd UNIT 3207, Atlanta, GA 30341",1,1,713,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$125,900","5079 N Woodbridge Trl, Stone Mountain, GA 30088",3,2,"1,351","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$430,000","5167 Hathburn Ct, Atlanta, GA 30338",4,3,"3,087","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$169,000","5030 Leland Dr, Stone Mountain, GA 30083",3,3,"1,434","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$147,000","3002 Heritage Villa Dr, Lithonia, GA 30038",3,3,220,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$372,000","1100 Clarendon Ave, Avondale Estates, GA 30002",3,3,"2,058","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.96M,"840 Springdale Rd NE, Atlanta, GA 30306",5,6,"6,881","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$208,500","4187 Liffey Ln, Decatur, GA 30034",4,2,"1,940","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$219,500","1668 Flintwood Dr SE, Atlanta, GA 30316",3,2,"1,075","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$265,900","3199 Georgian Woods Cir, Decatur, GA 30034",3,3,"2,080","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$229,900","5678 Mill View Way, Lithonia, GA 30038",5,3,"2,694","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$214,900","2892 Cloverleaf Dr SE, Atlanta, GA 30316",3,2,"1,053","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$150,000","1605 Carter Rd, Decatur, GA 30032",3,1,"1,152","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$125,000","2048 Flat Shoals Rd SE, Atlanta, GA 30316",2,1,"1,040","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$313,000","428 Mcwilliams Ave SE, Atlanta, GA 30316",2,2,"1,014","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$320,000","7450 Waters Edge Dr, Stone Mountain, GA 30087",5,5,"3,700","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$305,000","610 Ivy Rd, Pine Lake, GA 30072",3,3,"1,729","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$345,000","2979 Stratford Arms Dr, Atlanta, GA 30341",4,2,"2,181","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$315,000","2456 Leafgate Rd, Decatur, GA 30033",3,3,"1,944","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$375,000","1203 Laurel Hill Dr, Decatur, GA 30033",3,2,"1,358","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$399,000","1069 Woodbridge Holw NE, Atlanta, GA 30306",3,3,"1,666","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$202,000","1336 George W Brumley Way SE, Atlanta, GA 30317",2,1,990,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$355,500","357 Glen Cove Dr, Avondale Estates, GA 30002",4,3,"1,924",https://photos.zillowstatic.com/p_e/ISjf7fieu4u8ea1000000000.jpg
+"$162,000","4911 Glenside Ct, Stone Mountain, GA 30088",3,2,"1,819",https://photos.zillowstatic.com/p_e/ISjn1cun5qs8t40000000000.jpg
+"$313,000","428 Mcwilliams Ave SE, Atlanta, GA 30316",2,2,"1,014",https://photos.zillowstatic.com/p_e/ISnmfpi8fihc0j1000000000.jpg
+"$235,000","671 Sunstede Dr, Decatur, GA 30033",2,1,910,https://photos.zillowstatic.com/p_e/ISvwgz95umtu3s0000000000.jpg
+"$345,000","2979 Stratford Arms Dr, Atlanta, GA 30341",4,2,"2,181",https://photos.zillowstatic.com/p_e/ISrxawa93n8dv30000000000.jpg
+"$90,000","2879 Joyce Ave, Decatur, GA 30032",1,1,--,https://photos.zillowstatic.com/p_e/ISrx618f0iu3o51000000000.jpg
+"$320,000","7450 Waters Edge Dr, Stone Mountain, GA 30087",5,5,"3,700",https://photos.zillowstatic.com/p_e/ISv0gd3ywxvwsb0000000000.jpg
+"$202,000","1336 George W Brumley Way SE, Atlanta, GA 30317",2,1,990,https://photos.zillowstatic.com/p_e/ISfc65yriq0z2e1000000000.jpg
+"$435,000","5286 Waterford Dr, Dunwoody, GA 30338",4,3,"1,941",https://photos.zillowstatic.com/p_e/IS7yl5v8yj5kmk0000000000.jpg
+"$213,000","3447 Ashwood Ln, Atlanta, GA 30341",3,3,"1,600","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$110,000","1139 Mainstreet Valley Dr, Stone Mountain, GA 30088",3,2,"1,140","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$915,000","2362 Colonial Dr NE, Brookhaven, GA 30319",5,5,"3,317","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$399,000","1069 Woodbridge Holw NE, Atlanta, GA 30306",3,3,"1,666","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$682,700","437 S Howard St, Atlanta, GA 30317",5,5,"4,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$357,000","1975 Mcafee Pl, Decatur, GA 30032",3,3,864,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$203,500","927 Redan Trce, Stone Mountain, GA 30088",4,3,"2,051","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$200,000","1608 Briarcliff Rd NE, Atlanta, GA 30306",2,2,"1,064","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$352,000","2346 Tanglewood Cir NE, Atlanta, GA 30345",3,2,"1,325","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$330,000","1172 Haven Brook Ln NE, Brookhaven, GA 30319",2,3,"1,235","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$363,000","5334 Brooke Ridge Dr, Atlanta, GA 30338",2,2,"1,681","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$154,000","1476 Thompson Pl, Decatur, GA 30032",3,2,"1,265","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$225,000","3749 Boulder Forest Ln, Ellenwood, GA 30294",5,3,"3,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$363,650","4993 Lynnonhall Ct, Lithonia, GA 30038",5,3,"2,658","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$145,000","5461 Brisbane Ct, Lithonia, GA 30038",3,2,"1,260","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$363,650","4993 Lynnonhall Ct #17, Lithonia, GA 30038",5,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$80,000","1159 Key Rd SE, Atlanta, GA 30316",2,1,816,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$208,000","4145 Donna Way, Lithonia, GA 30038",3,3,"1,848","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$298,445","3220 Cedar Crest Way, Decatur, GA 30034",5,3,"2,511","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$152,800","4090 Depauw Way, Decatur, GA 30034",3,2,"1,560","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$450,000","118 Roseclair Dr SE, Atlanta, GA 30317",3,3,"1,797","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$160,000","2949 Toney Dr, Decatur, GA 30032",5,2,"1,682","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$167,250","2039 Marco Dr, Decatur, GA 30032",2,1,850,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$465,000","794 Flat Shoals Ave SE, Atlanta, GA 30316",3,2,"1,960","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$277,500","1850 Cotillion Dr UNIT 4316, Dunwoody, GA 30338",3,2,"1,418","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$385,000","3049 Nottaway Ct, Atlanta, GA 30341",4,3,"2,484","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$116,000","5812 Wind Gate Ln, Lithonia, GA 30058",3,3,"1,372","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$155,000","5687 Redan Cir, Lithonia, GA 30088",3,2,"1,447",N/A
+"$490,000","1429 Bubbling Creek Rd NE, Brookhaven, GA 30319",4,2,"2,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$118,000","1226 Tyne Way, Stone Mountain, GA 30088",4,3,"1,946","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$620,000","4490 Candler Lake East NE, Brookhaven, GA 30319",3,2,"3,445","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$300,000","1978 Willa Way, Decatur, GA 30032",3,2,"1,248",https://photos.zillowstatic.com/p_e/ISrxqs2xulepan1000000000.jpg
+$1.80M,"1040 Farm Brook Ln NE, Brookhaven, GA 30319",6,8,"9,114",https://photos.zillowstatic.com/p_e/ISbtoj9cmngkp50000000000.jpg
+"$695,000","1972 Park Chase Ln NE, Atlanta, GA 30324",5,5,"3,468",https://photos.zillowstatic.com/p_e/IS3btovxzeyhql1000000000.jpg
+"$333,000","590 Parker Ave, Decatur, GA 30032",3,2,"1,700",https://photos.zillowstatic.com/p_e/IS7ui4xdnn2yvf1000000000.jpg
+"$340,000","3453 Heritage Ests, Lithonia, GA 30038",5,4,"3,987",https://photos.zillowstatic.com/p_e/ISjnhst2jor6i50000000000.jpg
+$1.23M,"1554 Milowyn Pl NE, Brookhaven, GA 30319",6,5,"4,250",https://photos.zillowstatic.com/p_e/ISzrvetuz9v6p01000000000.jpg
+"$269,000","1869 Ridgeland Dr, Decatur, GA 30032",2,1,"1,253",https://photos.zillowstatic.com/p_e/ISnio99w78q4fb0000000000.jpg
+"$569,000","1591 Buckline Way, Atlanta, GA 30338",7,4,"3,299",https://photos.zillowstatic.com/p_e/ISnedy1hk9r2vw0000000000.jpg
+"$471,535","3162 Quinn Pl #82, Atlanta, GA 30341",4,4,"2,404",https://photos.zillowstatic.com/p_e/ISv0ofix2jzkt81000000000.jpg
+"$330,000","838 Tanner Dr, Clarkston, GA 30079",3,3,"1,694","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$219,900","3324 Sweet Maple Walk, Lithonia, GA 30038",3,3,"1,869","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$120,000","4062 Bouldercrest Rd, Ellenwood, GA 30294",3,2,"1,337","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$189,000","2908 River Ridge Hl, Decatur, GA 30034",4,3,"1,752","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$140,000","6255 Klondike River Rd, Lithonia, GA 30038",3,2,"1,356","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$37,000","3861 Rockey Valley Dr, Conley, GA 30288",3,2,"1,554",N/A
+"$249,000","1789 Vicki Ln SE, Atlanta, GA 30316",3,2,"1,648","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$239,000","3863 Brookgreen Point, Decatur, GA 30034",4,3,"2,871","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$203,000","3277 Clifton Farm Dr, Decatur, GA 30034",4,3,"2,130","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$417,000","1335 Church St UNIT C6, Decatur, GA 30030",3,3.5,"1,856","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$859,000","227 Winnona Dr, Decatur, GA 30030",5,4,"3,216","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$130,000","451 Dixie Lee Ln, Stone Mountain, GA 30083",3,2,"1,248","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$650,000","1230 Church St, Decatur, GA 30030",4,4,"2,800","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$471,535","3162 Quinn Pl, Chamblee, GA 30341",4,4,"2,404","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$245,000","1850 Cotillion Dr UNIT 3420, Dunwoody, GA 30338",2,2,"1,432",N/A
+"$300,000","4183 Scyler Way, Tucker, GA 30084",5,3,"2,506","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$189,900","2281 Dillard Xing, Tucker, GA 30084",2,3,"1,582","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$234,500","1468 Briarwood Rd NE, Atlanta, GA 30319",2,2,"1,392",N/A
+"$522,500","1757 Ridgecrest Ct NE, Atlanta, GA 30307",3,2,"1,554","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$420,000","4622 Kings Down Rd, Atlanta, GA 30338",5,4,"3,158","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$247,000","1381 Chalmette Dr NE, Atlanta, GA 30306",2,2,"1,256","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$615,000","286 Rockyford Rd NE, Atlanta, GA 30317",3,3,"1,872","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$417,000","1335 Church St, Decatur, GA 30030",3,3.5,"1,856",N/A
+"$120,000","906 Dunbar Dr, Atlanta, GA 30338",1,1,600,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$185,000","522 Clubhouse Dr, Pine Lake, GA 30072",2,2,"1,070","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$140,000","5384 Ridge Forest Dr, Stone Mountain, GA 30083",3,2,"1,500","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$398,750","1121 Capital Club Cir NE, Brookhaven, GA 30319",2,2,"1,490","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$624,900","1764 Timberland Rd NE, Atlanta, GA 30345",4,3,"2,255","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$225,000","759 Dunleith Ct, Stone Mountain, GA 30083",3,2,"1,417","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$149,900","4633 Grand Central Pkwy, Decatur, GA 30035",2,3,"1,472","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$555,000","1092 Haven Glen Ln NE, Brookhaven, GA 30319",3,3,"2,031","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$406,500","387 Pratt Dr SE UNIT 607, Atlanta, GA 30315",2,2,"1,710",https://photos.zillowstatic.com/p_e/IS3r98akoopx7s0000000000.jpg
+"$150,000","3688 Salem Trl, Lithonia, GA 30038",3,3,"1,968",https://photos.zillowstatic.com/p_e/ISz3dgngicubo70000000000.jpg
+"$510,000","703 Densley Dr, Decatur, GA 30033",3,3,"1,890",https://photos.zillowstatic.com/p_e/ISzbrskkepjddu1000000000.jpg
+"$575,000","32 Mayson Ave NE, Atlanta, GA 30317",4,4,11,https://photos.zillowstatic.com/p_e/ISfw17criqewr80000000000.jpg
+"$249,900","2107 Barberrie Ln, Decatur, GA 30032",2,2,"1,040",https://photos.zillowstatic.com/p_e/ISnmv1j9n8zgbs1000000000.jpg
+"$850,000","413 Sutherland Pl NE, Atlanta, GA 30307",4,4,"2,766",https://photos.zillowstatic.com/p_e/IS3voa57s4z51a0000000000.jpg
+"$415,000","1825 Dresden Dr NE, Brookhaven, GA 30319",3,2,"1,600",N/A
+"$385,000","2417 Mill Ridge Trl, Atlanta, GA 30345",3,3,"2,198",https://photos.zillowstatic.com/p_e/ISbhvgy2xzb4wd1000000000.jpg
+"$400,000","2955 Surrey Ln, Atlanta, GA 30341",3,1,"1,202",https://photos.zillowstatic.com/p_e/ISzvyn5i0dqprn1000000000.jpg
+"$90,000","6526 Charter Way, Lithonia, GA 30058",3,3,"1,536","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$250,000","45 Clay St NE, Atlanta, GA 30317",2,1,"1,096","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$655,000","1280 Stillwood Dr NE, Atlanta, GA 30306",1,1,900,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$198,000","1086 N Village Dr, Decatur, GA 30032",3,3,"1,800","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$355,000","1232 Vista Valley Dr NE, Atlanta, GA 30329",3,2,"1,592","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$144,000","1022 Sly Fox Ct, Stone Mountain, GA 30088",3,3,"1,636","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$708,000","2284 Oakview Rd NE, Atlanta, GA 30317",4,3,"3,165","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$508,280","2423 Skyland Way NE, Brookhaven, GA 30319",4,4,"2,524","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$195,000","1971 Farris Dr, Decatur, GA 30032",3,2,"1,522",N/A
+"$368,000","1833 Lomita Rd SE, Atlanta, GA 30316",3,2,"1,518","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$345,000","2573 E Tupelo St SE, Atlanta, GA 30317",3,2,"1,223","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$359,900","3487 Summitridge Dr, Doraville, GA 30340",3,3,"2,032","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$110,000","5699 Windfall Ln #11, Lithonia, GA 30058",2,3,--,N/A
+"$369,000","1632 Brockett Rd, Tucker, GA 30084",4,3,"2,360","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$446,000","116 Knob Hills Cir, Decatur, GA 30030",3,4,"2,165","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$610,012","2355 Brissett Lane, Brookhaven, GA 30319",3,4,"2,500",N/A
+"$141,000","871 Ashwood Xing, Stone Mountain, GA 30088",3,3,"1,566","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$270,000","3090 Quantum Ln, Chamblee, GA 30341",--,--,--,N/A
+"$383,000","1883 Bruce Rd NE, Atlanta, GA 30329",3,2,"1,570","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$364,500","1661 La France St NE, Atlanta, GA 30307",2,3,"1,680","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$170,000","2573 Rainmaker Dr, Decatur, GA 30034",4,2,"2,098","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$115,000","2960 Deleher Ct SE, Atlanta, GA 30316",3,2,"1,178","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$120,000","1761 Soapstone Ct, Decatur, GA 30034",3,3,"1,364","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$879,900","290 Heritage Ln SE #11, Atlanta, GA 30316",4,5,"3,390","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$190,000","7070 Creststone Way, Lithonia, GA 30038",3,3,"1,490","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$210,000","3340 Sweet Maple Walk, Lithonia, GA 30038",3,3,"1,992","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$228,500","4169 Klondike Rd, Lithonia, GA 30038",2,1,"1,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$228,500","4167 Klondike Rd, Lithonia, GA 30038",4,2,"1,439","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$122,000","3969 Waldrop Hills Dr, Decatur, GA 30034",3,2,"1,192","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$82,000","7125 Rhodes St, Lithonia, GA 30058",3,2,"1,056","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$152,000","4442 Jackam Ridge Ct, Lithonia, GA 30038",3,2,"1,430","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$210,000","2886 Horse Shoe Dr SE, Atlanta, GA 30316",3,2,"1,336",https://photos.zillowstatic.com/p_e/ISz7onvhsq72lo0000000000.jpg
+"$300,000","1726 Boulder Walk Ln SE, Atlanta, GA 30316",3,3,"2,087",https://photos.zillowstatic.com/p_e/IS7ey9v2qs2inv0000000000.jpg
+"$376,500","3606 Dogwood Pass, Lithonia, GA 30038",--,0.5,"1,869",N/A
+"$423,000","1413 Orange Blossom Ter SE, Atlanta, GA 30316",3,2.5,"1,814",https://photos.zillowstatic.com/p_e/ISror1dj13gx43.jpg
+"$248,200","2238 Winfield Ave SE, Decatur, GA 30032",2,2,960,https://photos.zillowstatic.com/p_e/IS3vw8pr6pr65l0000000000.jpg
+"$193,000","6294 Austin Park, Lithonia, GA 30058",4,4,"2,390",https://photos.zillowstatic.com/p_e/IS33bt8e2wfr9m0000000000.jpg
+"$116,500","2373 Cove Rd, Lithonia, GA 30058",2,2,"1,296",https://photos.zillowstatic.com/p_e/IS7uu95ts6x4vt0000000000.jpg
+"$970,000","145 Candler Dr, Decatur, GA 30030",5,5,"3,728",N/A
+"$338,000","3218 Creole Ln, Decatur, GA 30032",3,4,"2,250",https://photos.zillowstatic.com/p_e/ISjr8wlhjpznh30000000000.jpg
+"$191,000","1088 Chapman Cir, Stone Mountain, GA 30088",3,3,"1,816","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$463,000","4752 Village North Ct, Dunwoody, GA 30338",4,3,"2,366","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$285,000","504 Dancing Fox Rd, Decatur, GA 30032",3,3,"1,766",N/A
+$1.71M,"814 Lullwater Rd NE, Atlanta, GA 30307",5,5,"6,012","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$508,280","2433 Skyland Dr NE, Brookhaven, GA 30319",4,4,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$100,000","6179 Dana Ct, Lithonia, GA 30058",3,3,"1,544","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$718,000","66 Hudson Pl SE, Atlanta, GA 30317",4,3,"2,848","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$25,000","2279 Brockett Rd, Tucker, GA 30084",--,1,625,N/A
+"$297,500","4144 D Youville Trce, Chamblee, GA 30341",2,3,"2,040","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$297,000","1830 Rue De Montreal, Tucker, GA 30084",3,3,"2,150","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$238,300","4226 D Youville Trce #4226, Atlanta, GA 30341",2,3,"2,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$97,000","6235 Creekford Ln, Lithonia, GA 30058",3,2.5,"1,344","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$556,000","1954 Royal Ct, Chamblee, GA 30341",4,3,"2,562","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$405,000","2457 Sunset Dr NE, Atlanta, GA 30345",4,3,"2,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$225,000","3981 Central Dr, Clarkston, GA 30021",4,4,"2,292",N/A
+"$68,000","438 Prince Of Wales, Stone Mountain, GA 30083",1,1,784,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$408,500","1467 Woodbine Ave SE, Atlanta, GA 30317",3,2,"1,600","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$270,000","3090 Quantum Ln #45, Chamblee, GA 30341",2,3,"1,343","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$460,000","995 Emory Parc Pl, Decatur, GA 30033",3,4,"3,275","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$2,100","518 Woodbridge Hollow Ct NE, Atlanta, GA 30306",2,2.5,"1,542","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$365,000","4395 Chateau Ct, Atlanta, GA 30338",3,3,"2,218","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$463,000","1396 Bubbling Creek Rd NE, Brookhaven, GA 30319",4,3,"1,985","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$95,000","908 Sheppard Rd, Stone Mountain, GA 30083",3,2,"1,052",N/A
+"$669,000","2814 Arbor Springs Trce, Tucker, GA 30084",6,5,"4,336","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$465,000","2539 Riverglenn Cir, Dunwoody, GA 30338",4,3,"3,131",N/A
+"$248,200","2238 Winfield Ave, Decatur, GA 30032",2,2,960,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$185,000","2218 Triple Crown Ln, Lithonia, GA 30058",3,3,"1,631","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$286,500","4633 Stone Ln, Stone Mountain, GA 30083",6,4,"4,161","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$110,000","5699 Windfall Ln, Lithonia, GA 30058",2,3,"1,372",N/A
+"$345,000","1480 Edinburgh Dr, Tucker, GA 30084",3,2,"1,486","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$164,500","4734 Winters Chapel Rd, Dunwoody, GA 30360",2,2.5,"1,280","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$345,000","1480 Edinburgh Dr, Tucker, GA 30084",3,2,"1,486",https://photos.zillowstatic.com/p_e/ISjbc4m053j2ur1000000000.jpg
+"$970,000","145 Candler Dr, Decatur, GA 30030",5,5,"3,728",N/A
+"$164,500","4734 Winters Chapel Rd, Dunwoody, GA 30360",2,2.5,"1,280",https://photos.zillowstatic.com/p_e/ISb1baf6u4nbyz0000000000.jpg
+"$285,000","504 Dancing Fox Rd, Decatur, GA 30032",3,3,"1,766",N/A
+"$669,000","2814 Arbor Springs Trce, Tucker, GA 30084",6,5,"4,336",https://photos.zillowstatic.com/p_e/ISb1nfja4n39p70000000000.jpg
+"$465,000","2539 Riverglenn Cir, Dunwoody, GA 30338",4,3,"3,131",N/A
+$1.71M,"814 Lullwater Rd NE, Atlanta, GA 30307",5,5,"6,012",https://photos.zillowstatic.com/p_e/ISr9gckndix5vc1000000000.jpg
+"$184,900","1990 2nd Ave, Decatur, GA 30032",3,2,"1,420",https://photos.zillowstatic.com/p_e/ISbx7l6fk9yscq0000000000.jpg
+"$248,200","2238 Winfield Ave SE, Decatur, GA 30032",2,2,960,https://photos.zillowstatic.com/p_e/IS3vw8pr6pr65l0000000000.jpg
+"$508,280","2433 Skyland Way NE #72, Brookhaven, GA 30319",4,4,"2,516","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$463,000","1396 Bubbling Creek Rd NE, Brookhaven, GA 30319",4,3,"1,985","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$25,000","2279 Brockett Rd, Tucker, GA 30084",--,1,625,N/A
+"$220,000","1488 Drayton Woods Dr, Tucker, GA 30084",3,2,"1,502","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$238,300","4226 D Youville Trce, Atlanta, GA 30341",2,3,"2,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$97,000","6235 Creekford Ln, Lithonia, GA 30058",3,2.5,"1,344","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$270,000","3090 Quantum Ln #45, Chamblee, GA 30341",2,3,"1,343","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$165,000","6617 Eastbriar Dr, Lithonia, GA 30058",3,2,"1,438","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$89,500","4091 Woodridge Way, Tucker, GA 30084",1,1,924,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$405,000","2457 Sunset Dr NE, Atlanta, GA 30345",4,3,"2,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$68,000","438 Prince Of Wales, Stone Mountain, GA 30083",1,1,784,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$225,000","3981 Central Dr, Clarkston, GA 30021",4,4,"2,292",N/A
+"$463,000","4752 Village North Ct, Dunwoody, GA 30338",4,3,"2,366","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$446,000","116 Knob Hills Cir #116, Decatur, GA 30030",3,4,"2,165","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$238,300","4226 D Youville Trce #4226, Atlanta, GA 30341",2,3,"2,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$352,000","3910 Glen Park Dr, Lithonia, GA 30038",4,4,"3,052","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$77,500","3168 Chapel St, Scottdale, GA 30079","5,227",N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$465,000","1742 Clifton Way SE, Atlanta, GA 30316",3,3,"1,368","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$373,250","698 Gresham Ave SE, Atlanta, GA 30316",3,2,"1,149","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$850,000","1586 Clifton Rdg NE, Atlanta, GA 30307",0.42,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$327,500","2653 Glenvalley Dr, Decatur, GA 30032",3,2,"1,346","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$397,000","2413 Thawley Pl #8, Tucker, GA 30084",4,4,"2,634","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$345,000","4218 Oak Forest Dr NE, Brookhaven, GA 30319",4,3,"2,494","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$509,900","1915 River Birch Ln, Atlanta, GA 30316",5,3,"2,700","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$199,000","4632 Mercer Rd, Stone Mountain, GA 30083",8,4,"2,208","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$540,000","1272 Enidurgh Ct #36, Atlanta, GA 30329",4,4,"2,934","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$265,000","1547 Paxon St SE, Atlanta, GA 30317",2,2,946,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$395,000","5435 Trentham Dr, Dunwoody, GA 30338",3,3,"2,342","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$120,000","3756 Waldrop Ln, Decatur, GA 30034",2,3,"1,376","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$13,000","2653 Williams Grant Reynolds Dr, Lithonia, GA 30058",0.3,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$217,000","2654 Columbia Dr, Decatur, GA 30034",3,2,"2,420","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$13,000","2653 Williams Grant Reynolds Dr LOT 0, Lithonia, GA 30058",0.3,N/A,N/A,https://photos.zillowstatic.com/p_e/ISn6j5hb5mqvu51000000000.jpg
+"$120,000","3756 Waldrop Ln, Decatur, GA 30034",2,3,"1,376",https://photos.zillowstatic.com/p_e/ISnisk4zg56svc1000000000.jpg
+"$168,000","3518 Waldrop Ridge Ln, Decatur, GA 30034",3,3,"1,910",https://photos.zillowstatic.com/p_e/ISj3ifciix0d010000000000.jpg
+"$173,000","2702 Hillvale Cove Dr, Lithonia, GA 30058",3,2,"1,614",https://photos.zillowstatic.com/p_e/ISr598tgis67vi0000000000.jpg
+"$136,500","4257 Catalpa Ct, Ellenwood, GA 30294",3,2,"1,200",https://photos.zillowstatic.com/p_e/ISbhvcnzbnnmf70000000000.jpg
+"$5,000","2855 Thompson Cir, Decatur, GA 30034",1.99,N/A,N/A,https://photos.zillowstatic.com/p_e/ISzbro1zluspmd0000000000.jpg
+"$227,900","2671 Treadway Dr, Decatur, GA 30034",4,3,"2,191",https://photos.zillowstatic.com/p_e/IS33jvbcvof09a1000000000.jpg
+"$440,000","2626 Willow Cv, Decatur, GA 30033",4,3,"2,646",https://photos.zillowstatic.com/p_e/ISrhyjwuz50cwf1000000000.jpg
+"$420,000","1133 Scott Blvd UNIT 4, Decatur, GA 30030",3,4,"1,748",https://photos.zillowstatic.com/p_e/IS76cfqus9tgnz0000000000.jpg
+"$169,900","224 Olympic Pl, Decatur, GA 30030",2,1,875,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$420,000","1133 Scott Blvd, Decatur, GA 30030",3,3.5,"1,776","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$177,000","499 Pineburr Ln, Stone Mountain, GA 30087",4,2,"2,067","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$375,000","2487 Woodacres Rd NE, Atlanta, GA 30345",4,3,"2,376","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$462,485","3141 Quinn Pl, Chamblee, GA 30341",4,4,"2,407","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$275,000","1244 Carter Rd, Decatur, GA 30030",3,1,"1,157","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$313,700","4862 Coldstream Dr, Dunwoody, GA 30360",4,2.5,"2,575",N/A
+"$397,000","2413 Thawley Pl, Tucker, GA 30084",4,4,"2,634","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$850,000","1586 Clifton Rdg, Atlanta, GA 30329",0.42,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$175,000","1142 N Jamestown Rd, Decatur, GA 30033",1,1,974,N/A
+"$402,500","2082 Abby Ln NE, Atlanta, GA 30345",3,1.5,"3,373",N/A
+"$215,000","2579 Hatfield Cir SE, Atlanta, GA 30316",3,2,"1,593","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$333,500","3308 Sangster Way #404, Decatur, GA 30032",4,4,"2,430","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$535,000","2343 Littlebrooke Dr, Dunwoody, GA 30338",3,3,"3,057","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$479,000","1377 La France St NE, Atlanta, GA 30307",3,2,"1,578","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$459,000","1738 Hosea L Williams Dr NE, Atlanta, GA 30317",3,2,"1,616","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$178,500","707 Stonehill Ct, Stone Mountain, GA 30083",4,2,"1,568","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$505,000","712 Alden Dr, Decatur, GA 30030",4,4,"2,527","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$300,000","2020 Wesley Chapel Rd, Decatur, GA 30035",4,3,"2,320",N/A
+"$2,200","4597 Briarcliff Rd NE, Atlanta, GA 30345",3,2,"2,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$549,900","1284 Carolyn Dr NE, Atlanta, GA 30329",3,3,"1,500","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$373,000","3951 Edenton Ct NE, Brookhaven, GA 30319",4,3,"2,251","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$365,000","2837 White Oak Dr, Decatur, GA 30032",3,3,"2,304","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$125,000","3878 Woodridge Way, Tucker, GA 30084",2,2,"1,182","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$175,000","1142 N Jamestown Rd APT 107, Decatur, GA 30033",1,1,974,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$124,200","3716 Harvest Dr, Decatur, GA 30034",3,3,"1,460","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$215,000","1783 Thomas Ter, Decatur, GA 30032",3,2,"1,310","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$560,000","2942 Pangborn Rd, Decatur, GA 30033",5,5,"3,700","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$179,000","3416 Glen Rd, Decatur, GA 30032",2,2,"1,048","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$125,000","815 Post Road Cir, Stone Mountain, GA 30088",4,3,"1,702",N/A
+"$415,000","4431 Shelborne Dr, Atlanta, GA 30338",4,4,"3,291","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$250,000","2795 Old Norcross Rd, Tucker, GA 30084",3,2,"1,518",https://photos.zillowstatic.com/p_e/IS33b5emluv7gc1000000000.jpg
+"$206,300","4147 Norman Rd, Stone Mountain, GA 30083",4,3,"1,810",https://photos.zillowstatic.com/p_e/ISv8y4bjaxjgw60000000000.jpg
+"$560,000","2942 Pangborn Rd, Decatur, GA 30033",5,5,"3,700",https://photos.zillowstatic.com/p_e/ISvstmd40cxxl70000000000.jpg
+"$170,000","3927 Cheru Dr, Decatur, GA 30034",3,2,"1,654",https://photos.zillowstatic.com/p_e/IS3zbbsgpcc2em1000000000.jpg
+"$330,000","3573 Orchard Cir, Decatur, GA 30032",3,3,"1,873",https://photos.zillowstatic.com/p_e/ISj75gfceksghx1000000000.jpg
+"$40,000","1235 Fleetwood Dr SE, Atlanta, GA 30316",--,1,888,N/A
+"$118,000","3512 Lynview Ct W, Decatur, GA 30034",3,1,"1,738",https://photos.zillowstatic.com/p_e/ISfwtklhtbc3zc1000000000.jpg
+"$375,000","2441 Maclaren Cir, Dunwoody, GA 30360",3,2,"1,712",https://photos.zillowstatic.com/p_e/ISynljsnoab3xf.jpg
+"$140,000","2361 Chevy Chase Ln, Decatur, GA 30032",4,4,"2,609",https://photos.zillowstatic.com/p_e/ISbd8wvvr686yk0000000000.jpg
+"$204,900","2132 Rosewood Rd, Decatur, GA 30032",3,3,"1,809","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$485,000","1278 Woodland Ave NE, Atlanta, GA 30324",3,2,"1,495","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$225,000","7223 Misty Harbor Ct, Stone Mountain, GA 30087",5,4,"2,720","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$420,000","2971 Ringle Rd, Brookhaven, GA 30341",3,1,"1,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$510,000","1291 Peachtree Vw NE, Brookhaven, GA 30319",3,4,"2,167","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$336,400","2817 Mount Olive Dr, Decatur, GA 30033",3,2,"1,513","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$580,000","269 Josephine St NE, Atlanta, GA 30307",3,2,"1,651","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$198,000","815 Tuxworth Cir, Decatur, GA 30033",3,2,"1,346","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$187,000","3522 Pin Oak Cir, Atlanta, GA 30340",3,2,"1,610",N/A
+"$122,900","5718 Taffeta Ct, Lithonia, GA 30058",3,2,"1,206","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$375,000","1312 Stillwood Dr NE, Atlanta, GA 30306",2,2.5,"1,264",N/A
+"$220,000","3972 Spanish Oak Dr, Atlanta, GA 30340",3,2,"1,309","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$85,000","5260 Biffle Downs Rd, Stone Mountain, GA 30088",3,2,"1,578","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$310,790","7588 Shady Maple, Stonecrest, GA 30088",5,5,"3,300",N/A
+"$19,000","5842 Par Four Ct, Lithonia, GA 30038",2,2,"1,220","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$432,500","1388 Smith St SE, Atlanta, GA 30316",3,3,"1,880","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$389,900","1701 Remington Rd, Atlanta, GA 30341",2,2,"1,308","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$431,000","1104 Falkirk Ln, Stone Mountain, GA 30087",5,4,"3,787","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$638,000","1608 Alder Ct SE, Atlanta, GA 30317",4,4,846,N/A
+"$220,000","2575 Woodgreen Dr, Atlanta, GA 30341",3,2,"1,539","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$835,000","1902 Ham Dr, Chamblee, GA 30341",5,5,"3,397","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$492,900","395 Pratt Dr SE UNIT 804, Atlanta, GA 30315",2,3,"2,623","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$30,900","6425 Rockland Rd, Lithonia, GA 30038",4,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$111,000","4168 Loveless Dr, Ellenwood, GA 30294",3,2,"1,417","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+$1.05M,"1155 Arborvista Dr NE, Atlanta, GA 30329",3,2,"1,626","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$126,000","1501 Clairmont Rd APT 1115, Decatur, GA 30033",1,1,814,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$169,500","506 Rue Montaigne, Stone Mountain, GA 30083",3,2,"1,962","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$88,000","1763 S Hairston Rd, Stone Mountain, GA 30088",2,1,850,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$220,000","2575 Woodgreen Dr #19, Atlanta, GA 30341",3,2,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$300,000","529 Warren Ave, Scottdale, GA 30079",4,3,"1,820","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$150,000","1005 Lake Dr, Snellville, GA 30039",3,1,"1,200",N/A
+"$145,000","3298 Kilarney Ct, Decatur, GA 30032",3,2,"1,575",https://photos.zillowstatic.com/p_e/ISvoyn2bmv1mbk1000000000.jpg
+"$300,000","529 Warren Ave, Scottdale, GA 30079",4,3,"1,820",https://photos.zillowstatic.com/p_e/ISfwtkhynb44bw0000000000.jpg
+"$169,500","506 Rue Montaigne, Stone Mountain, GA 30083",3,2,"1,962",https://photos.zillowstatic.com/p_e/ISb5qsyase8zot0000000000.jpg
+"$405,000","3949 Harts Mill Ln NE, Brookhaven, GA 30319",5,3,"3,112",N/A
+"$126,000","1501 Clairmont Rd, Decatur, GA 30033",1,1,814,https://photos.zillowstatic.com/p_e/IS-qti8j49yuogt.jpg
+$1.05M,"1155 Arborvista Dr NE, Atlanta, GA 30329",3,2,"1,626",https://photos.zillowstatic.com/p_e/ISah76au109bp41000000000.jpg
+"$88,000","1763 S Hairston Rd, Stone Mountain, GA 30088",2,1,850,https://photos.zillowstatic.com/p_e/ISnu5r3h643z0w0000000000.jpg
+"$3,600","2487 Gatebury Cir, Chamblee, GA 30341",3,3.5,"2,310",https://photos.zillowstatic.com/p_e/ISbhfcgxn42of11000000000.jpg
+"$418,500","167 Murray Hill Ave NE, Atlanta, GA 30317",3,2,"1,169",https://photos.zillowstatic.com/p_e/ISz3p5rxlommr71000000000.jpg
+"$357,239","2014 Yellow Finch Trl, Atlanta, GA 30316",3,3,"1,738","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$115,000","3168 Kingswood Gln, Decatur, GA 30034",3,3,"1,500","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$390,000","1691 Springbrook Dr, Decatur, GA 30033",3,2,"1,543",N/A
+"$525,000","183 Whitefoord Ave NE, Atlanta, GA 30307",4,3,"2,078","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$620,000","204 Wilton Dr, Decatur, GA 30030",3,2,"1,925","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$410,000","4036 Brockett Oaks, Tucker, GA 30084",4,4,"2,537","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$226,500","1651 S Hidden Hills Pkwy, Stone Mountain, GA 30088",4,3,"3,102","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$340,000","4577 N Peachtree Rd, Atlanta, GA 30338",4,3,"3,078","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$410,000","5552 Silver Ridge Dr, Stone Mountain, GA 30087",5,7,"4,895","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$790,000","650 Clairemont Ave, Decatur, GA 30030",3,3,"2,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$695,500","2006 Warlick Pl NE, Atlanta, GA 30317",5,4,"2,661","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$470,000","3531 Eaglerock Dr, Doraville, GA 30340",5,3,"2,950","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$317,000","1063 Briar Vista Ter NE, Atlanta, GA 30324",3,1,"1,126","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$136,900","3142 Panthers Trce, Decatur, GA 30034",3,2,"1,399","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$96,000","2296 Aurie Dr, Decatur, GA 30034",3,2.5,"1,974",N/A
+"$101,000","4667 Jakes Trl, Decatur, GA 30034",4,3,"4,240",N/A
+"$325,000","3080 Quantum Ln #40, Chamblee, GA 30341",3,4,"1,803",N/A
+"$91,650","2041 Mcafee Rd #13, Decatur, GA 30032",3,2,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$452,000","597 Willivee Dr, Decatur, GA 30033",3,2,"1,724","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$179,500","1800 Clairmont Lk APT 713, Decatur, GA 30033",1,1,872,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$125,000","1212 Richard Rd, Decatur, GA 30032",3,2,"1,499",N/A
+"$238,070","2254 Annes Lake Cir, Lithonia, GA 30058",3,3,"2,135","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$473,300","24 Rockyford Rd NE, Atlanta, GA 30317",3,2,"1,547","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$260,000","1569 Smithson Dr, Lithonia, GA 30058",5,3,"3,055","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$224,250","5200 Peachtree Rd APT 3322, Chamblee, GA 30341",2,2,902,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$175,000","1140 Old Greystone Dr, Lithonia, GA 30058",4,3,"2,022","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$585,000","173 Albright Way #13, Atlanta, GA 30317",3,4,"2,413","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$465,000","2996 Ringle Rd, Chamblee, GA 30341",4,2,"1,732",N/A
+"$325,000","148 Vannoy St SE, Atlanta, GA 30317",3,3,"1,958","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$60,000","615 Windchase Ln, Stone Mountain, GA 30083",2,2,940,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$202,500","410 Candler Park Dr NE, Atlanta, GA 30307",2,1,840,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$179,500","1800 Clairmont Lk APT 713, Decatur, GA 30033",1,1,872,https://photos.zillowstatic.com/p_e/ISv8m36t5hxykl0000000000.jpg
+"$125,000","1212 Richard Rd, Decatur, GA 30032",3,2,"1,499",N/A
+"$325,000","3080 Quantum Ln #40, Chamblee, GA 30341",3,4,"1,803",N/A
+"$325,000","3080 Quantum Ln, Chamblee, GA 30341",--,--,--,N/A
+"$497,500","1886 Fairway Cir NE, Brookhaven, GA 30319",4,3,"1,810",https://photos.zillowstatic.com/p_e/ISrxieumz0fhev1000000000.jpg
+"$260,000","1569 Smithson Dr, Lithonia, GA 30058",5,3,"3,055",https://photos.zillowstatic.com/p_e/IS139cht1pdreeb.jpg
+"$140,000","3167 Bobolink Dr, Decatur, GA 30032",4,2,"1,235",https://photos.zillowstatic.com/p_e/ISvo2zd682xz4c0000000000.jpg
+"$224,250","5200 Peachtree Rd APT 3322, Chamblee, GA 30341",2,2,902,https://photos.zillowstatic.com/p_e/ISzvql67o3wo6c0000000000.jpg
+"$322,000","3419 Maplehurst Dr, Decatur, GA 30032",3,3,"1,700",https://photos.zillowstatic.com/p_e/ISeozb0t628f6o1000000000.jpg
+"$238,070","2254 Annes Lake Cir, Lithonia, GA 30058",3,3,"2,135","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$585,000","173 Albright Way #13, Atlanta, GA 30317",3,4,"2,413","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$325,000","148 Vannoy St SE, Atlanta, GA 30317",3,3,"1,958","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$473,300","24 Rockyford Rd NE, Atlanta, GA 30317",3,2,"1,547","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$477,500","3544 Cold Spring Ln, Chamblee, GA 30341",4,3.5,"2,700",N/A
+"$28,200","17103 Waldrop Cv, Decatur, GA 30034",3,2,"1,287","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$250,000","1874 Don Juan Ln, Decatur, GA 30032",3,2,"1,166","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$271,500","2078 Clairmeade Valley Rd NE, Atlanta, GA 30329",3,3,"1,944","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$160,000","2980 Stratford Mill Rd, Lithonia, GA 30038",4,3,"2,121","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$172,500","2031 Parker Ranch Rd SE, Atlanta, GA 30316",3,1,"1,246","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$490,900","2027 River Birch Ln SE, Atlanta, GA 30316",4,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$490,900","2027 River Birch Ln, Atlanta, GA 30316",4,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$450,000","1917 Townsend Ct NE, Atlanta, GA 30329",4,4,"2,213","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$450,000","1917 Townsend Ct NE UNIT 23, Atlanta, GA 30329",4,4,"2,213","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$850,000","1572 Clifton Rdg, Atlanta, GA 30307",0.42,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$397,460","862 Constellation Dr #6, Decatur, GA 30033",3,4,"2,142",N/A
+"$560,000","463 Leonardo Ave NE, Atlanta, GA 30307",3,2,"2,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$499,900","174 Clifton St SE, Atlanta, GA 30317",5,4,"2,350","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$298,000","1878 Meadow Ln, Decatur, GA 30032",3,2,"1,500","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$710,000","133 Melrose Ave, Decatur, GA 30030",3,3,"1,880","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$350,000","3099 Mount Olive Dr, Decatur, GA 30033",3,2,"1,293","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$205,000","1568 Harbour Oaks Rd, Tucker, GA 30084",3,3,"1,354","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$210,000","214 S Howard St SE, Atlanta, GA 30317",2,1,"1,444","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$347,500","3812 Briargreen Ct, Atlanta, GA 30340",3,2,"2,088","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$285,000","2754 Doaks Run Ct, Tucker, GA 30084",4,3,"2,460","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$160,000","918 Chapman Cir, Stone Mountain, GA 30088",4,3,"1,740","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$337,000","2345 Tilson Rd, Decatur, GA 30032",5,4,"1,789","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$313,000","3068 San Juan Dr, Decatur, GA 30032",4,3,"1,880","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$400,500","2936 Henderson Rd, Tucker, GA 30084",4,4,"2,740","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$206,500","568 Emory Oaks Way, Decatur, GA 30033",2,2,"1,361","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$206,000","115 Tuxworth Cir, Decatur, GA 30033",3,2,"1,346","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
